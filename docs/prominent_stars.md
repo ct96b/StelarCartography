@@ -4,13 +4,13 @@
 This document maps prominent stars using the Galactic Grid Reference System (GGRS), which uses the galactic center as the origin point and the Galactic Bar as the primary reference axis.
 
 ## Reference Points
-- Galactic Center: `0.0.0`
-- Sol System: `8300.-2830.0020`
+- Galactic Center: `0:0:0`
+- Sol System: `8300:-2830:0020`
 
 ## Prominent Stars
 
 ### Alpha Centauri
-- GGRS Coordinates: `8304.-2830.0020`
+- GGRS Coordinates: `8304:-2830:0020`
 - Distance from Sol: 4.37 light-years
 - Type: Triple star system
 - Notes: Closest stellar neighbor to Sol
@@ -20,7 +20,7 @@ This document maps prominent stars using the Galactic Grid Reference System (GGR
   - Z: +0020 parsecs (same height as Sol)
 
 ### Vega
-- GGRS Coordinates: `8325.-2830.0020`
+- GGRS Coordinates: `8325:-2830:0020`
 - Distance from Sol: 25.3 light-years
 - Type: A-type main sequence star
 - Notes: One of the brightest stars in the night sky
@@ -30,7 +30,7 @@ This document maps prominent stars using the Galactic Grid Reference System (GGR
   - Z: +0020 parsecs (same height as Sol)
 
 ### Spica
-- GGRS Coordinates: `8562.-2830.0020`
+- GGRS Coordinates: `8562:-2830:0020`
 - Distance from Sol: 262 light-years
 - Type: Binary star system
 - Notes: Brightest star in Virgo constellation
@@ -40,7 +40,7 @@ This document maps prominent stars using the Galactic Grid Reference System (GGR
   - Z: +0020 parsecs (same height as Sol)
 
 ### Antares
-- GGRS Coordinates: `8853.-2830.0020`
+- GGRS Coordinates: `8853:-2830:0020`
 - Distance from Sol: 553 light-years
 - Type: Red supergiant
 - Notes: Brightest star in Scorpius constellation
@@ -56,11 +56,12 @@ This document maps prominent stars using the Galactic Grid Reference System (GGR
 - Z: Height above/below galactic plane (positive or negative)
 
 ## Precision Levels
-- 1 digit: 10,000 parsec sectors (e.g., `8.-3.0`)
-- 2 digits: 1,000 parsec sectors (e.g., `83.-28.0`)
-- 3 digits: 100 parsec sectors (e.g., `830.-283.2`)
-- 4 digits: 10 parsec sectors (e.g., `8300.-2830.20`)
-- 5 digits: 1 parsec precision (e.g., `83000.-28300.200`)
+- 1 digit: 10,000 parsec sectors (e.g., `8:-3:0`)
+- 2 digits: 1,000 parsec sectors (e.g., `83:-28:00`)
+- 3 digits: 100 parsec sectors (e.g., `830:-283:002`)
+- 4 digits: 10 parsec sectors (e.g., `8300:-2830:0020`)
+- 5 digits: 1 parsec precision (e.g., `83000:-28300:00200`)
+- Decimal places: Sub-parsec precision (e.g., `83000.5:-28300.3:00200.1`)
 
 ## Future Updates
 - Add more prominent stars

@@ -6,8 +6,8 @@ The Galactic Grid Reference System (GGRS) is a hierarchical coordinate system fo
 ## Reference Points
 
 ### Origin and Planes
-- Galactic Center: Origin point `Q1A-0.0.0`
-- Galactic Bar: Defines the Prime Meridian (0° longitude)
+- Galactic Center: Origin point `0.0.0`
+- Galactic Bar: Defines the X-axis (0° longitude)
   - Major axis of the bar is approximately 27,000 light-years long
   - Aligns with the galaxy's central structure
   - Observable from anywhere in the galaxy through infrared observations
@@ -15,33 +15,26 @@ The Galactic Grid Reference System (GGRS) is a hierarchical coordinate system fo
 - Galactic Poles: Define the vertical reference (Z-axis)
 
 ### Sol System Reference
-- Location: `Q4A-8300.2830.0020`
+- Location: `8300.-2830.20` (Cartesian coordinates)
 - Can be referenced at different precision levels:
-  - `Q4A-830.283.002` (10pc precision)
-  - `Q4A-83.28.00` (100pc precision)
-  - `Q4A-8.3.0` (1000pc precision)
+  - `830.-283.2` (10pc precision)
+  - `83.-28.0` (100pc precision)
+  - `8.-3.0` (1000pc precision)
 - Position Details:
-  - Distance from galactic center: 8,300 parsecs
-  - Offset from bar's major axis: 2,830 parsecs
-  - Height above galactic plane: 20 parsecs
-  - Located in Q4 (270° to 360° from bar's major axis)
-  - Above galactic plane (A designation)
+  - X: +8300 parsecs (distance along bar's major axis)
+  - Y: -2830 parsecs (perpendicular distance from bar's major axis)
+  - Z: +20 parsecs (height above galactic plane)
   - Angle from bar's major axis: 288.9° (18.9° from Q4 boundary)
 
 ## Coordinate Format
-The GGRS format is `Q[quadrant][A/B]-[X].[Y].[Z]` where:
+The GGRS format is `[X].[Y].[Z]` where:
 
-### Quadrant and Plane
-- Q1: 0° to 90° from the bar's major axis
-- Q2: 90° to 180° from the bar's major axis
-- Q3: 180° to 270° from the bar's major axis
-- Q4: 270° to 360° from the bar's major axis
-- A: Above galactic plane (positive Z)
-- B: Below galactic plane (negative Z)
+### Cartesian Coordinates
+- X: Positive in Q1 and Q4, negative in Q2 and Q3
+- Y: Positive in Q1 and Q2, negative in Q3 and Q4
+- Z: Positive above galactic plane, negative below
 
 ### Coordinate Values
-- X and Y are always positive
-- Z is positive for A, negative for B
 - The number of digits in each position determines the magnitude:
   - 1 digit (e.g., 1.5.7) = 10000s of parsecs
   - 2 digits (e.g., 15.07.00) = 1000s of parsecs
@@ -52,24 +45,24 @@ The GGRS format is `Q[quadrant][A/B]-[X].[Y].[Z]` where:
 ## Examples
 
 ### Basic Examples
-- `Q1A-15.07.00` means:
-  - X = 15000 parsecs
-  - Y = 07000 parsecs
+- `15.07.00` means:
+  - X = +15000 parsecs
+  - Y = +07000 parsecs
   - Z = +00000 parsecs
 
-- `Q2B-153.072.033` means:
-  - X = 15300 parsecs
-  - Y = 07200 parsecs
+- `-153.072.-033` means:
+  - X = -15300 parsecs
+  - Y = +07200 parsecs
   - Z = -03300 parsecs
 
-- `Q3A-1.5.7` means:
-  - X = 10000 parsecs
-  - Y = 50000 parsecs
+- `1.5.7` means:
+  - X = +10000 parsecs
+  - Y = +50000 parsecs
   - Z = +70000 parsecs
 
 ### Reference Points
-- Galactic Center: `Q1A-0.0.0`
-- Sol System: `Q4A-8300.2830.0020` (maximum precision)
+- Galactic Center: `0.0.0`
+- Sol System: `8300.-2830.20` (maximum precision)
 
 ### Galactic Scale
 - Galactic diameter: ~100,000 light-years ≈ 30,674 parsecs
@@ -97,10 +90,8 @@ To convert from astronomical coordinates (RA, Dec, Distance) to GGRS:
 3. Convert to GGRS format with appropriate precision
 
 ### Best Practices
-- Always include the quadrant and plane designation
 - Use consistent precision within a given context
-- Remember that X and Y are always positive
-- Only Z coordinate can be negative (when using B designation)
+- Remember that coordinates can be positive or negative
 - Choose precision based on the scale of the operation
 
 ## Future Considerations

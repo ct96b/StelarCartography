@@ -1,106 +1,87 @@
 # Galactic Sector System
 
 ## Overview
-The galaxy is divided into eight major sectors based on quadrants and position relative to the galactic plane. This system provides a more intuitive way to navigate the galaxy using the galactic center and galactic plane as primary reference points.
+The Galactic Sector System divides the Milky Way galaxy into manageable regions for navigation and reference. It uses the Galactic Bar as the primary reference point and the galactic center as the origin.
 
 ## Major Divisions
 
-### Vertical Division (Z-Axis)
-- **Alpha (A)**: Above galactic plane (Z > 0)
-- **Beta (B)**: Below galactic plane (Z < 0)
-- **Galactic Plane**: Z = 0 (±0.5 ly tolerance)
+### Vertical Division
+- Alpha (A): Above the galactic plane (positive Z)
+- Beta (B): Below the galactic plane (negative Z)
 
-### Quadrant Division
-- **Quadrant I (Q1)**: 0° to 90° (between galactic center and 90° counterclockwise)
-- **Quadrant II (Q2)**: 90° to 180°
-- **Quadrant III (Q3)**: 180° to 270°
-- **Quadrant IV (Q4)**: 270° to 360°
+### Cartesian Quadrants
+- Q1: X positive, Y positive
+- Q2: X negative, Y positive
+- Q3: X negative, Y negative
+- Q4: X positive, Y negative
 
 ## Sector Naming Convention
 
-### Format
-`[Quadrant]-[Alpha/Beta]-[Distance]-[Height]`
+### Basic Format
+`[X].[Y].[Z]` where:
+- X: Distance along bar's major axis (positive or negative)
+- Y: Perpendicular distance from bar's major axis (positive or negative)
+- Z: Height above/below galactic plane (positive or negative)
 
-### Components
-1. **Quadrant**: Q1, Q2, Q3, or Q4
-2. **Vertical Position**: A (Alpha) or B (Beta)
-3. **Distance**: Distance from Sol in light-years
-4. **Height**: Distance above or below galactic plane in light-years
+### Precision Levels
+- 1 digit: 10,000 parsec sectors (e.g., `8.-3.0`)
+- 2 digits: 1,000 parsec sectors (e.g., `83.-28.0`)
+- 3 digits: 100 parsec sectors (e.g., `830.-283.2`)
+- 4 digits: 10 parsec sectors (e.g., `8300.-2830.20`)
+- 5 digits: 1 parsec precision (e.g., `83000.-28300.200`)
 
-### Example
-`Q1-A-150-25` represents:
-- Quadrant 1 (0° to 90°)
-- Alpha (above galactic plane)
-- 150 light-years from Sol
-- 25 light-years above galactic plane
+## Example Sectors
 
-## Major Sectors
+### Major Sectors (1-digit precision)
+- `0.0.0`: Galactic Center
+- `8.-3.0`: Sol's sector
+- `-8.3.0`: Opposite side of galaxy from Sol
+- `0.8.0`: 8,000 parsecs "north" of center
+- `0.-8.0`: 8,000 parsecs "south" of center
 
-1. **Q1-A**: Quadrant 1, Above plane
-   - Direction: Toward galactic center, above plane
-   - Notable features: [To be filled]
-
-2. **Q1-B**: Quadrant 1, Below plane
-   - Direction: Toward galactic center, below plane
-   - Notable features: [To be filled]
-
-3. **Q2-A**: Quadrant 2, Above plane
-   - Direction: 90° to 180°, above plane
-   - Notable features: [To be filled]
-
-4. **Q2-B**: Quadrant 2, Below plane
-   - Direction: 90° to 180°, below plane
-   - Notable features: [To be filled]
-
-5. **Q3-A**: Quadrant 3, Above plane
-   - Direction: Away from galactic center, above plane
-   - Notable features: [To be filled]
-
-6. **Q3-B**: Quadrant 3, Below plane
-   - Direction: Away from galactic center, below plane
-   - Notable features: [To be filled]
-
-7. **Q4-A**: Quadrant 4, Above plane
-   - Direction: 270° to 360°, above plane
-   - Notable features: [To be filled]
-
-8. **Q4-B**: Quadrant 4, Below plane
-   - Direction: 270° to 360°, below plane
-   - Notable features: [To be filled]
+### Sub-Sectors (2-digit precision)
+- `83.-28.0`: Sol's sub-sector
+- `-83.28.0`: Mirror position across center
+- `83.28.0`: Same X as Sol, opposite Y
+- `-83.-28.0`: Opposite X and Y from Sol
 
 ## Navigation Guidelines
 
-### Primary Reference Points
-1. **Sol**: Origin point (0,0,0)
-2. **Galactic Center**: 0° reference for quadrant division
-3. **Galactic Plane**: Z=0 reference for Alpha/Beta division
+### Sector Boundaries
+- Each sector is a cube in 3D space
+- Size varies with precision level
+- Boundaries align with coordinate system
 
-### Distance Measurement
-- All distances are measured in light-years
-- Primary distance is measured from Sol
-- Height is measured as absolute distance from galactic plane
-
-### Boundary Cases
-- Stars within 0.5 ly of galactic plane may be referenced with either Alpha or Beta designation
-- Stars exactly on quadrant boundaries use the lower quadrant number
+### Directional References
+- "Coreward": Toward galactic center (decreasing absolute X,Y)
+- "Rimward": Away from galactic center (increasing absolute X,Y)
+- "Spinward": Direction of galactic rotation
+- "Trailward": Opposite to galactic rotation
+- "Up": Toward positive Z
+- "Down": Toward negative Z
 
 ## Integration with Existing Systems
 
-### Relationship to 3D-MGRS
-The Galactic Sector System complements the more precise 3D-MGRS by providing:
-- Larger scale navigation reference
-- More intuitive galactic positioning
-- Easier verbal communication of general locations
+### Coordinate Conversion
+To convert from GGRS to sector designation:
+1. Round coordinates to desired precision
+2. Use resulting values as sector designation
 
-### Use Cases
-1. **Strategic Planning**: Division of space for administrative or military purposes
-2. **Navigation**: Quick reference for general direction and position
-3. **Communication**: Easy verbal description of locations
-4. **Territory Definition**: Clear boundaries for political or administrative regions
+Example:
+- GGRS: `8300.-2830.20`
+- 1-digit sector: `8.-3.0`
+- 2-digit sector: `83.-28.0`
+- 3-digit sector: `830.-283.2`
 
-## Future Enhancements
+### Practical Applications
+- Navigation: Use appropriate precision for scale of travel
+- Communication: Standardize on 2-digit sectors for general use
+- Database: Store full precision coordinates, display as needed
+- Mapping: Use sector boundaries for region definition
 
-1. **Sub-sector Division**: Further division of major sectors for more precise reference
-2. **Traffic Zones**: Definition of high-traffic corridors between sectors
-3. **Strategic Points**: Identification of key navigational references within each sector
-4. **Boundary Protocols**: Detailed protocols for handling edge cases and boundary regions 
+## Future Considerations
+- Sector-specific naming conventions
+- Historical or cultural designations
+- Administrative boundaries
+- Navigation aids
+- Database integration 

@@ -40,10 +40,22 @@ The Galactic Sector System divides the Milky Way galaxy into manageable regions 
 - `0.-8.0`: 8,000 parsecs "south" of center
 
 ### Sub-Sectors (2-digit precision)
-- `83.-28.0`: Sol's sub-sector
-- `-83.28.0`: Mirror position across center
-- `83.28.0`: Same X as Sol, opposite Y
-- `-83.-28.0`: Opposite X and Y from Sol
+- `83.-28.00`: Sol's sub-sector
+- `-83.28.00`: Mirror position across center
+- `83.28.00`: Same X as Sol, opposite Y
+- `-83.-28.00`: Opposite X and Y from Sol
+
+### Precision Sectors (3-digit precision)
+- `830.-283.002`: Sol's precision sector
+- `-830.283.002`: Mirror position across center
+- `830.283.002`: Same X as Sol, opposite Y
+- `-830.-283.002`: Opposite X and Y from Sol
+
+### Fine Sectors (4-digit precision)
+- `8300.-2830.0020`: Sol's fine sector
+- `-8300.2830.0020`: Mirror position across center
+- `8300.2830.0020`: Same X as Sol, opposite Y
+- `-8300.-2830.0020`: Opposite X and Y from Sol
 
 ## Navigation Guidelines
 

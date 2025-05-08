@@ -15,15 +15,15 @@ The Galactic Grid Reference System (GGRS) is a hierarchical coordinate system fo
 - Galactic Poles: Define the vertical reference (Z-axis)
 
 ### Sol System Reference
-- Location: `8300.-2830.20` (Cartesian coordinates)
+- Location: `8300.-2830.0020`
 - Can be referenced at different precision levels:
-  - `830.-283.2` (10pc precision)
-  - `83.-28.0` (100pc precision)
+  - `830.-283.002` (10pc precision)
+  - `83.-28.00` (100pc precision)
   - `8.-3.0` (1000pc precision)
 - Position Details:
   - X: +8300 parsecs (distance along bar's major axis)
   - Y: -2830 parsecs (perpendicular distance from bar's major axis)
-  - Z: +20 parsecs (height above galactic plane)
+  - Z: +0020 parsecs (height above galactic plane)
   - Angle from bar's major axis: 288.9° (18.9° from Q4 boundary)
 
 ## Coordinate Format
@@ -62,7 +62,7 @@ The GGRS format is `[X].[Y].[Z]` where:
 
 ### Reference Points
 - Galactic Center: `0.0.0`
-- Sol System: `8300.-2830.20` (maximum precision)
+- Sol System: `8300.-2830.0020` (maximum precision)
 
 ### Galactic Scale
 - Galactic diameter: ~100,000 light-years ≈ 30,674 parsecs

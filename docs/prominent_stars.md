@@ -5,49 +5,49 @@ This document maps prominent stars using the Galactic Grid Reference System (GGR
 
 ## Reference Points
 - Galactic Center: `0.0.0`
-- Sol System: `8300.-2830.20`
+- Sol System: `8300.-2830.0020`
 
 ## Prominent Stars
 
 ### Alpha Centauri
-- GGRS Coordinates: `8304.-2830.20`
+- GGRS Coordinates: `8304.-2830.0020`
 - Distance from Sol: 4.37 light-years
 - Type: Triple star system
 - Notes: Closest stellar neighbor to Sol
 - Position Details:
   - X: +8304 parsecs (slightly further from center than Sol)
   - Y: -2830 parsecs (same Y as Sol)
-  - Z: +20 parsecs (same height as Sol)
+  - Z: +0020 parsecs (same height as Sol)
 
 ### Vega
-- GGRS Coordinates: `8325.-2830.20`
+- GGRS Coordinates: `8325.-2830.0020`
 - Distance from Sol: 25.3 light-years
 - Type: A-type main sequence star
 - Notes: One of the brightest stars in the night sky
 - Position Details:
   - X: +8325 parsecs (25 parsecs further from center than Sol)
   - Y: -2830 parsecs (same Y as Sol)
-  - Z: +20 parsecs (same height as Sol)
+  - Z: +0020 parsecs (same height as Sol)
 
 ### Spica
-- GGRS Coordinates: `8562.-2830.20`
+- GGRS Coordinates: `8562.-2830.0020`
 - Distance from Sol: 262 light-years
 - Type: Binary star system
 - Notes: Brightest star in Virgo constellation
 - Position Details:
   - X: +8562 parsecs (262 parsecs further from center than Sol)
   - Y: -2830 parsecs (same Y as Sol)
-  - Z: +20 parsecs (same height as Sol)
+  - Z: +0020 parsecs (same height as Sol)
 
 ### Antares
-- GGRS Coordinates: `8853.-2830.20`
+- GGRS Coordinates: `8853.-2830.0020`
 - Distance from Sol: 553 light-years
 - Type: Red supergiant
 - Notes: Brightest star in Scorpius constellation
 - Position Details:
   - X: +8853 parsecs (553 parsecs further from center than Sol)
   - Y: -2830 parsecs (same Y as Sol)
-  - Z: +20 parsecs (same height as Sol)
+  - Z: +0020 parsecs (same height as Sol)
 
 ## Coordinate System Notes
 - All coordinates are in parsecs

@@ -1,0 +1,275 @@
+USID,Constellation,Name,B,B->F->VAR->G,F,G.,Var,HD,HIP,RA,Dec,"vis. mag.","abs. mag.",Dist. (ly),Sp. class,Notes https://en.wikipedia.org/wiki/Lists_of_stars_by_constellation,RA angle,Dec Angle,Latin Constellation,Full Designation
+9542,Scorpius,Antares A,α,Alpha,21,,,148478,80763,16h 29m 24.47s,-26° 25′ 55.0″,0.91,−5.24,553,M1.5Iab-b,"Cor Scorpii, Qalb al-Aqrab, Vespertilo; 16th brightest star; binary; semiregular variable, Vmax = 0.75m, Vmin = 1.21m, P = 2180 d",247.350,-25.568,Scorpii,Alpha Scorpii
+9543,Scorpius,λ Sco,λ,Lambda,35,,,158926,85927,17h 33m 36.53s,-37° 06′ 13.5″,1.62,−5.05,703,B2IV+DA7.9,"Shaula; β Cep and Algol variable, Vmax = 1.59m, Vmin = 1.65m, P = 0.21 d",263.400,-36.896,Scorpii,Lambda Scorpii
+9544,Scorpius,θ Sco,θ,Theta,,,,159532,86228,17h 37m 19.13s,-42° 59′ 52.2″,1.86,−2.75,272,F1II,"Sargas; suspected variable, Vmax = 1.84m, Vmin = 1.88m",264.329,-41.002,Scorpii,Theta Scorpii
+9545,Scorpius,δ Sco,δ,Delta,7,,,143275,78401,16h 00m 20.01s,-22° 37′ 17.8″,2.29,−3.16,401,B0.2IVe,"Dschubba, Al Jabba, Iclarkrau; γ Cas variable, Vmax = 1.59m, Vmin = 2.32m",240.083,-21.379,Scorpii,Delta Scorpii
+9546,Scorpius,ε Sco,ε,Epsilon,26,,,151680,82396,16h 50m 10.24s,-34° 17′ 33.4″,2.29,0.78,65,K2IIIb,"Wei, Larawag; suspected variable, Vmax = 2.24m, Vmin = 2.35m",252.542,-33.708,Scorpii,Epsilon Scorpii
+9547,Scorpius,κ Sco,κ,Kappa,,,,160578,86670,17h 42m 29.28s,-39° 01′ 47.7″,2.39,−3.38,464,B1.5III,"Girtab; β Cep variable, Vmax = 2.41m, Vmin = 2.42m, P = 0.20 d",265.621,-38.970,Scorpii,Kappa Scorpii
+9548,Scorpius,β1 Sco,β1,Beta 1,8,,,144217,78820,16h 05m 26.23s,-19° 48′ 19.4″,2.62,−3.44,530,B0.5V,"Acrab, Elacrab, Graffias, Grafias, Grassias; suspected variable, Vmax = 2.61m, Vmin = 2.67m",241.358,-18.195,Scorpii,Beta 1 Scorpii
+9549,Scorpius,υ Sco,υ,Upsilon,34,,,158408,85696,17h 30m 45.84s,-37° 17′ 44.7″,2.7,−3.31,518,B2IV,"Lesath, Lesuth",262.688,-36.704,Scorpii,Upsilon Scorpii
+9550,Scorpius,τ Sco,τ,Tau,23,,,149438,81266,16h 35m 52.96s,-28° 12′ 57.5″,2.82,−2.78,430,B0V,"Paikauhale[1], Alniyat, Al Niyat",248.967,-27.784,Scorpii,Tau Scorpii
+9551,Scorpius,π Sco,π,Pi,6,,,143018,78265,15h 58m 51.12s,-26° 06′ 50.6″,2.89,−2.85,459,B1V + B2V,"Fang; Nur[2]; Vrischika, Iclil rotating ellipsoidal variable, Vmax = 2.88m, Vmin = 2.91m, P = 1.57 d",239.713,-25.886,Scorpii,Pi Scorpii
+9552,Scorpius,σ Sco,σ,Sigma,20,,,147165,80112,16h 21m 11.32s,-25° 35′ 33.9″,2.9,−3.86,734,B1III,"Alniyat, Al Niyat, β Cep variable, Vmax = 2.86m, Vmin = 2.94m, P = 0.25 d",245.296,-24.408,Scorpii,Sigma Scorpii
+9553,Scorpius,ι1 Sco,ι1,Iota 1,,,,161471,87073,17h 47m 35.08s,-40° 07′ 37.1″,2.99,−5.71,1791,F3Ia,Apollyon,266.896,-39.873,Scorpii,Iota 1 Scorpii
+9554,Scorpius,μ1 Sco,μ1,Mu 1,,,,151890,82514,16h 51m 52.24s,-38° 02′ 50.4″,3,−4.01,821,B1.5IV + B,"Xamidimura, Denebakrab; β Lyr variable, Vmax = 2.94m, Vmin = 3.22m, P = 1.45 d",252.967,-37.953,Scorpii,Mu 1 Scorpii
+9555,Scorpius,G Sco,G,G,,,,161892,87261,17h 49m 51.45s,-37° 02′ 36.1″,3.19,0.24,127,K0/K1III,"γ Tel, Fuyue",267.463,-36.957,Scorpii,G Scorpii
+9556,Scorpius,η Sco,η,Eta,,,,155203,84143,17h 12m 09.18s,-43° 14′ 18.6″,3.32,1.61,72,F3p,suspected variable,258.038,-42.762,Scorpii,Eta Scorpii
+9557,Scorpius,μ2 Sco,μ2,Mu 2,,,,151985,82545,16h 52m 20.15s,-38° 01′ 02.9″,3.56,−2.44,517,B2IV,"Pipirima, Shéngōng (神宮),[3]",253.083,-37.983,Scorpii,Mu 2 Scorpii
+9558,Scorpius,ζ2 Sco,ζ2,Zeta 2,,,,152334,82729,16h 54m 35.11s,-42° 21′ 38.7″,3.62,0.3,150,K4III,"suspected variable, Vmax = 3.59m, Vmin = 3.65m",253.646,-41.639,Scorpii,Zeta 2 Scorpii
+9559,Scorpius,ρ Sco,ρ,Rho,5,,,142669,78104,15h 56m 53.09s,-29° 12′ 50.4″,3.87,−1.62,409,B2IV/V,"Iklil, suspected variable",239.221,-28.786,Scorpii,Rho Scorpii
+9560,Scorpius,ω1 Sco,ω1,Omega 1,9,,,144470,78933,16h 06m 48.43s,-20° 40′ 08.9″,3.93,−1.64,423,B1V,Jabhat al Akrab,241.700,-19.331,Scorpii,Omega 1 Scorpii
+9561,Scorpius,ν Sco,ν,Nu,14,,,145502,79374,16h 11m 59.74s,-19° 27′ 38.3″,4,−1.63,436,B2IV,"Jabbah, Jabah; quintuple star",242.996,-18.539,Scorpii,Nu Scorpii
+9562,Scorpius,H Sco,H,H,,,,149447,81304,16h 36m 22.46s,-35° 15′ 19.3″,4.18,−0.90,339,K5III,"β Nor; suspected variable, Vmax = 4.15m, Vmin = 4.18m",249.092,-34.745,Scorpii,H Scorpii
+9563,Scorpius,N Sco,N,N,,,,148703,80911,16h 31m 22.94s,-34° 42′ 15.6″,4.24,−2.56,746,B2III-IV,α Nor,247.842,-33.296,Scorpii,N Scorpii
+9564,Scorpius,Q Sco,Q,Q,,,,159433,86170,17h 36m 32.85s,-38° 38′ 05.5″,4.26,1.03,144,G8/K0III/IV,"suspected variable, Vmax = 4.26m, Vmin = 4.29m",264.133,-37.365,Scorpii,Q Scorpii
+9565,Scorpius,ω2 Sco,ω2,Omega 2,10,,,144608,78990,16h 07m 24.30s,-20° 52′ 07.2″,4.31,−0.24,265,G6/G8III,Jabhat al Akrab,241.850,-19.131,Scorpii,Omega 2 Scorpii
+9566,Scorpius,ο Sco,ο,Omicron,19,,,147084,80079,16h 20m 38.18s,-24° 10′ 09.4″,4.55,−3.24,1177,A4II/III,"suspected variable, Vmax = 4.52m, Vmin = 4.58m",245.158,-23.831,Scorpii,Omicron Scorpii
+9567,Scorpius,13 Sco,c2,C2,13,,,145482,79404,16h 12m 18.21s,-27° 55′ 34.7″,4.58,−1.20,468,B2V,,243.075,-26.074,Scorpii,C2 Scorpii
+9568,Scorpius,2 Sco,A,A,2,,,142114,77840,15h 53m 36.73s,-25° 19′ 37.5″,4.59,−1.03,434,B2.5Vn,,238.400,-24.673,Scorpii,A Scorpii
+9569,Scorpius,1 Sco,b,B,1,,,141637,77635,15h 50m 58.75s,-25° 45′ 04.4″,4.63,−1.39,522,B1.5Vn,,237.742,-24.249,Scorpii,B Scorpii
+9570,Scorpius,ζ1 Sco,ζ1,Zeta 1,,,,152236,82671,16h 53m 59.73s,-42° 21′ 43.3″,4.7,−8.5,"2,600",B1Iae,"in NGC 6231; luminous blue variable, Vmax = 4.66m, Vmin = 4.86m",253.496,-41.638,Scorpii,Zeta 1 Scorpii
+9571,Scorpius,ξ Sco A,ξ,Xi,,,,144070,,16h 04m 22.10s,-11° 22′ 23.0″,4.77,,92,,51 Lib; sextuple star,241.092,-10.627,Scorpii,Xi Scorpii
+9572,Scorpius,ι2 Sco,ι2,Iota 2,,,,161912,87294,17h 50m 11.11s,-40° 05′ 25.5″,4.78,−5.50,3705,A6Ib,suspected variable,267.546,-39.910,Scorpii,Iota 2 Scorpii
+9573,Scorpius,22 Sco,i,I,22,,,148605,80815,16h 30m 12.48s,-25° 06′ 54.6″,4.79,−0.61,393,B3V,suspected variable,247.550,-24.885,Scorpii,I Scorpii
+9574,Scorpius,HD 161840,,HD 161840,,,,161840,87220,17h 49m 10.47s,-31° 42′ 11.5″,4.79,−1.56,607,B8Ib/II,,267.292,-30.297,Scorpii,HD 161840 Scorpii
+9575,Scorpius,HD 146624,d,D,,,,146624,79881,16h 18m 17.92s,-28° 36′ 49.6″,4.8,1.63,140,A0V:,,244.571,-27.386,Scorpii,D Scorpii
+9576,Scorpius,V1073 Sco,k,K,,,V1073,154090,83574,17h 04m 49.35s,-34° 07′ 22.5″,4.83,−4.74,2672,B2Iab,α Cyg variable,256.204,-33.877,Scorpii,K Scorpii
+9577,Scorpius,HD 163145,,HD 163145,,,,163145,87846,17h 56m 47.43s,-44° 20′ 31.9″,4.85,−0.29,347,K2III,,269.196,-43.658,Scorpii,HD 163145 Scorpii
+9578,Scorpius,HD 163376,,HD 163376,,,,163376,87936,17h 57m 47.81s,-41° 42′ 58.5″,4.88,−1.24,547,M0III,suspected variable,269.446,-40.284,Scorpii,HD 163376 Scorpii
+9579,Scorpius,β2 Sco,β2,Beta 2,,,,144218,78821,16h 05m 26.58s,-19° 48′ 06.6″,4.9,−2.80,530,B2V,component of the β Sco system,241.358,-18.198,Scorpii,Beta 2 Scorpii
+9580,Scorpius,ψ Sco,ψ,Psi,15,,,145570,79375,16h 12m 00.00s,-10° 03′ 51.1″,4.93,1.41,165,A3IV,,243.000,-9.936,Scorpii,Psi Scorpii
+9581,Scorpius,HD 143787,,HD 143787,,,,143787,78650,16h 03m 20.67s,-25° 51′ 54.5″,4.96,0.9,212,K3III,,240.833,-24.135,Scorpii,HD 143787 Scorpii
+9582,Scorpius,HD 153613,,HD 153613,,,,153613,83336,17h 01m 52.65s,-32° 08′ 36.2″,5.03,−0.86,491,B8V,,255.467,-31.857,Scorpii,HD 153613 Scorpii
+9583,Scorpius,HD 154948,,HD 154948,,,,154948,84033,17h 10m 42.35s,-44° 33′ 27.2″,5.06,0.24,300,G8/K0III+..,,257.675,-43.443,Scorpii,HD 154948 Scorpii
+9584,Scorpius,ξ Sco B,ξ,Xi,,,,144069,78727,16h 04m 22.30s,"-11° 22′ 18.0""",5.07,,92,F5IV,component of the ξ Sco system,241.092,-10.628,Scorpii,Xi Scorpii
+9585,Scorpius,HD 145250,,HD 145250,,,,145250,79302,16h 11m 02.13s,-29° 24′ 57.6″,5.09,0.62,255,K0III,,242.758,-28.584,Scorpii,HD 145250 Scorpii
+9586,Scorpius,HD 157243,,HD 157243,,,,157243,85162,17h 24m 13.09s,-44° 09′ 45.0″,5.1,−1.73,756,B7III,,261.054,-43.838,Scorpii,HD 157243 Scorpii
+9587,Scorpius,Antares B,α,Alpha,21,,,148479,,16h 29m 24.20s,"-26° 25′ 51.0""",5.2,−0.9,553,B2.5V,component of the Antares system,247.350,-25.569,Scorpii,Alpha Scorpii
+9588,Scorpius,HD 151804,,V973,,,V973,151804,82493,16h 51m 33.72s,-41° 13′ 49.9″,5.23,−6.36,6792,O8Iaf,"α Cyg variable, Vmax = 5.22m, Vmin = 5.28m",252.888,-40.770,Scorpii,V973 Scorpii
+9589,Scorpius,χ Sco,χ,Chi,17,,,145897,79540,16h 13m 50.91s,-11° 50′ 15.8″,5.24,−0.41,439,K3III,,243.458,-10.163,Scorpii,Chi Scorpii
+9590,Scorpius,HD 148688,,V1058,,,V1058,148688,80945,16h 31m 41.77s,-41° 49′ 01.7″,5.31,−6.79,8579,B1Ia,α Cyg variable,247.921,-40.183,Scorpii,V1058 Scorpii
+9591,Scorpius,HD 144690,,HD 144690,,,,144690,79050,16h 08m 07.52s,-26° 19′ 36.0″,5.35,−0.23,425,M2III,"variable star, ΔV = 0.008m, P = 7.61 d",242.029,-25.673,Scorpii,HD 144690 Scorpii
+9592,Scorpius,HD 147513,,HD 147513,,,,147513,80337,16h 24m 01.24s,-39° 11′ 34.8″,5.37,4.82,42,G3/G5V,has a planet (b),246.004,-38.807,Scorpii,HD 147513 Scorpii
+9593,Scorpius,HD 142165,,HD 142165,,,,142165,77858,15h 53m 53.92s,-24° 31′ 59.1″,5.38,−0.14,414,B5V,,238.471,-23.467,Scorpii,HD 142165 Scorpii
+9594,Scorpius,HR 5907,,V1040,,,V1040,142184,77859,15h 53m 55.87s,-23° 58′ 40.9″,5.41,0.01,393,B2V,"Algol variable, Vmax = 5.39m, Vmin = 5.43m, P = 1.02 d",238.479,-22.022,Scorpii,V1040 Scorpii
+9595,Scorpius,HD 147628,,HD 147628,,,,147628,80390,16h 24m 31.77s,-37° 33′ 57.5″,5.42,−0.36,468,B8V,"suspected rotating ellipsoidal variable, ΔV = 0.02m",246.129,-36.434,Scorpii,HD 147628 Scorpii
+9596,Scorpius,HD 142990,,V913,,,V913,142990,78246,15h 58m 34.87s,-24° 49′ 53.1″,5.43,−0.45,488,B5V,"SX Ari variable, Vmax = 5.4m, Vmin = 5.47m, P = 0.98 d",239.642,-23.169,Scorpii,V913 Scorpii
+9597,Scorpius,16 Sco,,16,16,,,145607,79387,16h 12m 07.29s,-08° 32′ 51.3″,5.43,1.01,250,A4V,,243.029,-7.453,Scorpii,16 Scorpii
+9598,Scorpius,HD 149404,,V918,,,V918,149404,81305,16h 36m 22.57s,-42° 51′ 31.9″,5.46,−4.39,3047,O9Ia,"rotating ellipsoidal variable, Vmax = 5.42m, Vmin = 5.5m, P = 9.81 d",249.092,-41.141,Scorpii,V918 Scorpii
+9599,Scorpius,HD 152234,,HD 152234,,,,152234,82676,16h 54m 01.84s,-41° 48′ 23.0″,5.46,−5.84,5927,B0.5Ia,in NGC 6231; suspected variable,253.504,-40.194,Scorpii,HD 152234 Scorpii
+9600,Scorpius,HD 151078,,HD 151078,,,,151078,82135,16h 46m 47.97s,-39° 22′ 36.8″,5.48,0.21,369,K0III,,251.696,-38.623,Scorpii,HD 151078 Scorpii
+9601,Scorpius,27 Sco,,27,27,,,152820,82960,16h 57m 11.17s,-33° 15′ 34.1″,5.48,−1.25,724,K5III,,254.296,-32.741,Scorpii,27 Scorpii
+9602,Scorpius,18 Sco,,18,18,,,146233,79672,16h 15m 37.13s,-08° 22′ 05.7″,5.49,4.76,46,G1V,"solar twin; suspected variable, Vmax = 5.48m, Vmin = 5.59m",243.904,-7.632,Scorpii,18 Scorpii
+9603,Scorpius,HD 144987,,HD 144987,,,,144987,79199,16h 09m 52.61s,-33° 32′ 44.5″,5.5,−0.12,433,B8V,,242.467,-32.454,Scorpii,HD 144987 Scorpii
+9604,Scorpius,HD 146836,,HD 146836,,,,146836,79980,16h 19m 32.68s,-30° 54′ 24.4″,5.53,2.44,135,F5IV,,244.883,-29.093,Scorpii,HD 146836 Scorpii
+9605,Scorpius,HD 156098,,HD 156098,,,,156098,84551,17h 17m 03.71s,-32° 39′ 45.7″,5.53,2.01,165,F6V,,259.263,-31.338,Scorpii,HD 156098 Scorpii
+9606,Scorpius,HD 160668,,HD 160668,,,,160668,86698,17h 42m 51.09s,-36° 56′ 43.8″,5.53,−0.57,542,K5III,,265.713,-35.055,Scorpii,HD 160668 Scorpii
+9607,Scorpius,HD 155806,,V1075,,,V1075,155806,84401,17h 15m 19.25s,-33° 32′ 54.3″,5.53,−5.13,4466,O8Ve,Be star,258.829,-32.452,Scorpii,V1075 Scorpii
+9608,Scorpius,HD 162587,,HD 162587,,,,162587,87569,17h 53m 23.47s,-34° 53′ 42.4″,5.58,−1.97,1055,K3III,in Messier 7,268.346,-33.105,Scorpii,HD 162587 Scorpii
+9609,Scorpius,4 Sco,,4,4,,,142445,77984,15h 55m 30.10s,-26° 15′ 57.3″,5.63,0.02,432,A3V,,238.875,-25.734,Scorpii,4 Scorpii
+9610,Scorpius,HD 150742,,HD 150742,,,,150742,81972,16h 44m 42.60s,-40° 50′ 22.6″,5.64,−0.26,492,B3V,,251.175,-39.161,Scorpii,HD 150742 Scorpii
+9611,Scorpius,HD 155259,,HD 155259,,,,155259,84150,17h 12m 16.22s,-39° 30′ 24.4″,5.66,1.61,211,A0/A1V,,258.067,-38.493,Scorpii,HD 155259 Scorpii
+9612,Scorpius,12 Sco,c1,C1,12,,,145483,79399,16h 12m 16.05s,-28° 25′ 01.9″,5.67,0.87,298,B9V,,243.067,-27.583,Scorpii,C1 Scorpii
+9613,Scorpius,HD 159176,,V1036,,,V1036,159176,86011,17h 34m 42.49s,-32° 34′ 54.0″,5.69,−4.40,3396,O6V+...,"in NGC 6383; trinary star; rotating ellipsoidal variable, Vmax = 5.67m, Vmin = 5.73m, P = 3.37 d",263.675,-31.418,Scorpii,V1036 Scorpii
+9614,Scorpius,11 Sco,,11,11,,,144708,79005,16h 07m 36.44s,-12° 44′ 43.2″,5.75,0.17,426,B9V,,241.900,-11.255,Scorpii,11 Scorpii
+9615,Scorpius,HD 156293,,HD 156293,,,,156293,84690,17h 18m 47.84s,-44° 07′ 46.9″,5.76,0.68,339,B9V,suspected variable,259.696,-43.871,Scorpii,HD 156293 Scorpii
+9616,Scorpius,HD 152408,,HD 152408,,,,152408,82775,16h 54m 58.51s,-41° 09′ 03.1″,5.78,−6.56,9588,WN9ha,"in NGC 6231; suspected variable, Vmax = 5.77m, Vmin = 5.82m",253.742,-40.849,Scorpii,HD 152408 Scorpii
+9617,Scorpius,HD 148247,,HD 148247,,,,148247,80672,16h 28m 14.46s,-37° 10′ 47.3″,5.79,0.84,319,K1IIICN...,,247.058,-36.820,Scorpii,HD 148247 Scorpii
+9618,Scorpius,V1003 Sco,,V1003,,,V1003,149711,81472,16h 38m 26.30s,-43° 23′ 54.2″,5.83,−0.79,686,B2.5IV,"rotating ellipsoidal variable, ΔV = 0.03m",249.608,-42.602,Scorpii,V1003 Scorpii
+9619,Scorpius,HD 142883,,HD 142883,,,,142883,78168,15h 57m 40.47s,-20° 58′ 58.9″,5.84,0.11,455,B3V,"Algol variable, Vmax = 5.84m, Vmin = 6.31m, P = 9.20 d",239.417,-19.017,Scorpii,HD 142883 Scorpii
+9620,Scorpius,HD 150331,,HD 150331,,,,150331,81741,16h 41m 45.50s,-33° 08′ 44.2″,5.84,1.08,292,G1II,,250.438,-32.854,Scorpii,HD 150331 Scorpii
+9621,Scorpius,HD 152293,,HD 152293,,,,152293,82716,16h 54m 26.94s,-42° 28′ 44.0″,5.84,,,F5Ib-II,,253.608,-41.521,Scorpii,HD 152293 Scorpii
+9622,Scorpius,HD 158799,,HD 158799,,,,158799,85889,17h 33m 07.39s,-41° 10′ 23.0″,5.84,−1.55,982,B9Ib/II,,263.279,-40.827,Scorpii,HD 158799 Scorpii
+9623,Scorpius,HD 162391,,HD 162391,,,,162391,87472,17h 52m 19.76s,-34° 25′ 00.6″,5.84,−0.95,744,G8/K0III,In Messier 7,268.079,-33.583,Scorpii,HD 162391 Scorpii
+9624,Scorpius,HD 147723,,HD 147723,,,,147723,80399,16h 24m 39.73s,-29° 42′ 16.1″,5.84,2.91,102,G0,,246.163,-28.296,Scorpii,HD 147723 Scorpii
+9625,Scorpius,HD 145191,,HD 145191,,,,145191,79320,16h 11m 17.77s,-41° 07′ 10.2″,5.86,1.66,226,F0IV,,242.821,-40.881,Scorpii,HD 145191 Scorpii
+9626,Scorpius,HD 144844,,HD 144844,,,,144844,79098,16h 08m 43.73s,-23° 41′ 07.3″,5.87,0.28,426,B9V,"α2 CVn variable, Vmax = 5.87m, Vmin = 5.90m, P = 2.69 d",242.179,-22.315,Scorpii,HD 144844 Scorpii
+9627,Scorpius,3 Sco,,3,3,,V927,142301,77909,15h 54m 39.54s,-25° 14′ 37.2″,5.87,0.14,455,B8III/IV,"SX Ari variable, ΔV = 0.03m, P = 1.46 d",238.663,-24.756,Scorpii,3 Scorpii
+9628,Scorpius,HD 160928,,HD 160928,,,,160928,86847,17h 44m 42.01s,-42° 43′ 45.5″,5.87,1.29,269,A2/A3IV/V,,266.175,-41.271,Scorpii,HD 160928 Scorpii
+9629,Scorpius,V957 Sco,,V957,,,V957,162374,87460,17h 52m 13.66s,-34° 47′ 57.1″,5.87,−1.16,830,B6Ib,"In Messier 7; SX Ari variable, ΔV = 0.05m",268.054,-33.201,Scorpii,V957 Scorpii
+9630,Scorpius,V929 Sco,,V929,,,V929,144334,78877,16h 06m 06.38s,-23° 36′ 22.5″,5.9,0.03,487,B8V,"SX Ari variable, Vmax = 5.89m, Vmin = 5.91m, P = 1.50 d",241.525,-22.394,Scorpii,V929 Scorpii
+9631,Scorpius,HD 145838,,HD 145838,,,,145838,79596,16h 14m 22.37s,-33° 00′ 39.8″,5.91,−0.56,643,K0III,,243.592,-32.989,Scorpii,HD 145838 Scorpii
+9632,Scorpius,V923 Sco,,V923,,,V923,153890,83491,17h 03m 50.87s,-38° 09′ 09.0″,5.91,1.88,209,F3V,"Algol variable, Vmax = 5.86m, Vmin = 6.24m, P = 34.83 d",255.958,-37.848,Scorpii,V923 Scorpii
+9633,Scorpius,Gliese 667 A,,HD 156384A,,,,156384A,84709,17h 18m 56.36s,-34° 59′ 22.5″,5.91,6.69,23,K4V,"component of the Gliese 667 system; suspected variable, Vmax = 5.88m, Vmin = 5.92m",259.733,-33.011,Scorpii,HD 156384A Scorpii
+9634,Scorpius,HD 157097,,HD 157097,,,,157097,85048,17h 22m 54.73s,-37° 13′ 14.5″,5.91,0.36,421,K1III,,260.725,-36.779,Scorpii,HD 157097 Scorpii
+9635,Scorpius,HD 149886,,HD 149886,,,,149886,81523,16h 39m 05.24s,-37° 13′ 02.1″,5.93,0.31,434,B9.5V+...,,249.771,-36.783,Scorpii,HD 149886 Scorpii
+9636,Scorpius,HD 154783,,HD 154783,,,,154783,83896,17h 08m 47.55s,-30° 24′ 12.8″,5.93,1.36,267,Fm,,257.196,-29.597,Scorpii,HD 154783 Scorpii
+9637,Scorpius,HD 162189,,HD 162189,,,,162189,87390,17h 51m 32.57s,-40° 46′ 20.4″,5.94,−0.83,738,M2III,semiregular variable,267.883,-39.228,Scorpii,HD 162189 Scorpii
+9638,Scorpius,V1068 Sco,,V1068,,,V1068,152161,82650,16h 53m 42.44s,-43° 03′ 03.2″,5.95,−1.81,1160,M3II/III,slow irregular variable,253.425,-42.949,Scorpii,V1068 Scorpii
+9639,Scorpius,HD 153368,,HD 153368,,,,153368,83235,17h 00m 36.99s,-35° 56′ 02.3″,5.95,1.19,292,K2IIICN...,,255.150,-34.066,Scorpii,HD 153368 Scorpii
+9640,Scorpius,HD 155450,,HD 155450,,,,155450,84226,17h 12m 58.56s,-32° 26′ 18.0″,5.95,−4.35,3747,B1Ib,,258.242,-31.562,Scorpii,HD 155450 Scorpii
+9641,Scorpius,HD 155826,,HD 155826,,,,155826,84425,17h 15m 36.08s,-38° 35′ 34.6″,5.95,3.52,100,G0V,,258.900,-37.407,Scorpii,HD 155826 Scorpii
+9642,Scorpius,HD 146850,,HD 146850,,,,146850,79938,16h 19m 00.43s,-14° 52′ 22.2″,5.97,−1.15,865,K3IIICNpvar,,244.750,-13.127,Scorpii,HD 146850 Scorpii
+9643,Scorpius,HD 154310,,HD 154310,,,,154310,83693,17h 06m 20.20s,-37° 13′ 39.1″,5.98,0.42,422,A2IV,,256.583,-36.773,Scorpii,HD 154310 Scorpii
+9644,Scorpius,HD 158105,,HD 158105,,,,158105,85543,17h 28m 56.09s,-36° 46′ 41.8″,5.98,−0.47,637,K0III,,262.233,-35.222,Scorpii,HD 158105 Scorpii
+9645,Scorpius,HD 150894,,HD 150894,,,,150894,81992,16h 45m 00.21s,-28° 30′ 34.8″,5.99,−0.83,755,A3IV,,251.250,-27.491,Scorpii,HD 150894 Scorpii
+9646,Scorpius,V906 Sco,,V906,,,V906,162724,87616,17h 53m 54.77s,-34° 45′ 09.8″,6,−1.45,1009,B9V + B9V,"In Messier 7, Algol variable, Vmax = 5.96m, Vmin = 6.23m, P = 2.79 d",268.475,-33.248,Scorpii,V906 Scorpii
+9647,Scorpius,BM Sco,,BM,,,BM,160371,86527,17h 40m 58.55s,-32° 12′ 52.0″,6.01,−2.35,1531,K3III + (G),"in Messier 6; slow irregular variable, Vmax = 5.25m, Vmin = 6.46m",265.242,-31.786,Scorpii,BM Scorpii
+9648,Scorpius,HD 162517,,HD 162517,,,,162517,87532,17h 52m 57.60s,-35° 37′ 27.1″,6.03,1.99,209,F2V,,268.238,-34.376,Scorpii,HD 162517 Scorpii
+9649,Scorpius,HD 150608,,HD 150608,,,,150608,81904,16h 43m 47.60s,-38° 09′ 22.5″,6.05,−0.62,703,B9II/III,,250.946,-37.844,Scorpii,HD 150608 Scorpii
+9650,Scorpius,HD 153072,,HD 153072,,,,153072,83100,16h 58m 52.25s,-37° 37′ 13.5″,6.05,1.47,269,A3III,suspected variable,254.717,-36.380,Scorpii,HD 153072 Scorpii
+9651,Scorpius,HD 162496,,HD 162496,,,,162496,87516,17h 52m 49.22s,-34° 06′ 53.4″,6.05,−0.60,697,K1III,,268.204,-33.885,Scorpii,HD 162496 Scorpii
+9652,Scorpius,HD 162926,,HD 162926,,,,162926,87722,17h 55m 08.03s,-36° 28′ 32.3″,6.05,−0.75,748,B9.5III,,268.783,-35.524,Scorpii,HD 162926 Scorpii
+9653,Scorpius,HD 146001,,HD 146001,,,,146001,79622,16h 14m 53.44s,-25° 28′ 36.9″,6.06,0.3,462,B8V,α2 CVn variable,243.721,-24.523,Scorpii,HD 146001 Scorpii
+9654,Scorpius,HD 152248,,V1007,,,V1007,152248,82691,16h 54m 10.06s,-41° 49′ 30.1″,6.06,,,O7e,"in NGC 6231; β Lyr variable, ΔV = 0.24m, P = 5.82 d",253.542,-40.175,Scorpii,V1007 Scorpii
+9655,Scorpius,HD 143619,,HD 143619,,,,143619,78575,16h 02m 39.40s,-29° 08′ 08.8″,6.07,0.37,451,K2/K3III,,240.663,-28.864,Scorpii,HD 143619 Scorpii
+9656,Scorpius,HD 148760,,HD 148760,,,,148760,80910,16h 31m 22.87s,-26° 32′ 15.2″,6.07,1.87,225,K1III,,247.842,-25.463,Scorpii,HD 148760 Scorpii
+9657,Scorpius,HD 146254,,HD 146254,,,,146254,79692,16h 15m 51.49s,-14° 50′ 56.8″,6.09,−0.28,614,A0III,"suspected variable, Vmax = 6.06m, Vmin = 6.10m",243.963,-13.151,Scorpii,HD 146254 Scorpii
+9658,Scorpius,HD 155974,,HD 155974,,,,155974,84489,17h 16m 21.68s,-35° 44′ 58.1″,6.09,3.55,105,F6V,,259.088,-34.251,Scorpii,HD 155974 Scorpii
+9659,Scorpius,HD 159707,,HD 159707,,,,159707,86311,17h 38m 08.45s,-42° 52′ 48.7″,6.09,−0.54,692,B8V,,264.533,-41.120,Scorpii,HD 159707 Scorpii
+9660,Scorpius,HD 151771,,HD 151771,,,,151771,82453,16h 51m 00.04s,-37° 30′ 52.1″,6.1,−0.99,853,B8II/III,suspected variable,252.750,-36.486,Scorpii,HD 151771 Scorpii
+9661,Scorpius,HD 162817,,HD 162817,,,,162817,87671,17h 54m 27.12s,-34° 28′ 00.2″,6.1,−0.96,842,B9.5/A0III,,268.613,-33.533,Scorpii,HD 162817 Scorpii
+9662,Scorpius,RR Sco,,RR,,,RR,152783,82912,16h 56m 37.85s,-30° 34′ 48.1″,6.1,,1150,M6IIIe,"Mira variable, Vmax = 5m, Vmin = 12.4m, P = 281.45 d",254.154,-29.420,Scorpii,RR Scorpii
+9663,Scorpius,HD 146954,,HD 146954,,,,146954,80066,16h 20m 32.63s,-39° 25′ 48.8″,6.11,0.2,496,B9V,,245.133,-38.570,Scorpii,HD 146954 Scorpii
+9664,Scorpius,HD 154368,,V1074,,,V1074,154368,83706,17h 06m 28.37s,-35° 27′ 03.7″,6.13,−2.85,2040,O9.5Iab,α Cyg variable,256.617,-34.549,Scorpii,V1074 Scorpii
+9665,Scorpius,HD 150591,,HD 150591,,,,150591,81914,16h 43m 54.09s,-41° 06′ 47.9″,6.14,0.28,485,B6/B7V,suspected variable,250.975,-40.887,Scorpii,HD 150591 Scorpii
+9666,Scorpius,HD 157486,,HD 157486,,,,157486,85237,17h 25m 02.67s,-34° 41′ 45.6″,6.14,0.19,505,Ap...,,261.258,-33.304,Scorpii,HD 157486 Scorpii
+9667,Scorpius,HD 162586,,HD 162586,,,,162586,87567,17h 53m 19.58s,-34° 43′ 50.9″,6.14,−0.88,825,B4III,in Messier 7,268.329,-33.269,Scorpii,HD 162586 Scorpii
+9668,Scorpius,HD 142250,,HD 142250,,,,142250,77900,15h 54m 30.12s,-27° 20′ 18.9″,6.15,0.09,531,B7V,has a planet (b),238.625,-26.662,Scorpii,HD 142250 Scorpii
+9669,Scorpius,HR 6522,,V949,,,V949,158741,85839,17h 32m 24.64s,-34° 16′ 45.6″,6.16,1.06,341,F2IV,"δ Sct variable, Vmax = 6.13m, Vmin = 6.18m, P = 0.22 d",263.100,-33.721,Scorpii,V949 Scorpii
+9670,Scorpius,HD 144927,,HD 144927,,,,144927,79173,16h 09m 31.76s,-32° 38′ 56.2″,6.18,1.07,344,K1III,,242.379,-31.351,Scorpii,HD 144927 Scorpii
+9671,Scorpius,V861 Sco,,V861,,,V861,152667,82911,16h 56m 35.98s,-40° 49′ 24.4″,6.18,,,B0Ia,"in Trumpler 24; β Lyr variable, Vmax = 6.07m, Vmin = 6.4m, P = 7.85 d",254.146,-39.177,Scorpii,V861 Scorpii
+9672,Scorpius,HD 154153,,HD 154153,,,,154153,83650,17h 05m 48.47s,-44° 06′ 18.4″,6.18,2.08,215,A4III,,256.450,-43.895,Scorpii,HD 154153 Scorpii
+9673,Scorpius,HD 162396,,HD 162396,,,,162396,87523,17h 52m 52.47s,-41° 59′ 45.8″,6.19,3.62,107,F8V,,268.217,-40.004,Scorpii,HD 162396 Scorpii
+9674,Scorpius,HD 155940,,HD 155940,,,,155940,84445,17h 15m 51.36s,-30° 12′ 38.2″,6.2,0.92,370,B9/B9.5V,,258.963,-29.789,Scorpii,HD 155940 Scorpii
+9675,Scorpius,RS Sco,,RS,,,RS,152476,82833,16h 55m 37.81s,-45° 06′ 10.7″,6.2,−0.08,588,M6-7e,"Mira variable, Vmax = 5.96m, Vmin = 13.0m, P = 319 d",253.904,-44.897,Scorpii,RS Scorpii
+9676,Scorpius,HD 150573,,HD 150573,,,,150573,81903,16h 43m 45.70s,-41° 07′ 08.9″,6.21,0.61,430,A4V,,250.938,-40.881,Scorpii,HD 150573 Scorpii
+9677,Scorpius,HD 143900,,HD 143900,,,,143900,78699,16h 03m 54.71s,-24° 43′ 34.8″,6.22,−0.09,597,K2/K3III,,240.975,-23.274,Scorpii,HD 143900 Scorpii
+9678,Scorpius,HD 159633,,HD 159633,,,,159633,86246,17h 37m 26.92s,-38° 03′ 58.9″,6.26,−3.44,2835,G2Ib,,264.358,-37.934,Scorpii,HD 159633 Scorpii
+9679,Scorpius,HD 154025,,HD 154025,,,,154025,83594,17h 05m 05.39s,-45° 30′ 07.4″,6.28,1.33,319,A2V,,256.271,-44.498,Scorpii,HD 154025 Scorpii
+9680,Scorpius,HD 163433,,HD 163433,,,,163433,87948,17h 57m 57.80s,-39° 08′ 11.3″,6.28,0.29,513,A0IV/V,,269.488,-38.864,Scorpii,HD 163433 Scorpii
+9681,Scorpius,V900 Sco,,V900,,,V900,152235,82669,16h 53m 58.85s,-41° 59′ 39.6″,6.29,,,B1Ia,"in Trumpler 24; rotating ellipsoidal variable, Vmax = 6.29m, Vmin = 6.34m, P = 2.63 d",253.492,-40.006,Scorpii,V900 Scorpii
+9682,Scorpius,HD 146834,,HD 146834,,,,146834,79945,16h 19m 07.71s,-20° 13′ 04.9″,6.29,0.4,490,K0III,,244.779,-19.782,Scorpii,HD 146834 Scorpii
+9683,Scorpius,HD 152636,,HD 152636,,,,152636,82855,16h 55m 57.74s,-33° 30′ 24.8″,6.29,0.03,581,K5III,,253.988,-32.493,Scorpii,HD 152636 Scorpii
+9684,Scorpius,ν Sco C,ν,Nu,14,,,145501,,16h 11m 58.60s,-19° 26′ 59.0″,6.3,,470,,component of the ν Sco system; α2 CVn variable,242.992,-18.550,Scorpii,Nu Scorpii
+9685,Scorpius,HD 152424,,HD 152424,,,,152424,82783,16h 55m 03.33s,-42° 05′ 27.0″,6.3,,,O9Ia,in Trumpler 24,253.763,-41.909,Scorpii,HD 152424 Scorpii
+9686,Scorpius,HD 155276,,HD 155276,,,,155276,84151,17h 12m 16.55s,-38° 49′ 20.7″,6.3,1.03,370,K1IIICN...,,258.067,-37.178,Scorpii,HD 155276 Scorpii
+9687,Scorpius,HD 158042,,HD 158042,,,,158042,85549,17h 29m 00.86s,-43° 58′ 26.0″,6.3,−2.04,1516,B5III,,262.250,-42.026,Scorpii,HD 158042 Scorpii
+9688,Scorpius,HD 144585,,HD 144585,,,,144585,78955,16h 07m 03.53s,-14° 04′ 16.8″,6.32,4.02,94,G5V,,241.763,-13.929,Scorpii,HD 144585 Scorpii
+9689,Scorpius,HD 144661,,HD 144661,,,,144661,79031,16h 07m 51.90s,-24° 27′ 44.2″,6.32,0.97,384,B8IV/V,,241.963,-23.538,Scorpii,HD 144661 Scorpii
+9690,Scorpius,HD 145997,,HD 145997,,,,145997,79605,16h 14m 39.30s,-18° 32′ 07.2″,6.32,1.63,282,K1III,,243.663,-17.465,Scorpii,HD 145997 Scorpii
+9691,Scorpius,HD 157038,,V975,,,V975,157038,85020,17h 22m 39.22s,-37° 48′ 16.7″,6.33,,,B4Ia+...,"α Cyg variable, Vmax = 6.27m, Vmin = 6.35m",260.663,-36.196,Scorpii,V975 Scorpii
+9692,Scorpius,HD 152431,,HD 152431,,,,152431,82731,16h 54m 35.94s,-30° 35′ 14.4″,6.34,−0.09,631,A5IIIm...,suspected variable,253.646,-29.413,Scorpii,HD 152431 Scorpii
+9693,Scorpius,HD 151965,,V911,,,V911,151965,82554,16h 52m 27.42s,-40° 43′ 23.2″,6.35,0.07,588,B9p Si,"α² CVn variable, Vmax = 6.32m, Vmin = 6.38m",253.113,-39.277,Scorpii,V911 Scorpii
+9694,Scorpius,V1077 Sco,,V1077,,,V1077,156325,84650,17h 18m 20.51s,-32° 33′ 11.1″,6.36,−1.57,1259,B5III,Be star,259.583,-31.447,Scorpii,V1077 Scorpii
+9695,Scorpius,HD 158156,,HD 158156,,,,158156,85589,17h 29m 25.60s,-38° 31′ 01.0″,6.38,1.34,332,A1V,,262.354,-37.483,Scorpii,HD 158156 Scorpii
+9696,Scorpius,HD 162678,,HD 162678,,,,162678,,17h 53m 45.50s,-34° 47′ 09.7″,6.38,,980,B9V,in Messier 7,268.438,-33.214,Scorpii,HD 162678 Scorpii
+9697,Scorpius,HD 145792,,V1051,,,V1051,145792,79530,16h 13m 45.50s,-24° 25′ 19.4″,6.4,0.69,453,B6IV,SX Ari variable,243.438,-23.578,Scorpii,V1051 Scorpii
+9698,Scorpius,HD 146436,,HD 146436,,,,146436,79788,16h 16m 59.20s,-20° 06′ 14.7″,6.4,−0.03,631,G8III,,244.246,-19.896,Scorpii,HD 146436 Scorpii
+9699,Scorpius,HD 145964,,HD 145964,,,,145964,79599,16h 14m 28.89s,-21° 06′ 27.2″,6.41,1.29,345,B9V,,243.617,-20.893,Scorpii,HD 145964 Scorpii
+9700,Scorpius,HD 161390,,HD 161390,,,,161390,87042,17h 47m 07.30s,-38° 06′ 43.5″,6.41,1.07,381,A0V,,266.779,-37.888,Scorpii,HD 161390 Scorpii
+9701,Scorpius,V951 Sco,,V951,,,V951,162725,87624,17h 53m 58.13s,-34° 49′ 51.8″,6.41,−0.96,973,Ap...,"in Messier 7, α² CVn variable, Vmax = 6.39m, Vmin = 6.44m, P = 4.46 d",268.492,-33.169,Scorpii,V951 Scorpii
+9702,Scorpius,HR 6392,,V915,,,V915,155603,84332,17h 14m 27.66s,-39° 45′ 59.9″,6.42,,,K0Ia,"variable star, Vmax = 6.22m, Vmin = 6.64m",258.613,-38.234,Scorpii,V915 Scorpii
+9703,Scorpius,HD 157060,,HD 157060,,,,157060,85019,17h 22m 37.90s,-35° 54′ 39.4″,6.42,3.58,121,F8V,,260.654,-34.089,Scorpii,HD 157060 Scorpii
+9704,Scorpius,HD 145100,,HD 145100,,,,145100,79203,16h 09m 55.31s,-18° 20′ 25.6″,6.43,2.96,161,F3V,,242.479,-17.660,Scorpii,HD 145100 Scorpii
+9705,Scorpius,HD 149174,,HD 149174,,,,149174,81198,16h 35m 07.77s,-45° 14′ 39.2″,6.43,0.06,614,K2/K3III,"suspected variable, ΔV = 0.08m",248.779,-44.756,Scorpii,HD 149174 Scorpii
+9706,Scorpius,HD 158619,,HD 158619,,,,158619,85786,17h 31m 47.36s,-33° 42′ 11.1″,6.43,0.98,401,K2III,,262.946,-32.297,Scorpii,HD 158619 Scorpii
+9707,Scorpius,HD 160748,,HD 160748,,,,160748,86716,17h 43m 06.86s,-33° 03′ 04.6″,6.44,−3.13,2672,M1III,suspected variable,265.775,-32.949,Scorpii,HD 160748 Scorpii
+9708,Scorpius,HD 147553,,HD 147553,,,,147553,80324,16h 23m 56.72s,-33° 11′ 57.6″,6.45,1.11,381,A0V+...,,245.983,-32.801,Scorpii,HD 147553 Scorpii
+9709,Scorpius,HD 152249,,HD 152249,,,,152249,,16h 54m 11.64s,-41° 50′ 57.2″,6.45,,5900,O9Ib(f),"in NGC 6231; suspected variable, Vmax = 6.34m, Vmin = 6.51m",253.546,-40.151,Scorpii,HD 152249 Scorpii
+9710,Scorpius,HD 150638,,HD 150638,,,,150638,81891,16h 43m 38.73s,-32° 06′ 21.2″,6.46,−0.44,784,B8V,,250.908,-31.894,Scorpii,HD 150638 Scorpii
+9711,Scorpius,HD 155985,,HD 155985,,,,155985,84556,17h 17m 05.54s,-44° 46′ 42.9″,6.46,,,B0.5Iab:,"variable star, ΔV = 0.007m, P = 293.25 d",259.271,-43.222,Scorpii,HD 155985 Scorpii
+9712,Scorpius,HD 163234,,HD 163234,,,,163234,87865,17h 56m 55.89s,-40° 18′ 20.3″,6.46,0.22,576,K3III,,269.229,-39.694,Scorpii,HD 163234 Scorpii
+9713,Scorpius,HD 150420,,HD 150420,,,,150420,81803,16h 42m 29.11s,-37° 04′ 44.9″,6.47,1.09,388,G3III,,250.621,-36.921,Scorpii,HD 150420 Scorpii
+9714,Scorpius,HD 153919,,HD 153919,,,,153919,83499,17h 03m 56.77s,-37° 50′ 39.0″,6.48,,,O5f,,255.983,-36.156,Scorpii,HD 153919 Scorpii
+9715,Scorpius,HD 159312,,HD 159312,,,,159312,86098,17h 35m 43.08s,-37° 26′ 23.3″,6.48,1.4,338,A0V,,263.929,-36.560,Scorpii,HD 159312 Scorpii
+9716,Scorpius,HD 151932,,V919,,,V919,151932,82543,16h 52m 19.25s,-41° 51′ 16.2″,6.49,,,WN7h,"in Trumpler 24; Wolf–Rayet star, Vmax = 6.45m, Vmin = 6.61m, P = 2 d",253.079,-40.146,Scorpii,V919 Scorpii
+9717,Scorpius,HD 153234,,HD 153234,,,,153234,83202,17h 00m 14.26s,-44° 59′ 18.5″,6.5,2.98,165,F3V,,255.058,-43.012,Scorpii,HD 153234 Scorpii
+9718,Scorpius,4U 1700-37,,V884,,,V884,153919,83499,17h 03m 56.77s,-37° 50′ 38.9″,6.51,,9100,O7.5Iaf,"rotating ellipsoidal variable and high-mass X-ray binary, Vmax = 6.51m, Vmin = 6.60m, P = 3.41 d",255.983,-36.156,Scorpii,V884 Scorpii
+9719,Scorpius,HD 145102,,V952,,,V952,145102,79235,16h 10m 15.92s,-26° 54′ 32.8″,6.57,,547,B9p...,"α2 CVn variable, ΔV = 0.04m, P = 1.42 d",242.563,-25.091,Scorpii,V952 Scorpii
+9720,Scorpius,V453 Sco,,V453,,,V453,163181,87810,17h 56m 16.08s,-32° 28′ 30.0″,6.61,−5.43,8400,B0Ia,"β Lyr variable, Vmax = 6.36m, Vmin = 6.73m, P = 12.01 d",269.067,-31.525,Scorpii,V453 Scorpii
+9721,Scorpius,RV Sco,,RV,,,RV,153004,83059,16h 58m 19.75s,-33° 36′ 32.8″,6.61,,1440,G0Ib,"classical Cepheid, Vmax = 6.61m, Vmin = 7.49m, P = 6.06 d",254.579,-32.391,Scorpii,RV Scorpii
+9722,Scorpius,HD 160529,,V905,,,V905,160529,86624,17h 41m 59.03s,-33° 30′ 13.7″,6.66,−8.9,8150,A3Iae,"luminous blue variable, Vmax = 6.21m, Vmin = 6.97m, P = 57 d",265.496,-32.496,Scorpii,V905 Scorpii
+9723,Scorpius,25 Sco,,25,25,,,151179,82140,16h 46m 51.35s,-25° 31′ 42.7″,6.72,−0.10,755,K0II,,251.713,-24.472,Scorpii,25 Scorpii
+9724,Scorpius,V636 Sco,,V636,,,V636,156979,85035,17h 22m 46.48s,-45° 36′ 51.4″,6.74,,,"F7/F8Ib/II + B9.5V","classical Cepheid, Vmax = 6.4m, Vmin = 6.92m, P = 6.80 d",260.692,-44.386,Scorpii,V636 Scorpii
+9725,Scorpius,V760 Sco,,V760,,,V760,147683,80405,16h 24m 43.72s,-34° 53′ 37.5″,7.05,,1280,B4V,Algol variable,246.179,-33.106,Scorpii,V760 Scorpii
+9726,Scorpius,HR 5999,,V856,,,V856,144668,79080,16h 08m 34.29s,-39° 06′ 18.3″,7.05,,531,A7IVe,"UX Ori star, Vmax = 6.77m, Vmin = 8.0m",242.142,-38.895,Scorpii,V856 Scorpii
+9727,Scorpius,HD 143567,,HD 143567,,,,143567,78530,16h 01m 55.00s,"-21° 58′ 49.0""",7.18,,511,B9V,has a planet (b),240.479,-20.020,Scorpii,HD 143567 Scorpii
+9728,Scorpius,Gliese 667 B,,HD 156384B,,,,156384B,,17h 19m 01.94s,-34° 59′ 33.3″,7.24,8.02,23,K5,component of Gliese 667 system,259.754,-33.008,Scorpii,HD 156384B Scorpii
+9729,Scorpius,HD 159868,,HD 159868,,,,159868,86375,17h 38m 59.53s,-43° 08′ 43.8″,7.27,3.66,172,G5V,has two planets (b & c),264.746,-42.855,Scorpii,HD 159868 Scorpii
+9730,Scorpius,HD 147010,,V933,,,V933,147010,80024,16h 20m 05.49s,-20° 03′ 23.0″,7.37,,533,B9II/III,"α2 CVn variable, ΔV = 0.045m, P = 3.92 d",245.021,-19.944,Scorpii,V933 Scorpii
+9731,Scorpius,HD 153950,,HD 153950,,,,153950,83547,17h 04m 30.87s,-43° 18′ 35.2″,7.39,3.91,162,F8V,"Rapeto[4], has a planet (b)",256.125,-42.690,Scorpii,HD 153950 Scorpii
+9732,Scorpius,HD 153747,,V922,,,V922,153747,83410,17h 02m 53.82s,-38° 27′ 36.8″,7.42,,588,A0III,δ Sct variable,255.721,-37.540,Scorpii,V922 Scorpii
+9733,Scorpius,RY Sco,,RY,,,RY,162102,87345,17h 50m 32.34s,-33° 42′ 20.4″,7.51,,,F6Ib,"classical Cepheid, Vmax = 7.51m, Vmin = 8.36m, P = 20.32 d",267.633,-32.294,Scorpii,RY Scorpii
+9734,Scorpius,HD 152219,,V1292,,,V1292,152219,,16h 53m 55.56s,-41° 52′ 51.29″,7.57,,5900,O9IV,"in NGC 6231; Algol variable, Vmax = 7.57m, Vmin = 7.80m, P = 4.24 d",253.479,-40.133,Scorpii,V1292 Scorpii
+9735,Scorpius,V393 Sco,,V393,,,V393,161741,87191,17h 48m 47.60s,-35° 03′ 29.6″,7.59,,2400,B3III,"double periodic or Algol variable, Vmax = 7.39m, Vmin = 8.31m, P = 7.71 d",267.196,-34.942,Scorpii,V393 Scorpii
+9736,Scorpius,HD 152218,,V1294,,,V1294,152218,,16h 53m 59.99s,-41° 42′ 52.8″,7.61,,,O9.5IV(n),"in Trumpler 24; Algol variable, Vmax = 7.58m, Vmin = 7.67m, P = 5.60 d",253.496,-40.286,Scorpii,V1294 Scorpii
+9737,Scorpius,V703 Sco,,V703,,,V703,160589,86650,17h 42m 16.81s,-32° 31′ 23.6″,7.85,,556,A9V,"double-mode δ Sct variable, Vmax = 7.58m, Vmin = 8.04m, P = 0.12 d",265.567,-31.477,Scorpii,V703 Scorpii
+9738,Scorpius,V482 Sco,,V482,,,V482,158443,85701,17h 30m 48.38s,-33° 36′ 36.0″,7.91,,,F9II,"classical Cepheid, Vmax = 7.63m, Vmin = 8.3m, P = 4.53 d",262.700,-32.390,Scorpii,V482 Scorpii
+9739,Scorpius,HD 147873,,HD 147873,,,,147873,80486,17h 30m 48.38s,-33° 36′ 36.0″,7.96,,342,G1V,has two planets (b & c),262.700,-32.390,Scorpii,HD 147873 Scorpii
+9740,Scorpius,AH Sco,,AH,,,AH,155161,84071,17h 11m 17.02s,-32° 19′ 30.7″,8.1,,12000,M4-5Ia-Iab,"semiregular variable, Vmax = 6.7m, Vmin = 9.5m, P = 735 d; one of the largest known stars",257.821,-31.675,Scorpii,AH Scorpii
+9741,Scorpius,HD 145377,,HD 145377,,,,145377,79346,16h 11m 36.45s,-27° 04′ 41.4″,8.12,4.31,188,G3V,has a planet (b),242.900,-26.922,Scorpii,HD 145377 Scorpii
+9742,Scorpius,HD 144432,,HD 144432,,,,144432,78943,16h 06m 57.95s,-27° 43′ 09.8″,8.19,,522,F0IIIe+K7V,triple system; Herbig Ae/Be star,241.738,-26.281,Scorpii,HD 144432 Scorpii
+9743,Scorpius,V1034 Sco,,V1034,,,V1034,,,16h 54m 19.85s,-41° 50′ 09.4″,8.23,,5900,O8V,"in NGC 6231; Algol variable, Vmax = 8.23m, Vmin = 8.63m, P = 2.44 d",253.579,-40.164,Scorpii,V1034 Scorpii
+9744,Scorpius,RZ Sco,,RZ,,,RZ,144018,78746,16h 04m 36.13s,-24° 06′ 00.6″,8.3,,,M3e,"semiregular variable, Vmax = 8.3m, Vmin = 12.3m, P = 162.1 d",241.150,-23.900,Scorpii,RZ Scorpii
+9745,Scorpius,HD 158393,,V965,,,V965,158393,85680,17h 30m 33.36s,-33° 39′ 15.9″,8.57,,937,G5:IIIe +F0/2IV/V,"RS CVn variable, Vmax = 8.46m, Vmin = 8.67m, P = 30.52 d",262.638,-32.346,Scorpii,V965 Scorpii
+9746,Scorpius,V500 Sco,,V500,,,V500,316354,87173,17h 48m 37.50s,-30° 28′ 33.5″,8.81,,1060,K0,"classical Cepheid, Vmax = 8.4m, Vmin = 9.13m, P = 9.32 d",267.154,-29.524,Scorpii,V500 Scorpii
+9747,Scorpius,HD 142666,,V1026,,,V1026,142666,,15h 56m 40.02s,-22° 01′ 40.0″,8.86,,,A8Ve,"UX Ori star, Vmax = 8.57m, Vmin = 9.5m",239.167,-21.972,Scorpii,V1026 Scorpii
+9748,Scorpius,V907 Sco,,V907,,,V907,163302,,17h 56m 55.56s,-34° 45′ 01.2″,8.86,,,B9V,"Algol variable, Vmax = 8.61m, Vmin = 9.2m, P = 3.78 d",269.229,-33.250,Scorpii,V907 Scorpii
+9749,Scorpius,V718 Sco,,V718,,,V718,145718,79476,16h 13m 11.59s,-22° 29′ 06.7″,8.86,,383,A8III/IV,"UX Ori star, Vmax = 8.75m, Vmin = 10.30m",243.296,-21.515,Scorpii,V718 Scorpii
+9750,Scorpius,V701 Sco,,V701,,,V701,317844,85985,17h 34m 24.51s,-32° 30′ 16.0″,8.97,,3500,B5V,"W UMa variable, Vmax = 8.63m, Vmin = 9.05m, P = 0.76 d",263.600,-31.496,Scorpii,V701 Scorpii
+9751,Scorpius,AK Sco,,AK,,,AK,152404,82747,16h 54m 44.85s,-36° 53′ 18.6″,9,,335,F5Ve,"UX Ori star, Vmax = 8.7m, Vmin = 12.8m",253.683,-35.112,Scorpii,AK Scorpii
+9752,Scorpius,HD 326823,,V1104,,,V1104,326823,,17h 06m 53.91s,-42° 39′ 39.7″,9.03,,,O+...,"luminous blue variable, Vmax = 8.88m, Vmin = 9.20m, P = 6.12 d",256.721,-41.339,Scorpii,V1104 Scorpii
+9753,Scorpius,HD 162020,,HD 162020,,,,162020,87330,17h 50m 38.35s,-40° 19′ 06.1″,9.12,,95.94,K3V,has a brown dwarf companion,267.658,-39.682,Scorpii,HD 162020 Scorpii
+9754,Scorpius,GSC 06214-00210,, ,,,,,,16h 21m 55.00s,"-20° 43′ 07.0""",9.15,,473,M1,has a planet (b),245.479,-19.281,Scorpii,  Scorpii
+9755,Scorpius,KQ Sco,,KQ,,,KQ,328953,82498,16h 51m 38.55s,-45° 25′ 36.1″,9.33,,1120,K7,"classical Cepheid, Vmax = 9.33m, Vmin = 10.26m, P = 28.71 d",252.908,-44.573,Scorpii,KQ Scorpii
+9756,Scorpius,HD 318107,,V970,,,V970,318107,,17h 39m 41.26s,-32° 17′ 57.4″,9.34,,,B8,α2 CVn variable,264.921,-31.701,Scorpii,V970 Scorpii
+9757,Scorpius,WR 86,,V1035,,,V1035,156327,84655,17h 18m 23.06s,-34° 24′ 30.6″,9.35,,1770,WC7+B0III,"β Cep variable, ΔV = 0.017m, P = 0.15 d",259.596,-33.592,Scorpii,V1035 Scorpii
+9758,Scorpius,CD -35 11760,,V1037,,,V1037,320156,,17h 37m 58.50s,-35° 23′ 04.32″,9.83,,,B4Ibe,"PV Tel variable, Vmax = 9.62m, Vmin = 9.83m",264.492,-34.616,Scorpii,V1037 Scorpii
+9759,Scorpius,AI Sco,,AI,,,AI,320921,,17h 56m 18.57s,-33° 48′ 43.4″,9.98,,,G4,"RV Tau variable, Vmax = 8.88m, Vmin = 11.6m, P = 71.9 d",269.075,-32.188,Scorpii,AI Scorpii
+9760,Scorpius,Gliese 667 C,,HD 156384C,,,,156384C,,17h 18m 58.69s,-34° 59′ 48.3″,10.22,11,23,M1.5,component of Gliese 667 system; has two planets (b) (c),259.742,-33.003,Scorpii,HD 156384C Scorpii
+9761,Scorpius,Pismis 24-1,,HD 319718,,,,319718,,17h 24m 43.41s,-34° 11′ 56.5″,10.43,−7.3,8150,O3 If*,one of the most luminous stars known,261.179,-33.801,Scorpii,HD 319718 Scorpii
+9762,Scorpius,Gliese 682,,HIP 86214,,,,,86214,17h 37m 03.66s,-44° 19′ 09.2″,10.95,,16.557,M3.5,,264.263,-43.681,Scorpii,HIP 86214 Scorpii
+9763,Scorpius,CD -38 10980,, ,,,,,,16h 23m 33.84s,-39° 13′ 46.2″,11.03,,42.89,DA2,white dwarf,245.888,-38.771,Scorpii,  Scorpii
+9764,Scorpius,Scorpius X-1,,V818,,,V818,,,16h 19m 55.07s,-15° 38′ 24.8″,11.1,,11000,Oev,low-mass X-ray binary,244.979,-14.360,Scorpii,V818 Scorpii
+9765,Scorpius,HIP 79431,,HIP 79431,,,,,79431,16h 12m 41.77s,-18° 52′ 31.8″,11.34,10.47,49,M3V,"Sharjah[5], has a planet (b)",243.171,-17.125,Scorpii,HIP 79431 Scorpii
+9766,Scorpius,V921 Sco,,V921,,,V921,,,16h 59m 06.79s,-42° 42′ 08.6″,11.43,,,Bep,"γ Cas variable, ΔV = 0.3m",254.775,-41.298,Scorpii,V921 Scorpii
+9767,Scorpius,WASP-17,,W-17,,,,,,15h 59m 50.95s,-28° 03′ 42.3″,11.59,,1000,F4,"Dìwö[6], has a transiting planet (b)",239.958,-27.938,Scorpii,W-17 Scorpii
+9768,Scorpius,HK Sco,,HK,,,HK,,,16h 54m 41.04s,-30° 23′ 06.7″,11.7,,,,"Z And variable, Vmax = 11.7m, Vmin = 14.7m, P = 458 d",253.671,-29.615,Scorpii,HK Scorpii
+9769,Scorpius,T Sco,,T,,,T,,,16h 17m 02.83s,-22° 58′ 31.3″,12,,32600,,"in Messier 80; nova, Vmax = 6.8m, Vmin = <12.0m",244.258,-21.025,Scorpii,T Scorpii
+9770,Scorpius,V866 Sco,,V866,,,V866,,,16h 11m 31.40s,-18° 38′ 24.5″,12.05,,,K5,"T Tau star, ΔV = 0.5m, P = 6.78 d",242.879,-17.360,Scorpii,V866 Scorpii
+9771,Scorpius,V1094 Sco,,V1094,,,V1094,,,16h 08m 36.18s,-39° 23′ 02.5″,12.5,,,K6,"young stellar object, ΔV = 0.5m",242.150,-38.616,Scorpii,V1094 Scorpii
+9772,Scorpius,1RXS J160929.1−210524,, ,,,,,,16h 09m 30.31s,-21° 04′ 57.6″,12.97,7.17,470,K7V,has a planet (b),242.375,-20.918,Scorpii,  Scorpii
+9773,Scorpius,IRAS 17163−3907,, ,,,,,,17h 19m 49.33s,-39° 10′ 37.9″,13.1,,,,in Fried Egg Nebula; yellow hypergiant,259.954,-38.823,Scorpii,  Scorpii
+9774,Scorpius,CL Sco,,CL,,,CL,,,16h 54m 51.98s,-30° 37′ 18.2″,13.25,,,M4,"Z And variable and re-radiating binary system, Vmax = 10.8m, Vmin = 13.7m, P = 625 d",253.713,-29.378,Scorpii,CL Scorpii
+9775,Scorpius,GRO J1655-40,,V1033,,,V1033,,,16h 54m 00.14s,-39° 50′ 44.9″,14.2,,,B9V,"X-ray nova containing black hole, Vmax = 14m, Vmin = 17.3m",253.500,-38.154,Scorpii,V1033 Scorpii
+9776,Scorpius,XTE J1739-302,, ,,,,,,17h 39m 11.58s,-30° 20′ 37.6″,14.8,,,O8.5Iab(f),high-mass X-ray binary,264.796,-29.656,Scorpii,  Scorpii
+9777,Scorpius,OGLE-2005-BLG-390L,, ,,,,,,17h 54m 19.00s,"-30° 22′ 38.0""",15.7,,21000,M4,has a planet (b),268.579,-29.623,Scorpii,  Scorpii
+9778,Scorpius,Th 28,,V1190,,,V1190,,,16h 08m 29.73s,-39° 03′ 11.0″,16.42,,,K0:,"T Tau star, Vmax = 16.42m, Vmin = 16.93m",242.121,-38.947,Scorpii,V1190 Scorpii
+9779,Scorpius,MXB 1735-44,,V926,,,V926,,,17h 38m 58.30s,"-44° 27′ 00.0""",17.4,,,,"X-ray burster, ΔV = 0.2m, P = 0.19 d",264.742,-43.550,Scorpii,V926 Scorpii
+9780,Scorpius,Wray 17-96,, ,,,,,,17h 41m 35.20s,-30° 06′ 39.6″,17.8,−10.9,15000,B3,"luminous blue variable, one of the most luminous stars known",265.396,-29.889,Scorpii,  Scorpii
+9781,Scorpius,V992 Sco,,V992,,,V992,,,17h 07m 17.44s,-43° 15′ 22.0″,18,,,,"nova, Vmax = 7.26m, Vmin = 18.0m, P = 0.15 d",256.821,-42.744,Scorpii,V992 Scorpii
+9782,Scorpius,V1187 Sco,,V1187,,,V1187,,,17h 29m 18.81s,-31° 46′ 01.5″,18,,,,"nova, Vmax = 9.6m, Vmin = 18m",262.325,-30.233,Scorpii,V1187 Scorpii
+9783,Scorpius,V1186 Sco,,V1186,,,V1186,,,17h 12m 51.21s,-30° 56′ 37.2″,18,,,,"nova, Vmax = 9.7m, Vmin = <18m",258.213,-29.056,Scorpii,V1186 Scorpii
+9784,Scorpius,GX 349+2,,V1101,,,V1101,,,17h 05m 44.49s,-36° 25′ 23.1″,18.6,,,,"low-mass X-ray binary, Vmax = 18.3m, Vmin = 19.3m, P = 0.94 d",256.433,-35.577,Scorpii,V1101 Scorpii
+9785,Scorpius,U Sco,,U,,,U,,,16h 22m 30.80s,-17° 52′ 43.2″,19.3,,,,"recurrent nova and eclipsing binary, Vmax = 7.5m, Vmin = 19.3m, P = 1.23 d",245.625,-16.121,Scorpii,U Scorpii
+9786,Scorpius,V745 Sco,,V745,,,V745,,,17h 55m 22.27s,-33° 15′ 58.5″,19.3,,,,"nova and rotating ellipsoidal variable, Vmax = 9.4m, Vmin = 19.3m, P = 510 d",268.842,-32.734,Scorpii,V745 Scorpii
+9787,Scorpius,OGLE-2005-BLG-071L,, ,,,,,,17h 50m 09.00s,-34° 40′ 23.00″,19.5,,11000,M?,has a planet (b),267.538,-33.333,Scorpii,  Scorpii
+9788,Scorpius,V1280 Sco,,V1280,,,V1280,,,16h 57m 40.91s,-32° 20′ 36.4″,20,,,,"nova, Vmax = 3.78m, Vmin = <20.0m",254.417,-31.657,Scorpii,V1280 Scorpii
+9789,Scorpius,V1309 Sco,,V1309,,,V1309,,,17h 57m 33.02s,-30° 43′ 10.4″,20.4,,,,"luminous red nova, Vmax = 7.9m, Vmin = 20.4m",269.388,-29.281,Scorpii,V1309 Scorpii
+9790,Scorpius,PSR B1620−26,, ,,,,,,16h 23m 38.22s,-26° 31′ 53.8″,21.3,,,,in Messier 4; pulsar/white dwarf binary; has a planet,245.908,-25.469,Scorpii,  Scorpii
+9791,Scorpius,MOA-2008-BLG-310L,, ,,,,,,17h 05m 14.53s,-34° 46′ 41.0″,23.38,,20000,,has a planet (b),256.308,-33.222,Scorpii,  Scorpii
+9792,Scorpius,FQ Sco,,FQ,,,FQ,,,17h 08m 04.51s,-32° 42′ 02.2″,,,,,SS Cyg variable,257.017,-31.299,Scorpii,FQ Scorpii
+9793,Scorpius,V455 Sco,,V455,,,V455,,,17h 07m 21.73s,-34° 05′ 14.5″,,,,,Z And variable,256.838,-33.913,Scorpii,V455 Scorpii
+9794,Scorpius,V893 Sco,,V893,,,V893,,,16h 15m 15.15s,-28° 37′ 30.1″,,,,,SU UMa variable and eclipsing binary,243.813,-27.375,Scorpii,V893 Scorpii
+9795,Scorpius,V1018 Sco,,V1018,,,V1018,,,17h 35m 02.72s,-33° 33′ 29.4″,,,,,semiregular variable,263.758,-32.442,Scorpii,V1018 Scorpii
+9796,Scorpius,H1-36,, ,,,,,,17h 49m 48.22s,-33° 01′ 27.9″,,,,M8,in NGC 6441; symbiotic star,267.450,-32.976,Scorpii,  Scorpii
+9797,Scorpius,IGR J17252-3616,, ,,,,,,17h 25m 11.40s,-36° 16′ 59.00″,,,,B0-1Ia,high-mass X-ray binary,261.296,-35.731,Scorpii,  Scorpii
+9798,Scorpius,OAO 1657-415,, ,,,,,,17h 00m 47.90s,-41° 40′ 23.00″,,,,B3:Ia-ab...,high-mass X-ray binary,255.196,-40.333,Scorpii,  Scorpii
+9799,Scorpius,Rapid Burster,, ,,,,,,17h 33m 24.61s,-33° 23′ 19.8″,,,,,low-mass X-ray binary,263.350,-32.611,Scorpii,  Scorpii
+9800,Scorpius,GX 340+0,, ,,,,,,16h 45m 47.70s,-45° 36′ 40.00″,,,,,low-mass X-ray binary,251.446,-44.400,Scorpii,  Scorpii
+9801,Scorpius,H1743-322,, ,,,,,,17h 46m 15.61s,-32° 14′ 00.6″,,,,,low-mass X-ray binary,266.563,-31.767,Scorpii,  Scorpii
+9802,Scorpius,IGR J17091-3624,, ,,,,,,17h 09m 08.00s,-36° 22′ 24.00″,,,,B9V,low-mass X-ray binary containing black hole,257.283,-35.632,Scorpii,  Scorpii
+9803,Scorpius,4U 1702-42,, ,,,,,,17h 06m 15.31s,-43° 02′ 08.7″,,,,,low-mass X-ray binary,256.563,-42.964,Scorpii,  Scorpii
+9804,Scorpius,4U 1705-44,, ,,,,,,17h 08m 54.47s,-44° 06′ 07.4″,,,,,low-mass X-ray binary,257.225,-43.898,Scorpii,  Scorpii
+9805,Scorpius,4U 1722-307,, ,,,,,,17h 27m 33.25s,-30° 48′ 07.4″,,,,,in Terzan 2; low-mass X-ray binary,261.888,-29.198,Scorpii,  Scorpii
+9806,Scorpius,4U 1728-34,, ,,,,,,17h 31m 57.73s,-33° 50′ 02.5″,,,,,low-mass X-ray binary,262.988,-32.166,Scorpii,  Scorpii
+9807,Scorpius,4U 1746-371,, ,,,,,,17h 50m 12.66s,-37° 03′ 08.2″,,,,,in NGC 6441; low-mass X-ray binary,267.550,-36.948,Scorpii,  Scorpii
+9808,Scorpius,XTE J1751-305,, ,,,,,,17h 51m 13.49s,-30° 37′ 23.4″,,,,,low-mass X-ray binary,267.804,-29.377,Scorpii,  Scorpii
+9809,Scorpius,XTE J1720-318,,V1228,,,V1228,,,17h 19m 58.99s,-31° 45′ 01.3″,,,,,X-ray nova,259.992,-30.250,Scorpii,V1228 Scorpii
+9810,Scorpius,GCRT J1745−3009,, ,,,,,,17h 45m 05.00s,-30° 09′ 54.00″,,,,B9V,radio source; possible pulsar,266.271,-29.849,Scorpii,  Scorpii
+9811,Scorpius,OGLE-2007-BLG-368L,, ,,,,,,17h 56m 25.96s,-32° 14′ 14.7″,,,19230,late K?,has a planet (b),269.104,-31.763,Scorpii,  Scorpii
+9812,Scorpius,UScoCTIO 108,, ,,,,,,16h 05m 53.94s,-18° 18′ 42.7″,,,,M7,has a low-mass companion,241.471,-17.688,Scorpii,  Scorpii
+9813,Scorpius,PSR B1706−44,, ,,,,,,17h 09m 42.73s,-44° 29′ 08.2″,,,,,pulsar,257.425,-43.514,Scorpii,  Scorpii
+9814,Scorpius,PSR B1737−30,, ,,,,,,17h 40m 33.82s,-30° 15′ 43.5″,,,,,pulsar,265.138,-29.738,Scorpii,  Scorpii
+9815,Scorpius,PSR J1614−2230,, ,,,,,,16h 14m 36.51s,-22° 30′ 31.1″,,,,,binary millisecond pulsar,243.650,-21.491,Scorpii,  Scorpii

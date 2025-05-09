@@ -1,0 +1,70 @@
+USID,Constellation,Name,B,B->F->VAR->G,F,G.,Var,HD,HIP,RA,Dec,"vis. mag.","abs. mag.",Dist. (ly),Sp. class,Notes https://en.wikipedia.org/wiki/Lists_of_stars_by_constellation,RA angle,Dec Angle,Latin Constellation,Full Designation
+7397,Norma,γ2 Nor,γ2,Gamma 2,,,,146686,80000,16h 19m 50.57s,-50° 09′ 19.4″,4.01,1.05,127,G8III,,244.958,-49.845,Normae,Gamma 2 Normae
+7398,Norma,ε Nor,ε,Epsilon,,,,147971,80582,16h 27m 11.05s,-47° 33′ 17.0″,4.46,−0.98,400,B4V,binary star,246.796,-46.445,Normae,Epsilon Normae
+7399,Norma,ι1 Nor,ι1,Iota 1,,,,143474,78662,16h 03m 32.22s,-57° 46′ 29.5″,4.63,1.46,140,A7IV,multiple star,240.883,-56.225,Normae,Iota 1 Normae
+7400,Norma,η Nor,η,Eta,,,,143546,78639,16h 03m 12.86s,-49° 13′ 47.0″,4.65,0.53,218,G8III,,240.800,-48.770,Normae,Eta Normae
+7401,Norma,δ Nor,δ,Delta,,,,144197,78914,16h 06m 29.42s,-45° 10′ 23.8″,4.73,1.84,123,Am,,241.621,-44.827,Normae,Delta Normae
+7402,Norma,μ Nor,μ,Mu,,,,149038,81122,16h 34m 05.02s,-44° 02′ 43.1″,4.91,−5.91,4657,B0Ia,"α Cyg variable, Vmax = 4.87m, Vmin = 4.98m",248.521,-43.955,Normae,Mu Normae
+7403,Norma,κ Nor,κ,Kappa,,,,145397,79509,16h 13m 28.73s,-54° 37′ 49.5″,4.95,−0.69,438,G4III,,243.367,-53.370,Normae,Kappa Normae
+7404,Norma,γ1 Nor,γ1,Gamma 1,,,,146143,79790,16h 17m 00.94s,-50° 04′ 05.2″,4.97,−3.25,1436,F9Ia,,244.250,-49.932,Normae,Gamma 1 Normae
+7405,Norma,θ Nor,θ,Theta,,,,145842,79653,16h 15m 15.35s,-47° 22′ 18.9″,5.13,0.35,295,B8V,,243.813,-46.628,Normae,Theta Normae
+7406,Norma,HD 147152,,HD 147152,,,,147152,80208,16h 22m 28.01s,-49° 34′ 20.2″,5.32,−0.84,556,B6IV,,245.617,-48.428,Normae,HD 147152 Normae
+7407,Norma,QU Nor,,QU,,,QU,148379,80782,16h 29m 42.33s,-46° 14′ 35.6″,5.35,−2.47,1194,B1.5Iap,"α Cyg variable, Vmax = 5.27m, Vmin = 5.41m, P = 4.818 d",247.425,-45.757,Normae,QU Normae
+7408,Norma,HD 139129,,HD 139129,,,,139129,76618,15h 38m 49.50s,-52° 22′ 21.4″,5.43,−0.30,457,B9V,,234.704,-51.628,Normae,HD 139129 Normae
+7409,Norma,λ Nor,λ,Lambda,,,,146667,79963,16h 19m 17.64s,-42° 40′ 26.2″,5.44,−0.34,468,A3Vn,,244.821,-41.326,Normae,Lambda Normae
+7410,Norma,V368 Nor,,V368,,,V368,146003,79754,16h 16m 43.27s,-53° 48′ 40.0″,5.45,−1.51,805,M2IV,semiregular variable,244.179,-52.189,Normae,V368 Normae
+7411,Norma,ι2 Nor,ι2,Iota 2,,,,144480,79153,16h 09m 18.56s,-57° 56′ 03.0″,5.57,0.97,271,B9V,,242.325,-56.066,Normae,Iota 2 Normae
+7412,Norma,HD 145782,,HD 145782,,,,145782,79689,16h 15m 49.81s,-57° 54′ 44.0″,5.61,0.34,370,A5III,suspected variable,243.954,-56.088,Normae,HD 145782 Normae
+7413,Norma,HD 147977,,HD 147977,,,,147977,80675,16h 28m 15.18s,-58° 35′ 59.0″,5.67,−0.92,679,B9III,,247.063,-57.400,Normae,HD 147977 Normae
+7414,Norma,V360 Nor,,V360,,,V360,141318,77645,15h 51m 06.81s,-55° 03′ 19.9″,5.74,−4.51,3663,B2II,α Cyg variable,237.775,-54.945,Normae,V360 Normae
+7415,Norma,HD 146690,,HD 146690,,,,146690,80054,16h 20m 25.23s,-55° 08′ 22.8″,5.76,0.53,363,G6III,,245.104,-54.861,Normae,HD 146690 Normae
+7416,Norma,HD 141168,,HD 141168,,,,141168,77562,15h 50m 07.11s,-53° 12′ 34.8″,5.78,0.55,362,B8V,,237.529,-52.791,Normae,HD 141168 Normae
+7417,Norma,HD 142049,,HD 142049,,,,142049,77990,15h 55m 32.42s,-60° 10′ 38.9″,5.78,2.18,171,Amvar,,238.883,-59.823,Normae,HD 142049 Normae
+7418,Norma,ζ Nor,ζ,Zeta,,,,145361,79497,16h 13m 22.80s,-55° 32′ 27.0″,5.78,1.53,231,F2III,,243.342,-54.459,Normae,Zeta Normae
+7419,Norma,HD 141194,,HD 141194,,,,141194,77541,15h 49m 57.52s,-48° 54′ 44.6″,5.86,1.99,194,A2IV,,237.488,-47.088,Normae,HD 141194 Normae
+7420,Norma,HD 147225,,HD 147225,,,,147225,80212,16h 22m 29.07s,-43° 54′ 43.3″,5.89,−1.63,1042,G2Ib,,245.621,-42.088,Normae,HD 147225 Normae
+7421,Norma,HD 139211,,HD 139211,,,,139211,76716,15h 39m 56.69s,-59° 54′ 28.1″,5.95,3.5,101,F6V,,234.983,-58.092,Normae,HD 139211 Normae
+7422,Norma,HD 141544,,HD 141544,,,,141544,77678,15h 51m 31.52s,-47° 03′ 38.6″,6,0.35,439,K1IV,,237.879,-46.939,Normae,HD 141544 Normae
+7423,Norma,HD 139871,,HD 139871,,,,139871,76935,15h 42m 37.23s,-49° 29′ 22.2″,6.02,0.02,517,K2III,,235.654,-48.511,Normae,HD 139871 Normae
+7424,Norma,V367 Nor,,V367,,,V367,145384,79490,16h 13m 16.97s,-53° 40′ 16.2″,6.03,−4.87,4939,M0III,irregular variable,243.317,-52.329,Normae,V367 Normae
+7425,Norma,HD 140979,,HD 140979,,,,140979,77454,15h 48m 50.42s,-52° 26′ 17.6″,6.05,−0.82,773,K2/K3III,,237.208,-51.562,Normae,HD 140979 Normae
+7426,Norma,V378 Nor,,V378,,,V378,148218,80788,16h 29m 45.22s,-57° 45′ 22.7″,6.09,−2.27,1531,G8Ib,Cepheid variable,247.438,-56.244,Normae,V378 Normae
+7427,Norma,HD 142919,,HD 142919,,,,142919,78355,15h 59m 54.15s,-54° 01′ 15.2″,6.1,−1.88,1289,B5IV,,239.975,-53.979,Normae,HD 142919 Normae
+7428,Norma,HD 141296,,HD 141296,,,,141296,77574,15h 50m 16.28s,-45° 24′ 05.9″,6.11,2.85,147,F0V,,237.567,-44.599,Normae,HD 141296 Normae
+7429,Norma,HD 143101,,HD 143101,,,,143101,78469,16h 01m 06.51s,-54° 34′ 40.1″,6.12,0.43,448,A7III,,240.275,-53.422,Normae,HD 143101 Normae
+7430,Norma,HD 145921,,HD 145921,,,,145921,79661,16h 15m 23.98s,-42° 53′ 57.9″,6.14,1.76,245,K2III,,243.846,-41.101,Normae,HD 145921 Normae
+7431,Norma,HD 144183,,HD 144183,,,,144183,78989,16h 07m 24.09s,-56° 11′ 27.4″,6.16,−1.81,1278,F2II,,241.850,-55.809,Normae,HD 144183 Normae
+7432,Norma,T Nor,,T,,,T,140041,77058,15h 44m 03.84s,-54° 59′ 12.5″,6.2,,903,M4+B,"Mira variable, Vmax = 6.2m, Vmin = 13.6m, P = 244 d",236.013,-53.013,Normae,T Normae
+7433,Norma,HD 146145,,HD 146145,,,,146145,79812,16h 17m 20.97s,-53° 05′ 10.6″,6.3,1.85,253,A7V,,244.333,-52.914,Normae,HD 146145 Normae
+7434,Norma,HD 142529,,HD 142529,,,,142529,78117,15h 57m 03.95s,-48° 09′ 42.9″,6.31,2.84,161,F1IV,,239.263,-47.838,Normae,HD 142529 Normae
+7435,Norma,HD 147614,,HD 147614,,,,147614,80421,16h 24m 54.14s,-45° 20′ 58.1″,6.32,1.51,299,A2/A3V,,246.225,-44.651,Normae,HD 147614 Normae
+7436,Norma,HD 143321,,HD 143321,,,,143321,78540,16h 02m 04.49s,-51° 07′ 14.6″,6.38,−0.35,723,B5V,,240.517,-50.879,Normae,HD 143321 Normae
+7437,Norma,HD 143548,,HD 143548,,,,143548,78710,16h 04m 06.20s,-59° 10′ 34.2″,6.4,−3.10,2587,K1II/III,,241.025,-58.824,Normae,HD 143548 Normae
+7438,Norma,HD 146059,,HD 146059,,,,146059,79787,16h 16m 58.99s,-53° 41′ 45.5″,6.4,2.11,236,G5V,,244.242,-52.304,Normae,HD 146059 Normae
+7439,Norma,HD 140274,,HD 140274,,,,140274,77138,15h 44m 59.61s,-50° 47′ 07.5″,6.41,1.44,321,A3V,,236.246,-49.215,Normae,HD 140274 Normae
+7440,Norma,S Nor,,S,,,S,146323,79932,16h 18m 51.82s,-57° 53′ 59.2″,6.45,−3.18,2741,F9Ib,"Cepheid variable, Vmax = 6.12m, Vmin = 6.77m, P = 9.75411 d; member of the NGC 6087 star cluster",244.713,-56.100,Normae,S Normae
+7441,Norma,HD 139915,,HD 139915,,,,139915,77042,15h 43m 55.28s,-60° 17′ 13.9″,6.46,−1.62,1347,G0Ib,,235.979,-59.713,Normae,HD 139915 Normae
+7442,Norma,QY Nor,,QY,,,QY,143658,78731,16h 04m 21.32s,-53° 42′ 37.2″,6.46,−1.08,1048,B9II/IIIp..,"α² CVn variable, ΔV = 0.014m, P = 5.2 d",241.088,-52.290,Normae,QY Normae
+7443,Norma,HD 148937,,HD 148937,,,,148937,81180,16h 33m 52.39s,-48° 06′ 40.5″,6.71,,1390,O5.5-6f?p,spectroscopic binary; misclassified as a planetary nebula,248.467,-47.889,Normae,HD 148937 Normae
+7444,Norma,HD 142415,,HD 142415,,,,142415,78169,15h 57m 40.79s,-60° 12′ 00.9″,7.34,4.65,113,G1V,has a planet (b),239.417,-59.800,Normae,HD 142415 Normae
+7445,Norma,HD 148156,,HD 148156,,,,148156,80680,16h 28m 17.28s,-46° 19′ 03.4″,7.71,4.09,173,G1V,has a planet (b),247.071,-45.683,Normae,HD 148156 Normae
+7446,Norma,HD 139084,,V343,,,V343,139084,76629,15h 38m 57.54s,-57° 42′ 27.3″,7.98,,125.6,K0V,"T Tauri star, ΔV = 0.092m, P = 4.29 d",234.738,-56.293,Normae,V343 Normae
+7447,Norma,R Nor,,R,,,R,138743,76377,15h 35m 57.35s,-49° 30′ 28.6″,8,1.55,635,M3e,"Mira variable, Vmax = 6.5m, Vmin = 13.9m, P = 507.5 d",233.988,-48.492,Normae,R Normae
+7448,Norma,IM Nor,,IM,,,IM,,,15h 39m 26.46s,-52° 19′ 18.0″,8.5,,,,"recurrent nova and eclipsing binary, Vmax = 8.5m, Vmin = 18.5m, P = 0.10263312 d",234.858,-51.678,Normae,IM Normae
+7449,Norma,QZ Nor,,QZ,,,QZ,144972,,16h 11m 20.46s,-54° 21′ 14.8″,8.71,,,F6Iab:,"Cepheid variable, Vmax = 8.71m, Vmin = 9.03m, P = 3.786008 d",242.833,-53.646,Normae,QZ Normae
+7450,Norma,HD 143361,,HD 143361,,,,143361,78521,16h 01m 50.35s,-44° 26′ 04.3″,9.16,5.29,194,G6V,has a planet (b),240.458,-43.566,Normae,HD 143361 Normae
+7451,Norma,HD 330075,,HD 330075,,,,330075,77517,15h 49m 37.69s,-49° 57′ 48.7″,9.36,5.86,164,G5,has a planet (b),237.404,-48.037,Normae,HD 330075 Normae
+7452,Norma,RS Nor,,RS,,,RS,,78797,16h 05m 09.96s,-53° 55′ 09.9″,10.09,,1240,F6,"Cepheid variable, Vmax = 9.62m, Vmin = 10.39m, P = 6.19814 d",241.288,-52.081,Normae,RS Normae
+7453,Norma,RT Nor,,RT,,,RT,,80365,16h 24m 18.65s,-59° 20′ 38.7″,10.6,,,R,"R CrB variable, Vmax = 9.8m, Vmin = 14.7m",246.075,-58.656,Normae,RT Normae
+7454,Norma,RZ Nor,,RZ,,,RZ,,,16h 32m 41.66s,-53° 15′ 33.2″,10.63,,,,"R CrB variable, Vmax = 10.2m, Vmin = <16.2m, P = 36.8 d",248.171,-52.741,Normae,RZ Normae
+7455,Norma,TW Nor,,TW,,,TW,,78771,16h 04m 55.22s,-51° 57′ 12.7″,11.17,,,,"Cepheid variable, Vmax = 11.17m, Vmin = 12.22m, P = 10.78618 d",241.229,-50.047,Normae,TW Normae
+7456,Norma,HD 330036,,HD 330036,,,,330036,77662,15h 51m 15.93s,-48° 44′ 58.4″,11.28,,2230,FIII-IV,Emission-line star; misclassified as a planetary nebula,237.813,-47.251,Normae,HD 330036 Normae
+7457,Norma,V346 Nor,,V346,,,V346,,,16h 32m 32.19s,-44° 55′ 30.7″,16.3,,,,"FU Ori variable, Vmax = 16.3m, Vmin = 17.23m",248.133,-43.075,Normae,V346 Normae
+7458,Norma,XTE J1550-564,,V381,,,V381,,,15h 50m 58.78s,-56° 28′ 35.0″,16.6,,,K3III,"X-ray nova, Vmax = 15.6m, Vmin = <21.4m, P = 1.5420333 d",237.742,-55.524,Normae,V381 Normae
+7459,Norma,Hen 2-147,,V347,,,V347,,,16h 14m 01.10s,-56° 59′ 28.0″,,,,M8/9e,Mira variable; misclassified as a planetary nebula,243.504,-55.009,Normae,V347 Normae
+7460,Norma,1E 161348-5055,, ,,,,,,16h 17m 30.00s,-51° 02′ 00.00″,,,10000,,unusual neutron star in RCW 103,244.375,-50.967,Normae,  Normae
+7461,Norma,SGR J1550-5418,, ,,,,,,15h 50m 54.11s,-54° 18′ 23.7″,,,30000,,soft gamma repeater,237.725,-53.694,Normae,  Normae
+7462,Norma,4U 1538-52,,QV,,,QV,,,15h 42m 23.36s,-52° 23′ 09.6″,,,,B0Iab,X-ray pulsar,235.596,-51.614,Normae,QV Normae
+7463,Norma,4U 1608-52,,QX,,,QX,,,16h 12m 43.0s,-52° 25′ 23.00″,,,,,"X-ray burster, Vmax = 11.17m, Vmin = 12.22m, P = 10.78618 d",243.179,-51.583,Normae,QX Normae
+7464,Norma,4U 1624-490,, ,,,,,,16h 28m 02.83s,-49° 11′ 54.6″,,,,,Low-mass X-ray binary,247.008,-48.802,Normae,  Normae
+7465,Norma,4U 1630-47,, ,,,,,,16h 34m 01.61s,-47° 23′ 34.8″,,,,,Low-mass X-ray binary,248.504,-46.607,Normae,  Normae

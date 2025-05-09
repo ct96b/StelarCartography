@@ -1,0 +1,135 @@
+USID,Constellation,Name,B,B->F->VAR->G,F,G.,Var,HD,HIP,RA,Dec,"vis. mag.","abs. mag.",Dist. (ly),Sp. class,Notes https://en.wikipedia.org/wiki/Lists_of_stars_by_constellation,RA angle,Dec Angle,Latin Constellation,Full Designation
+9966,Serpens,α Ser,α,Alpha,24,21 Cap,,140573,77070,15h 44m 16.00s,+06° 25′ 31.9″,2.63,0.87,73,K2III,"Unukalhai, Unukalhay, Unuk al Hay, Unuk Elhai, Unuk, Cor Serpentis",236.067,6.425,Serpentis,Alpha Serpentis
+9967,Serpens,η Ser,η,Eta,58,34 Cau,,168723,89962,18h 21m 18.92s,-02° 53′ 49.6″,3.23,1.84,62,K0III-IV,"Donghai, Tung Hae[2]",275.325,-1.103,Serpentis,Eta Serpentis
+9968,Serpens,μ Ser,μ,Mu,32,27 Cap,,141513,77516,15h 49m 37.27s,-03° 25′ 48.5″,3.54,0.14,156,A0V,Tiānrǔ (天乳)[3],237.404,-2.570,Serpentis,Mu Serpentis
+9969,Serpens,ξ Ser,ξ,Xi,55,8 Cau,,159876,86263,17h 37m 35.23s,-15° 23′ 54.3″,3.54,0.99,105,F0IIIp,"Nanhai, Nan Hae[2]",264.396,-14.602,Serpentis,Xi Serpentis
+9970,Serpens,β Ser,β,Beta,28,,,141003,77233,15h 46m 11.21s,+15° 25′ 18.9″,3.65,0.29,153,A3V,Chow,236.546,15.422,Serpentis,Beta Serpentis
+9971,Serpens,ε Ser,ε,Epsilon,37,29 Cap,,141795,77622,15h 50m 48.89s,+04° 28′ 39.3″,3.71,2.04,70,A2m,"Ba, Pa,[2] component of the δ Ser system; quadruple star; Delta Scuti-type variable star",237.700,4.478,Serpentis,Epsilon Serpentis
+9972,Serpens,γ Ser,γ,Gamma,41,,,142860,78072,15h 56m 26.99s,+15° 39′ 53.0″,5.2,3.62,36,F6V,"Ainalhai, Zheng, Ching[2]",239.108,15.665,Serpentis,Gamma Serpentis
+9973,Serpens,κ Ser,κ,Kappa,35,,,141477,77450,15h 48m 44.41s,+18° 08′ 30.4″,4.09,−1.05,348,M1III,Gudja[4],237.183,18.142,Serpentis,Kappa Serpentis
+9974,Serpens,δ Ser A,δ,Delta,13,,,138917,76276,15h 34m 48.19s,+10° 32′ 19.9″,3.8,−0.24,210,F0IV,quadruple star; Delta Scuti-type variable star,233.700,10.539,Serpentis,Delta Serpentis
+9975,Serpens,ο Ser,ο,Omicron,56,11 Cau,,160613,86565,17h 41m 24.92s,-12° 52′ 30.6″,4.24,0.68,168,A2Va,Delta Scuti-type variable star,265.350,-11.125,Serpentis,Omicron Serpentis
+9976,Serpens,ν Ser,ν,Nu,53,1 Cau,,156928,84880,17h 20m 49.64s,-12° 50′ 48.8″,4.32,0.45,193,A0/A1V,,260.204,-11.153,Serpentis,Nu Serpentis
+9977,Serpens,λ Ser,λ,Lambda,27,25 Cap,,141004,77257,15h 46m 26.75s,+07° 21′ 11.7″,4.42,4.07,38,G0Vvar,,236.608,7.353,Serpentis,Lambda Serpentis
+9978,Serpens,ι Ser,ι,Iota,21,,,140159,76852,15h 41m 33.09s,+19° 40′ 13.8″,4.51,0.66,192,A1V,,235.388,19.670,Serpentis,Iota Serpentis
+9979,Serpens,ζ Ser,ζ,Zeta,57,17 Cau,,164259,88175,18h 00m 28.92s,-03° 41′ 24.6″,4.62,2.79,76,F3V,,270.117,-2.310,Serpentis,Zeta Serpentis
+9980,Serpens,θ1 Ser,θ1,Theta 1,63,71 Cau,,175638,92946,18h 56m 13.16s,+04° 12′ 12.7″,4.62,1.59,132,A5V,"Alya, Alga, Dzaneb al Haiyet, Cauda Serpentis[5]",284.054,4.203,Serpentis,Theta 1 Serpentis
+9981,Serpens,ρ Ser,ρ,Rho,38,,,141992,77661,15h 51m 15.94s,+20° 58′ 40.4″,4.74,−0.68,395,K5III,,237.813,20.978,Serpentis,Rho Serpentis
+9982,Serpens,π Ser,π,Pi,44,,,143894,78554,16h 02m 17.69s,+22° 48′ 15.8″,4.82,1.15,177,A3V,,240.571,22.804,Serpentis,Pi Serpentis
+9983,Serpens,σ Ser,σ,Sigma,50,49 Cap,,147449,80179,16h 22m 04.44s,+01° 01′ 44.1″,4.82,2.64,89,F0V,,245.517,1.029,Serpentis,Sigma Serpentis
+9984,Serpens,θ2 Ser,θ2,Theta 2,63,72 Cau,,175639,92951,18h 56m 14.61s,+04° 12′ 07.4″,4.98,1.77,143,A5Vn,,284.058,4.202,Serpentis,Theta 2 Serpentis
+9985,Serpens,5 Ser,,5,5,9 Cap,MQ,136202,74975,15h 19m 18.58s,+01° 46′ 00.0″,5.04,3.08,81,F8III-IV,MQ Ser; BY Draconis variable,229.825,1.767,Serpentis,5 Serpentis
+9986,Serpens,b Ser,b,B,36,30 Cap,,141851,77660,15h 51m 15.65s,-03° 05′ 25.5″,5.09,1.65,159,A3Vn,,237.813,-2.910,Serpentis,B Serpentis
+9987,Serpens,10 Ser,,10,10,13 Cap,,137898,75761,15h 28m 38.29s,+01° 50′ 31.8″,5.15,2.28,122,A8IV,,232.158,1.842,Serpentis,10 Serpentis
+9988,Serpens,τ1 Ser,τ1,Tau 1,9,,,137471,75530,15h 25m 47.41s,+15° 25′ 41.0″,5.16,−2.09,918,M1III,,231.446,15.428,Serpentis,Tau 1 Serpentis
+9989,Serpens,R Ser,,R,,,R,141850,,15h 50m 41.70s,+15° 08′ 01.0″,5.2,,,,Mira variable,237.671,15.134,Serpentis,R Serpentis
+9990,Serpens,d Ser,d,D,59,,,169986,,18h 27m 12.20s,+00° 11′ 48.0″,5.2,,470,,,276.800,0.197,Serpentis,D Serpentis
+9991,Serpens,d Ser,d,D,59,41 Cau,,169985,90441,18h 27m 12.51s,+00° 11′ 46.1″,5.2,−0.63,479,G0III+...,,276.800,0.196,Serpentis,D Serpentis
+9992,Serpens,δ Ser B,δ,Delta,13,,,138918,,15h 34m 48.10s,+10° 32′ 21.0″,4.2,,210,F0IV,,233.700,10.539,Serpentis,Delta Serpentis
+9993,Serpens,ω Ser,ω,Omega,34,28 Cap,,141680,77578,15h 50m 17.53s,+02° 11′ 47.8″,5.21,0.68,263,G8III,has a planet (b),237.571,2.196,Serpentis,Omega Serpentis
+9994,Serpens,16 Ser,,16,16,,,139195,76425,15h 36m 29.55s,+10° 00′ 37.6″,5.26,0.97,235,K0p,,234.121,10.010,Serpentis,16 Serpentis
+9995,Serpens,3 Ser,,3,3,2 Cap,,135482,74649,15h 15m 11.37s,+04° 56′ 21.7″,5.32,−0.46,467,K0III,,228.796,4.939,Serpentis,3 Serpentis
+9996,Serpens,χ Ser,χ,Chi,20,,,140160,76866,15h 41m 47.39s,+12° 50′ 51.1″,5.34,1.11,228,A0p Sr,α2 CVn-type variable star,235.446,12.848,Serpentis,Chi Serpentis
+9997,Serpens,6 Ser,,6,6,11 Cap,,136514,75119,15h 21m 02.02s,+00° 42′ 56.1″,5.35,0.98,244,K3III,,230.258,0.716,Serpentis,6 Serpentis
+9998,Serpens,c Ser,c,C,60,45 Cau,,170474,90642,18h 29m 40.96s,-01° 59′ 06.8″,5.38,1.08,236,K0III,,277.417,-0.015,Serpentis,C Serpentis
+9999,Serpens,A2 Ser,A2,A2,25,24 Cap,PT,140873,77227,15h 46m 05.65s,-01° 48′ 14.8″,5.39,−0.10,408,B8III,PT Ser,236.521,-0.196,Serpentis,A2 Serpentis
+10000,Serpens,43 G. Ser Cap,,43 Cap G,,43 Cap,,145206,79195,16h 09m 50.53s,-03° 28′ 00.2″,5.39,−0.51,494,K4III,,242.458,-2.533,Serpentis,43 Cap G Serpentis
+10001,Serpens,32 G. Ser Cau,,32 Cau G,,32 Cau,,168415,89851,18h 20m 08.77s,-15° 49′ 53.8″,5.39,−0.41,470,K3III,,275.033,-14.169,Serpentis,32 Cau G Serpentis
+10002,Serpens,QY Ser,,QY,,,QY,142574,77902,15h 54m 34.66s,+20° 18′ 39.1″,5.45,−0.88,601,M0III,,238.642,20.311,Serpentis,QY Serpentis
+10003,Serpens,A1 Ser,A1,A1,11,15 Cap,,138562,76133,15h 32m 57.95s,-01° 11′ 10.7″,5.5,0.91,270,K0III,,233.238,-0.814,Serpentis,A1 Serpentis
+10004,Serpens,φ Ser,φ,Phi,,,,142980,78132,15h 57m 14.64s,+14° 24′ 51.4″,5.54,1.33,227,K1IV,,239.308,14.414,Serpentis,Phi Serpentis
+10005,Serpens,6 G. Ser Cau,,6 Cau G,,6 Cau,,159358,86019,17h 34m 46.35s,-11° 14′ 31.2″,5.54,0.23,377,B8Vn,,263.692,-10.758,Serpentis,6 Cau G Serpentis
+10006,Serpens,64 Ser,,64,64,74 Cau,,175869,93051,18h 57m 16.59s,+02° 32′ 07.4″,5.56,−2.08,1101,B9IIIp...,,284.317,2.535,Serpentis,64 Serpentis
+10007,Serpens,22 G. Ser Cap,,22 Cap G,,22 Cap,,140775,77163,15h 45m 23.47s,+05° 26′ 50.4″,5.57,0.21,384,A1V,,236.346,5.447,Serpentis,22 Cap G Serpentis
+10008,Serpens,4 Ser,,4,4,3 Cap,,135559,74689,15h 15m 49.14s,+00° 22′ 19.6″,5.62,2.15,161,A4V,,228.954,0.372,Serpentis,4 Serpentis
+10009,Serpens,45 Ser,,45,45,,,144874,79007,16h 07m 37.55s,+09° 53′ 30.3″,5.63,1.05,269,A7V,,241.904,9.892,Serpentis,45 Serpentis
+10010,Serpens,,,HD 136138,,,,136138,74896,15h 18m 24.51s,+20° 34′ 22.1″,5.68,0.93,290,G5IV,,229.600,20.573,Serpentis,HD 136138 Serpentis
+10011,Serpens,47 Ser,,47,47,39 Cap,FS,145002,79072,16h 08m 28.08s,+08° 32′ 03.6″,5.69,−0.52,568,M3.5IIIa,FS Ser,242.117,8.534,Serpentis,47 Serpentis
+10012,Serpens,υ Ser,υ,Upsilon,31,,,141187,77336,15h 47m 17.35s,+14° 06′ 55.0″,5.71,1.27,252,A3V,,236.821,14.115,Serpentis,Upsilon Serpentis
+10013,Serpens,44 G. Ser Cau,,44 Cau G,,44 Cau,,170200,90497,18h 27m 58.77s,+06° 11′ 39.0″,5.71,−1.07,739,B8III-IV,,276.992,6.194,Serpentis,44 Cau G Serpentis
+10014,Serpens,10 G. Ser Cau,,10 Cau G,,10 Cau,,160018,86313,17h 38m 09.51s,-10° 55′ 34.5″,5.74,0.16,425,K0III,,264.538,-9.074,Serpentis,10 Cau G Serpentis
+10015,Serpens,20 G. Ser Cau,,20 Cau G,,20 Cau,,165438,88684,18h 06m 15.11s,-04° 45′ 04.2″,5.74,3.02,114,K1IV,,271.563,-3.249,Serpentis,20 Cau G Serpentis
+10016,Serpens,e Ser,e,E,,57 Cau,,171978,91322,18h 37m 35.95s,-00° 18′ 33.9″,5.76,−0.72,644,A2V,,279.396,0.309,Serpentis,E Serpentis
+10017,Serpens,τ7 Ser,τ7,Tau 7,22,,,140232,76878,15h 41m 54.76s,+18° 27′ 50.0″,5.8,2.17,174,A2m,,235.475,18.464,Serpentis,Tau 7 Serpentis
+10018,Serpens,3 Her,,3,-3,34 Cap,,143553,78442,16h 00m 51.16s,+04° 25′ 37.8″,5.82,1.49,239,K0III:,,240.213,4.427,Serpentis,3 Serpentis
+10019,Serpens,66 G. Ser Cau,,66 Cau G,,66 Cau,,173495,92027,18h 45m 28.36s,+05° 30′ 00.4″,5.82,−0.87,709,A1V,,281.367,5.500,Serpentis,66 Cau G Serpentis
+10020,Serpens,19 G. Ser Cau,,19 Cau G,,19 Cau,,165402,88670,18h 06m 07.40s,-08° 19′ 26.1″,5.84,−0.37,570,B8III-IV,,271.529,-7.676,Serpentis,19 Cau G Serpentis
+10021,Serpens,ψ Ser,ψ,Psi,23,20 Cap,,140538,77052,15h 44m 01.85s,+02° 30′ 55.9″,5.86,5.03,48,G5V,Triple star; solar analog,236.004,2.515,Serpentis,Psi Serpentis
+10022,Serpens,6 G. Ser Cap,,6 Cap G,,6 Cap,,136028,74901,15h 18m 26.13s,-00° 27′ 40.5″,5.88,−1.51,979,K5III,,229.608,0.461,Serpentis,6 Cap G Serpentis
+10023,Serpens,FL Ser,,FL,,,FL,134943,74386,15h 12m 04.27s,+18° 58′ 33.6″,5.9,−1.13,830,M4III,,228.017,18.976,Serpentis,FL Serpentis
+10024,Serpens,τ5 Ser,τ5,Tau 5,18,,,139225,76424,15h 36m 29.20s,+16° 07′ 08.8″,5.93,2.48,160,F3V,,234.121,16.119,Serpentis,Tau 5 Serpentis
+10025,Serpens,41 G. Ser Cap,,41 Cap G,,41 Cap,,145085,79120,16h 08m 58.90s,+03° 27′ 16.0″,5.93,0.33,430,K5III,,242.242,3.454,Serpentis,41 Cap G Serpentis
+10026,Serpens,42 G. Ser Cap,,42 Cap G,,42 Cap,,145148,79137,16h 09m 11.06s,+06° 22′ 49.8″,5.93,3.51,99,K1+...,,242.296,6.380,Serpentis,42 Cap G Serpentis
+10027,Serpens,13 G. Ser Cau,,13 Cau G,,13 Cau,,161701,87074,17h 47m 36.79s,-14° 43′ 32.8″,5.93,−0.04,510,B9V,,266.900,-13.274,Serpentis,13 Cau G Serpentis
+10028,Serpens,16 G. Ser Cau,,16 Cau G,,16 Cau,,163336,87813,17h 56m 19.04s,-15° 48′ 44.5″,5.93,1.52,249,A0V,,269.079,-14.188,Serpentis,16 Cau G Serpentis
+10029,Serpens,61 Ser,,61,61,48 Cau,,170920,90844,18h 31m 56.99s,-01° 00′ 10.7″,5.93,−0.28,570,A4III,,277.983,-0.997,Serpentis,61 Serpentis
+10030,Serpens,9 G. Ser Cau,,9 Cau G,,9 Cau,,159877,86266,17h 37m 36.20s,-15° 34′ 15.7″,5.94,−3.63,2672,F0IV,,264.400,-14.429,Serpentis,9 Cau G Serpentis
+10031,Serpens,,,HD 141353,,,,141353,77412,15h 48m 13.31s,+13° 47′ 21.6″,5.98,0.33,440,K2III,,237.054,13.789,Serpentis,HD 141353 Serpentis
+10032,Serpens,28 G. Ser Cau,,28 Cau G,,28 Cau,,167768,89587,18h 16m 53.09s,-03° 00′ 24.3″,5.99,0.97,329,G3III,,274.221,-2.993,Serpentis,28 Cau G Serpentis
+10033,Serpens,τ6 Ser,τ6,Tau 6,19,,,140027,76810,15h 40m 59.09s,+16° 01′ 28.7″,6,0.3,450,G8III,,235.246,16.024,Serpentis,Tau 6 Serpentis
+10034,Serpens,,,HD 137853,,,,137853,75674,15h 27m 38.87s,+25° 06′ 06.0″,6.01,−0.90,786,M1III,,231.908,25.102,Serpentis,HD 137853 Serpentis
+10035,Serpens,,,HD 139087,,,,139087,76372,15h 35m 53.39s,+11° 15′ 56.5″,6.04,−0.64,706,K0III:,,233.971,11.266,Serpentis,HD 139087 Serpentis
+10036,Serpens,39 Ser,,39,39,,,142267,77801,15h 53m 12.19s,+13° 11′ 52.8″,6.07,4.86,57,G0IV,,238.300,13.198,Serpentis,39 Serpentis
+10037,Serpens,43 Ser,,43,43,35 Cap,,144046,78685,16h 03m 45.71s,+04° 59′ 12.5″,6.07,0.68,389,G9III,,240.938,4.987,Serpentis,43 Serpentis
+10038,Serpens,τ3 Ser,τ3,Tau 3,15,,,139074,76337,15h 35m 33.28s,+17° 39′ 20.1″,6.1,0.58,414,G8III:,,233.888,17.656,Serpentis,Tau 3 Serpentis
+10039,Serpens,8 Ser,,8,8,12 Cap,,137006,75342,15h 23m 43.67s,-01° 01′ 20.3″,6.11,2.41,179,F0V,,230.929,-0.978,Serpentis,8 Serpentis
+10040,Serpens,NW Ser,,NW,,35 Cau,NW,168797,89977,18h 21m 28.40s,+05° 26′ 08.7″,6.14,−3.93,3361,B3Ve,Be star,275.367,5.436,Serpentis,NW Serpentis
+10041,Serpens,73 G. Ser Cau,,73 Cau G,,73 Cau,,175679,92968,18h 56m 25.60s,+02° 28′ 16.3″,6.14,0.11,523,G8III,,284.104,2.471,Serpentis,73 Cau G Serpentis
+10042,Serpens,τ8 Ser,τ8,Tau 8,26,,,140729,77111,15h 44m 42.15s,+17° 15′ 51.2″,6.15,1.18,321,A0V,,236.175,17.264,Serpentis,Tau 8 Serpentis
+10043,Serpens,,,HD 144889,,,,144889,78985,16h 07m 22.19s,+21° 49′ 21.8″,6.15,−0.05,566,K4III,,241.842,21.823,Serpentis,HD 144889 Serpentis
+10044,Serpens,37 G. Ser Cau,,37 Cau G,,37 Cau,,169493,90253,18h 24m 57.21s,-01° 34′ 45.9″,6.15,0.54,432,F1V,,276.238,-0.421,Serpentis,37 Cau G Serpentis
+10045,Serpens,14 G. Ser Cau,,14 Cau G,,14 Cau,,162757,87540,17h 53m 03.51s,-10° 53′ 58.2″,6.17,1.56,273,K1III:,,268.263,-9.101,Serpentis,14 Cau G Serpentis
+10046,Serpens,47 Oph,,47,(47)[6],5 Cau,,157968,85397,17h 27m 02.12s,-12° 30′ 44.4″,6.2,2.92,148,F7V,,261.758,-11.488,Serpentis,47 Serpentis
+10047,Serpens,67 G. Ser Cau,,67 Cau G,,67 Cau,,173954,92254,18h 48m 02.67s,+04° 14′ 29.0″,6.2,−0.97,886,K5,,282.008,4.241,Serpentis,67 Cau G Serpentis
+10048,Serpens,,,HD 142357,,,,142357,77835,15h 53m 34.86s,+16° 04′ 30.0″,6.21,1.48,288,F5II-III,,238.392,16.075,Serpentis,HD 142357 Serpentis
+10049,Serpens,τ2 Ser,τ2,Tau 2,12,,,138527,76069,15h 32m 09.68s,+16° 03′ 22.1″,6.22,0.61,431,B9V,,233.038,16.056,Serpentis,Tau 2 Serpentis
+10050,Serpens,,,HD 139862,,,,139862,76733,15h 40m 10.36s,+12° 03′ 10.6″,6.22,−1.34,1058,G8II,,235.042,12.053,Serpentis,HD 139862 Serpentis
+10051,Serpens,,,HD 137510,,,,137510,75535,15h 25m 53.30s,+19° 28′ 50.6″,6.26,3.16,136,G0V,,231.471,19.481,Serpentis,HD 137510 Serpentis
+10052,Serpens,,,HD 142763,,,,142763,77995,15h 55m 39.86s,+18° 37′ 14.8″,6.26,−2.26,1646,B8III,,238.913,18.621,Serpentis,HD 142763 Serpentis
+10053,Serpens,38 G. Ser Cap,,38 Cap G,,38 Cap,,144426,78840,16h 05m 37.93s,+08° 05′ 46.5″,6.27,0.81,402,A3m,,241.404,8.096,Serpentis,38 Cap G Serpentis
+10054,Serpens,40 Ser,,40,40,32 Cap,FP,142500,77910,15h 54m 40.27s,+08° 34′ 49.2″,6.28,1.94,241,A7Vn,FP Ser; Delta Scuti-type,238.667,8.580,Serpentis,40 Serpentis
+10055,Serpens,7 Ser,,7,7,,,136831,75230,15h 22m 23.24s,+12° 34′ 03.1″,6.29,0.62,445,A0V,,230.596,12.568,Serpentis,7 Serpentis
+10056,Serpens,,,HD 142244,,,,142244,77782,15h 52m 56.15s,+17° 24′ 11.4″,6.29,0.43,485,K0,,238.233,17.403,Serpentis,HD 142244 Serpentis
+10057,Serpens,29 G. Ser Cau,,29 Cau G,,29 Cau,,167833,89623,18h 17m 24.16s,-09° 45′ 30.5″,6.29,0.69,430,A8V,,274.350,-8.242,Serpentis,29 Cau G Serpentis
+10058,Serpens,,,HD 135263,,,,135263,74505,15h 13m 31.84s,+22° 58′ 59.4″,6.31,1.63,282,A2V,,228.379,22.983,Serpentis,HD 135263 Serpentis
+10059,Serpens,23 G. Ser Cap,,23 Cap G,,23 Cap,,140815,77186,15h 45m 39.50s,+00° 53′ 27.8″,6.32,−0.07,619,K0III,,236.413,0.891,Serpentis,23 Cap G Serpentis
+10060,Serpens,21 G. Ser Cau,,21 Cau G,,21 Cau,,165462,88671,18h 06m 07.44s,-00° 26′ 46.0″,6.32,0.36,507,G8IIp,,271.529,0.446,Serpentis,21 Cau G Serpentis
+10061,Serpens,10 G. Ser Cap,,10 Cap G,,10 Cap,,136442,75101,15h 20m 47.17s,-02° 24′ 46.5″,6.34,3.5,120,K0V,,230.196,-1.587,Serpentis,10 Cap G Serpentis
+10062,Serpens,27 G. Ser Cau,,27 Cau G,,27 Cau,,167564,89512,18h 15m 57.93s,-03° 37′ 04.7″,6.35,0.55,472,A4V,,273.988,-2.382,Serpentis,27 Cau G Serpentis
+10063,Serpens,,,HD 136643,,,,136643,75125,15h 21m 06.90s,+24° 57′ 29.0″,6.36,0.2,555,K0,,230.275,24.958,Serpentis,HD 136643 Serpentis
+10064,Serpens,12 G. Ser Cau,,12 Cau G,,12 Cau,,161023,86769,17h 43m 48.45s,-13° 30′ 30.3″,6.36,3.21,139,F0V,,265.950,-12.492,Serpentis,12 Cau G Serpentis
+10065,Serpens,36 G. Ser Cau,,36 Cau G,,36 Cau,,169268,90174,18h 24m 03.60s,-03° 34′ 58.9″,6.36,2.25,216,F6III-IV,,276.013,-2.417,Serpentis,36 Cau G Serpentis
+10066,Serpens,63 G. Ser Cau,,63 Cau G,,63 Cau,,172365,91499,18h 39m 36.88s,+05° 15′ 51.4″,6.36,−1.25,1087,F8Ib-II,,279.900,5.264,Serpentis,63 Cau G Serpentis
+10067,Serpens,,,HD 138085,,,,138085,75810,15h 29m 12.14s,+16° 23′ 43.7″,6.38,0.45,499,G8III-IV,,232.300,16.395,Serpentis,HD 138085 Serpentis
+10068,Serpens,24 G. Ser Cau,,24 Cau G,,24 Cau,,166103,88981,18h 09m 43.37s,-13° 56′ 03.9″,6.38,−0.18,669,K1II,,272.429,-12.066,Serpentis,24 Cau G Serpentis
+10069,Serpens,MV Ser,,MV,,49 Cau,MV,170973,90858,18h 32m 06.88s,+03° 39′ 34.5″,6.41,−1.41,1194,A0sp...,α2 CVn-type variable star,278.025,3.659,Serpentis,MV Serpentis
+10070,Serpens,45 G. Ser Cap,,45 Cap G,,45 Cap,,145936,79522,16h 13m 38.63s,-01° 28′ 30.5″,6.45,1.46,324,K0,,243.408,-0.525,Serpentis,45 Cap G Serpentis
+10071,Serpens,2 G. Ser Cau,,2 Cau G,,2 Cau,,156971,84883,17h 20m 52.60s,-10° 41′ 46.9″,6.46,3.09,154,F1III+...,,260.217,-9.304,Serpentis,2 Cau G Serpentis
+10072,Serpens,4 G. Ser Cap,,4 Cap G,,4 Cap,,135615,74695,15h 15m 53.57s,+06° 27′ 53.6″,6.47,−1.38,1212,K0,,228.971,6.465,Serpentis,4 Cap G Serpentis
+10073,Serpens,FQ Ser,,FQ,,40 Cap,FQ,145050,79086,16h 08m 36.53s,+08° 36′ 47.7″,6.47,0.69,468,M4III,,242.150,8.613,Serpentis,FQ Serpentis
+10074,Serpens,FR Ser,,FR,,51 Cau,FR,171586,91142,18h 35m 36.48s,+04° 56′ 09.8″,6.47,1.41,335,A2pvar,α2 CVn-type variable star,278.900,4.936,Serpentis,FR Serpentis
+10075,Serpens,,,HD 140438,,,,140438,76985,15h 43m 10.54s,+13° 40′ 03.9″,6.48,0.05,629,G5III,,235.792,13.668,Serpentis,HD 140438 Serpentis
+10076,Serpens,4 G. Ser Cau,,4 Cau G,,4 Cau,,157969,85405,17h 27m 09.89s,-15° 51′ 12.0″,6.48,0.7,466,K0II/III,,261.788,-14.147,Serpentis,4 Cau G Serpentis
+10077,Serpens,,,HD 138803,,,,138803,76198,15h 33m 52.74s,+17° 08′ 14.9″,6.49,2.5,205,F3III,,233.467,17.137,Serpentis,HD 138803 Serpentis
+10078,Serpens,60 G. Ser Cau,,60 Cau G,,60 Cau,,172088,91394,18h 38m 23.80s,-03° 11′ 37.4″,6.49,3,163,F9IV,,279.596,-2.806,Serpentis,60 Cau G Serpentis
+10079,Serpens,,,HD 135061,,,,135061,74441,15h 12m 47.19s,+10° 42′ 08.9″,6.5,−0.06,669,K2,,228.196,10.702,Serpentis,HD 135061 Serpentis
+10080,Serpens,5 G. Ser Cap,,5 Cap G,,5 Cap,,136027,74895,15h 18m 22.62s,+00° 56′ 22.0″,6.5,0.89,432,K0,,229.592,0.939,Serpentis,5 Cap G Serpentis
+10081,Serpens,48 G. Ser Cap,,48 Cap G,,48 Cap,,146740,79834,16h 17m 43.37s,+01° 29′ 48.2″,6.5,0.18,598,K0,,244.429,1.497,Serpentis,48 Cap G Serpentis
+10082,Serpens,τ4 Ser,τ4,Tau 4,17,,,139216,76423,15h 36m 28.19s,+15° 06′ 05.0″,6.51,0.5,520,M5II-III,semiregular variable star,234.117,15.101,Serpentis,Tau 4 Serpentis
+10083,Serpens,14 Ser,,14,14,19 Cap,,139137,76427,15h 36m 33.72s,-00° 33′ 41.3″,6.51,0.52,514,G8III+...,,234.138,0.561,Serpentis,14 Serpentis
+10084,Serpens,29 Ser,,29,29,45 Cap,,141040,77249,15h 46m 24.02s,+15° 31′ 36.1″,6.7,−0.19,780,A3,,236.600,15.527,Serpentis,29 Serpentis
+10085,Serpens,46 Ser,,46,46,,,144937,79047,16h 08m 05.73s,+10° 04′ 49.8″,6.74,1.55,355,A3,,242.021,10.080,Serpentis,46 Serpentis
+10086,Serpens,HD 168443,,HD 168443,,,,168443,89844,18h 20m 03.93s,-09° 35′ 44.6″,6.92,4.03,124,G5IV,has a planet (b) and a brown dwarf,275.013,-8.404,Serpentis,HD 168443 Serpentis
+10087,Serpens,HD 136118,,8 Cap G,,8 Cap,,136118,74948,15h 18m 55.47s,-01° 35′ 32.6″,6.94,3.35,171,F9V,has a red dwarf companion that was formerly a known planet,229.729,-0.408,Serpentis,8 Cap G Serpentis
+10088,Serpens,HD 142245,,HD 142245,,,,142245,77783,15h 52m 56.00s,+15° 25′ 51.00″,7.63,,357,K0,has a planet (b),238.233,15.417,Serpentis,HD 142245 Serpentis
+10089,Serpens,HD 168746,,HD 168746,,,,168746,90004,18h 21m 49.78s,-11° 55′ 21.7″,7.95,4.78,141,G5V,"Alasia[7], has a planet (b)",275.454,-10.078,Serpentis,HD 168746 Serpentis
+10090,Serpens,HD 175541,,HD 175541,,,,175541,92895,18h 55m 40.88s,+04° 15′ 55.2″,8.03,2.49,417,G8IV,"Kaveh[8], has a planet (b)",283.917,4.265,Serpentis,HD 175541 Serpentis
+10091,Serpens,Gliese 710,,HD 168442,,,,168442,89825,18h 19m 50.84s,-01° 56′ 19.0″,9.66,8.26,63,K7V,future encounter at 1.1 ly,274.958,-0.061,Serpentis,HD 168442 Serpentis
+10092,Serpens,HAT-P-46,, ,,,,,,18h 01m 47.00s,-02° 58′ 15.00″,11.94,,965,,has two transiting planets (b & c),270.446,-1.032,Serpentis,  Serpentis
+10093,Serpens,HAT-P-45,, ,,,,,,18h 17m 30.00s,-03° 22′ 52.00″,12.79,,995,,has two transiting planets (b),274.375,-2.633,Serpentis,  Serpentis
+10094,Serpens,COROT-11,, ,,,,,,18h 42m 44.95s,+05° 56′ 15.7″,12.94,4.2,1820,F6V,has a transiting planet (b),280.683,5.938,Serpentis,  Serpentis
+10095,Serpens,COROT-28,, ,,,,,,18h 34m 45.00s,+05° 34′ 26.00″,13.49,,1826,G8/9IV,has a transiting planet (b),278.688,5.568,Serpentis,  Serpentis
+10096,Serpens,COROT-9,, ,,,,,,18h 43m 09.18s,+06° 12′ 14.9″,13.7,5.4,1500,G3V,has a transiting planet (b),280.788,6.204,Serpentis,  Serpentis
+10097,Serpens,COROT-33,, ,,,,,,18h 38m 34.00s,+05° 37′ 29.00″,14.7,,,G9V,has a transiting planet (b),279.642,5.619,Serpentis,  Serpentis
+10098,Serpens,COROT-27,, ,,,,,,18h 33m 59.00s,+05° 32′ 19.00″,15.54,,,G2,has a transiting planet (b),278.496,5.536,Serpentis,  Serpentis
+10099,Serpens,COROT-23,, ,,,,,,18h 39m 08.00s,+04° 21′ 28.00″,15.63,,,F9/G0V,has a transiting planet (b),279.783,4.352,Serpentis,  Serpentis

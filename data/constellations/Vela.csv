@@ -1,0 +1,262 @@
+USID,Constellation,Name,B,B->F->VAR->G,F,G.,Var,HD,HIP,RA,Dec,"vis. mag.","abs. mag.",Dist. (ly),Sp. class,Notes https://en.wikipedia.org/wiki/Lists_of_stars_by_constellation,RA angle,Dec Angle,Latin Constellation,Full Designation
+10951,Vela,γ2 Vel,γ2,Gamma 2,,,,68273,39953,08h 09m 31.96s,-47° 20′ 11.8″,1.83,−5.84,1120,WC8 + O7.5,"Suhail, Suhail al Muhlif, Muliphein, Regor; double star; Wolf-Rayet star, Vmax = 1.81m, Vmin = 1.87m",122.379,-46.664,Velorum,Gamma 2 Velorum
+10952,Vela,δ Vel,δ,Delta,,,,74956,42913,08h 44m 42.20s,-54° 42′ 30.8″,1.96,0,81,A1Va(n),"Koo She, Alsephina; quadruple star; Algol variable, ΔV = 0.4m, P = 45.15 d",131.175,-53.292,Velorum,Delta Velorum
+10953,Vela,λ Vel,λ,Lambda,,,,78647,44816,09h 07m 59.78s,-43° 25′ 57.4″,2.21,−3.97,573,K4Ib-II,"Suhail, Suhail al Muhlif, Al Suhail, Alsuhail, Suhail Alwazn, Muliphein; semiregular variable, Vmax = 2.14m, Vmin = 2.3m",136.996,-42.568,Velorum,Lambda Velorum
+10954,Vela,κ Vel,κ,Kappa,,,,81188,45941,09h 22m 06.83s,-55° 00′ 38.5″,2.47,−3.62,539,B2IV,Markeb; Markab,140.525,-54.989,Velorum,Kappa Velorum
+10955,Vela,μ Vel,μ,Mu,,,,93497,52727,10h 46m 46.12s,-49° 25′ 12.5″,2.69,−0.06,116,G5III SB,"Peregrini, Alherem, Al Haram",161.692,-48.580,Velorum,Mu Velorum
+10956,Vela,HD 82668,N,N,,,,82668,46701,09h 31m 13.35s,-57° 02′ 03.8″,3.16,−1.15,238,K5III,"Marut; semiregular variable, Vmax = 3.12m, Vmin = 3.18m",142.804,-56.966,Velorum,N Velorum
+10957,Vela,φ Vel,φ,Phi,,,,86440,48774,09h 56m 51.75s,-54° 34′ 04.1″,3.52,−5.34,1929,B5Ib,Tseen Ke,149.213,-53.432,Velorum,Phi Velorum
+10958,Vela,ο Vel,ο,Omicron,,,,74195,42536,08h 40m 17.61s,-52° 55′ 19.1″,3.6,−2.31,495,B3IV,"Xestus; in IC 2391; slowly pulsating B star, Vmax = 3.57m, Vmin = 3.63m, P = 2.80 d",130.071,-51.078,Velorum,Omicron Velorum
+10959,Vela,HD 78004,c,C,,,,78004,44511,09h 04m 09.32s,-47° 05′ 51.8″,3.75,−1.13,309,K2III,,136.038,-46.903,Velorum,C Velorum
+10960,Vela,HD 74180,b,B,,,,74180,42570,08h 40m 37.58s,-46° 38′ 55.5″,3.81,−7.06,4900,F3Ia,"suspected variable, Vmax = 3.80m, Vmin = 3.91m",130.154,-45.351,Velorum,B Velorum
+10961,Vela,p Vel,p,P,,,,92139,51986,10h 37m 18.26s,-48° 13′ 32.2″,3.84,1.72,86,A3m+...,,159.325,-47.774,Velorum,P Velorum
+10962,Vela,HD 88955,q,Q,,,,88955,50191,10h 14m 44.27s,-42° 07′ 19.4″,3.85,1.36,103,A2V,,153.683,-41.878,Velorum,Q Velorum
+10963,Vela,HD 75063,a,A,,,,75063,43023,08h 46m 01.65s,-46° 02′ 29.5″,3.87,−4.52,1552,A1III,,131.504,-45.959,Velorum,A Velorum
+10964,Vela,ψ Vel A,ψ,Psi,,,,82434A,46651,09h 30m 42.11s,-40° 28′ 00.8″,3.91,2.57,61,F3VFe-0.7,,142.675,-39.533,Velorum,Psi Velorum
+10965,Vela,HD 74772,d,D,,,,74772,42884,08h 44m 23.97s,-42° 38′ 57.6″,4.05,−0.18,228,G5III,,131.096,-41.351,Velorum,D Velorum
+10966,Vela,HD 73634,e,E,,,,73634,42312,08h 37m 38.64s,-42° 59′ 20.8″,4.11,−4.11,1436,A6II,,129.408,-41.011,Velorum,E Velorum
+10967,Vela,γ1 Vel,γ1,Gamma 1,,,,68243,,08h 09m 29.30s,-47° 20′ 45.0″,4.27,−3.62,840,B2III,"component of the γ Vel system, spectroscopic binary; suspected variable",122.371,-46.654,Velorum,Gamma 1 Velorum
+10968,Vela,HD 92449,x,X,,,,92449,52154,10h 39m 18.41s,-55° 36′ 11.8″,4.29,−2.92,901,G2II,,159.825,-54.397,Velorum,X Velorum
+10969,Vela,HD 83446,M,M,,,,83446,47175,09h 36m 49.66s,-49° 21′ 18.5″,4.34,1.75,107,A5V,,144.204,-48.645,Velorum,M Velorum
+10970,Vela,HD 95370,i,I,,,,95370,53773,11h 00m 09.25s,-42° 13′ 33.1″,4.37,0.39,204,A3IV,,165.038,-41.774,Velorum,I Velorum
+10971,Vela,HD 77258,w,W,,,,77258,44191,09h 00m 05.44s,-41° 15′ 13.5″,4.47,0.52,201,K0III+...,suspected variable,135.021,-40.746,Velorum,W Velorum
+10972,Vela,MV Vel,J,J,,,MV,89890,50676,10h 20m 54.81s,-56° 02′ 35.6″,4.49,−3.24,1150,B3III,Be star; ΔV = 0.06m,155.225,-55.957,Velorum,J Velorum
+10973,Vela,HD 85622,m,M,,,,85622,48374,09h 51m 40.69s,-46° 32′ 51.5″,4.58,−3.03,1083,G5Ib,"variable star, ΔV = 0.005m, P = 1.64 d",147.917,-45.453,Velorum,M Velorum
+10974,Vela,GZ Vel,,GZ,,,GZ,89682,50555,10h 19m 36.77s,-55° 01′ 45.5″,4.59,−3.71,1489,K3II,slow irregular variable,154.900,-54.971,Velorum,GZ Velorum
+10975,Vela,HD 79940,k,K,,,,79940,45448,09h 15m 45.07s,-37° 24′ 47.3″,4.63,1.1,166,F3/F5V,,138.938,-36.587,Velorum,K Velorum
+10976,Vela,H Vel,H,H,,,,76805,43878,08h 56m 19.28s,-52° 43′ 24.6″,4.68,−0.63,376,B5V,,134.079,-51.277,Velorum,H Velorum
+10977,Vela,HD 74272,n,N,,,,74272,42624,08h 41m 13.14s,-47° 19′ 01.7″,4.74,−4.08,1895,A5II,,130.304,-46.683,Velorum,N Velorum
+10978,Vela,HD 70930,B,B,,,,70930,41039,08h 22m 31.70s,-48° 29′ 25.4″,4.82,−3.79,1720,B1V,suspected variable,125.629,-47.510,Velorum,B Velorum
+10979,Vela,HD 89998,r,R,,,,89998,50799,10h 22m 19.61s,-41° 39′ 00.4″,4.82,0.88,200,K1IIIvar,,155.579,-40.350,Velorum,R Velorum
+10980,Vela,HY Vel,,HY,,,HY,74560,42726,08h 42m 25.41s,-53° 06′ 50.5″,4.83,−1.01,479,B3IV,"in IC 2391; slowly pulsating B star, Vmax = 4.81m, Vmin = 4.86m, P = 1.55 d",130.604,-52.886,Velorum,HY Velorum
+10981,Vela,HD 88206,Q,Q,,,,88206,49712,10h 08m 56.25s,-51° 48′ 40.5″,4.85,−2.76,1083,B3IV,,152.233,-50.189,Velorum,Q Velorum
+10982,Vela,HD 91324,,HD 91324,,,,91324,51523,10h 31m 22.23s,-53° 42′ 57.6″,4.89,3.19,71,F6V,,157.842,-52.284,Velorum,HD 91324 Velorum
+10983,Vela,HD 79917,l,L,,,,79917,45439,09h 15m 36.76s,-38° 34′ 11.7″,4.92,0.73,225,K1III,,138.900,-37.430,Velorum,L Velorum
+10984,Vela,HD 75710,g,G,,,,75710,43347,08h 49m 47.65s,-45° 18′ 28.5″,4.94,−2.08,827,A2III,,132.446,-44.692,Velorum,G Velorum
+10985,Vela,HD 72127,,HD 72127,,,,72127,41639,08h 29m 27.49s,-44° 43′ 29.4″,4.99,−4.53,2610,B2IV,suspected variable,127.363,-43.275,Velorum,HD 72127 Velorum
+10986,Vela,GX Vel,,GX,,,GX,79186,45085,09h 11m 04.40s,-44° 52′ 04.5″,5,−5.81,4700,B5Ia,"α Cyg variable, Vmax = 4.97m, Vmin = 5.04m",137.767,-43.132,Velorum,GX Velorum
+10987,Vela,HD 73155,C,C,,,,73155,42088,08h 34m 43.61s,-49° 56′ 39.3″,5.01,−2.14,876,K1/K2II,"variable star, ΔV = 0.004m, P = 0.091 d",128.679,-48.056,Velorum,C Velorum
+10988,Vela,HD 83058,L,L,,,,83058,46950,09h 34m 08.80s,-51° 15′ 19.0″,5.01,−2.27,931,B1.5IV,,143.533,-50.745,Velorum,L Velorum
+10989,Vela,HD 91504,t,T,,,,91504,51635,10h 32m 56.88s,-47° 00′ 12.1″,5.02,−2.34,964,K4III,,158.233,-46.997,Velorum,T Velorum
+10990,Vela,HD 67582,,HD 67582,,,,67582,39690,08h 06m 40.34s,-45° 15′ 57.8″,5.04,−2.86,1240,K3III,"suspected variable, ΔV = 0.07m",121.667,-44.734,Velorum,HD 67582 Velorum
+10991,Vela,HD 87783,,HD 87783,,,,87783,49485,10h 06m 11.22s,-47° 22′ 11.5″,5.06,0.57,258,K0IV,,151.546,-46.630,Velorum,HD 87783 Velorum
+10992,Vela,GU Vel,F,F,,,GU,71935,41483,08h 27m 36.65s,-53° 05′ 18.7″,5.08,1.1,204,A9/F0III/IV,"δ Sct variable, Vmax = 5.08m, Vmin = 5.11m, P = 0.07 d",126.900,-52.912,Velorum,F Velorum
+10993,Vela,KX Vel,f,F,,,KX,75821,43413,08h 50m 33.46s,-46° 31′ 45.1″,5.09,−4.50,2694,B0III,spectroscopic binary; Algol variable,132.638,-45.471,Velorum,F Velorum
+10994,Vela,HD 81848,I,I,,,,81848,46283,09h 26m 17.98s,-53° 22′ 44.2″,5.09,−0.47,422,B6V,"variable star, ΔV = 0.008m, P = 0.41 d",141.571,-52.621,Velorum,I Velorum
+10995,Vela,HD 85355,u,U,,,,85355,48224,09h 49m 57.16s,-45° 43′ 57.9″,5.09,−2.01,856,B7III,,147.488,-44.268,Velorum,U Velorum
+10996,Vela,ψ Vel B,ψ,Psi,,,,82434B,,09h 30m 42.11s,-40° 28′ 00.8″,5.12,3.75,61,,suspected variable,142.675,-39.533,Velorum,Psi Velorum
+10997,Vela,HD 80108,,HD 80108,,,,80108,45505,09h 16m 23.04s,-44° 15′ 56.7″,5.12,−5.34,4025,K3Ib,"variable star, ΔV = 0.006m, P = 0.089 d",139.096,-43.734,Velorum,HD 80108 Velorum
+10998,Vela,HD 82984,,HD 82984,,,,82984,46914,09h 33m 44.56s,-49° 00′ 18.3″,5.12,−2.22,959,B4IV,suspected variable,143.433,-48.995,Velorum,HD 82984 Velorum
+10999,Vela,NO Vel,,NO,,,NO,69144,40285,08h 13m 36.16s,-46° 59′ 30.0″,5.14,−2.23,970,B2.5IV,eclipsing binary,123.400,-45.008,Velorum,NO Velorum
+11000,Vela,HD 93563,,HD 93563,,,,93563,52742,10h 46m 57.49s,-56° 45′ 25.9″,5.14,−0.99,548,B8/B9III,"variable star, ΔV = 0.003m, P = 0.87 d",161.738,-55.243,Velorum,HD 93563 Velorum
+11001,Vela,HD 74753,D,D,,,,74753,42834,08h 43m 40.28s,-49° 49′ 22.1″,5.15,−3.19,1516,B0IIIn,,130.917,-48.177,Velorum,D Velorum
+11002,Vela,FZ Vel,,FZ,,,FZ,77140,44093,08h 58m 52.43s,-47° 14′ 05.4″,5.17,1.02,221,Am,"δ Sct variable, Vmax = 5.14m, Vmin = 5.17m, P = 0.065 d",134.717,-46.765,Velorum,FZ Velorum
+11003,Vela,HD 71510,,HD 71510,,,,71510,41296,08h 25m 31.34s,-51° 43′ 38.8″,5.18,−1.40,674,B2V,,126.379,-50.273,Velorum,HD 71510 Velorum
+11004,Vela,NZ Vel,,NZ,,,NZ,74146,42504,08h 39m 57.62s,-53° 03′ 17.2″,5.18,−0.41,428,B4IV,in IC 2391; rotating ellipsoidal variable,129.988,-52.945,Velorum,NZ Velorum
+11005,Vela,HD 68217,,HD 68217,,,,68217,39961,08h 09m 35.92s,-44° 07′ 22.0″,5.2,−2.51,1136,B2IV-V,suspected variable,122.396,-43.877,Velorum,HD 68217 Velorum
+11006,Vela,NY Vel,,NY,,,NY,74067,42540,08h 40m 19.22s,-40° 15′ 50.0″,5.2,0.53,280,Ap (SiCr),α² CVn variable,130.079,-39.736,Velorum,NY Velorum
+11007,Vela,LN Vel,,LN,,,LN,74371,42679,08h 41m 56.91s,-45° 24′ 38.6″,5.2,−4.39,2694,B5Iab,"α Cyg variable, Vmax = 5.19m, Vmin = 5.25m, P = 8.29 d",130.483,-44.589,Velorum,LN Velorum
+11008,Vela,IS Vel,,IS,,,IS,68324,39970,08h 09m 43.16s,-47° 56′ 14.0″,5.23,−2.02,921,B1IVe,β Cep variable,122.429,-46.063,Velorum,IS Velorum
+11009,Vela,OY Vel,,OY,,,OY,77653,44337,09h 01m 44.57s,-52° 11′ 19.4″,5.23,−0.41,437,Ap Si,α² CVn variable,135.433,-51.811,Velorum,OY Velorum
+11010,Vela,HD 79735,z,Z,,,,79735,45344,09h 14m 24.50s,-43° 13′ 39.1″,5.24,−0.92,556,B4V+...,"variable star, ΔV = 0.006m, P = 0.71 d",138.600,-42.773,Velorum,Z Velorum
+11011,Vela,HD 79846,,HD 79846,,,,79846,45328,09h 14m 18.02s,-55° 34′ 10.9″,5.26,−1.20,638,G8II/III,suspected variable,138.575,-54.431,Velorum,HD 79846 Velorum
+11012,Vela,HD 80456,K,K,,,,80456,45631,09h 18m 05.89s,-51° 03′ 03.2″,5.26,−0.34,431,B7/B8III,,139.521,-50.949,Velorum,K Velorum
+11013,Vela,LW Vel,,LW,,,LW,88824,50070,10h 13m 22.88s,-51° 13′ 58.6″,5.27,1.78,163,A7V,"δ Sct variable, Vmax = 5.24m, Vmin = 5.29m, P = 0.11 d",153.342,-50.767,Velorum,LW Velorum
+11014,Vela,HD 76360,,HD 76360,,,,76360,43671,08h 53m 50.60s,-47° 31′ 14.6″,5.31,0.79,261,Am,,133.458,-46.479,Velorum,HD 76360 Velorum
+11015,Vela,HD 80170,,HD 80170,,,,80170,45544,09h 16m 57.10s,-39° 24′ 05.2″,5.31,0.12,355,K2III,,139.238,-38.599,Velorum,HD 80170 Velorum
+11016,Vela,HD 72108,A,A,,,,72108,41616,08h 29m 04.76s,-47° 55′ 44.2″,5.33,−3.18,1638,B2IV,,127.267,-46.071,Velorum,A Velorum
+11017,Vela,HD 82694,,HD 82694,,,,82694,46811,09h 32m 19.27s,-40° 38′ 57.6″,5.35,−0.04,390,G8III,,143.079,-39.351,Velorum,HD 82694 Velorum
+11018,Vela,OP Vel,,OP,,,OP,75149,43082,08h 46m 30.55s,-45° 54′ 45.1″,5.43,−4.59,3293,B3Ia,α Cyg variable,131.625,-44.088,Velorum,OP Velorum
+11019,Vela,HD 83520,,HD 83520,,,,83520,47204,09h 37m 12.68s,-53° 40′ 06.5″,5.44,1.16,234,A2/A3V,,144.300,-52.332,Velorum,HD 83520 Velorum
+11020,Vela,HD 82419,,HD 82419,,,,82419,46594,09h 30m 05.13s,-51° 31′ 01.9″,5.45,−0.08,415,B8V,,142.521,-50.483,Velorum,HD 82419 Velorum
+11021,Vela,HR 3440,,HW,,,HW,74071,42459,08h 39m 23.87s,-53° 26′ 23.4″,5.46,−0.24,451,B5V,"in IC 2391; β Cep variable, Vmax = 5.46m, Vmin = 5.52m, P = 0.26 d",129.846,-52.560,Velorum,HW Velorum
+11022,Vela,HD 75630,h,H,,,,75630,43325,08h 49m 39.17s,-40° 19′ 12.6″,5.47,−2.97,1590,A2/A3IV,,132.413,-39.680,Velorum,H Velorum
+11023,Vela,HX Vel,,HX,,,HX,74455,42712,08h 42m 16.20s,-48° 05′ 56.8″,5.48,−3.09,1689,B1.5Vn,"rotating ellipsoidal variable, Vmax = 5.48m, Vmin = 5.53m, P = 1.12 d",130.567,-47.901,Velorum,HX Velorum
+11024,Vela,KT Vel,,KT,,,KT,74535,42715,08h 42m 19.02s,-53° 06′ 00.4″,5.49,−0.36,483,B8...,"in IC 2391; α² CVn variable, Vmax = 5.49m, Vmin = 5.56m, P = 3.38 d",130.579,-52.900,Velorum,KT Velorum
+11025,Vela,HD 83548,y,Y,,,,83548,47267,09h 38m 01.43s,-43° 11′ 27.1″,5.51,−0.35,484,G8II,,144.504,-42.809,Velorum,Y Velorum
+11026,Vela,HD 69194,,HD 69194,,,,69194,40282,08h 13m 34.23s,-50° 11′ 45.8″,5.51,−1.29,753,M1III,"semiregular variable, ΔV = 0.07m",123.392,-49.804,Velorum,HD 69194 Velorum
+11027,Vela,HD 74196,,HD 74196,,,,74196,42535,08h 40m 17.49s,-53° 00′ 55.6″,5.56,−0.24,472,B7Vn,"in IC 2391; suspected β Cep variable, Vmax = 5.56m, Vmin = 5.62m",130.071,-52.985,Velorum,HD 74196 Velorum
+11028,Vela,HR 3600,,IZ,,,IZ,77475,44299,09h 01m 20.88s,-41° 51′ 51.4″,5.56,−0.24,471,B5V,"slowly pulsating B star, Vmax = 5.53m, Vmin = 5.56m",135.333,-40.136,Velorum,IZ Velorum
+11029,Vela,KL Vel,,KL,,,KL,79416,45189,09h 12m 30.54s,-43° 36′ 47.9″,5.56,−0.85,623,B8V,"slowly pulsating B star, Vmax = 5.56m, Vmin = 5.57m, P = 2.91 d",138.125,-42.387,Velorum,KL Velorum
+11030,Vela,HD 81034,,HD 81034,,,,81034,45924,09h 21m 50.94s,-42° 11′ 41.1″,5.56,−0.63,565,M3Ib,semiregular variable,140.458,-41.805,Velorum,HD 81034 Velorum
+11031,Vela,HD 84461,O,O,,,,84461,47717,09h 43m 42.30s,-53° 53′ 28.9″,5.56,0.38,355,A0V,,145.925,-52.109,Velorum,O Velorum
+11032,Vela,HD 84816,,HD 84816,,,,84816,47963,09h 46m 30.38s,-44° 45′ 18.2″,5.58,−2.64,1436,B2.5IV,suspected variable,146.625,-43.245,Velorum,HD 84816 Velorum
+11033,Vela,HD 90677,,HD 90677,,,,90677,51140,10h 26m 48.93s,-54° 52′ 38.3″,5.58,−2.87,1598,K3II/III,"variable star, ΔV = 0.008m, P = 2.95 d",156.700,-53.123,Velorum,HD 90677 Velorum
+11034,Vela,HD 89062,,HD 89062,,,,89062,50241,10h 15m 31.55s,-43° 06′ 44.1″,5.59,−0.52,544,K4III,,153.879,-42.888,Velorum,HD 89062 Velorum
+11035,Vela,HD 81157,,HD 81157,,,,81157,45920,09h 21m 50.11s,-55° 30′ 53.5″,5.61,0.98,275,A3IVs...,"variable star, ΔV = 0.005m, P = 0.090 d",140.458,-54.485,Velorum,HD 81157 Velorum
+11036,Vela,HD 85563,,HD 85563,,,,85563,48348,09h 51m 19.76s,-46° 11′ 38.2″,5.62,0.56,335,K2III,,147.829,-45.806,Velorum,HD 85563 Velorum
+11037,Vela,NN Vel,,NN,,,NN,68161,39919,08h 09m 09.51s,-48° 41′ 03.9″,5.66,−1.47,869,B8Ib/II,α Cyg variable,122.288,-47.316,Velorum,NN Velorum
+11038,Vela,HD 89736,,HD 89736,,,,89736,50609,10h 20m 16.72s,-47° 41′ 56.8″,5.66,−3.93,2694,K5/M0III,suspected variable,155.067,-46.301,Velorum,HD 89736 Velorum
+11039,Vela,HD 74167,,HD 74167,,,,74167,42564,08h 40m 35.26s,-45° 11′ 28.0″,5.67,−1.65,950,M0III,"variable star, ΔV = 0.013m, P = 2.43 d",130.146,-44.809,Velorum,HD 74167 Velorum
+11040,Vela,HD 96113,,HD 96113,,,,96113,54137,11h 04m 31.30s,-47° 40′ 45.1″,5.67,1.01,279,A8III/IV,,166.129,-46.321,Velorum,HD 96113 Velorum
+11041,Vela,HD 72737,,HD 72737,,,,72737,41861,08h 32m 04.97s,-53° 12′ 43.1″,5.68,−1.56,913,G8III+...,,128.017,-52.788,Velorum,HD 72737 Velorum
+11042,Vela,HD 76653,,HD 76653,,,,76653,43797,08h 55m 11.76s,-54° 57′ 56.0″,5.7,3.79,79,F6V,,133.796,-53.034,Velorum,HD 76653 Velorum
+11043,Vela,HD 75276,,HD 75276,,,,75276,43148,08h 47m 18.85s,-46° 09′ 19.5″,5.71,−4.52,3622,F0Ib,,131.825,-45.845,Velorum,HD 75276 Velorum
+11044,Vela,HD 86087,,HD 86087,,,,86087,48613,09h 54m 51.26s,-50° 14′ 38.3″,5.71,0.76,319,A0V,,148.713,-49.756,Velorum,HD 86087 Velorum
+11045,Vela,HD 85483,,HD 85483,,,,85483,48287,09h 50m 41.97s,-46° 56′ 02.4″,5.72,−0.59,597,K0IIICN...,suspected variable,147.671,-45.066,Velorum,HD 85483 Velorum
+11046,Vela,HD 85980,,HD 85980,,,,85980,48561,09h 54m 17.67s,-45° 17′ 00.7″,5.72,−1.35,845,B+...,,148.571,-44.717,Velorum,HD 85980 Velorum
+11047,Vela,HD 81136,,HD 81136,,,,81136,45962,09h 22m 24.00s,-46° 02′ 51.0″,5.74,−0.47,570,G6/G8III,"suspected variable, Vmax = 5.72m, Vmin = 5.77m",140.600,-45.953,Velorum,HD 81136 Velorum
+11048,Vela,HD 91355,s,S,,,,91355,51561,10h 31m 57.45s,-45° 04′ 00.2″,5.76,0,463,B9,"suspected variable, Vmax = 5.75m, Vmin = 5.78m",157.988,-44.933,Velorum,S Velorum
+11049,Vela,AH Vel,,AH,,,AH,68808,40155,08h 11m 59.97s,-46° 38′ 39.7″,5.76,−2.50,1462,F7p,"classical Cepheid, Vmax = 5.5m, Vmin = 5.89m, P = 4.23 d",122.996,-45.356,Velorum,AH Velorum
+11050,Vela,HD 79275,,HD 79275,,,,79275,45122,09h 11m 33.39s,-46° 35′ 02.1″,5.78,−1.95,1144,B2IV-V,,137.888,-45.416,Velorum,HD 79275 Velorum
+11051,Vela,HD 88842,,HD 88842,,,,88842,50078,10h 13m 28.04s,-51° 45′ 20.9″,5.78,0.83,318,A3IV/V,,153.367,-50.244,Velorum,HD 88842 Velorum
+11052,Vela,HR 3413,E,E,,,HV,73340,42177,08h 35m 52.04s,-50° 58′ 10.8″,5.79,0.01,466,B8 Si,"rapidly oscillating Ap star, Vmax = 5.77m, Vmin = 5.81m, P = 2.67 d",128.967,-49.031,Velorum,E Velorum
+11053,Vela,HD 76110,,HD 76110,,,,76110,43603,08h 52m 48.02s,-38° 43′ 26.9″,5.79,−1.36,876,K5/M0III,suspected variable,133.200,-37.276,Velorum,HD 76110 Velorum
+11054,Vela,HD 89569,,HD 89569,,,,89569,50493,10h 18m 38.16s,-56° 06′ 38.4″,5.8,3.03,117,F6V,suspected variable,154.658,-55.889,Velorum,HD 89569 Velorum
+11055,Vela,HD 95347,,HD 95347,,,,95347,53762,10h 59m 59.43s,-43° 48′ 25.7″,5.81,1.07,290,B8/B9V,,164.996,-42.193,Velorum,HD 95347 Velorum
+11056,Vela,HD 72067,,HD 72067,,,,72067,41621,08h 29m 07.57s,-44° 09′ 37.6″,5.82,−2.63,1598,B2V,"suspected variable, Vmax = 5.75m, Vmin = 5.90m",127.279,-43.840,Velorum,HD 72067 Velorum
+11057,Vela,HD 68657,,HD 68657,,,,68657,40077,08h 11m 10.80s,-48° 27′ 43.2″,5.83,−0.91,728,B3V,suspected variable,122.792,-47.538,Velorum,HD 68657 Velorum
+11058,Vela,LR Vel,,LR,,,LR,80558,45675,09h 18m 42.36s,-51° 33′ 38.4″,5.83,−4.77,4200,B7Iab,"α Cyg variable, Vmax = 5.82m, Vmin = 5.96m, P = 1.69 d",139.675,-50.439,Velorum,LR Velorum
+11059,Vela,HD 79694,,HD 79694,,,,79694,45314,09h 14m 08.23s,-44° 08′ 45.1″,5.85,−0.17,521,B6IV,"suspected variable, Vmax = 5.80m, Vmin = 5.85m",138.533,-43.854,Velorum,HD 79694 Velorum
+11060,Vela,HD 79807,k1,K1,,,,79807,45386,09h 14m 57.17s,-37° 36′ 08.5″,5.85,−0.57,627,K0/K1III+..,,138.738,-36.398,Velorum,K1 Velorum
+11061,Vela,HD 69302,,HD 69302,,,,69302,40357,08h 14m 23.88s,-45° 50′ 04.4″,5.86,−1.35,903,B2IV-V,,123.596,-44.166,Velorum,HD 69302 Velorum
+11062,Vela,HD 77020,,HD 77020,,,,77020,44024,08h 57m 55.57s,-48° 34′ 22.6″,5.88,−1.71,1072,G8/K0II,,134.479,-47.427,Velorum,HD 77020 Velorum
+11063,Vela,HD 71043,,HD 71043,,,,71043,41081,08h 22m 55.18s,-52° 07′ 25.6″,5.89,1.57,238,A0V,,125.729,-51.876,Velorum,HD 71043 Velorum
+11064,Vela,HD 74273,,HD 74273,,,,74273,42614,08h 41m 05.32s,-48° 55′ 21.7″,5.9,−2.56,1606,B1.5V,,130.271,-47.078,Velorum,HD 74273 Velorum
+11065,Vela,IW Vel,,IW,,,IW,94985,53530,10h 57m 07.88s,-50° 45′ 54.2″,5.9,0.96,317,A7Vni,"δ Sct variable, ΔV = 0.016m, P = 0.15 d",164.279,-49.235,Velorum,IW Velorum
+11066,Vela,HD 91437,,HD 91437,,,,91437,51610,10h 32m 33.62s,-44° 37′ 06.4″,5.91,0.48,397,G6/G8III,,158.138,-43.382,Velorum,HD 91437 Velorum
+11067,Vela,HD 72832,,HD 72832,,,,72832,42001,08h 33m 38.45s,-38° 50′ 55.8″,5.92,−1.10,825,B5III,suspected variable,128.408,-37.151,Velorum,HD 72832 Velorum
+11068,Vela,HD 76161,,HD 76161,,,,76161,43589,08h 52m 38.62s,-48° 21′ 32.8″,5.92,−1.69,1087,B3Vn,,133.158,-47.641,Velorum,HD 76161 Velorum
+11069,Vela,HD 79621,,HD 79621,,,,79621,45270,09h 13m 34.48s,-47° 20′ 18.4″,5.92,−0.23,554,B9V,,138.392,-46.662,Velorum,HD 79621 Velorum
+11070,Vela,V335 Vel,,V335,,,V335,85953,48527,09h 53m 50.11s,-51° 08′ 48.2″,5.95,−2.64,1707,B2V,"slowly pulsating B star, Vmax = 5.93m, Vmin = 5.97m, P = 3.76 d",148.458,-50.853,Velorum,V335 Velorum
+11071,Vela,HD 67249,,HD 67249,,,,67249,39527,08h 04m 42.41s,-50° 35′ 25.4″,5.96,−2.14,1358,G5II,,121.175,-49.410,Velorum,HD 67249 Velorum
+11072,Vela,HD 89461,,HD 89461,,,,89461,50480,10h 18m 28.27s,-41° 40′ 06.6″,5.97,−0.17,551,B9V,,154.617,-40.332,Velorum,HD 89461 Velorum
+11073,Vela,HD 72232,,HD 72232,,,,72232,41674,08h 29m 45.65s,-46° 19′ 54.2″,5.98,−0.45,629,B7IV,"variable star, ΔV = 0.006m, P = 0.83 d",127.438,-45.668,Velorum,HD 72232 Velorum
+11074,Vela,HD 88399,,HD 88399,,,,88399,49844,10h 10m 37.70s,-41° 42′ 53.8″,5.98,1.81,223,K3III,,152.654,-40.285,Velorum,HD 88399 Velorum
+11075,Vela,HD 84228,,HD 84228,,,,84228,47559,09h 41m 47.94s,-55° 12′ 49.6″,5.99,−3.60,2694,B4V,suspected variable,145.446,-54.786,Velorum,HD 84228 Velorum
+11076,Vela,HD 68895,,HD 68895,,,,68895,40183,08h 12m 30.80s,-46° 15′ 51.5″,6,−0.68,706,B5V,,123.125,-45.736,Velorum,HD 68895 Velorum
+11077,Vela,HD 75759,,HD 75759,,,,75759,43392,08h 50m 21.02s,-42° 05′ 23.3″,6,−2.84,1906,O9V,,132.588,-41.910,Velorum,HD 75759 Velorum
+11078,Vela,HD 80057,,HD 80057,,,,80057,45481,09h 16m 04.03s,-44° 53′ 55.4″,6.02,−4.60,4347,A1Ib+...,"suspected variable, Vmax = 6.01m, Vmin = 6.05m",139.017,-43.101,Velorum,HD 80057 Velorum
+11079,Vela,IU Vel,,IU,,,IU,77320,44213,09h 00m 22.26s,-43° 10′ 26.4″,6.04,−1.39,1000,B3Vne,"γ Cas variable, Vmax = 5.97m, Vmin = 6.08m",135.092,-42.826,Velorum,IU Velorum
+11080,Vela,HD 80774,,HD 80774,,,,80774,45814,09h 20m 29.68s,-37° 34′ 53.9″,6.04,0.05,513,K3/K4III,,140.121,-36.419,Velorum,HD 80774 Velorum
+11081,Vela,HD 91356,,HD 91356,,,,91356,51560,10h 31m 56.65s,-45° 04′ 10.8″,6.04,0.21,477,B4,,157.983,-44.931,Velorum,HD 91356 Velorum
+11082,Vela,HD 71722,,HD 71722,,,,71722,41373,08h 26m 25.24s,-52° 48′ 27.0″,6.05,1.79,232,A0V,,126.604,-51.193,Velorum,HD 71722 Velorum
+11083,Vela,HD 79241,,HD 79241,,,,79241,45127,09h 11m 40.95s,-39° 15′ 31.9″,6.05,−1.92,1278,B5III,,137.917,-38.741,Velorum,HD 79241 Velorum
+11084,Vela,HD 81471,,HD 81471,,,,81471,46093,09h 23m 59.34s,-51° 44′ 13.5″,6.05,−5.17,5719,A7Iab,suspected α Cyg variable,140.996,-50.263,Velorum,HD 81471 Velorum
+11085,Vela,HD 81411,,HD 81411,,,,81411,46114,09h 24m 16.28s,-39° 25′ 31.6″,6.05,0.04,518,A6/A7III,,141.067,-38.575,Velorum,HD 81411 Velorum
+11086,Vela,HD 85250,,HD 85250,,,,85250,48119,09h 48m 40.06s,-56° 24′ 42.9″,6.05,1.01,332,K0III,,147.167,-55.588,Velorum,HD 85250 Velorum
+11087,Vela,HD 86523,,HD 86523,,,,86523,48835,09h 57m 42.61s,-48° 24′ 50.7″,6.06,−4.27,3791,B3V,,149.425,-47.586,Velorum,HD 86523 Velorum
+11088,Vela,HD 91805,,HD 91805,,,,91805,51816,10h 35m 10.45s,-43° 39′ 52.8″,6.09,−1.12,901,G8/K0II/III,,158.792,-42.336,Velorum,HD 91805 Velorum
+11089,Vela,HD 78548,,HD 78548,,,,78548,44708,09h 06m 34.04s,-55° 48′ 08.7″,6.1,−1.70,1185,B2IV-V,suspected variable,136.642,-54.198,Velorum,HD 78548 Velorum
+11090,Vela,HD 90798,,HD 90798,,,,90798,51245,10h 28m 02.08s,-49° 24′ 20.5″,6.1,−1.15,921,K4III,"suspected variable, Vmax = 6.08m, Vmin = 6.12m",157.008,-48.594,Velorum,HD 90798 Velorum
+11091,Vela,HD 92328,,HD 92328,,,,92328,52112,10h 38m 50.33s,-42° 45′ 12.3″,6.1,−0.11,569,Am+...,,159.708,-41.247,Velorum,HD 92328 Velorum
+11092,Vela,KQ Vel,,KQ,,,KQ,94660,53379,10h 55m 01.04s,-42° 15′ 03.9″,6.11,0.23,489,A0sp...,"α² CVn variable, Vmax = 6.1m, Vmin = 6.12m",163.754,-41.749,Velorum,KQ Velorum
+11093,Vela,HD 87363,,HD 87363,,,,87363,49259,10h 03m 20.60s,-46° 38′ 10.2″,6.11,1.29,300,A0V,,150.833,-45.364,Velorum,HD 87363 Velorum
+11094,Vela,HD 96224,,HD 96224,,,,96224,54185,11h 05m 04.14s,-49° 23′ 32.4″,6.11,0.12,514,B9V,,166.267,-48.608,Velorum,HD 96224 Velorum
+11095,Vela,IV Vel,,IV,,,IV,86466,48799,09h 57m 10.95s,-52° 38′ 19.7″,6.13,−3.98,3432,B3IV,β Cep variable,149.292,-51.361,Velorum,IV Velorum
+11096,Vela,HD 90518,,HD 90518,,,,90518,51077,10h 26m 09.91s,-42° 44′ 18.2″,6.13,1.09,332,K1III,,156.538,-41.262,Velorum,HD 90518 Velorum
+11097,Vela,IP Vel,,IP,,,IP,84400,47694,09h 43m 27.60s,-51° 13′ 41.4″,6.15,−1.96,1364,B6V,Algol variable,145.863,-50.772,Velorum,IP Velorum
+11098,Vela,HD 95429,,HD 95429,,,,95429,53771,11h 00m 08.34s,-51° 49′ 04.1″,6.15,2.26,195,A3III/IV,,165.033,-50.182,Velorum,HD 95429 Velorum
+11099,Vela,HD 88693,,HD 88693,,,,88693,49994,10h 12m 22.97s,-52° 09′ 48.1″,6.16,1.11,334,K2IIICN...,suspected variable,153.092,-51.837,Velorum,HD 88693 Velorum
+11100,Vela,HD 89104,,HD 89104,,,,89104,50232,10h 15m 16.65s,-54° 58′ 27.2″,6.16,−2.04,1424,B2IV-V,suspected variable,153.817,-53.026,Velorum,HD 89104 Velorum
+11101,Vela,MX Vel,,MX,,,MX,67341,39584,08h 05m 20.31s,-46° 58′ 42.3″,6.18,−2.68,1929,B3Vnp,Be star,121.333,-45.022,Velorum,MX Velorum
+11102,Vela,HR 3831,,IM,,,IM,83368,47145,09h 36m 25.41s,-48° 45′ 04.2″,6.18,1.88,236,F0p,rapidly oscillating Ap star,144.104,-47.249,Velorum,IM Velorum
+11103,Vela,HD 83465,,HD 83465,,,,83465,47172,09h 36m 46.41s,-52° 56′ 38.1″,6.18,0.8,388,K1III,,144.192,-51.056,Velorum,HD 83465 Velorum
+11104,Vela,HD 90393,,HD 90393,,,,90393,51014,10h 25m 17.22s,-42° 28′ 02.5″,6.18,−0.09,586,G8III,,156.321,-41.533,Velorum,HD 90393 Velorum
+11105,Vela,HD 79091,,HD 79091,,,,79091,45002,09h 09m 57.15s,-52° 04′ 58.8″,6.19,1.34,304,K1III,,137.488,-51.917,Velorum,HD 79091 Velorum
+11106,Vela,HD 81780,,HD 81780,,,,81780,46297,09h 26m 28.45s,-40° 30′ 06.2″,6.19,1.37,300,A7III,,141.617,-39.498,Velorum,HD 81780 Velorum
+11107,Vela,HD 87152,,HD 87152,,,,87152,49137,10h 01m 40.73s,-53° 21′ 50.8″,6.2,−2.03,1442,B2.5V,"variable star, Vmax = 6.18m, Vmin = 6.20m, P = 3.79 d",150.417,-52.636,Velorum,HD 87152 Velorum
+11108,Vela,HD 75081,,HD 75081,,,,75081,43073,08h 46m 23.77s,-41° 07′ 31.4″,6.21,−0.51,720,B9V,,131.596,-40.875,Velorum,HD 75081 Velorum
+11109,Vela,HD 81369,,HD 81369,,,,81369,46067,09h 23m 39.77s,-46° 54′ 31.6″,6.21,−1.49,1128,B7III,,140.913,-45.091,Velorum,HD 81369 Velorum
+11110,Vela,HD 87652,,HD 87652,,,,87652,49394,10h 05m 01.86s,-51° 18′ 49.1″,6.23,0.17,532,B8/B9III,,151.254,-50.686,Velorum,HD 87652 Velorum
+11111,Vela,HD 90170,,HD 90170,,,,90170,50903,10h 23m 40.71s,-41° 57′ 11.6″,6.24,1.98,232,K0IV,,155.917,-40.047,Velorum,HD 90170 Velorum
+11112,Vela,HD 72900,,HD 72900,,,,72900,41986,08h 33m 30.28s,-46° 58′ 14.4″,6.25,−2.66,1976,K3III,,128.375,-45.029,Velorum,HD 72900 Velorum
+11113,Vela,HD 77580,,HD 77580,,,,77580,44367,09h 02m 06.42s,-39° 24′ 08.1″,6.25,1.05,357,K1IIICN...,,135.525,-38.598,Velorum,HD 77580 Velorum
+11114,Vela,HD 79900,,HD 79900,,,,79900,45413,09h 15m 14.64s,-45° 33′ 19.8″,6.25,−2.47,1811,B8V,,138.808,-44.445,Velorum,HD 79900 Velorum
+11115,Vela,HR 3562,,IY,,,IY,76566,43807,08h 55m 19.21s,-45° 02′ 30.1″,6.26,−1.03,934,B3IV,"slowly pulsating B star, Vmax = 6.23m, Vmin = 6.27m",133.829,-44.958,Velorum,IY Velorum
+11116,Vela,HD 79524,,HD 79524,,,,79524,45242,09h 13m 18.68s,-42° 16′ 24.4″,6.27,0.48,469,K2III,,138.325,-41.727,Velorum,HD 79524 Velorum
+11117,Vela,HD 81347,,HD 81347,,,,81347,46045,09h 23m 25.38s,-48° 17′ 13.0″,6.27,−1.88,1393,B5V,"suspected variable, Vmax = 6.25m, Vmin = 6.29m",140.854,-47.713,Velorum,HD 81347 Velorum
+11118,Vela,HD 80781,,HD 80781,,,,80781,45742,09h 19m 32.49s,-55° 11′ 11.4″,6.28,−3.83,3432,B5V,,139.883,-54.814,Velorum,HD 80781 Velorum
+11119,Vela,HD 75466,,HD 75466,,,,75466,43195,08h 48m 00.24s,-52° 51′ 00.7″,6.29,0.52,464,B8V,,132.000,-51.150,Velorum,HD 75466 Velorum
+11120,Vela,HD 93453,,HD 93453,,,,93453,52709,10h 46m 37.14s,-43° 11′ 33.1″,6.29,1.91,245,A4IV,,161.654,-42.808,Velorum,HD 93453 Velorum
+11121,Vela,HD 72993,,HD 72993,,,,72993,42070,08h 34m 29.26s,-37° 36′ 40.3″,6.3,−1.11,988,M0III,"suspected variable, ΔV = 0.09m",128.621,-36.389,Velorum,HD 72993 Velorum
+11122,Vela,GY Vel,,GY,,,GY,89273,50332,10h 16m 40.17s,-51° 12′ 16.8″,6.3,−0.41,715,M4/M5III,"semiregular variable, Vmax = 6.23m, Vmin = 6.5m",154.167,-50.796,Velorum,GY Velorum
+11123,Vela,HD 72350,,HD 72350,,,,72350,41737,08h 30m 39.24s,-44° 44′ 14.4″,6.3,−2.88,2233,B4V,,127.663,-43.263,Velorum,HD 72350 Velorum
+11124,Vela,HD 79523,,HD 79523,,,,79523,45259,09h 13m 25.82s,-38° 36′ 59.2″,6.31,−0.40,715,A0V,,138.354,-37.384,Velorum,HD 79523 Velorum
+11125,Vela,GK Vel,,GK,,,GK,81575,46194,09h 25m 07.89s,-43° 58′ 36.1″,6.31,−0.61,789,M5III,"semiregular variable, Vmax = 6.26m, Vmin = 6.39m, P = 120 d",141.279,-42.023,Velorum,GK Velorum
+11126,Vela,HD 80435,,HD 80435,,,,80435,45603,09h 17m 42.31s,-54° 29′ 41.5″,6.33,−0.65,811,K3III,,139.425,-53.505,Velorum,HD 80435 Velorum
+11127,Vela,HD 67621,,HD 67621,,,,67621,39691,08h 06m 41.61s,-48° 29′ 50.7″,6.34,−1.78,1370,B3III,,121.671,-47.503,Velorum,HD 67621 Velorum
+11128,Vela,HD 72650,,HD 72650,,,,72650,41813,08h 31m 29.57s,-54° 23′ 38.1″,6.34,0.45,491,K3III,,127.871,-53.606,Velorum,HD 72650 Velorum
+11129,Vela,HD 75289,,HD 75289,,,,75289,43177,08h 47m 40.41s,-41° 44′ 10.5″,6.35,4.04,94,G0V,has a planet (b),131.917,-40.264,Velorum,HD 75289 Velorum
+11130,Vela,HD 72798,,HD 72798,,,,72798,41941,08h 33m 01.87s,-45° 45′ 10.5″,6.36,−3.02,2451,B5III,,128.254,-44.247,Velorum,HD 72798 Velorum
+11131,Vela,HD 76004,,HD 76004,,,,76004,43520,08h 51m 50.05s,-44° 09′ 03.4″,6.38,−1.60,1283,B3V,,132.958,-43.849,Velorum,HD 76004 Velorum
+11132,Vela,HZ Vel,,HZ,,,HZ,75654,43354,08h 49m 52.40s,-39° 08′ 30.1″,6.39,1.93,254,A5III,"δ Sct variable, ΔV = 0.025m, P = 0.087 d",132.467,-38.858,Velorum,HZ Velorum
+11133,Vela,HD 72485,,HD 72485,,,,72485,41781,08h 31m 10.64s,-47° 51′ 59.9″,6.39,−1.15,1052,B2.5V,,127.792,-46.134,Velorum,HD 72485 Velorum
+11134,Vela,HD 76230,,HD 76230,,,,76230,43593,08h 52m 40.83s,-52° 07′ 44.2″,6.39,0.67,453,A0V,,133.167,-51.871,Velorum,HD 76230 Velorum
+11135,Vela,HD 77907,,HD 77907,,,,77907,44423,09h 03m 05.35s,-53° 33′ 01.4″,6.39,−0.72,862,B6V,,135.771,-52.450,Velorum,HD 77907 Velorum
+11136,Vela,HD 86211,,HD 86211,,,,86211,48706,09h 56m 05.35s,-40° 49′ 28.2″,6.39,−0.67,840,M1III,suspected variable,149.021,-39.176,Velorum,HD 86211 Velorum
+11137,Vela,HD 86352,,HD 86352,,,,86352,48730,09h 56m 21.90s,-51° 20′ 10.2″,6.39,−4.38,4657,B2IV-V,,149.088,-50.664,Velorum,HD 86352 Velorum
+11138,Vela,HD 88015,,HD 88015,,,,88015,49619,10h 07m 35.73s,-48° 15′ 39.0″,6.4,−1.60,1299,B3III,,151.896,-47.739,Velorum,HD 88015 Velorum
+11139,Vela,HD 94724,,HD 94724,,,,94724,53411,10h 55m 27.25s,-43° 01′ 14.0″,6.4,1.44,320,A0V,,163.863,-42.979,Velorum,HD 94724 Velorum
+11140,Vela,HD 76304,,HD 76304,,,,76304,43673,08h 53m 50.76s,-40° 26′ 51.2″,6.42,−1.61,1315,K0II/III+..,,133.458,-39.553,Velorum,HD 76304 Velorum
+11141,Vela,HD 87122,,HD 87122,,,,87122,49092,10h 01m 12.01s,-56° 05′ 47.6″,6.42,−0.70,867,B8,,150.300,-55.904,Velorum,HD 87122 Velorum
+11142,Vela,HD 75387,,HD 75387,,,,75387,43209,08h 48m 08.79s,-42° 27′ 48.5″,6.43,−2.15,1698,B2IV,suspected variable,132.033,-41.537,Velorum,HD 75387 Velorum
+11143,Vela,HD 92155,,HD 92155,,,,92155,51984,10h 37m 16.12s,-53° 51′ 19.0″,6.43,−2.10,1655,B3Vn,,159.317,-52.145,Velorum,HD 92155 Velorum
+11144,Vela,HD 69596,,HD 69596,,,,69596,40433,08h 15m 23.27s,-50° 26′ 57.1″,6.44,−0.32,734,K3/K4III,,123.846,-49.551,Velorum,HD 69596 Velorum
+11145,Vela,HD 73121,,HD 73121,,,,73121,42123,08h 35m 12.48s,-39° 58′ 14.0″,6.44,3.64,118,G1V,,128.800,-38.029,Velorum,HD 73121 Velorum
+11146,Vela,HD 95509,,HD 95509,,,,95509,53811,11h 00m 36.33s,-53° 06′ 42.7″,6.44,0.92,415,K3III,,165.150,-52.888,Velorum,HD 95509 Velorum
+11147,Vela,HD 69404,,HD 69404,,,,69404,40397,08h 14m 51.25s,-46° 29′ 09.3″,6.45,−1.60,1331,B3Vnne,"γ Cas variable, Vmax = 6.37m, Vmin = 6.46m",123.713,-45.514,Velorum,HD 69404 Velorum
+11148,Vela,HD 70309,,HD 70309,,,,70309,40749,08h 19m 05.60s,-48° 11′ 52.4″,6.45,−0.56,823,B3V,,124.771,-47.802,Velorum,HD 70309 Velorum
+11149,Vela,HD 73952,,HD 73952,,,,73952,42400,08h 38m 44.83s,-53° 05′ 25.6″,6.45,0.5,505,B8Vn,in IC 2391,129.683,-52.910,Velorum,HD 73952 Velorum
+11150,Vela,HD 94508,,HD 94508,,,,94508,53260,10h 53m 33.42s,-56° 25′ 13.8″,6.45,,4100,K2III,,163.388,-55.580,Velorum,HD 94508 Velorum
+11151,Vela,HD 68478,,HD 68478,,,,68478,40016,08h 10m 20.57s,-49° 14′ 14.5″,6.46,−2.03,1630,B3IV,,122.583,-48.763,Velorum,HD 68478 Velorum
+11152,Vela,HD 78005,,HD 78005,,,,78005,44509,09h 04m 05.79s,-47° 26′ 29.3″,6.46,−1.27,1144,B4V,suspected variable,136.021,-46.559,Velorum,HD 78005 Velorum
+11153,Vela,HD 81309,,HD 81309,,,,81309,46075,09h 23m 44.92s,-37° 45′ 25.1″,6.47,1.45,329,A1m...,,140.933,-36.243,Velorum,HD 81309 Velorum
+11154,Vela,QZ Vel,,QZ,,,QZ,85871,48469,09h 53m 00.11s,-55° 22′ 23.6″,6.48,−3.06,2650,B1IIIn,slowly pulsating B star,148.250,-54.627,Velorum,QZ Velorum
+11155,Vela,HD 68763,,HD 68763,,,,68763,40160,08h 12m 06.06s,-43° 24′ 01.6″,6.48,−5.11,6792,K3III:,suspected variable,123.025,-42.600,Velorum,HD 68763 Velorum
+11156,Vela,HD 72787,,HD 72787,,,,72787,41970,08h 33m 19.87s,-38° 22′ 14.5″,6.48,−1.63,1364,B2/B3V,suspected variable,128.329,-37.629,Velorum,HD 72787 Velorum
+11157,Vela,HD 79025,,HD 79025,,,,79025,44979,09h 09m 45.00s,-49° 25′ 27.5″,6.48,0.49,513,A9Vn,,137.438,-48.576,Velorum,HD 79025 Velorum
+11158,Vela,HD 88862,,HD 88862,,,,88862,50069,10h 13m 22.32s,-56° 35′ 12.1″,6.48,−0.53,821,K2III,,153.342,-55.413,Velorum,HD 88862 Velorum
+11159,Vela,HD 89328,,HD 89328,,,,89328,50391,10h 17m 20.20s,-46° 50′ 05.8″,6.48,2.51,203,A8V+...,,154.333,-45.165,Velorum,HD 89328 Velorum
+11160,Vela,V361 Vel,,V361,,,V361,95716,53940,11h 02m 13.84s,-41° 06′ 50.6″,6.48,−2.18,1762,M4III,"semiregular variable, Vmax = 6.17m, Vmin = 6.88m, P = 64.9 d",165.554,-40.886,Velorum,V361 Velorum
+11161,Vela,HD 69168,,HD 69168,,,,69168,40299,08h 13m 45.66s,-46° 34′ 43.3″,6.49,−0.96,1009,B3V,,123.438,-45.421,Velorum,HD 69168 Velorum
+11162,Vela,HD 71805,,HD 71805,,,,71805,41426,08h 26m 57.83s,-52° 42′ 17.4″,6.49,2.82,176,F5V...,,126.738,-51.295,Velorum,HD 71805 Velorum
+11163,Vela,HD 72752,,HD 72752,,,,72752,41905,08h 32m 40.51s,-47° 02′ 31.7″,6.49,−0.01,651,K2III,,128.167,-46.958,Velorum,HD 72752 Velorum
+11164,Vela,HD 75989,,HD 75989,,,,75989,43528,08h 51m 55.60s,-40° 59′ 11.8″,6.49,−1.18,1113,Ap...,,132.979,-39.014,Velorum,HD 75989 Velorum
+11165,Vela,HD 87030,,HD 87030,,,,87030,49052,10h 00m 34.58s,-56° 56′ 46.2″,6.5,0.52,511,K0III,,150.142,-55.054,Velorum,HD 87030 Velorum
+11166,Vela,R Vel,,R,,,R,87816,49477,10h 06m 07.26s,-52° 11′ 16.7″,6.51,1.09,394,K0III,"suspected variable, Vmax = 6.49m, Vmin = 6.52m",151.529,-51.812,Velorum,R Velorum
+11167,Vela,HD 72436,,HD 72436,,,,72436,41806,08h 31m 24.70s,-39° 03′ 50.9″,6.52,−1.80,1500,B5V,suspected variable,127.850,-38.936,Velorum,HD 72436 Velorum
+11168,Vela,CV Vel,,CV,,,CV,77464,44245,09h 00m 37.99s,-51° 33′ 20.1″,6.69,,1430,B2V+...,"Algol variable, Vmax = 6.69m, Vmin = 7.19m, P = 6.89 d",135.154,-50.444,Velorum,CV Velorum
+11169,Vela,AI Vel,,AI,,,AI,69213,40330,08h 14m 05.15s,-44° 34′ 32.8″,6.7,,319,A9IV/V,"double-mode δ Sct variable, Vmax = 6.15m, Vmin = 6.76m, P = 0.11 d",123.521,-43.424,Velorum,AI Velorum
+11170,Vela,KK Vel,,KK,,,KK,78616,44790,09h 07m 42.52s,-44° 37′ 56.8″,6.79,,1650,B2II/III,β Cep variable,136.925,-43.368,Velorum,KK Velorum
+11171,Vela,Vela X-1,,GP,,,GP,77581,44368,09h 02m 06.86s,-40° 33′ 16.9″,6.87,,3500,B0.5Iae,"X-ray pulsar system and eclipsing binary, Vmax = 6.76m, Vmin = 6.99m, P = 8.96 d",135.525,-39.446,Velorum,GP Velorum
+11172,Vela,HD 72754,,FY,,,FY,72754,41882,08h 32m 23.38s,-49° 36′ 04.8″,6.9,,2160,B2Ia:pshe,"β Lyr variable, Vmax = 6.84m, Vmin = 7.06m, P = 33.72 d",128.096,-48.399,Velorum,FY Velorum
+11173,Vela,RZ Vel,,RZ,,,RZ,73502,42257,08h 37m 01.30s,-44° 06′ 52.8″,7.13,,1770,G1Ib,"classical Cepheid, Vmax = 6.42m, Vmin = 7.64m, P = 20.40 d",129.254,-43.886,Velorum,RZ Velorum
+11174,Vela,HD 73882,,NX,,,NX,73882,42433,08h 39m 09.53s,-40° 25′ 09.3″,7.19,,1500,O9III,"Algol variable, Vmax = 7.19m, Vmin = 7.29m, P = 2.92 d",129.788,-39.581,Velorum,NX Velorum
+11175,Vela,V342 Vel,,V342,,,V342,89767,50598,10h 20m 11.74s,-52° 36′ 06.2″,7.23,−6.4,6000,B0Iab,"α Cyg variable, Vmax = 7.16m, Vmin = 7.25m",155.046,-51.398,Velorum,V342 Velorum
+11176,Vela,HD 93385,,HD 93385,,,,93385,52676,10h 46m 15.00s,"-41° 27′ 52.0""",7.49,,138,G2V,has two planets (b & c),161.563,-40.536,Velorum,HD 93385 Velorum
+11177,Vela,HD 76534,,OU,,,OU,76534,43792,08h 55m 08.71s,-43° 27′ 59.9″,7.5,,3200,B2Vne,Be star,133.783,-42.534,Velorum,OU Velorum
+11178,Vela,IGR J08408-4503,,LM,,,LM,74194,42587,08h 40m 47.79s,-45° 03′ 30.2″,7.55,,,O8Ib(f),"recurrent X-ray transient and α Cyg variable, Vmax = 7.54m, Vmin = 7.57m, P = 7.81 d",130.196,-44.942,Velorum,LM Velorum
+11179,Vela,HD 85512,,HD 85512,,,,85512,48331,09h 51m 07.00s,"-43° 30′ 10.0""",7.67,,36,K5V,has a planet (b),147.779,-42.497,Velorum,HD 85512 Velorum
+11180,Vela,HD 80077,,PV,,,PV,80077,45467,09h 15m 54.79s,-49° 58′ 24.6″,7.68,,,B2Ia+e,"possibly in Pismis 11; luminous blue variable, Vmax = 7.42m, Vmin = 7.68m",138.975,-48.027,Velorum,PV Velorum
+11181,Vela,T Vel,,T,,,T,73678,42321,08h 37m 40.83s,-47° 21′ 43.1″,7.68,,7100,G0II,"classical Cepheid, Vmax = 7.68m, Vmin = 8.34m, P = 4.64 d",129.417,-46.638,Velorum,T Velorum
+11182,Vela,S Vel,,S,,,S,82829,46881,09h 33m 13.20s,-45° 12′ 30.9″,7.81,,512,A5m,"Algol variable, Vmax = 7.74m, Vmin = 9.5m, P = 5.93 d",143.304,-44.792,Velorum,S Velorum
+11183,Vela,SV Vel,,SV,,,SV,93247,52570,10h 44m 56.35s,-56° 17′ 22.4″,7.91,,,F7II,"classical Cepheid, Vmax = 7.91m, Vmin = 9.12m, P = 14.10 d",161.233,-55.711,Velorum,SV Velorum
+11184,Vela,AX Vel,,AX,,,AX,68556,,08h 10m 49.32s,-47° 41′ 54.8″,8.16,,,F6II,"double-mode Cepheid variable, Vmax = 7.93m, Vmin = 8.48m, P = 2.59 d",122.704,-46.302,Velorum,AX Velorum
+11185,Vela,HD 83443,,HD 83443,,,,83443,47202,09h 37m 11.83s,-43° 16′ 19.9″,8.24,5.05,142,K0V,"Kalausi[1], has a planet (b)",144.296,-42.728,Velorum,HD 83443 Velorum
+11186,Vela,W Vel,,W,,,W,299011,50230,10h 15m 14.83s,-54° 28′ 42.0″,8.3,,967,M8IIIe,"Mira variable, Vmax = 8.2m, Vmin = 14.4m, P = 395 d",153.808,-53.522,Velorum,W Velorum
+11187,Vela,SW Vel,,SW,,,SW,74712,42831,08h 43m 38.69s,-47° 24′ 11.2″,8.32,,5300,F9Ib,"classical Cepheid, Vmax = 7.49m, Vmin = 8.75m, P = 23.41 d",130.908,-46.597,Velorum,SW Velorum
+11188,Vela,SX Vel,,SX,,,SX,74884,42926,08h 44m 53.47s,-46° 20′ 34.8″,8.33,,3050,F8II,"classical Cepheid, Vmax = 7.92m, Vmin = 8.72m, P = 9.55 d",131.221,-45.657,Velorum,SX Velorum
+11189,Vela,HD 85390,,HD 85390,,,,85390,48235,09h 50m 02.00s,"-49° 47′ 25.0""",8.54,5.9,111,K1V,"Natasha[2], has two planets (b & c)",147.508,-48.210,Velorum,HD 85390 Velorum
+11190,Vela,HD 95338,,HD 95338,,,,95338,53719,10h 59m 26.30s,-45° 39′ 33.1″,8.62,5.72,120.79,K0.5V,has a transiting planet (b),164.858,-44.341,Velorum,HD 95338 Velorum
+11191,Vela,AL Vel,,AL,,,AL,,41784,08h 31m 11.28s,-47° 39′ 57.4″,8.65,,,K0III+A3III/V,"Algol variable, Vmax = 8.6m, Vmin = 8.93m, P = 96.11 d",127.796,-46.334,Velorum,AL Velorum
+11192,Vela,WY Vel,,WY,,,WY,81137,,09h 21m 59.19s,-52° 33′ 51.8″,8.8,,,M2pe,"Z And variable, Vmax = 7.50m, Vmin = 9.1m",140.496,-51.436,Velorum,WY Velorum
+11193,Vela,HD 73526,,HD 73526,,,,73526,42282,08h 37m 16.48s,-41° 19′ 08.8″,9,4.12,309,G6V,has two planets (b & c),129.317,-40.681,Velorum,HD 73526 Velorum
+11194,Vela,IRAS 08544-4431,,V390,,,V390,,,08h 56m 14.19s,-44° 43′ 10.8″,9.18,,2600,F3e,"post-AGB star; semiregular variable, Vmax = 9.01m, Vmin = 9.27m, P = 94.73 d",134.058,-43.281,Velorum,V390 Velorum
+11195,Vela,AO Vel,,AO,,,AO,68826,,08h 11m 53.91s,-48° 44′ 46.0″,9.37,,,B9III,"trinary star; Algol variable Vmax = 9.35m, Vmin = 9.79m, P = 1.58 d",122.971,-47.254,Velorum,AO Velorum
+11196,Vela,AP Vel,,AP,,,AP,,42492,08h 39m 45.76s,-43° 51′ 39.2″,10.16,,4600,F9,"double-mode Cepheid variable, Vmax = 9.49m, Vmin = 10.48m, P = 3.13 d",129.938,-42.139,Velorum,AP Velorum
+11197,Vela,AF Vel,,AF,,,AF,,53213,10h 53m 02.49s,-49° 54′ 22.7″,10.69,,2250,F2.5,"RR Lyr variable, Vmax = 10.68m, Vmin = 11.78m, P = 0.53 d",163.258,-48.094,Velorum,AF Velorum
+11198,Vela,WR 12,,V378,,,V378,,,08h 44m 47.29s,-45° 58′ 55.5″,10.78,,,WN8h+?,"Algol variable, ΔV = 0.12m",131.196,-44.018,Velorum,V378 Velorum
+11199,Vela,CS Vel,,CS,,,CS,,,09h 41m 10.26s,-53° 48′ 57.8″,11.24,,,,"in Ruprecht 79; classical Cepheid, Vmax = 11.24m, Vmin = 12.21m, P = 5.90 d",145.292,-52.184,Velorum,CS Velorum
+11200,Vela,LSS 2018,,KV,,,KV,,,10h 54m 40.57s,-48° 47′ 02.9″,12.12,,,O,"central star of DS 1; re-radiating spectroscopic binary, Vmax = 11.78m, Vmin = 12.34m, P = 0.36 d",163.667,-47.216,Velorum,KV Velorum
+11201,Vela,WASP-19,,W-19,,,,,,09h 53m 40.08s,-45° 39′ 33.1″,12.3,5.3,815,G8V,has a transiting planet (b),148.417,-44.341,Velorum,W-19 Velorum
+11202,Vela,GRS 1009-45,,MM,,,MM,,,10h 13m 36.38s,-45° 04′ 32.0″,14.71,,,G5V-M0V,X-ray nova,153.400,-44.924,Velorum,MM Velorum
+11203,Vela,V382 Vel,,V382,,,V382,,,10h 44m 48.39s,-52° 25′ 30.7″,16.6,,,,"nova, Vmax = 2.8m, Vmin = 16.6m, P = 0.16 d",161.200,-51.575,Velorum,V382 Velorum
+11204,Vela,RX J0925.7-4758,,MR,,,MR,,,09h 25m 46.00s,-47° 58′ 17.4″,16.98,,,,"close binary supersoft source, Vmax = 16.98m, Vmin = 17.3m, P = 4.03 d",141.442,-46.029,Velorum,MR Velorum
+11205,Vela,CU Vel,,CU,,,CU,,,08h 58m 33.03s,-41° 47′ 51.7″,17,,,,"SU UMa variable, Vmax = 10.5m, Vmin = 17.0m, P = 0.079 d",134.638,-40.203,Velorum,CU Velorum
+11206,Vela,2S 0918-549,, ,,,,,,09h 20m 26.47s,-55° 12′ 24.5″,21,,,,low-mass X-ray binary,140.108,-54.793,Velorum,  Velorum
+11207,Vela,HH 46 IRS,, ,,,,,,08h 25m 43.85s,-51° 00′ 32.6″,,,,,in HH 46; young stellar object,126.429,-50.991,Velorum,  Velorum
+11208,Vela,PSR B1055-52,, ,,,,,,10h 57m 58.84s,-52° 26′ 56.3″,,,,,pulsar,164.492,-51.551,Velorum,  Velorum
+11209,Vela,PSR J0855-4644,, ,,,,,,08h 55m 36.18s,-46° 44′ 13.4″,,,,,pulsar; possibly associated with the Vela supernova remnant,133.900,-45.263,Velorum,  Velorum
+11210,Vela,Vela Pulsar,,HU,,,HU,,,08h 35m 20.66s,-45° 10′ 35.2″,23.6,,959,,pulsar; associated with the Vela supernova remnant,128.833,-44.824,Velorum,HU Velorum
+11211,Vela,Luhman 16,, ,,,,,,10h 49m 18.92s,-53° 19′ 10.1″,,,6.6,L7.5+T0.5,brown dwarf; one of the closest known systems,162.325,-52.681,Velorum,  Velorum

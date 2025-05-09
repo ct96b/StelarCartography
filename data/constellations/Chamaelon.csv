@@ -1,0 +1,47 @@
+USID,Constellation,Name,B,B->F->VAR->G,F,G.,Var,HD,HIP,RA,Dec,"vis. mag.","abs. mag.",Dist. (ly),Sp. class,Notes https://en.wikipedia.org/wiki/Lists_of_stars_by_constellation,RA angle,Dec Angle,Latin Constellation,Full Designation
+3408,Chamaeleon,α Cha,α,Alpha,,,,71243,40702,08h 18m 31.27s,-76° 55′ 11.9″,4.05,2.6,63,F5III,,124.629,-75.080,Chamaeleontis,Alpha Chamaeleontis
+3409,Chamaeleon,γ Cha,γ,Gamma,,,,92305,51839,10h 35m 28.22s,-78° 36′ 28.1″,4.11,−1.40,413,M0III,suspected variable,158.867,-77.392,Chamaeleontis,Gamma Chamaeleontis
+3410,Chamaeleon,β Cha,β,Beta,,,,106911,60000,12h 18m 20.94s,-79° 18′ 44.2″,4.24,−0.36,271,B5Vn,suspected variable,184.583,-78.688,Chamaeleontis,Beta Chamaeleontis
+3411,Chamaeleon,θ Cha,θ,Theta,,,,71701,40888,08h 20m 38.89s,-77° 29′ 04.5″,4.34,0.97,154,K0III-IV,double star,125.158,-76.516,Chamaeleontis,Theta Chamaeleontis
+3412,Chamaeleon,δ2 Cha,δ2,Delta 2,,,,93845,52633,10h 45m 47.14s,-80° 32′ 24.7″,4.45,−0.79,363,B2.5IV,,161.446,-79.460,Chamaeleontis,Delta 2 Chamaeleontis
+3413,Chamaeleon,ε Cha,ε,Epsilon,,,,104174,58484,11h 59m 37.69s,-78° 13′ 18.5″,4.88,−0.36,364,B9Vn,double star,179.904,-77.778,Chamaeleontis,Epsilon Chamaeleontis
+3414,Chamaeleon,κ Cha,κ,Kappa,,,,104902,58905,12h 04m 46.66s,-76° 31′ 09.0″,5.04,−0.61,441,K4III,"variable star, ΔV = 0.005m, P = 3.89651 d",181.192,-75.481,Chamaeleontis,Kappa Chamaeleontis
+3415,Chamaeleon,ζ Cha,ζ,Zeta,,,,83979,46928,09h 33m 53.51s,-80° 56′ 28.7″,5.07,−1.02,539,B5V,"β Cep variable, Vmax = 5.06m, Vmin = 5.17m, P = 1.07964 d",143.471,-79.059,Chamaeleontis,Zeta Chamaeleontis
+3416,Chamaeleon,ι Cha,ι,Iota,,,,82554,46107,09h 24m 09.73s,-80° 47′ 13.9″,5.34,1.58,184,F3/F5IV,,141.038,-79.213,Chamaeleontis,Iota Chamaeleontis
+3417,Chamaeleon,ν Cha,ν,Nu,,,,85396,47956,09h 46m 20.42s,-76° 46′ 33.5″,5.43,1.59,191,G8III,,146.583,-75.224,Chamaeleontis,Nu Chamaeleontis
+3418,Chamaeleon,η Cha,η,Eta,,,,75416,42637,08h 41m 19.60s,-78° 57′ 48.3″,5.46,0.53,316,B9IV,,130.329,-77.037,Chamaeleontis,Eta Chamaeleontis
+3419,Chamaeleon,δ1 Cha,δ1,Delta 1,,,,93779,52595,10h 45m 16.38s,-80° 28′ 10.3″,5.46,0.28,354,K0III,double star,161.317,-79.531,Chamaeleontis,Delta 1 Chamaeleontis
+3420,Chamaeleon,μ¹ Cha,μ,Mu,,,,87971,49065,10h 00m 43.90s,-82° 12′ 53.1″,5.53,0.09,399,A0IV,,150.179,-81.785,Chamaeleontis,Mu Chamaeleontis
+3421,Chamaeleon,π Cha,π,Pi,,,,101132,56675,11h 37m 15.94s,-75° 53′ 47.5″,5.64,2.52,137,F1III,,174.313,-74.104,Chamaeleontis,Pi Chamaeleontis
+3422,Chamaeleon,HD 72922,,HD 72922,,,,72922,41191,08h 24m 20.38s,-80° 54′ 53.0″,5.67,1.23,252,G8III,,126.083,-79.085,Chamaeleontis,HD 72922 Chamaeleontis
+3423,Chamaeleon,HD 76236,,HD 76236,,,,76236,43012,08h 45m 55.23s,-79° 30′ 16.5″,5.79,−0.38,559,K5III,"variable star, ΔV = 0.008m, P = 53.70569 d",131.479,-78.496,Chamaeleontis,HD 76236 Chamaeleontis
+3424,Chamaeleon,HD 114533,,HD 114533,,,,114533,64587,13h 14m 17.36s,-78° 26′ 50.8″,5.84,−2.94,1863,F8Ib,,198.571,-77.553,Chamaeleontis,HD 114533 Chamaeleontis
+3425,Chamaeleon,HD 120213,,HD 120213,,,,120213,68009,13h 55m 38.99s,-82° 39′ 58.1″,5.95,−1.19,872,K2/K3III:p,,208.908,-81.334,Chamaeleontis,HD 120213 Chamaeleontis
+3426,Chamaeleon,DR Cha,,DR,,,DR,93237,52340,10h 41m 51.58s,-79° 46′ 59.9″,5.97,−1.46,1000,B5IV,"Algol variable, Vmax = 5.97m, Vmin = 6.06m, P = 19.4436 d; emission-line star",160.463,-78.217,Chamaeleontis,DR Chamaeleontis
+3427,Chamaeleon,RS Cha,,RS,,,RS,75747,42794,08h 43m 12.31s,-79° 04′ 12.5″,6.05,1.1,319,A7V,"Algol variable and δ Sct variable, Vmax = 6.02m, Vmin = 6.68m, P = 1.66987 d",130.800,-78.930,Chamaeleontis,RS Chamaeleontis
+3428,Chamaeleon,HD 80194,,HD 80194,,,,80194,45166,09h 12m 12.27s,-76° 39′ 46.5″,6.13,0.89,364,K1III,,138.050,-75.337,Chamaeleontis,HD 80194 Chamaeleontis
+3429,Chamaeleon,HD 92209,,HD 92209,,,,92209,51835,10h 35m 24.80s,-76° 18′ 32.4″,6.29,0.29,517,K2III,,158.850,-75.691,Chamaeleontis,HD 92209 Chamaeleontis
+3430,Chamaeleon,HD 101782,,HD 101782,,,,101782,56996,11h 41m 01.60s,-83° 05′ 59.9″,6.32,1.2,344,K0III,double star,175.254,-82.900,Chamaeleontis,HD 101782 Chamaeleontis
+3431,Chamaeleon,DY Cha,,DY,,,DY,118285,66607,13h 39m 12.04s,-75° 41′ 01.6″,6.32,−0.95,929,B8IV,long-period pulsating variable,204.800,-74.316,Chamaeleontis,DY Chamaeleontis
+3432,Chamaeleon,HD 106248,,HD 106248,,,,106248,59647,12h 13m 56.48s,-78° 34′ 26.0″,6.34,1.17,353,K2/K3IIICN.,,183.483,-77.426,Chamaeleontis,HD 106248 Chamaeleontis
+3433,Chamaeleon,HD 115088,,HD 115088,,,,115088,64951,13h 18m 48.34s,-79° 58′ 33.5″,6.34,0.67,444,B9.5/A0V,,199.700,-78.024,Chamaeleontis,HD 115088 Chamaeleontis
+3434,Chamaeleon,HD 98617,,HD 98617,,,,98617,55225,11h 18m 34.21s,-79° 40′ 07.0″,6.35,2.3,210,A8IIIm...,,169.642,-78.331,Chamaeleontis,HD 98617 Chamaeleontis
+3435,Chamaeleon,HD 94717,,HD 94717,,,,94717,53151,10h 52m 28.67s,-79° 33′ 34.0″,6.36,−2.20,1680,K2II/III,,163.117,-78.441,Chamaeleontis,HD 94717 Chamaeleontis
+3436,Chamaeleon,HD 101917,,HD 101917,,,,101917,57137,11h 42m 54.53s,-79° 18′ 22.9″,6.38,2.65,182,K0III/IV,,175.725,-78.694,Chamaeleontis,HD 101917 Chamaeleontis
+3437,Chamaeleon,HD 99015,,HD 99015,,,,99015,55497,11h 21m 57.11s,-77° 36′ 30.1″,6.43,2.07,243,A5III/IV,,170.488,-76.392,Chamaeleontis,HD 99015 Chamaeleontis
+3438,Chamaeleon,HD 113694,,HD 113694,,,,113694,64108,13h 08m 20.52s,-78° 26′ 45.5″,6.43,0.73,449,A0V,double star,197.083,-77.554,Chamaeleontis,HD 113694 Chamaeleontis
+3439,Chamaeleon,HD 86320,,HD 86320,,,,86320,48320,09h 51m 00.80s,-80° 03′ 39.9″,6.47,−0.20,703,B8IV,,147.750,-79.939,Chamaeleontis,HD 86320 Chamaeleontis
+3440,Chamaeleon,μ2 Cha,μ2,Mu 2,,,,88351,49326,10h 04m 07.37s,-81° 33′ 56.2″,6.6,0.41,564,G6/G8III,suspected variable,151.029,-80.434,Chamaeleontis,Mu 2 Chamaeleontis
+3441,Chamaeleon,HD 104237,,DX,,,DX,104237,58520,12h 00m 05.08s,-78° 11′ 34.6″,6.7,,374,K4Ve,"T Tau star, Vmax = 6.7m, Vmin = 10.28m, P = 2.45 d",180.021,-77.807,Chamaeleontis,DX Chamaeleontis
+3442,Chamaeleon,RZ Cha,,RZ,,,RZ,93486,52381,10h 42m 24.10s,-82° 02′ 14.2″,8.09,,606,F4V,Algol variable,160.600,-81.963,Chamaeleontis,RZ Chamaeleontis
+3443,Chamaeleon,HD 97048,,CU,,,CU,97048,54413,11h 08m 03.32s,-77° 39′ 17.4″,8.38,,517,A0pshe,"Orion variable, Vmax = 8.38m, Vmin = 8.48m",167.013,-76.345,Chamaeleontis,CU Chamaeleontis
+3444,Chamaeleon,HD 116852,,HD 116852,,,,116852,65890,13h 30m 23.52s,-78° 51′ 20.5″,8.47,,9300,O9III,Obscuring line of highly ionized gas on a line of sight with Earth,202.596,-77.144,Chamaeleontis,HD 116852 Chamaeleontis
+3445,Chamaeleon,HD 97300,,HD 97300,,,,97300,54557,11h 09m 50.02s,-76° 37′ 40.7″,9.2,,574,B9V,T Tau star in IC 2631,167.458,-75.372,Chamaeleontis,HD 97300 Chamaeleontis
+3446,Chamaeleon,HD 63454,,HD 63454,,,,63454,37284,07h 39m 21.85s,-78° 16′ 44.3″,9.37,6.6,117,K4V,"Ceibo,[1] has a planet (b)",114.838,-77.721,Chamaeleontis,HD 63454 Chamaeleontis
+3447,Chamaeleon,R Cha,,R,,,R,71793,,08h 21m 46.42s,-76° 21′ 18.5″,10.55,,,M4.5e,"Mira variable, Vmax = 7.5m, Vmin = 14.5m, P = 338 d",125.442,-75.645,Chamaeleontis,R Chamaeleontis
+3448,Chamaeleon,Z Cha,,Z,,,Z,,,08h 07m 27.75s,-76° 32′ 00.7″,11.5,,,M5.5,"SU UMa and Algol variable, Vmax = 11.5m, Vmin = 16.23m, P = 0.074499315 d; possible planetary companion",121.863,-75.467,Chamaeleontis,Z Chamaeleontis
+3449,Chamaeleon,T Cha,,T,,,T,,58285,11h 57m 13.55s,-79° 21′ 31.54″,11.56,,534,K0e,"Orion variable, Vmax = 10.09m, Vmin = 14.5m, P = 3.253 d; possible planetary companion",179.304,-78.650,Chamaeleontis,T Chamaeleontis
+3450,Chamaeleon,CT Cha,,CT,,,CT,,,11h 04m 09.00s,-76° 27′ 19.00″,12.36,,538,K7,"has a planet (b); Orion variable, Vmax = 11.7m, Vmin = 12.9m",166.038,-75.548,Chamaeleontis,CT Chamaeleontis
+3451,Chamaeleon,ChaHα8,, ,,,,,,11h 07m 46.10s,-77° 40′ 08.9″,20.1,522,,M5.75,binary brown dwarf system,166.942,-76.331,Chamaeleontis,  Chamaeleontis
+3452,Chamaeleon,DK Cha,,DK,,,DK,,,12h 53m 17.23s,-77° 207′ 10.7″,,,,F0,Orion variable,193.321,-76.664,Chamaeleontis,DK Chamaeleontis
+3453,Chamaeleon,OTS 44,, ,,,,,,11h 10m 11.50s,-76° 32′ 13.00″,,,,M9.5,One of the smallest known brown dwarfs,167.546,-75.466,Chamaeleontis,  Chamaeleontis

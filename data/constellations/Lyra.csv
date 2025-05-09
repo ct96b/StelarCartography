@@ -1,0 +1,169 @@
+USID,Constellation,Name,B,B->F->VAR->G,F,G.,Var,HD,HIP,RA,Dec,"vis. mag.","abs. mag.",Dist. (ly),Sp. class,Notes https://en.wikipedia.org/wiki/Lists_of_stars_by_constellation,RA angle,Dec Angle,Latin Constellation,Full Designation
+6821,Lyra,Vega,α,Alpha,3,,,172167,91262,18h 36m 56.19s,+38° 46′ 58.8″,0.03,0.58,25,A0Vvar,"Wega, Fidis, Harp Star, Al Nesr al Waki, Vulture Cadens;[1] 5th brightest star, has a dust disk; δ Sct variable, Vmax = -0.02m, Vmin = 0.07m, P = 0.19 d",279.233,38.783,Lyrae,Alpha Lyrae
+6822,Lyra,γ Lyr,γ,Gamma,14,,,176437,93194,18h 58m 56.62s,+32° 41′ 22.4″,3.25,−3.20,634,B9III,"Sulafat, Sulaphat; suspected variable, Vmax = 3.23m, Vmin = 3.26m",284.733,32.689,Lyrae,Gamma Lyrae
+6823,Lyra,β Lyr A,β,Beta,10,,,174638,92420,18h 50m 04.79s,+33° 21′ 45.6″,3.52,−3.64,881,A8:V comp SB,"Sheliak, Shelyak, Shiliak; prototype β Lyr variable, Vmax = 3.30m, Vmin = 4.35m, P = 12.94061713 d",282.517,33.363,Lyrae,Beta Lyrae
+6824,Lyra,R Lyr,,13,13,,R,175865,92862,18h 55m 20.09s,+43° 56′ 45.2″,4.08,−1.07,349,M5IIIvar,"semiregular variable, Vmax = 3.81m, Vmin = 4.44m, P = 46 d",283.833,43.946,Lyrae,13 Lyrae
+6825,Lyra,δ2 Lyr,δ2,Delta 2,12,,,175588,92791,18h 54m 30.29s,+36° 53′ 55.0″,4.22,−2.98,898,M4IIvar,"semiregular variable, Vmax = 4.22m, Vmin = 4.33m",283.625,36.899,Lyrae,Delta 2 Lyrae
+6826,Lyra,κ Lyr,κ,Kappa,1,,,168775,89826,18h 19m 51.72s,+36° 03′ 52.0″,4.33,0.02,238,K2IIIvar,"suspected variable, Vmax = 4.31m, Vmin = 4.35m",274.963,36.064,Lyrae,Kappa Lyrae
+6827,Lyra,ζ1 Lyr,ζ1,Zeta 1,6,,,173648,91971,18h 44m 46.34s,+37° 36′ 18.2″,4.34,0.97,154,Am,"variable star, ΔV = 0.003m, P = 1.53243 d",281.192,37.605,Lyrae,Zeta 1 Lyrae
+6828,Lyra,θ Lyr,θ,Theta,21,,,180809,94713,19h 16m 22.10s,+38° 08′ 01.4″,4.35,−2.51,769,K0II,"suspected variable, Vmax = 4.32m, Vmin = 4.37m",289.092,38.134,Lyrae,Theta Lyrae
+6829,Lyra,η Lyr,η,Eta,20,,,180163,94481,19h 13m 45.49s,+39° 08′ 45.5″,4.43,−3.09,1042,B2.5IV,"Aladfar; variable star, ΔV = 0.005m, P = 19.73944 d",288.438,39.146,Lyrae,Eta Lyrae
+6830,Lyra,ε2 Lyr A,ε2,Epsilon 2,5,,,173607,91926,18h 44m 22.78s,+39° 36′ 45.3″,4.6,1.13,160,A8Vn,"component of the ε Lyr system; binary star; suspected variable, ΔV = 0.02m",281.092,39.613,Lyrae,Epsilon 2 Lyrae
+6831,Lyra,ε1 Lyr A,ε1,Epsilon 1,4,,,173582,91919,18h 44m 20.34s,+39° 40′ 11.9″,4.67,1.19,162,F1V,component of the ε Lyr system; binary star,281.083,39.670,Lyrae,Epsilon 1 Lyrae
+6832,Lyra,HD 173780,,HD 173780,,,,173780,92088,18h 46m 04.47s,+26° 39′ 43.5″,4.83,0.39,252,K3III,,281.517,26.662,Lyrae,HD 173780 Lyrae
+6833,Lyra,λ Lyr,λ,Lambda,15,,,176670,93279,19h 00m 00.82s,+32° 08′ 43.8″,4.94,−3.43,1538,K3III,suspected variable,285.000,32.145,Lyrae,Lambda Lyrae
+6834,Lyra,16 Lyr,,16,16,,,177196,93408,19h 01m 26.36s,+46° 56′ 06.1″,5,2.04,128,A7V,"suspected variable, Vmax = 5.00m, Vmin = 5.09m",285.358,46.935,Lyrae,16 Lyrae
+6835,Lyra,μ Lyr,μ,Mu,2,,,169702,90191,18h 24m 13.80s,+39° 30′ 26.1″,5.11,−0.55,441,A3IVn,"Alathfar, Al Athfar",276.054,39.507,Lyrae,Mu Lyrae
+6836,Lyra,HD 176051,,HD 176051,,,,176051,93017,18h 57m 01.47s,+32° 54′ 05.8″,5.2,4.32,49,G0V,has a planet (b),284.254,32.901,Lyrae,HD 176051 Lyrae
+6837,Lyra,17 Lyr,,17,17,,,178449,93917,19h 07m 25.50s,+32° 30′ 06.0″,5.2,2.16,132,F0V,,286.854,32.502,Lyrae,17 Lyrae
+6838,Lyra,ν Lyr,"ν, ν2",Nu 2,9,,,174602,92405,18h 49m 52.92s,+32° 33′ 03.9″,5.22,0.9,238,A3V,,282.467,32.551,Lyrae,Nu 2 Lyrae
+6839,Lyra,ι Lyr,ι,Iota,18,,,178475,93903,19h 07m 18.13s,+36° 06′ 00.6″,5.25,−1.78,832,B6IV,Be star,286.825,36.100,Lyrae,Iota Lyrae
+6840,Lyra,HD 176527,,HD 176527,,,,176527,93256,18h 59m 45.43s,+26° 13′ 49.6″,5.26,0.12,348,K2III,suspected RS CVn variable,284.938,26.230,Lyrae,HD 176527 Lyrae
+6841,Lyra,ε2 Lyr B,ε2,Epsilon 2,5,,,173608,,18h 44m 22.90s,+39° 36′ 46.0″,5.37,,162,,component of the ε Lyr system,281.092,39.613,Lyrae,Epsilon 2 Lyrae
+6842,Lyra,HD 172044,,HD 172044,,,,172044,91235,18h 36m 37.35s,+33° 28′ 08.5″,5.41,−0.61,522,B8II-IIIp..,"suspected α2 CVn variable, Vmax = 5.40m, Vmin = 5.45m",279.154,33.469,Lyrae,HD 172044 Lyrae
+6843,Lyra,HD 175740,,HD 175740,,,,175740,92831,18h 54m 52.18s,+41° 36′ 09.8″,5.46,0.89,267,G8III,,283.717,41.603,Lyrae,HD 175740 Lyrae
+6844,Lyra,HD 171301,,HD 171301,,,,171301,90923,18h 32m 49.95s,+30° 33′ 15.1″,5.47,0.22,365,B8IV,,278.204,30.554,Lyrae,HD 171301 Lyrae
+6845,Lyra,HD 178233,,HD 178233,,,,178233,93843,19h 06m 37.68s,+28° 37′ 42.2″,5.53,2.48,133,F0III,,286.654,28.628,Lyrae,HD 178233 Lyrae
+6846,Lyra,HD 167965,,HD 167965,,,,167965,89482,18h 15m 38.78s,+42° 09′ 33.6″,5.56,−0.53,540,B7IV,"variable star, ΔV = 0.008m, P = 0.57460 d",273.908,42.159,Lyrae,HD 167965 Lyrae
+6847,Lyra,δ1 Lyr,δ1,Delta 1,11,,,175426,92728,18h 53m 43.56s,+36° 58′ 18.2″,5.58,−2.02,1079,B2.5V,"suspected variable, Vmax = 5.56m, Vmin = 5.62m",283.429,36.972,Lyrae,Delta 1 Lyrae
+6848,Lyra,HD 177808,,HD 177808,,,,177808,93718,19h 04m 57.82s,+31° 44′ 39.3″,5.63,−0.72,606,M0III,,286.238,31.744,Lyrae,HD 177808 Lyrae
+6849,Lyra,HD 175443,,HD 175443,,,,175443,92768,18h 54m 13.25s,+27° 54′ 34.9″,5.64,0.17,405,K4III,,283.554,27.909,Lyrae,HD 175443 Lyrae
+6850,Lyra,HD 173417,,HD 173417,,,,173417,91883,18h 43m 51.61s,+31° 55′ 36.9″,5.68,2.1,169,F1III-IV,,280.963,31.927,Lyrae,HD 173417 Lyrae
+6851,Lyra,HD 176871,,HD 176871,,,,176871,93393,19h 01m 17.36s,+26° 17′ 29.2″,5.69,−0.96,697,B5V,,285.321,26.291,Lyrae,HD 176871 Lyrae
+6852,Lyra,ζ2 Lyr,ζ2,Zeta 2,7,,,173649,91973,18h 44m 48.19s,+37° 35′ 40.4″,5.73,2.41,150,F0IVvar,"suspected variable, Vmax = 5.68m, Vmin = 5.74m",281.200,37.594,Lyrae,Zeta 2 Lyrae
+6853,Lyra,HD 182694,,HD 182694,,,,182694,95352,19h 23m 56.49s,+43° 23′ 17.7″,5.85,0.38,404,G6.5IIIa,,290.983,43.388,Lyrae,HD 182694 Lyrae
+6854,Lyra,HD 180450,,HD 180450,,,,180450,94630,19h 15m 24.84s,+30° 31′ 35.2″,5.88,−2.25,1376,M0III,"variable star, ΔV = 0.014m, P = 2.63213 d",288.850,30.526,Lyrae,HD 180450 Lyrae
+6855,Lyra,V542 Lyr,,V542,,,V542,176318,93104,18h 58m 01.90s,+38° 15′ 58.3″,5.89,−0.11,516,B7IV,Algol variable,284.504,38.266,Lyrae,V542 Lyrae
+6856,Lyra,ν1 Lyr,ν1,Nu 1,8,,,174585,92398,18h 49m 45.91s,+32° 48′ 46.2″,5.93,−1.52,1009,B3IV,"suspected variable, Vmax = 5.89m, Vmin = 5.96m",282.438,32.813,Lyrae,Nu 1 Lyrae
+6857,Lyra,19 Lyr,,19,19,,V471,179527,94311,19h 11m 46.01s,+31° 17′ 00.5″,5.93,−1.46,979,B9p Si,"α2 CVn variable, Vmax = 5.91m, Vmin = 5.98m, P = 1.160898 d",287.942,31.283,Lyrae,19 Lyrae
+6858,Lyra,HD 175635,,HD 175635,,,,175635,92833,18h 54m 52.52s,+33° 58′ 06.9″,5.99,−2.06,1331,G8III+...,,283.717,33.968,Lyrae,HD 175635 Lyrae
+6859,Lyra,XY Lyr,,XY,,,XY,172380,91373,18h 38m 06.47s,+39° 40′ 05.9″,6.02,−1.81,1199,M4.5II,"semiregular variable, Vmax = 5.6m, Vmin = 6.6m, P = 120 d",279.525,39.668,Lyrae,XY Lyrae
+6860,Lyra,ε1 Lyr B,ε1,Epsilon 1,4,,,173583,,18h 44m 20.30s,+39° 40′ 16.0″,6.02,,162,,component of the ε Lyr system,281.083,39.671,Lyrae,Epsilon 1 Lyrae
+6861,Lyra,HD 176896,,HD 176896,,,,176896,93354,19h 00m 55.20s,+33° 48′ 07.7″,6.04,0.62,396,K0III:,,285.229,33.802,Lyrae,HD 176896 Lyrae
+6862,Lyra,HD 173416,,HD 173416,,,,173416,91852,18h 43m 36.11s,+36° 33′ 23.8″,6.06,0.41,440,G8III,Xihe; has a planet (b),280.900,36.556,Lyrae,HD 173416 Lyrae
+6863,Lyra,HD 173936,,HD 173936,,,,173936,92098,18h 46m 13.01s,+41° 26′ 30.5″,6.06,−1.81,1221,B6V,,281.554,41.442,Lyrae,HD 173936 Lyrae
+6864,Lyra,HD 174179,,HD 174179,,,,174179,92243,18h 47m 57.37s,+31° 45′ 24.6″,6.06,−1.50,1062,B3IVp,,281.988,31.757,Lyrae,HD 174179 Lyrae
+6865,Lyra,HD 177809,,HD 177809,,,,177809,93720,19h 04m 58.27s,+30° 44′ 00.4″,6.07,−0.72,743,M2III,suspected variable,286.242,30.733,Lyrae,HD 177809 Lyrae
+6866,Lyra,HD 182272,,HD 182272,,,,182272,95235,19h 22m 33.35s,+33° 31′ 05.6″,6.09,1.01,339,K0III,,290.638,33.518,Lyrae,HD 182272 Lyrae
+6867,Lyra,HD 171780,,HD 171780,,,,171780,91119,18h 35m 13.50s,+34° 27′ 28.8″,6.1,−1.42,1038,B5Vn,suspected variable,278.804,34.458,Lyrae,HD 171780 Lyrae
+6868,Lyra,HD 174959,,HD 174959,,,,174959,92551,18h 51m 36.52s,+36° 32′ 20.8″,6.1,−1.58,1120,B6IV,,282.900,36.539,Lyrae,HD 174959 Lyrae
+6869,Lyra,HD 168322,,HD 168322,,,,168322,89604,18h 17m 06.95s,+40° 56′ 11.7″,6.12,0.98,348,G9III,,274.275,40.936,Lyrae,HD 168322 Lyrae
+6870,Lyra,V473 Lyr,,V473,,,V473,180583,94685,19h 15m 59.49s,+27° 55′ 34.7″,6.18,−2.38,1680,F6Ib-II,"classical Cepheid, Vmax = 5.99m, Vmin = 6.35m, P = 1.49078 d",288.996,27.926,Lyrae,V473 Lyrae
+6871,Lyra,V543 Lyr,,V543,,,V543,176502,93177,18h 58m 46.59s,+40° 40′ 45.1″,6.2,−1.12,948,B3V,β Cep variable,284.692,40.679,Lyrae,V543 Lyrae
+6872,Lyra,HD 179583,,HD 179583,,,,179583,94280,19h 11m 23.16s,+40° 25′ 45.0″,6.2,0.4,471,A3V,,287.846,40.429,Lyrae,HD 179583 Lyrae
+6873,Lyra,V533 Lyr,,V533,,,V533,172187,91250,18h 36m 45.53s,+43° 13′ 18.6″,6.21,0.71,411,F0V,β Lyr variable,279.188,43.222,Lyrae,V533 Lyrae
+6874,Lyra,HD 174881,,HD 174881,,,,174881,92550,18h 51m 35.89s,+28° 47′ 01.2″,6.22,−2.23,1598,K1II-III,,282.896,28.784,Lyrae,HD 174881 Lyrae
+6875,Lyra,HD 172671,,HD 172671,,,,172671,91491,18h 39m 33.03s,+40° 56′ 06.2″,6.25,−0.72,807,B9V,,279.888,40.935,Lyrae,HD 172671 Lyrae
+6876,Lyra,HD 181470,,HD 181470,,,,181470,94932,19h 19m 01.15s,+37° 26′ 43.1″,6.25,−0.29,663,A0III,,289.754,37.445,Lyrae,HD 181470 Lyrae
+6877,Lyra,HD 175132,,HD 175132,,,,175132,92599,18h 52m 07.25s,+41° 22′ 59.7″,6.28,−1.59,1221,B9p Si,"variable star, ΔV = 0.009m, P = 8.03084 d",283.029,41.383,Lyrae,HD 175132 Lyrae
+6878,Lyra,HD 181655,,HD 181655,,,,181655,94981,19h 19m 39.04s,+37° 19′ 51.5″,6.29,4.28,82,G8V,,289.913,37.331,Lyrae,HD 181655 Lyrae
+6879,Lyra,HD 168009,,HD 168009,,,,168009,89474,18h 15m 32.53s,+45° 12′ 34.5″,6.3,4.52,74,G2V,,273.883,45.209,Lyrae,HD 168009 Lyrae
+6880,Lyra,HD 181828,,HD 181828,,,,181828,95067,19h 20m 33.05s,+35° 11′ 09.4″,6.3,−0.44,726,B9V,,290.138,35.186,Lyrae,HD 181828 Lyrae
+6881,Lyra,HR 7403,,V558,,,V558,183362,95673,19h 27m 36.40s,+37° 56′ 28.3″,6.3,−2.71,2063,B3Ve,Be star,291.900,37.941,Lyrae,V558 Lyrae
+6882,Lyra,HD 178003,,HD 178003,,,,178003,93770,19h 05m 47.13s,+29° 55′ 18.1″,6.32,−1.70,1309,M0III,suspected variable,286.446,29.922,Lyrae,HD 178003 Lyrae
+6883,Lyra,HD 179422,,HD 179422,,,,179422,94290,19h 11m 30.96s,+26° 44′ 09.4″,6.35,3.18,141,F5V,,287.875,26.736,Lyrae,HD 179422 Lyrae
+6884,Lyra,Gliese 758,,HD 182488,,,,182488,95319,19h 23m 34.01s,+33° 13′ 19.1″,6.37,5.42,51,G8V,has a brown dwarf companion,290.892,33.222,Lyrae,HD 182488 Lyrae
+6885,Lyra,HD 177109,,HD 177109,,,,177109,93437,19h 01m 48.37s,+33° 37′ 16.5″,6.39,−1.27,1109,B5IV,,285.450,33.621,Lyrae,HD 177109 Lyrae
+6886,Lyra,HD 169646,,HD 169646,,,,169646,90163,18h 23m 57.27s,+38° 44′ 21.0″,6.41,−0.69,858,K2,,275.988,38.739,Lyrae,HD 169646 Lyrae
+6887,Lyra,HD 172958,,HD 172958,,,,172958,91675,18h 41m 41.31s,+31° 37′ 03.3″,6.41,−1.24,1105,B8V,,280.421,31.618,Lyrae,HD 172958 Lyrae
+6888,Lyra,HD 172631,,HD 172631,,,,172631,91533,18h 40m 01.93s,+30° 50′ 57.8″,6.43,0.18,580,K0,,280.004,30.849,Lyrae,HD 172631 Lyrae
+6889,Lyra,HD 176582,,V545,,,V545,176582,93210,18h 59m 12.29s,+39° 13′ 02.4″,6.43,−0.58,821,B5IV,53 Per variable,284.800,39.217,Lyrae,V545 Lyrae
+6890,Lyra,HD 182635,,HD 182635,,,,182635,95370,19h 24m 06.05s,+36° 27′ 06.9″,6.44,1.22,360,K1III,,291.025,36.452,Lyrae,HD 182635 Lyrae
+6891,Lyra,HD 172741,,HD 172741,,,,172741,91552,18h 40m 12.19s,+38° 22′ 01.8″,6.45,0.52,501,A6m,,280.050,38.367,Lyrae,HD 172741 Lyrae
+6892,Lyra,HD 173383,,HD 173383,,,,173383,91820,18h 43m 16.57s,+39° 18′ 00.3″,6.45,−1.65,1358,K5,,280.817,39.300,Lyrae,HD 173383 Lyrae
+6893,Lyra,V550 Lyr,,V550,,,V550,178329,93808,19h 06m 17.00s,+41° 24′ 50.0″,6.49,,2038,B3V,53 Per variable,286.571,41.414,Lyrae,V550 Lyrae
+6894,Lyra,HD 173087,,HD 173087,,,,173087,91707,18h 42m 08.09s,+34° 44′ 46.7″,6.49,−1.55,1320,B5V,,280.533,34.746,Lyrae,HD 173087 Lyrae
+6895,Lyra,HD 180314,,HD 180314,,,,180314,94576,19h 14m 50.21s,+31° 51′ 37.3″,6.61,,430,K0,has an unconfirmed planet (b),288.708,31.860,Lyrae,HD 180314 Lyrae
+6896,Lyra,HD 178911,,HD 178911,,,,178911,94076,19h 09m 04.38s,+34° 36′ 01.6″,6.74,3.29,160,G1V,binary star; component B has a planet (b),287.267,34.600,Lyrae,HD 178911 Lyrae
+6897,Lyra,HD 181068,,HD 181068,,,,181068,94780,19h 17m 08.98s,+41° 15′ 53.3″,7.09,,811,G5,triply eclipsing binary,289.283,41.265,Lyrae,HD 181068 Lyrae
+6898,Lyra,RR Lyr,,RR,,,RR,182989,95497,19h 25m 27.91s,+42° 47′ 03.7″,7.13,0.34,744,F5,"prototype RR Lyr variable, Vmax = 7.06m, Vmin = 8.12m, P = 0.56686776 d",291.363,42.784,Lyrae,RR Lyrae
+6899,Lyra,HD 177830,,HD 177830,,,,177830,93746,19h 05m 20.77s,+25° 55′ 14.4″,7.18,3.32,192,K0,has two planets (b & c),286.333,25.921,Lyrae,HD 177830 Lyrae
+6900,Lyra,HD 175370,,HD 175370,,,,175370,92668,18h 53m 00.0s,+43° 42′ 49.00″,7.19,,887,K2 III,has a planet (b),283.250,43.703,Lyrae,HD 175370 Lyrae
+6901,Lyra,β Lyr B,β,Beta,10,,,174664,,18h 50m 06.60s,+33° 21′ 05.0″,7.2,,960,,component of the β Lyr system,282.525,33.351,Lyrae,Beta Lyrae
+6902,Lyra,W Lyr,,W,,,W,167740,89419,18h 14m 55.88s,+36° 40′ 13.2″,7.3,,,M3.5-7e,"Mira variable, Vmax = 7.3m, Vmin = 13m, P = 197.88 d",273.729,36.670,Lyrae,W Lyrae
+6903,Lyra,V478 Lyr,,V478,,,V478,178450,93926,19h 07m 32.39s,+30° 15′ 16.2″,7.63,,91.16,G8VSB,"RS CVn variable, ΔV = 0.032m, P = 2.185 d",286.883,30.254,Lyrae,V478 Lyrae
+6904,Lyra,HK Lyr,,HK,,,HK,173291,91774,18h 42m 50.00s,+36° 57′ 30.9″,7.65,,,C,"semiregular variable, Vmax = 7.5m, Vmin = 8.4m, P = 186 d",280.708,36.958,Lyrae,HK Lyrae
+6905,Lyra,T Lyr,,T,,,T,,90883,18h 32m 20.10s,+39° 59′ 55.6″,7.84,,2350,C,"slow irregular variable, Vmax = 7.5m, Vmin = 9.2m",278.083,39.999,Lyrae,T Lyrae
+6906,Lyra,V Lyr,,V,,,V,178876,,19h 09m 04.55s,+29° 39′ 29.3″,8.2,,,M7e,"Mira variable, Vmax = 8.2m, Vmin = 15.7m, P = 373.53 d",287.267,29.658,Lyrae,V Lyrae
+6907,Lyra,Kepler-444,,K-444,,,,,,19h 19m 01.00s,+41° 38′ 05.00″,9,,,,"has five transiting planets (b, c, d, e & f)",289.754,41.635,Lyrae,K-444 Lyrae
+6908,Lyra,FL Lyr,,FL,,,FL,179890,94335,19h 12m 04.86s,+46° 19′ 26.9″,9.36,,424,G0V,"Algol variable, Vmax = 9.27m, Vmin = 9.89m, P = 2.178152 d, has a planet (b)",288.017,46.324,Lyrae,FL Lyrae
+6909,Lyra,Kepler-37,,K-37,,,,,,18h 58m 23.10s,+44° 31′ 05.00″,9.77,,215,G8V,"has three planets (b, c and d)",284.596,44.518,Lyrae,K-37 Lyrae
+6910,Lyra,S Lyr,,S,,,S,,,19h 13m 11.80s,+26° 00′ 27.8″,9.8,,,SC,"Mira variable, Vmax = 9.3m, Vmin = 16.0m, P = 438.4 d",288.296,26.008,Lyrae,S Lyrae
+6911,Lyra,EP Lyr,,EP,,,EP,,,19h 18m 19.55s,+27° 51′ 03.2″,9.96,,,G2II,"RV Tau variable, Vmax = 9.96m, Vmin = 10.90m, P = 83.34 d",289.579,27.851,Lyrae,EP Lyrae
+6912,Lyra,Kepler-13 A,,K-13 A,,,,,,19h 07m 53.00s,+46° 52′ 06.00″,10,,,,has a transiting planet (b),286.971,46.868,Lyrae,K-13 A Lyrae
+6913,Lyra,KX Lyr,,KX,,,KX,,,18h 33m 15.23s,+40° 10′ 22.7″,10.38,,,F0,"RR Lyr variable, Vmax = 10.38m, Vmin = 11.47m, P = 0.44090446 d",278.313,40.173,Lyrae,KX Lyrae
+6914,Lyra,UZ Lyr,,UZ,,,UZ,,,19h 21m 08.91s,+37° 56′ 11.5″,10.4,,,A2,"Algol variable, Vmax = 9.9m, Vmin = 11m, P = 1.89127025 d",290.283,37.936,Lyrae,UZ Lyrae
+6915,Lyra,HP Lyr,,HP,,,HP,,,19h 21m 39.07s,+39° 56′ 08.1″,10.43,,,A6,"semiregular variable, Vmax = 10.18m, Vmin = 10.80m, P = 68.88 d",290.413,39.936,Lyrae,HP Lyrae
+6916,Lyra,WASP-3,,W-3,,,,,,18h 34m 31.62s,+35° 39′ 41.5″,10.49,3.75,727,F7V,has the transiting planet (b),278.629,35.661,Lyrae,W-3 Lyrae
+6917,Lyra,TT Lyr,,TT,,,TT,,,19h 27m 36.30s,+41° 42′ 05.4″,10.88,,,B2V,"Algol variable, Vmax = 9.34m, Vmin = 11.43m, P = 5.243727 d",291.900,41.701,Lyrae,TT Lyrae
+6918,Lyra,Kepler-25,,K-25,,,,,,19h 06m 33.00s,+39° 29′ 16.00″,11,,,,"has three transiting planets (b, c and d)",286.638,39.485,Lyrae,K-25 Lyrae
+6919,Lyra,Kepler-1655,,K-1655,,,,,,19h 06m 45.40s,+39° 12′ 43.00″,11.05,,751,G0V,has a transiting planet (b),286.688,39.201,Lyrae,K-1655 Lyrae
+6920,Lyra,Kepler-65,,K-65,,,,,,19h 14m 45.30s,+41° 09′ 04.2″,11.018,,,B,"has four transiting planets (b, c, d and e)",288.688,41.151,Lyrae,K-65 Lyrae
+6921,Lyra,TZ Lyr,,TZ,,,TZ,,89498,18h 15m 49.67s,+41° 06′ 37.9″,11.16,,736,F5V,"β Lyr variable, Vmax = 1.087m, Vmin = 11.85m, P = 0.5288269 d",273.954,41.110,Lyrae,TZ Lyrae
+6922,Lyra,EZ Lyr,,EZ,,,EZ,,92221,18h 47m 40.32s,+35° 59′ 34.2″,11.34,,265.7,A9.7,"RR Lyr variable, Vmax = 10.8m, Vmin = 11.8m, P = 0.52526769 d",281.917,35.993,Lyrae,EZ Lyrae
+6923,Lyra,CN Lyr,,CN,,,CN,,91634,18h 41m 15.95s,+28° 43′ 21.1″,11.38,,,F5,"RR Lyr variable, Vmax = 11.07m, Vmin = 11.76m, P = 0.41138232 d",280.313,28.723,Lyrae,CN Lyrae
+6924,Lyra,Kepler-128,,K-128,,,,,,18h 49m 58.00s,+43° 58′ 49.00″,11.4,,,,has two transiting planets (b & c),282.492,43.969,Lyrae,K-128 Lyrae
+6925,Lyra,RV Lyr,,RV,,,RV,,,19h 16m 17.97s,+32° 25′ 15.0″,11.47,,,A5,Algol variable,289.071,32.421,Lyrae,RV Lyrae
+6926,Lyra,Kepler-102,,K-102,,,,,,18h 45m 55.90s,+47° 12′ 29.00″,11.49,,,,"has five transiting planets (b, c, d, e & f)",281.479,47.203,Lyrae,K-102 Lyrae
+6927,Lyra,RZ Lyr,,RZ,,,RZ,,,18h 43m 37.88s,+32° 47′ 54.0″,11.57,,,A2,"RR Lyr variable, Vmax = 10.6m, Vmin = 12.03m, P = 0.5112423 d",280.904,32.798,Lyrae,RZ Lyrae
+6928,Lyra,Kepler-131,,K-131,,,,,,19h 14m 07.40s,+40° 56′ 32.00″,11.53,,,,has two transiting planets (b & c),288.529,40.934,Lyrae,K-131 Lyrae
+6929,Lyra,Kepler-454,,K-454,,,,,,19h 09m 55.00s,+38° 13′ 44.00″,11.57,,,,"has three transiting planets (b, c & d)",287.479,38.218,Lyrae,K-454 Lyrae
+6930,Lyra,Kepler-1656,,K-1656,,,,,,18h 57m 53.00s,+39° 54′ 43.00″,11.6,,,,has a transiting planets (b),284.471,39.901,Lyrae,K-1656 Lyrae
+6931,Lyra,Kepler-92,,K-92,,,,,,19h 16m 21.00s,+41° 33′ 47.00″,11.6,,1463,,"has three transiting planets (b, c & d)",289.088,41.552,Lyrae,K-92 Lyrae
+6932,Lyra,WASP-58,,W-58,,,,,,18h 18m 48.00s,+45° 10′ 19.00″,11.66,,978,G2V,has a transiting planet (b),274.700,45.169,Lyrae,W-58 Lyrae
+6933,Lyra,V404 Lyr,,V404,,,V404,,,19h 19m 05.95s,+38° 22′ 00.5″,11.77,,,,Algol variable,289.771,38.367,Lyrae,V404 Lyrae
+6934,Lyra,GSC 02652-01324,, ,,,,,,19h 04m 09.84s,+36° 37′ 57.5″,11.79,5.81,512,K0V,has the transiting planet TrES-1,286.038,36.633,Lyrae,  Lyrae
+6935,Lyra,HAT-P-5,, ,,,,,,18h 17m 37.30s,+36° 37′ 16.9″,11.95,4.29,1110,G,Chason; has the transiting planet HAT-P-5b,274.404,36.621,Lyrae,  Lyrae
+6936,Lyra,Kepler-19,,K-19,,,,,,19h 21m 41.00s,+37° 51′ 06.00″,12,,,,"has three transiting planets (b, c & d)",290.421,37.852,Lyrae,K-19 Lyrae
+6937,Lyra,Kepler-103,,K-103,,,,,,19h 15m 26.30s,+40° 03′ 52.00″,12.29,,1545,,has two transiting planets (b & c),288.858,40.051,Lyrae,K-103 Lyrae
+6938,Lyra,Kepler-95,,K-95,,,,,,18h 57m 55.80s,+44° 23′ 53.00″,12.35,,,,has a transiting planet (b),284.479,44.384,Lyrae,K-95 Lyrae
+6939,Lyra,Kepler-109,,K-109,,,,,,19h 21m 34.20s,+40° 17′ 06.00″,12.37,,1516,,has two transiting planets (b & c),290.392,40.285,Lyrae,K-109 Lyrae
+6940,Lyra,CC Lyr,,CC,,,CC,,91015,18h 33m 57.41s,+31° 38′ 24.2″,12.46,,,F0p...,"W Vir variable, Vmax = 11.65m, Vmin = 12.45m, P = 24.16 d",278.488,31.640,Lyrae,CC Lyrae
+6941,Lyra,Kepler-20,,K-20,,,,,,19h 10m 48.00s,+42° 20′ 19.00″,12.5,,946,G8,"has six transiting planets (b, c, d, e, f & g)",287.700,42.336,Lyrae,K-20 Lyrae
+6942,Lyra,WASP-153,,W-153,,,,,,18h 37m 03.00s,+40° 01′ 07.00″,12.8,,1402,,has a transiting planets (b),279.263,40.019,Lyrae,W-153 Lyrae
+6943,Lyra,Kepler-94,,K-94,,,,,,18h 44m 46.70s,+47° 29′ 50.00″,12.9,,,,has two transiting planets (b & c),281.192,47.483,Lyrae,K-94 Lyrae
+6944,Lyra,Kepler-91,,K-91,,,,,,19h 02m 41.00s,+44° 07′ 00.00″,12.9,,3359,,has a transiting planets (b),285.671,44.117,Lyrae,K-91 Lyrae
+6945,Lyra,Kepler-7,,K-7,,,,,,19h 14m 19.56s,+41° 05′ 23.3″,13.3,3.9,1200,G1,has a transiting planet (b),288.579,41.090,Lyrae,K-7 Lyrae
+6946,Lyra,Kepler-277,,K-277,,,,,,19h 06m 20.00s,+39° 04′ 38.00″,13.4,,,,has two transiting planets (b & c),286.583,39.069,Lyrae,K-277 Lyrae
+6947,Lyra,β Lyr C,β,Beta,10,,,174639,,18h 50m 01.20s,+33° 21′ 26.0″,13.4,,960,,component of the β Lyr system,282.504,33.357,Lyrae,Beta Lyrae
+6948,Lyra,Kepler-138,,K-138,,,,,,19h 21m 32.00s,+43° 17′ 35.00″,13.5,,,M1V,"has three transiting planets (b, c & d)",290.383,43.285,Lyrae,K-138 Lyrae
+6949,Lyra,Kepler-88,,K-88,,,,,,19h 24m 36.00s,+40° 40′ 10.00″,13.5,,1256,B,"has three transiting planets (b, c & d)",291.150,40.667,Lyrae,K-88 Lyrae
+6950,Lyra,Kepler-422,,K-422,,,,,,18h 50m 31.10s,+46° 19′ 24.00″,13.64,,,,has a transiting planet (b),282.629,46.318,Lyrae,K-422 Lyrae
+6951,Lyra,Kepler-279,,K-279,,,,,,19h 09m 34.00s,+42° 11′ 42.00″,13.7,,,,"has three transiting planets (b, c & d)",287.392,42.184,Lyrae,K-279 Lyrae
+6952,Lyra,Kepler-412,,K-412,,,,,,19h 04m 26.00s,+43° 40′ 51.00″,13.73,,3444,G3V,has a transiting planet (b),286.108,43.667,Lyrae,K-412 Lyrae
+6953,Lyra,Kepler-62,,K-62,,,,,,18h 52m 51.00s,+45° 20′ 60.00″,13.75,,1200,K2V,"has five transiting planets (b, c, d, e and f)",283.213,45.333,Lyrae,K-62 Lyrae
+6954,Lyra,Kepler-350,,K-350,,,,,,19h 01m 41.00s,+39° 42′ 22.00″,13.8,,,,"has three transiting planets (b, c & d)",285.421,39.701,Lyrae,K-350 Lyrae
+6955,Lyra,Kepler-8,,K-8,,,,,,18h 45m 09.15s,+42° 27′ 03.9″,13.9,3.3,4338,F9,has a transiting planet (b),281.288,42.451,Lyrae,K-8 Lyrae
+6956,Lyra,Kepler-9,,K-9,,,,,,19h 02m 18.00s,+38° 24′ 03.00″,13.9,,2300,G2V,"has three transiting planets (b, c & d)",285.575,38.401,Lyrae,K-9 Lyrae
+6957,Lyra,Kepler-43,,K-43,,,,,,19h 00m 58.00s,+46° 40′ 06.00″,14,,6360,G0V/G0IV,has a transiting planet (b),285.242,46.668,Lyrae,K-43 Lyrae
+6958,Lyra,Kepler-460,,K-460,,,,,,19h 13m 54.00s,+40° 39′ 05.00″,14.2,,,,has two transiting planets (b & c),288.475,40.651,Lyrae,K-460 Lyrae
+6959,Lyra,Kepler-38,,K-38,,,,,,19h 07m 19.00s,+42° 16′ 45.00″,14.3,,,,The star A has transiting planet (b),286.829,42.268,Lyrae,K-38 Lyrae
+6960,Lyra,Kepler-60,,K-60,,,,,,19h 15m 51.00s,+42° 15′ 54.00″,14.5,,,,"has three transiting planets (b, c and d)",288.963,42.251,Lyrae,K-60 Lyrae
+6961,Lyra,Kepler-423,,K-423,,,,,,19h 31m 25.40s,+46° 23′ 28.00″,14.5,,,,has a transiting planet (b),292.854,46.386,Lyrae,K-423 Lyrae
+6962,Lyra,Kepler-59,,K-59,,,,,,19h 08m 09.00s,+46° 38′ 24.00″,14.8,,,,has two transiting planets (b and c),287.038,46.634,Lyrae,K-59 Lyrae
+6963,Lyra,Kepler-438,,K-438,,,,,,18h 46m 35.00s,+41° 57′ 04.00″,15,,473,,has a transiting planet (b),281.646,41.951,Lyrae,K-438 Lyrae
+6964,Lyra,Kepler-439,,K-439,,,,,,18h 43m 12.00s,+44° 02′ 02.00″,15,,2260,,has a transiting planet (b),280.800,44.034,Lyrae,K-439 Lyrae
+6965,Lyra,Kepler-75,,K-75,,,,,,19h 24m 33.00s,+36° 34′ 39.00″,15,,3718,G8V,has a transiting planet (b),291.138,36.569,Lyrae,K-75 Lyrae
+6966,Lyra,Kepler-177,,K-177,,,,,,19h 04m 11.00s,+45° 03′ 12.00″,15,,,,has two transiting planets (b & c),286.046,45.051,Lyrae,K-177 Lyrae
+6967,Lyra,V477 Lyr,,V477,,,V477,,,18h 31m 18.29s,+26° 56′ 12.9″,15.07,,,O9k,Algol variabl; central star of planetary nebula Abell 46,277.825,26.937,Lyrae,V477 Lyrae
+6968,Lyra,Kepler-282,,K-282,,,,,,18h 58m 43.00s,+44° 47′ 51.00″,15.2,,,,"has four transiting planets (b, c, d & e)",284.679,44.784,Lyrae,K-282 Lyrae
+6969,Lyra,Kepler-442,,K-442,,,,,,19h 01m 28.00s,+39° 16′ 48.00″,15.3,,1115,,has a transiting planet (b),285.367,39.269,Lyrae,K-442 Lyrae
+6970,Lyra,Kepler-440,,K-440,,,,,,19h 01m 24.00s,+41° 27′ 08.00″,15.5,,851,,has a transiting planet (b),285.350,41.452,Lyrae,K-440 Lyrae
+6971,Lyra,Kepler-24,,K-24,,,,,,19h 21m 39.00s,+38° 20′ 38.00″,15.5,,,,has two transiting planets (b and c) and two unconfirmed planet (d and e),290.413,38.336,Lyrae,K-24 Lyrae
+6972,Lyra,Kepler-30,,K-30,,,,,,19h 01m 08.00s,+38° 56′ 50.00″,15.5,,,,"has three transiting planets (b, c and d)",285.283,38.933,Lyrae,K-30 Lyrae
+6973,Lyra,Kepler-428,,K-428,,,,,,19h 22m 20.00s,+40° 34′ 39.00″,15.5,,2381,,has a transiting planet (b),290.583,40.569,Lyrae,K-428 Lyrae
+6974,Lyra,Kepler-26,,K-26,,,,,,18h 59m 46.00s,+46° 34′ 00.00″,16,,,,"has four transiting planets (b, c, d & e)",284.942,46.567,Lyrae,K-26 Lyrae
+6975,Lyra,Kepler-53,,K-53,,,,,,19h 21m 51.00s,+40° 33′ 45.00″,16,,,,"has three transiting planets (b, c and d)",290.463,40.551,Lyrae,K-53 Lyrae
+6976,Lyra,Kepler-55,,K-55,,,,,,19h 00m 40.00s,+44° 01′ 35.00″,16.3,,,,"has five transiting planets (b, c, d, e and f)",285.167,44.018,Lyrae,K-55 Lyrae
+6977,Lyra,Kepler-446,,K-446,,,,,,18h 49m 00.00s,+44° 55′ 16.00″,16.5,,,,"has three transiting planets (b, c & d)",282.250,44.918,Lyrae,K-446 Lyrae
+6978,Lyra,Kepler-83,,K-83,,,,,,18h 48m 55.80s,+43° 39′ 56.00″,16.51,,,,"has three transiting planets (b, c & d)",282.229,43.652,Lyrae,K-83 Lyrae
+6979,Lyra,HR Lyr,,HR,,,HR,175268,,18h 53m 25.05s,+29° 13′ 37.7″,16.6,,,,"nova, Vmax = 6.5m, Vmin = 16.6m",283.354,29.227,Lyrae,HR Lyrae
+6980,Lyra,CY Lyr,,CY,,,CY,,,18h 52m 41.38s,+26° 45′ 31.5″,18,,,,"SS Cyg variable, Vmax = 12.9m, Vmin = 18.0m, P = 0.1951 d",283.171,26.759,Lyrae,CY Lyrae
+6981,Lyra,DM Lyr,,DM,,,DM,,,18h 58m 44.43s,+30° 15′ 33.0″,18,,,,"SU UMa variable, Vmax = 13m, Vmin = 18m, P = 0.065409 d",284.683,30.259,Lyrae,DM Lyrae
+6982,Lyra,2MASS 1835+3259,, ,,,,,,18h 35m 39.90s,+32° 59′ 54.6″,18.27,,18.48,M8.5V,brown dwarf,278.913,32.998,Lyrae,  Lyrae
+6983,Lyra,V344 Lyr,,V344,,,V344,,,18h 44m 39.18s,+43° 22′ 28.1″,19,,,,"SU UMa variable, Vmax = 13.8m, Vmin = 19m, P = 0.087904 d",281.163,43.374,Lyrae,V344 Lyrae
+6984,Lyra,V361 Lyr,,V361,,,V361,,,19h 02m 28.12s,+46° 58′ 57.8″,,,,F9V,Algol variable,285.617,46.983,Lyrae,V361 Lyrae
+6985,Lyra,AY Lyr,,AY,,,AY,,,18h 44m 26.73s,+37° 59′ 51.8″,,,,G...,SU UMa variable,281.108,37.998,Lyrae,AY Lyrae
+6986,Lyra,MV Lyr,,MV,,,MV,,,19h 07m 16.29s,+44° 01′ 07.8″,,,,Op+...,nova,286.817,44.019,Lyrae,MV Lyrae
+6987,Lyra,WISE 1828+2650,, ,,,,,,18h 28m 31.08s,+26° 50′ 37.8″,,,47,Y0,brown dwarf,277.129,26.844,Lyrae,  Lyrae
+6988,Lyra,WISEP J190648.47+401106.8,, ,,,,,,19h 06m 48.47s,+40° 11′ 06.8″,,,53.3,L1,brown dwarf,286.700,40.185,Lyrae,  Lyrae

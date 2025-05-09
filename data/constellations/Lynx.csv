@@ -1,0 +1,136 @@
+USID,Constellation,Name,B,B->F->VAR->G,F,G.,Var,HD,HIP,RA,Dec,"vis. mag.","abs. mag.",Dist. (ly),Sp. class,Notes https://en.wikipedia.org/wiki/Lists_of_stars_by_constellation,RA angle,Dec Angle,Latin Constellation,Full Designation
+6686,Lynx,α Lyn,α,Alpha,40,,,80493,45860,09h 21m 03.46s,+34° 23′ 33.1″,3.14,−1.02,222,K7IIIvar,suspected variable,140.263,34.393,Lycinis,Alpha Lycinis
+6687,Lynx,38 Lyn,,38,38,,,80081,45688,09h 18m 50.67s,+36° 48′ 10.4″,3.82,0.96,122,A1V,,139.708,36.803,Lycinis,38 Lycinis
+6688,Lynx,10 UMa,,10,-10,,,76943,44248,09h 00m 38.75s,+41° 47′ 00.4″,3.96,2.88,54,F5V,,135.158,41.783,Lycinis,10 Lycinis
+6689,Lynx,31 Lyn,,31,31,,BN,70272,41075,08h 22m 50.13s,+43° 11′ 18.1″,4.25,−1.13,389,K4.5III,"Alsciaukat, Mabsuthat; semiregular variable, Vmax = 4.21m, Vmin = 4.27m",125.708,43.188,Lycinis,31 Lycinis
+6690,Lynx,15 Lyn,,15,15,,,50522,33449,06h 57m 16.60s,+58° 25′ 23.0″,4.35,0.76,170,G5III-IV,,104.317,58.423,Lycinis,15 Lycinis
+6691,Lynx,2 Lyn,,2,2,,UZ,43378,30060,06h 19m 37.39s,+59° 00′ 39.3″,4.44,1.14,149,A2Vs,"eclipsing binary and δ Sct variable, Vmax = 4.43m, Vmin = 4.73m",94.904,59.011,Lycinis,2 Lycinis
+6692,Lynx,HD 77912,,HD 77912,,,,77912,44700,09h 06m 31.79s,+38° 27′ 08.1″,4.56,−2.03,678,G8Ib-II,,136.629,38.452,Lycinis,HD 77912 Lycinis
+6693,Lynx,21 Lyn,,21,21,,,58142,36145,07h 26m 42.86s,+49° 12′ 41.9″,4.61,0.2,249,A1V,suspected variable,111.675,49.211,Lycinis,21 Lycinis
+6694,Lynx,27 Lyn,,27,27,,,67006,39847,08h 08m 27.50s,+51° 30′ 24.0″,4.78,0.65,218,A2V,suspected variable,122.113,51.507,Lycinis,27 Lycinis
+6695,Lynx,HD 82741,,HD 82741,,,,82741,47029,09h 35m 03.85s,+39° 37′ 17.2″,4.81,0.58,229,K0III,,143.763,39.621,Lycinis,HD 82741 Lycinis
+6696,Lynx,12 Lyn,,12,12,,,48250,32438,06h 46m 14.15s,+59° 26′ 30.1″,4.86,0.63,229,A3V,,101.558,59.442,Lycinis,12 Lycinis
+6697,Lynx,ψ10 Aur,(ψ10),Psi,16,,,50973,33485,06h 57m 37.12s,+45° 05′ 38.8″,4.9,0.71,225,A2Vn,suspected variable,104.404,45.094,Lycinis,Psi Lycinis
+6698,Lynx,24 Lyn,,24,24,,,61497,37609,07h 43m 00.46s,+58° 42′ 37.8″,4.93,0.62,237,A3IVn,,115.750,58.710,Lycinis,24 Lycinis
+6699,Lynx,1 Lyn,,1,1,,UW,42973,29919,06h 17m 54.83s,+61° 30′ 55.1″,4.95,−1.34,590,M3III,"slow irregular variable, ΔV = 0.11m",94.475,61.515,Lycinis,1 Lycinis
+6700,Lynx,HD 56169,,HD 56169,,,,56169,35384,07h 18m 31.98s,+49° 27′ 53.1″,5,0.2,297,A4IIIn,,109.629,49.465,Lycinis,HD 56169 Lycinis
+6701,Lynx,35 Lyn,,35,35,,,75506,43531,08h 51m 56.84s,+43° 43′ 35.4″,5.15,0.53,274,K0III,,132.983,43.726,Lycinis,35 Lycinis
+6702,Lynx,DU Lyn,,DU,,,DU,62647,37946,07h 46m 39.26s,+37° 31′ 02.5″,5.18,0.18,326,M3III,"semiregular variable, ΔV = 0.13m",116.663,37.517,Lycinis,DU Lycinis
+6703,Lynx,18 Lyn,,18,18,,,55280,35146,07h 15m 55.02s,+59° 38′ 17.1″,5.2,1.34,193,K2III,,108.979,59.638,Lycinis,18 Lycinis
+6704,Lynx,5 Lyn,,5,5,,,44708,30679,06h 26m 48.88s,+58° 25′ 02.7″,5.21,−1.39,682,K4III,,96.700,58.417,Lycinis,5 Lycinis
+6705,Lynx,42 Lyn,,42,42,,,83287,47300,09h 38m 21.79s,+40° 14′ 23.2″,5.28,2.36,125,F0V,,144.588,40.240,Lycinis,42 Lycinis
+6706,Lynx,50 Cam,,50,-50,,,61931,37701,07h 44m 04.19s,+50° 26′ 01.9″,5.31,−1.32,689,A0IIIn,,116.017,50.434,Lycinis,50 Lycinis
+6707,Lynx,36 Lyn,,36,36,,EI,79158,45290,09h 13m 48.23s,+43° 13′ 04.5″,5.32,−0.90,573,B8IIIMNp,"SX Arietis variable, ΔV = 0.03m, P = 3.83 d",138.450,43.218,Lycinis,36 Lycinis
+6708,Lynx,13 Lyn,,13,13,,,48432,32489,06h 46m 49.49s,+57° 10′ 09.4″,5.34,1.32,208,K0III,,101.704,57.169,Lycinis,13 Lycinis
+6709,Lynx,14 Lyn A,,14,14,,,49618,33048,06h 53m 05.06s,+59° 26′ 55.2″,5.34,−0.31,441,G4III...,component of the 14 Lyn system,103.271,59.449,Lycinis,14 Lycinis
+6710,Lynx,22 Lyn,,22,22,,,58855,36439,07h 29m 55.86s,+49° 40′ 21.6″,5.35,3.86,65,F6V,,112.479,49.673,Lycinis,22 Lycinis
+6711,Lynx,34 Lyn,,34,34,,,73593,42604,08h 41m 01.05s,+45° 50′ 01.6″,5.35,1.64,180,G0IV,,130.254,45.834,Lycinis,34 Lycinis
+6712,Lynx,UY Lyn,,UY,,,UY,54895,34912,07h 13m 23.39s,+51° 25′ 43.4″,5.47,−1.40,773,M3III,"slow irregular variable, Vmax = 5.47m, Vmin = 5.55m",108.346,51.429,Lycinis,UY Lycinis
+6713,Lynx,26 Lyn,,26,26,,,64144,38639,07h 54m 42.74s,+47° 33′ 52.5″,5.47,−0.49,508,K4III,,118.675,47.564,Lycinis,26 Lycinis
+6714,Lynx,HD 70313,,HD 70313,,,,70313,41152,08h 23m 48.53s,+53° 13′ 11.8″,5.52,1.97,168,A3V,suspected variable,125.950,53.220,Lycinis,HD 70313 Lycinis
+6715,Lynx,RR Lyn,,RR,,,RR,44691,30651,06h 26m 25.86s,+56° 17′ 06.2″,5.53,0.93,271,A3m,"Algol variable, Vmax = 5.52m, Vmin = 6.03m, P = 9.95 d",96.604,56.285,Lycinis,RR Lycinis
+6716,Lynx,HD 48766,,HD 48766,,,,48766,32609,06h 48m 12.23s,+55° 42′ 16.0″,5.54,2.18,153,F5V:+...,,102.050,55.704,Lycinis,HD 48766 Lycinis
+6717,Lynx,HD 55575,,HD 55575,,,,55575,35136,07h 15m 50.11s,+47° 14′ 25.5″,5.54,4.41,55,G0V,,108.958,47.240,Lycinis,HD 55575 Lycinis
+6718,Lynx,HD 61363,,HD 61363,,,,61363,37441,07h 41m 12.45s,+48° 07′ 54.7″,5.58,0.58,326,K0III,,115.300,48.132,Lycinis,HD 61363 Lycinis
+6719,Lynx,43 Lyn,,43,43,,,83805,47570,09h 42m 00.38s,+39° 45′ 28.7″,5.61,0.52,340,G8III,,145.500,39.758,Lycinis,43 Lycinis
+6720,Lynx,29 Lyn,,29,29,,,68930,40646,08h 17m 50.42s,+59° 34′ 16.1″,5.63,0.78,304,A7IV,,124.458,59.571,Lycinis,29 Lycinis
+6721,Lynx,HD 60437,,HD 60437,,,,60437,37023,07h 36m 31.66s,+46° 10′ 49.3″,5.66,−0.35,518,M0III,,114.129,46.180,Lycinis,HD 60437 Lycinis
+6722,Lynx,HD 58661,,HD 58661,,,,58661,36348,07h 28m 51.49s,+48° 11′ 02.5″,5.7,0.2,410,B9MNp...,suspected variable,112.213,48.184,Lycinis,HD 58661 Lycinis
+6723,Lynx,HD 76291,,HD 76291,,,,76291,43923,08h 56m 50.06s,+45° 37′ 54.3″,5.72,1.48,229,K1IV,,134.208,45.632,Lycinis,HD 76291 Lycinis
+6724,Lynx,HD 56963,,HD 56963,,,,56963,35643,07h 21m 17.54s,+45° 13′ 41.4″,5.74,3.05,112,A7s,,110.321,45.228,Lycinis,HD 56963 Lycinis
+6725,Lynx,33 Lyn,,33,33,,,72524,42090,08h 34m 43.90s,+36° 25′ 11.0″,5.76,0.8,321,A2Vnn,,128.679,36.420,Lycinis,33 Lycinis
+6726,Lynx,HD 61294,,HD 61294,,,,61294,37369,07h 40m 14.72s,+38° 20′ 40.4″,5.77,−1.22,815,M0III,suspected variable,115.058,38.344,Lycinis,HD 61294 Lycinis
+6727,Lynx,HD 65301,,HD 65301,,,,65301,39221,08h 01m 20.75s,+59° 02′ 50.3″,5.78,2.58,142,F2:V:,,120.333,59.047,Lycinis,HD 65301 Lycinis
+6728,Lynx,19 Lyn,,19,19,,,57103,35785,07h 22m 52.06s,+55° 16′ 53.3″,5.8,0.01,468,B8V,,110.717,55.281,Lycinis,19 Lycinis
+6729,Lynx,HD 57646,,HD 57646,,,,57646,35984,07h 24m 57.08s,+51° 53′ 14.4″,5.8,−1.93,1148,K5III,,111.238,51.887,Lycinis,HD 57646 Lycinis
+6730,Lynx,6 Lyn,,6,6,,,45410,31039,06h 30m 47.14s,+58° 09′ 48.4″,5.86,2.08,186,K0IV,has a planet (b),97.696,58.163,Lycinis,6 Lycinis
+6731,Lynx,11 Lyn,,11,11,,,46590,31665,06h 37m 38.40s,+56° 51′ 27.0″,5.87,0.9,322,A2V,,99.408,56.858,Lycinis,11 Lycinis
+6732,Lynx,HD 68077,,HD 68077,,,,68077,40305,08h 13m 50.20s,+56° 27′ 08.3″,5.88,−0.03,495,G9III,suspected variable,123.458,56.452,Lycinis,HD 68077 Lycinis
+6733,Lynx,HD 72184,,HD 72184,,,,72184,41935,08h 32m 55.06s,+38° 01′ 00.4″,5.88,1.84,210,K2III,,128.229,38.017,Lycinis,HD 72184 Lycinis
+6734,Lynx,30 Lyn,,30,30,,,69548,40875,08h 20m 26.00s,+57° 44′ 35.7″,5.89,3.39,103,F4V,,125.108,57.743,Lycinis,30 Lycinis
+6735,Lynx,HD 76292,,HD 76292,,,,76292,43894,08h 56m 30.58s,+40° 12′ 05.6″,5.9,1.6,236,F3III,,134.125,40.201,Lycinis,HD 76292 Lycinis
+6736,Lynx,HD 67224,,HD 67224,,,,67224,39995,08h 10m 03.80s,+58° 14′ 54.3″,5.91,−0.27,560,K4III:,suspected variable,122.513,58.248,Lycinis,HD 67224 Lycinis
+6737,Lynx,HD 55866,,HD 55866,,,,55866,35304,07h 17m 33.72s,+52° 07′ 52.0″,5.93,−0.43,609,K1III:,,109.388,52.131,Lycinis,HD 55866 Lycinis
+6738,Lynx,HD 60294,,HD 60294,,,,60294,37046,07h 36m 47.05s,+55° 45′ 18.6″,5.93,1.26,280,K2III,,114.196,55.755,Lycinis,HD 60294 Lycinis
+6739,Lynx,HD 60652,,HD 60652,,,,60652,37140,07h 37m 53.88s,+48° 46′ 26.1″,5.93,1.4,262,A5m,suspected variable,114.471,48.774,Lycinis,HD 60652 Lycinis
+6740,Lynx,8 Lyn,,8,8,,,46480,31676,06h 37m 41.64s,+61° 28′ 54.8″,5.94,2.31,173,G8IV-V,,99.421,61.482,Lycinis,8 Lycinis
+6741,Lynx,HD 80024,,HD 80024,,,,80024,45661,09h 18m 25.94s,+35° 21′ 50.9″,5.94,−0.01,505,A8V,,139.604,35.364,Lycinis,HD 80024 Lycinis
+6742,Lynx,HD 78366,,HD 78366,,,,78366,44897,09h 08m 51.20s,+33° 52′ 57.0″,5.95,4.54,62,F9V,,137.213,33.883,Lycinis,HD 78366 Lycinis
+6743,Lynx,HD 75523,,HD 75523,,,,75523,43553,08h 52m 11.78s,+45° 18′ 46.4″,5.96,−0.13,538,K0III,,133.046,45.313,Lycinis,HD 75523 Lycinis
+6744,Lynx,HD 75556,,HD 75556,,,,75556,43550,08h 52m 10.05s,+42° 00′ 10.4″,5.98,0.14,479,K0III,,133.042,42.003,Lycinis,HD 75556 Lycinis
+6745,Lynx,19 UMa,,19,-19,,,79452,45412,09h 15m 14.36s,+34° 38′ 00.2″,5.98,0.26,455,G6III,,138.808,34.633,Lycinis,19 Lycinis
+6746,Lynx,HD 70647,,HD 70647,,,,70647,41224,08h 24m 42.77s,+42° 00′ 18.8″,6.02,−1.51,1045,K5III,suspected variable,126.175,42.005,Lycinis,HD 70647 Lycinis
+6747,Lynx,HD 50551,,HD 50551,,,,50551,33444,06h 57m 13.12s,+57° 33′ 47.7″,6.03,−0.53,669,K3III,suspected variable,104.304,57.563,Lycinis,HD 50551 Lycinis
+6748,Lynx,HD 63332,,HD 63332,,,,63332,38325,07h 51m 05.75s,+54° 07′ 44.8″,6.03,3.64,98,F6V,,117.771,54.129,Lycinis,HD 63332 Lycinis
+6749,Lynx,4 Lyn,,4,4,,,43812,30272,06h 22m 03.56s,+59° 22′ 19.6″,6.05,0.49,422,A3V,,95.513,59.372,Lycinis,4 Lycinis
+6750,Lynx,HD 70771,,HD 70771,,,,70771,41262,08h 25m 04.90s,+35° 00′ 41.2″,6.08,−0.62,713,K0,,126.267,35.011,Lycinis,HD 70771 Lycinis
+6751,Lynx,23 Lyn,,23,23,,,61106,37406,07h 40m 49.56s,+57° 04′ 58.4″,6.09,−0.56,698,K5III,,115.204,57.083,Lycinis,23 Lycinis
+6752,Lynx,HD 80441,,HD 80441,,,,80441,45858,09h 20m 59.40s,+38° 11′ 17.9″,6.12,2.72,156,F3V+...,,140.246,38.188,Lycinis,HD 80441 Lycinis
+6753,Lynx,CY Lyn,,CY,,,CY,75896,43685,08h 53m 55.70s,+35° 32′ 18.0″,6.14,−1.18,950,A4III,rotating ellipsoidal variable,133.479,35.538,Lycinis,CY Lycinis
+6754,Lynx,HD 52859,,HD 52859,,,,52859,34217,07h 05m 39.83s,+52° 45′ 31.3″,6.17,1.04,347,A3Vs,,106.413,52.759,Lycinis,HD 52859 Lycinis
+6755,Lynx,HD 71906,,HD 71906,,,,71906,41798,08h 31m 19.98s,+37° 15′ 54.1″,6.18,−0.74,789,A0V,"variable star, ΔV = 0.005m, P = 0.27 d",127.829,37.265,Lycinis,HD 71906 Lycinis
+6756,Lynx,32 Lyn,,32,32,,,72291,41975,08h 33m 21.84s,+36° 26′ 11.1″,6.2,3.34,122,F5Vbwvar,,128.338,36.436,Lycinis,32 Lycinis
+6757,Lynx,HD 76944,,HD 76944,,,,76944,44231,09h 00m 30.81s,+37° 36′ 15.7″,6.21,−0.85,842,K5,,135.125,37.604,Lycinis,HD 76944 Lycinis
+6758,Lynx,5 LMi,,5,-5,,,75332,43410,08h 50m 32.27s,+33° 17′ 06.9″,6.22,3.93,94,F7Vn,,132.633,33.285,Lycinis,5 Lycinis
+6759,Lynx,HD 64491,,DD,,,DD,64491,38723,07h 55m 40.87s,+35° 24′ 45.9″,6.23,2.32,197,A3p,δ Sct variable,118.917,35.413,Lycinis,DD Lycinis
+6760,Lynx,HD 71952,,HD 71952,,,,71952,41894,08h 32m 33.44s,+53° 06′ 54.1″,6.23,2.34,196,K0IV,suspected variable,128.138,53.115,Lycinis,HD 71952 Lycinis
+6761,Lynx,25 Lyn,,25,25,,,64106,38623,07h 54m 29.28s,+47° 23′ 09.5″,6.25,−0.13,615,K2III:,,118.621,47.386,Lycinis,25 Lycinis
+6762,Lynx,HD 67370,,HD 67370,,,,67370,39938,08h 09m 23.06s,+42° 25′ 50.8″,6.26,−0.11,613,K3III:,,122.346,42.431,Lycinis,HD 67370 Lycinis
+6763,Lynx,HD 69149,,HD 69149,,,,69149,40677,08h 18m 15.81s,+54° 08′ 37.6″,6.26,−1.31,1065,K5,suspected variable,124.563,54.144,Lycinis,HD 69149 Lycinis
+6764,Lynx,HD 47979,,HD 47979,,,,47979,32261,06h 44m 11.48s,+53° 17′ 47.1″,6.28,1.89,246,K0,,101.046,53.296,Lycinis,HD 47979 Lycinis
+6765,Lynx,HD 71148,,HD 71148,,,,71148,41484,08h 27m 36.80s,+45° 39′ 13.8″,6.32,4.63,71,G5V,suspected variable,126.900,45.654,Lycinis,HD 71148 Lycinis
+6766,Lynx,HD 60654,,HD 60654,,,,60654,37091,07h 37m 17.81s,+40° 01′ 31.8″,6.34,−0.12,639,M1,,114.321,40.025,Lycinis,HD 60654 Lycinis
+6767,Lynx,HD 65801,,HD 65801,,,,65801,39279,08h 01m 55.20s,+35° 24′ 47.1″,6.34,−0.18,657,K0,,120.479,35.413,Lycinis,HD 65801 Lycinis
+6768,Lynx,28 Lyn,,28,28,,,66824,39722,08h 07m 09.95s,+43° 15′ 37.6″,6.35,0.54,472,A1V,,121.788,43.260,Lycinis,28 Lycinis
+6769,Lynx,HD 63586,,HD 63586,,,,63586,38449,07h 52m 36.45s,+55° 12′ 34.4″,6.36,0.81,440,A0Vn,,118.150,55.209,Lycinis,HD 63586 Lycinis
+6770,Lynx,HD 64958,,HD 64958,,,,64958,38959,07h 58m 16.53s,+43° 58′ 38.5″,6.36,0.36,517,K0,,119.567,43.977,Lycinis,HD 64958 Lycinis
+6771,Lynx,HD 52860,,HD 52860,,,,52860,34168,07h 05m 08.99s,+47° 46′ 30.2″,6.37,−1.77,1381,B9IIIn,,106.283,47.775,Lycinis,HD 52860 Lycinis
+6772,Lynx,CC Lyn,,CC,,,CC,60335,36965,07h 35m 56.00s,+43° 01′ 51.9″,6.37,0.96,393,F0,δ Sct variable,113.983,43.031,Lycinis,CC Lycinis
+6773,Lynx,HD 77093,,HD 77093,,,,77093,44331,09h 01m 40.79s,+39° 42′ 49.3″,6.39,2.3,214,A9Vn,,135.417,39.714,Lycinis,HD 77093 Lycinis
+6774,Lynx,HD 52708,,HD 52708,,,,52708,34250,07h 06m 01.21s,+59° 48′ 06.7″,6.4,1.25,349,G8III:,,106.504,59.802,Lycinis,HD 52708 Lycinis
+6775,Lynx,HD 59826,,HD 59826,,,,59826,36740,07h 33m 24.83s,+37° 11′ 16.4″,6.4,0.35,529,K0,,113.350,37.188,Lycinis,HD 59826 Lycinis
+6776,Lynx,HD 58681,,HD 58681,,,,58681,36351,07h 28m 52.66s,+46° 18′ 53.2″,6.42,1.35,337,K0,,112.217,46.315,Lycinis,HD 58681 Lycinis
+6777,Lynx,HD 59721,,HD 59721,,,,59721,36779,07h 33m 51.53s,+51° 18′ 51.1″,6.44,−0.70,874,K0,,113.463,51.314,Lycinis,HD 59721 Lycinis
+6778,Lynx,7 Lyn,,7,7,,BQ,46101,31359,06h 34m 32.80s,+55° 21′ 10.9″,6.45,−1.94,1552,K0III:,semiregular variable,98.633,55.353,Lycinis,7 Lycinis
+6779,Lynx,HD 44061,,HD 44061,,,,44061,30357,06h 23m 06.37s,+56° 58′ 35.5″,6.47,0.73,458,K1III,,95.775,56.976,Lycinis,HD 44061 Lycinis
+6780,Lynx,HD 67539,,HD 67539,,,,67539,40086,08h 11m 18.03s,+54° 32′ 25.7″,6.48,0.32,555,G5,,122.825,54.540,Lycinis,HD 67539 Lycinis
+6781,Lynx,54 Cam,,54,-54,,AE,65626,39348,08h 02m 35.82s,+57° 16′ 25.6″,6.49,1.45,331,F8V,"RS CVn variable, ΔV = 0.06m",120.646,57.274,Lycinis,54 Lycinis
+6782,Lynx,HD 63588,,HD 63588,,,,63588,38349,07h 51m 15.34s,+37° 04′ 55.8″,6.49,1.08,393,K2,,117.813,37.082,Lycinis,HD 63588 Lycinis
+6783,Lynx,HD 63630,,HD 63630,,,,63630,38403,07h 52m 03.89s,+45° 55′ 59.2″,6.5,1.41,340,A3,,118.013,45.933,Lycinis,HD 63630 Lycinis
+6784,Lynx,HD 65392,,HD 65392,,,,65392,39094,07h 59m 51.39s,+36° 04′ 55.5″,6.5,−0.48,813,K5,,119.963,36.082,Lycinis,HD 65392 Lycinis
+6785,Lynx,HD 69682,,HD 69682,,,,69682,40878,08h 20m 29.16s,+53° 34′ 27.7″,6.5,2.51,205,F0IV,"γ Dor variable, ΔV = 0.006m, P = 0.48 d",125.121,53.574,Lycinis,HD 69682 Lycinis
+6786,Lynx,17 Lyn,,17,17,,,53633,34572,07h 09m 37.78s,+60° 47′ 31.9″,6.64,1.05,428,K0,,107.404,60.792,Lycinis,17 Lycinis
+6787,Lynx,52 Cam,,52,-52,,,64347,38800,07h 56m 26.71s,+56° 30′ 16.0″,6.72,−0.58,939,A2IV,,119.108,56.504,Lycinis,52 Lycinis
+6788,Lynx,HD 71866,,TZ,,,TZ,71866,41782,08h 31m 10.64s,+40° 13′ 29.6″,6.72,,434,A0pv,"α2 CVn variable, Vmax = 6.65m, Vmin = 6.79m, P = 6.80 d",127.792,40.225,Lycinis,TZ Lycinis
+6789,Lynx,46 Cam,,46,-46,,,56243,35517,07h 19m 52.83s,+59° 15′ 10.3″,6.73,−1.99,1810,K2,,109.967,59.253,Lycinis,46 Lycinis
+6790,Lynx,HD 82780,,DI,,,DI,82780,47053,09h 35m 22.50s,+39° 57′ 47.8″,6.79,,278,A3m,"Algol variable, Vmax = 6.79m, Vmin = 6.87m, P = 1.68 d",143.842,39.963,Lycinis,DI Lycinis
+6791,Lynx,19 Lyn,,19,19,,,57102,35783,07h 22m 50.85s,+55° 17′ 03.8″,6.86,1.62,365,B9V,,110.708,55.284,Lycinis,19 Lycinis
+6792,Lynx,Y Lyn,,Y,,,Y,58521,36288,07h 28m 11.62s,+45° 59′ 26.2″,6.98,,825,M6S,"semiregular variable, Vmax = 6.58m, Vmin = 8.25m, P = 110 d",112.046,45.991,Lycinis,Y Lycinis
+6793,Lynx,3 Lyn,,3,3,,,43749,30278,06h 22m 08.10s,+61° 45′ 37.0″,7.2,3.25,201,F0,,95.533,61.760,Lycinis,3 Lycinis
+6794,Lynx,48 Cam,,48,-48,,,60844,37346,07h 39m 58.60s,+59° 33′ 47.9″,7.23,0.04,896,A2,,114.992,59.563,Lycinis,48 Lycinis
+6795,Lynx,R Lyn,,R,,,R,51610,33824,07h 01m 18.01s,+55° 19′ 49.8″,7.56,,,S4-6.5/5-6e,"Mira variable, Vmax = 7.2m, Vmin = 14.3m, P = 365.5 d",105.325,55.330,Lycinis,R Lycinis
+6796,Lynx,44 Cam,,44,-44,,,55944,35398,07h 16m 36.23s,+58° 55′ 07.4″,7.57,2.66,312,F0,,109.150,58.919,Lycinis,44 Lycinis
+6797,Lynx,45 Cam,,45,-45,,,56099,35457,07h 19m 12.18s,+59° 07′ 32.5″,7.62,2.93,282,F8,,109.800,59.126,Lycinis,45 Lycinis
+6798,Lynx,HD 80715,,BF,,,BF,80715,45963,09h 22m 25.95s,+40° 12′ 03.8″,7.72,,81,K2.5Vke,"BY Dra variable, ΔV = 0.1m",140.604,40.201,Lycinis,BF Lycinis
+6799,Lynx,20 Lyn,,20,20,,,57067,35726,07h 22m 13.63s,+50° 08′ 52.1″,7.72,,,F0,,110.554,50.148,Lycinis,20 Lycinis
+6800,Lynx,HD 75898,,HD 75898,,,,75898,43674,08h 53m 50.81s,+33° 03′ 24.5″,8.04,3.51,263,G0,"Stribor[1], has a planet (b)",133.458,33.057,Lycinis,HD 75898 Lycinis
+6801,Lynx,T Lyn,,T,,,T,,41058,08h 22m 42.85s,+33° 31′ 09.5″,8.8,,879,"C5,2e-C71e","Mira variable, Vmax = 8.8m, Vmin = 13.5m, P = 406 d",125.675,33.519,Lycinis,T Lycinis
+6802,Lynx,BE Lyn,,BE,,,BE,79889,45649,09h 18m 17.18s,+46° 09′ 11.3″,8.8,,,A3,"δ Sct variable, Vmax = 8.57m, Vmin = 8.97m, P = 0.10 d",139.571,46.153,Lycinis,BE Lycinis
+6803,Lynx,SZ Lyn,,SZ,,,SZ,67390,39960,08h 09m 35.75s,+44° 28′ 17.6″,9.08,,3260,F2,"δ Sct variable, Vmax = 9.08m, Vmin = 9.72m, P = 0.12 d",122.396,44.471,Lycinis,SZ Lycinis
+6804,Lynx,TT Lyn,,TT,,,TT,,44428,09h 03m 07.79s,+44° 35′ 08.1″,9.51,,,A9.2,"RR Lyr variable, Vmax = 9.42m, Vmin = 10.21m, P = 0.60 d",135.779,44.586,Lycinis,TT Lycinis
+6805,Lynx,UV Lyn,,UV,,,UV,,44455,09h 03m 24.12s,+38° 05′ 54.6″,9.56,,389,G0,"W UMa variable, Vmax = 9.42m, Vmin = 9.81m, P = 0.41 d",135.850,38.098,Lycinis,UV Lycinis
+6806,Lynx,SW Lyn,,SW,,,SW,67008,39771,08h 07m 41.57s,+41° 48′ 01.7″,9.65,,1220,F1V,"Algol variable, Vmax = 9.51m, Vmin = 10.2m, P = 0.64 d",121.921,41.800,Lycinis,SW Lycinis
+6807,Lynx,WASP-13,,W-13,,,,,,09h 20m 25.00s,+33° 52′ 57.00″,10.42,,509,G1V,"Gloas[2], has a transiting planet (b)",140.104,33.869,Lycinis,W-13 Lycinis
+6808,Lynx,AN Lyn,,AN,,,AN,,,09h 14m 28.69s,+42° 46′ 38.2″,10.58,,,A7IV/V,"δ Sct variable, Vmax = 10.58m, Vmin = 10.79m, P = 0.09 d",138.617,42.777,Lycinis,AN Lycinis
+6809,Lynx,XO-4,, ,,,,,,07h 21m 33.00s,+58° 16′ 05.00″,10.7,3.37,956,F5V,"Koit[3], has a transiting planet (b)",110.388,58.268,Lycinis,  Lycinis
+6810,Lynx,IRC +60169,,AP,,,AP,,,06h 34m 33.92s,+60° 56′ 26.2″,10.9,,,M9,"Mira variable, Vmax = 10.9m, Vmin = 14.7m",98.638,60.941,Lycinis,AP Lycinis
+6811,Lynx,14 Lyn B,,14,14,,,49619,,06h 53m 36.00s,+59° 24′ 25.0″,11.1,,,,component of 14 Lyn system,103.400,59.407,Lycinis,14 Lycinis
+6812,Lynx,XO-2,, ,,,,,,07h 48m 07.00s,+50° 13′ 33.00″,11.18,5.31,486,K0V,has a transiting planet (b),117.029,50.218,Lycinis,  Lycinis
+6813,Lynx,U Lyn,,U,,,U,,,06h 40m 46.49s,+59° 52′ 01.6″,11.52,,,M7e,"Mira variable, Vmax = 8.8m, Vmin = 15m, P = 433.6 d",100.192,59.867,Lycinis,U Lycinis
+6814,Lynx,TV Lyn,,TV,,,TV,,36750,07h 33m 31.73s,+47° 48′ 09.8″,11.54,,,A6,"RR Lyr variable, Vmax = 11.24m, Vmin = 11.66m, P = 0.24 d",113.379,47.803,Lycinis,TV Lycinis
+6815,Lynx,UU Lyn,,UU,,,UU,,,09h 15m 31.00s,+42° 42′ 12.0″,11.54,,,A4,"β Lyr variable, Vmax = 11.54m, Vmin = 12.33m, P = 0.47 d",138.879,42.703,Lycinis,UU Lycinis
+6816,Lynx,XO-5,, ,,,,,,07h 46m 52.00s,+39° 05′ 41.00″,12.13,4.97,881,G8V,"Absolutno[4], has a transiting planet (b)",116.717,39.084,Lycinis,  Lycinis
+6817,Lynx,BK Lyn,,BK,,,BK,,,09h 20m 11.20s,+33° 56′ 42.3″,14.49,,,CV,"ER UMa variable, Vmax = 14.3m, Vmin = 16.5m",140.046,33.945,Lycinis,BK Lycinis
+6818,Lynx,BH Lyn,,BH,,,BH,,,08h 22m 36.05s,+51° 05′ 24.6″,,,,CV,nova-like star and eclipsing binary,125.650,51.090,Lycinis,BH Lycinis
+6819,Lynx,PG 0859+415,,BP,,,BP,,,09h 03m 08.89s,+41° 17′ 47.7″,,,,CV,eclipsing binary and nova-like star,135.783,41.296,Lycinis,BP Lycinis
+6820,Lynx,HS 0702+6043,,DW,,,DW,,,07h 07m 09.81s,+60° 38′ 50.1″,,,,sdB,prototype DW Lyn variable,106.788,60.647,Lycinis,DW Lycinis

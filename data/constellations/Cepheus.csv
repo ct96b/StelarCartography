@@ -1,0 +1,227 @@
+USID,Constellation,Name,B,B->F->VAR->G,F,G.,Var,HD,HIP,RA,Dec,"vis. mag.","abs. mag.",Dist. (ly),Sp. class,Notes https://en.wikipedia.org/wiki/Lists_of_stars_by_constellation,RA angle,Dec Angle,Latin Constellation,Full Designation
+2950,Cepheus,α Cep,α,Alpha,5,,,203280,105199,21h 18m 34.58s,+62° 35′ 07.6″,2.45,1.58,49,A7IV-V,Alderamin; suspected variable,319.642,62.585,Cephei,Alpha Cephei
+2951,Cepheus,γ Cep,γ,Gamma,35,,,222404,116727,23h 39m 20.98s,+77° 37′ 55.1″,3.21,2.51,45,K1IV,Arrai; binary star; has a planet (b); suspected variable,354.833,77.632,Cephei,Gamma Cephei
+2952,Cepheus,β Cep,β,Beta,8,,,205021,106032,21h 28m 39.58s,+70° 33′ 38.5″,3.23,−3.08,595,B2IIIv SB,"Alfirk; prototype β Cep variable, Vmax = 3.16m, Vmin = 3.27m, P = 0.19 d",322.163,70.561,Cephei,Beta Cephei
+2953,Cepheus,ζ Cep,ζ,Zeta,21,,,210745,109492,22h 10m 51.26s,+58° 12′ 04.5″,3.39,−3.35,726,K1Ibv SB,eclipsing binary,332.713,58.201,Cephei,Zeta Cephei
+2954,Cepheus,η Cep,η,Eta,3,,,198149,102422,20h 45m 17.27s,+61° 50′ 12.5″,3.41,2.63,47,K0IV,Al Kidr,311.321,61.837,Cephei,Eta Cephei
+2955,Cepheus,ι Cep,ι,Iota,32,,,216228,112724,22h 49m 40.91s,+66° 12′ 02.6″,3.5,0.76,115,K0III,,342.417,66.201,Cephei,Iota Cephei
+2956,Cepheus,δ Cep A,δ,Delta,27,,,213306,110991,22h 29m 10.25s,+58° 24′ 54.7″,4.07,−3.47,887,F5Iab + B7-8,"prototype Cepheid variable, Vmax = 3.49m, Vmin = 4.36m, P = 5.37 d; binary star",337.292,58.415,Cephei,Delta Cephei
+2957,Cepheus,ε Cep,ε,Epsilon,23,,,211336,109857,22h 15m 01.68s,+57° 02′ 36.5″,4.18,2.13,84,F0IV,"δ Sct variable, Vmax = 4.15m, Vmin = 4.21m, P = 0.04 d",333.754,57.043,Cephei,Epsilon Cephei
+2958,Cepheus,θ Cep,θ,Theta,2,,,195725,101093,20h 29m 34.83s,+62° 59′ 38.9″,4.21,1.11,136,A7III,Al Kidr,307.392,62.994,Cephei,Theta Cephei
+2959,Cepheus,μ Cep,μ,Mu,,,,206936,107259,21h 43m 30.45s,+58° 46′ 48.2″,4.23,−6.81,5258,M2Ia,"Garnet Star; in Trumpler 37; semiregular variable, Vmax = 3.43m, Vmin = 5.1m, P = 835 d",325.875,58.780,Cephei,Mu Cephei
+2960,Cepheus,2 UMi,,2,-2,,,5848,5372,01h 08m 44.16s,+86° 15′ 25.6″,4.24,−0.67,313,K2II-III,,17.183,86.257,Cephei,2 Cephei
+2961,Cepheus,ν Cep,ν,Nu,10,,,207260,107418,21h 45m 26.93s,+61° 07′ 14.9″,4.25,−6.72,5094,A2Ia,"α Cyg variable, Vmax = 4.25m, Vmin = 4.35m",326.358,61.121,Cephei,Nu Cephei
+2962,Cepheus,κ Cep,κ,Kappa,1,,,192907,99255,20h 08m 53.32s,+77° 42′ 40.9″,4.38,−0.63,327,B9III,triple star,302.221,77.711,Cephei,Kappa Cephei
+2963,Cepheus,π Cep,π,Pi,33,,,218658,114222,23h 07m 53.84s,+75° 23′ 15.3″,4.41,0.27,220,G2III,triple star,346.971,75.388,Cephei,Pi Cephei
+2964,Cepheus,ξ Cep A,ξ,Xi,17,,,209790,108917,22h 03m 47.45s,+64° 37′ 40.7″,4.45,,96,Am,"Kurhah, component of the ξ Cep system; spectroscopic binary",330.946,64.628,Cephei,Xi Cephei
+2965,Cepheus,HR 7955,,HD 198084,,,,198084,102431,20h 45m 21.20s,+57° 34′ 49.1″,4.52,2.35,88,F8IV-V,spectroscopic binary,311.338,57.580,Cephei,HD 198084 Cephei
+2966,Cepheus,11 Cep,,11,11,,,206952,107119,21h 41m 55.08s,+71° 18′ 40.3″,4.55,0.89,176,K0III,,325.479,71.311,Cephei,11 Cephei
+2967,Cepheus,HD 217382,,HD 217382,,,,217382,113116,22h 54m 24.38s,+84° 20′ 46.0″,4.7,−0.69,390,K4III,"variable star, ΔV = 0.004m, P = 0.09 d",343.600,84.346,Cephei,HD 217382 Cephei
+2968,Cepheus,ο Cep,ο,Omicron,34,,,219916,115088,23h 18m 37.41s,+68° 06′ 41.1″,4.75,0.7,211,K0III,multiple star; suspected variable,349.654,68.111,Cephei,Omicron Cephei
+2969,Cepheus,9 Cep,,9,9,,V337,206165,106801,21h 37m 55.23s,+62° 04′ 55.0″,4.76,−5.95,4528,B2Ib,"α Cyg variable, Vmax = 4.69m, Vmin = 4.78m",324.479,62.082,Cephei,9 Cephei
+2970,Cepheus,HD 216446,,HD 216446,,,,216446,112519,22h 47m 28.95s,+83° 09′ 13.4″,4.77,−0.22,324,K3III,double star,341.867,83.154,Cephei,HD 216446 Cephei
+2971,Cepheus,24 Cep,,24,24,,,210807,109400,22h 09m 48.37s,+72° 20′ 28.3″,4.79,−0.53,377,G8III,,332.450,72.341,Cephei,24 Cephei
+2972,Cepheus,16 Cep,,16,16,,,209369,108535,21h 59m 15.10s,+73° 10′ 49.0″,5.04,2.17,122,F5V,double star,329.813,73.180,Cephei,16 Cephei
+2973,Cepheus,OV Cep,,OV,,,OV,51802,37391,07h 40m 31.09s,+87° 01′ 12.6″,5.05,−0.88,499,M2III,"semiregular variable, Vmax = 5.00m, Vmin = 5.07m",115.129,87.020,Cephei,OV Cephei
+2974,Cepheus,λ Cep,λ,Lambda,22,,,210839,109556,22h 11m 30.58s,+59° 24′ 52.3″,5.05,−3.47,1646,O6If(n),emission-line star; suspected variable,332.875,59.414,Cephei,Lambda Cephei
+2975,Cepheus,HD 223274,,HD 223274,,,,223274,117371,23h 47m 54.75s,+67° 48′ 24.5″,5.05,0.25,297,A1Vn,,356.975,67.807,Cephei,HD 223274 Cephei
+2976,Cepheus,19 Cep,,19,19,,,209975,109017,22h 05m 08.79s,+62° 16′ 47.4″,5.07,−6.04,5433,O9.5Ib,triple star,331.283,62.280,Cephei,19 Cephei
+2977,Cepheus,31 Cep,,31,31,,,214470,111532,22h 35m 45.78s,+73° 38′ 35.3″,5.08,1.32,184,F3III-IV,,338.938,73.643,Cephei,31 Cephei
+2978,Cepheus,HD 30338,,HD 30338,,,,30338,23265,05h 00m 20.72s,+81° 11′ 38.5″,5.09,−0.03,345,K3III,,75.083,81.194,Cephei,HD 30338 Cephei
+2979,Cepheus,HD 25007,,HD 25007,,,,25007,19461,04h 10m 02.79s,+80° 41′ 55.2″,5.1,−0.03,345,G8III+...,double star,62.508,80.699,Cephei,HD 25007 Cephei
+2980,Cepheus,VV Cep,,VV,,,VV,208816,108317,21h 56m 39.14s,+63° 37′ 32.0″,5.11,−6.93,8359,M2 + B0,"Algol and semiregular variable, Vmax = 4.80m, Vmin = 5.36m, P = 7430 d; one of the largest stars known",329.163,63.626,Cephei,VV Cephei
+2981,Cepheus,78 Dra,,78,-78,,,207130,107230,21h 43m 04.13s,+72° 19′ 12.7″,5.18,0.78,247,K0III,,325.767,72.320,Cephei,78 Cephei
+2982,Cepheus,6 Cep,,6,6,,V382,203467,105268,21h 19m 22.21s,+64° 52′ 18.6″,5.19,−2.41,1079,B3IVe,"Be star, Vmax = 5.08m, Vmin = 5.23m",319.842,64.872,Cephei,6 Cephei
+2983,Cepheus,30 Cep,,30,30,,,214734,111797,22h 38m 39.05s,+63° 35′ 04.3″,5.19,0.23,320,A3IV,,339.663,63.584,Cephei,30 Cephei
+2984,Cepheus,HD 210855,,HD 210855,,,,210855,109572,22h 11m 48.52s,+56° 50′ 20.6″,5.24,2.4,121,F8V,,332.950,56.839,Cephei,HD 210855 Cephei
+2985,Cepheus,HD 218029,,HD 218029,,,,218029,113864,23h 03m 32.85s,+67° 12′ 33.1″,5.25,−0.11,384,K3III,,345.883,67.209,Cephei,HD 218029 Cephei
+2986,Cepheus,18 Cep,,18,18,,MO,209772,108924,22h 03m 52.93s,+63° 07′ 11.2″,5.26,−0.43,448,M5III,"slow irregular variable, Vmax = 5.13m, Vmin = 5.33m",330.967,63.120,Cephei,18 Cephei
+2987,Cepheus,20 Cep,,20,20,,,209960,109005,22h 05m 00.48s,+62° 47′ 07.9″,5.27,0.32,318,K4III,suspected variable,331.250,62.785,Cephei,20 Cephei
+2988,Cepheus,HD 212710,,HD 212710,,,,212710,109693,22h 13m 10.17s,+86° 06′ 28.3″,5.27,0.8,256,B9.5Vn,,333.292,86.108,Cephei,HD 212710 Cephei
+2989,Cepheus,HD 210939,,HD 210939,,,,210939,109592,22h 12m 02.01s,+60° 45′ 32.7″,5.37,0.08,373,K1III,,333.008,60.759,Cephei,HD 210939 Cephei
+2990,Cepheus,HD 26836,,HD 26836,,,,26836,20776,04h 27m 02.89s,+80° 49′ 27.2″,5.42,−1.87,937,G6III:,,66.758,80.824,Cephei,HD 26836 Cephei
+2991,Cepheus,7 Cep,,7,7,,,204770,105972,21h 27m 46.16s,+66° 48′ 32.9″,5.42,−1.45,771,B7V,,321.942,66.809,Cephei,7 Cephei
+2992,Cepheus,HD 19978,,HD 19978,,,,19978,15547,03h 20m 19.58s,+77° 44′ 05.6″,5.44,0.9,264,A6V,suspected variable,50.079,77.735,Cephei,HD 19978 Cephei
+2993,Cepheus,ρ2 Cep,ρ2,Rho 2,29,,,213798,111056,22h 29m 52.97s,+78° 49′ 27.6″,5.45,1.14,237,A3V,Al Kalb al Rai,337.467,78.824,Cephei,Rho 2 Cephei
+2994,Cepheus,HD 26659,,HD 26659,,,,26659,20982,04h 30m 00.60s,+83° 20′ 24.5″,5.47,0.63,304,G8III,,67.500,83.340,Cephei,HD 26659 Cephei
+2995,Cepheus,HD 213022,,HD 213022,,,,213022,110725,22h 26m 00.78s,+70° 46′ 15.2″,5.47,−0.54,520,K2III,,336.500,70.771,Cephei,HD 213022 Cephei
+2996,Cepheus,HD 18438,,HD 18438,,,,18438,14417,03h 06m 07.95s,+79° 25′ 06.6″,5.49,−1.15,695,M1III,suspected variable,46.529,79.418,Cephei,HD 18438 Cephei
+2997,Cepheus,V408 Cep,,V408,,,V408,26356,20860,04h 28m 13.30s,+83° 48′ 27.9″,5.51,−1.10,685,B5V,γ Cas variable,67.054,83.808,Cephei,V408 Cephei
+2998,Cepheus,V381 Cep,,V381,,,V381,203338,105259,21h 19m 15.69s,+58° 37′ 24.6″,5.51,−4.74,3663,M1Ibep,"slow irregular variable, Vmax = 5.51m, Vmin = 5.71m",319.813,58.623,Cephei,V381 Cephei
+2999,Cepheus,HD 210884,,HD 210884,,,,210884,109474,22h 10m 38.90s,+70° 07′ 57.1″,5.52,2.95,107,F2V,,332.658,70.133,Cephei,HD 210884 Cephei
+3000,Cepheus,26 Cep,,26,26,,,213087,110817,22h 27m 05.31s,+65° 07′ 56.2″,5.52,−3.93,2527,B0.5Ib,suspected variable,336.771,65.132,Cephei,26 Cephei
+3001,Cepheus,HD 205139,,HD 205139,,,,205139,106227,21h 30m 59.29s,+60° 27′ 34.0″,5.53,−3.80,2397,B1II,,322.746,60.459,Cephei,HD 205139 Cephei
+3002,Cepheus,12 Cep,,12,12,,,207528,107586,21h 47m 25.31s,+60° 41′ 33.7″,5.53,−0.25,467,M1III,,326.854,60.693,Cephei,12 Cephei
+3003,Cepheus,HD 200205,,HD 200205,,,,200205,103598,20h 59m 25.33s,+59° 26′ 18.8″,5.54,−0.73,586,K4III,,314.854,59.438,Cephei,HD 200205 Cephei
+3004,Cepheus,14 Cep,,14,14,,LZ,209481,108772,22h 02m 04.58s,+58° 00′ 01.3″,5.55,−5.22,4657,O9V,rotating ellipsoidal variable,330.517,58.000,Cephei,14 Cephei
+3005,Cepheus,V388 Cep,,V388,,,V388,219586,114831,23h 15m 37.71s,+70° 53′ 17.1″,5.56,0.36,356,F0IV,"δ Sct variable, ΔV = 0.07m, P = 0.28 d",348.904,70.888,Cephei,V388 Cephei
+3006,Cepheus,HD 221525,,HD 221525,,,,221525,115746,23h 26m 59.92s,+87° 18′ 26.8″,5.56,0.69,307,A7IV,,351.746,87.307,Cephei,HD 221525 Cephei
+3007,Cepheus,HD 4853,,HD 4853,,,,4853,4283,00h 54m 52.76s,+83° 42′ 26.9″,5.59,1.21,245,A4V,,13.717,83.707,Cephei,HD 4853 Cephei
+3008,Cepheus,4 Cep,,4,4,,,197950,102253,20h 43m 10.98s,+66° 39′ 26.5″,5.59,2.44,139,A8V,,310.792,66.657,Cephei,4 Cephei
+3009,Cepheus,HD 6798,,HD 6798,,,,6798,5626,01h 12m 16.51s,+79° 40′ 26.3″,5.6,0.99,272,A3V,,18.067,79.674,Cephei,HD 6798 Cephei
+3010,Cepheus,HD 220974,,HD 220974,,,,220974,115770,23h 27m 16.42s,+70° 21′ 35.3″,5.6,1.59,206,A6IV,,351.817,70.360,Cephei,HD 220974 Cephei
+3011,Cepheus,HD 216380,,HD 216380,,,,216380,112864,22h 51m 22.51s,+61° 41′ 47.9″,5.61,1.39,227,G2IV+...,,342.842,61.696,Cephei,HD 216380 Cephei
+3012,Cepheus,HD 20084,,HD 20084,,,,20084,16489,03h 32m 19.72s,+84° 54′ 40.9″,5.62,0.43,355,G3IIp...,,53.079,84.911,Cephei,HD 20084 Cephei
+3013,Cepheus,HD 202214,,HD 202214,,,,202214,104642,21h 11m 48.24s,+59° 59′ 11.8″,5.64,−6.58,9056,B0V,suspected variable,317.950,59.986,Cephei,HD 202214 Cephei
+3014,Cepheus,HD 225216,,HD 225216,,,,225216,379,00h 04m 41.84s,+67° 09′ 59.0″,5.68,0.74,317,K1III,,1.171,67.166,Cephei,HD 225216 Cephei
+3015,Cepheus,HD 208095,,HD 208095,,,,208095,107930,21h 52m 01.02s,+55° 47′ 48.3″,5.7,−0.77,643,B6IV-V,suspected variable,328.004,55.797,Cephei,HD 208095 Cephei
+3016,Cepheus,HD 214035,,HD 214035,,,,214035,111242,22h 32m 16.27s,+76° 13′ 35.3″,5.7,−1.07,736,A2V,,338.067,76.226,Cephei,HD 214035 Cephei
+3017,Cepheus,HD 206267,,HD 206267,,,,206267,106886,21h 38m 57.62s,+57° 29′ 20.6″,5.74,−2.04,1173,O6V((f))+O9V,in Trumpler 37; triple star; suspected variable,324.738,57.489,Cephei,HD 206267 Cephei
+3018,Cepheus,13 Cep,,13,13,,,208501,108165,21h 54m 53.16s,+56° 36′ 40.4″,5.74,−3.71,2527,B8Ibvar,suspected variable,328.721,56.611,Cephei,13 Cephei
+3019,Cepheus,25 Cep,,25,25,,,211833,110103,22h 18m 12.59s,+62° 48′ 15.7″,5.75,−0.88,689,K3III,,334.550,62.804,Cephei,25 Cephei
+3020,Cepheus,HD 211029,,HD 211029,,,,211029,109620,22h 12m 22.45s,+63° 17′ 27.9″,5.76,−1.36,865,M3III,"variable star, ΔV = 0.021m, P = 1.86 d",333.092,63.291,Cephei,HD 211029 Cephei
+3021,Cepheus,HR 774,,HD 16458,,,,16458,13055,02h 47m 47.63s,+81° 26′ 55.2″,5.8,−0.12,498,G8p...,Prototypical Barium star,41.946,81.449,Cephei,HD 16458 Cephei
+3022,Cepheus,HD 214710,,HD 214710,,,,214710,111660,22h 37m 12.86s,+75° 22′ 18.5″,5.8,−0.61,623,M1III,,339.300,75.372,Cephei,HD 214710 Cephei
+3023,Cepheus,HD 192781,,HD 192781,,,,192781,99663,20h 13m 27.57s,+60° 38′ 25.6″,5.81,−0.49,594,K5III,,303.363,60.640,Cephei,HD 192781 Cephei
+3024,Cepheus,HD 200614,,HD 200614,,,,200614,103810,21h 02m 09.00s,+56° 40′ 10.6″,5.83,−0.92,729,B8III,,315.538,56.669,Cephei,HD 200614 Cephei
+3025,Cepheus,ρ1 Cep,ρ1,Rho 1,28,,,213403,110787,22h 26m 42.45s,+78° 47′ 09.4″,5.83,1.85,204,A2m,,336.675,78.786,Cephei,Rho 1 Cephei
+3026,Cepheus,HD 22701,,HD 22701,,,,22701,19454,04h 10m 00.22s,+86° 37′ 34.9″,5.84,2.78,133,F5IV,,62.500,86.626,Cephei,HD 22701 Cephei
+3027,Cepheus,HD 208682,,HD 208682,,,,208682,108226,21h 55m 30.99s,+65° 19′ 14.9″,5.84,−2.00,1203,B2.5Ve,suspected variable,328.875,65.321,Cephei,HD 208682 Cephei
+3028,Cepheus,HD 221861,,HD 221861,,,,221861,116380,23h 34m 59.03s,+71° 38′ 31.4″,5.86,−3.86,2860,K0Ib,,353.746,71.642,Cephei,HD 221861 Cephei
+3029,Cepheus,HD 201636,,HD 201636,,,,201636,104171,21h 06m 23.39s,+71° 25′ 55.5″,5.88,2.42,160,F3IV,,316.596,71.432,Cephei,HD 201636 Cephei
+3030,Cepheus,HD 211554,,HD 211554,,,,211554,109972,22h 16m 26.51s,+57° 13′ 12.8″,5.88,−0.86,728,G8III,,334.108,57.220,Cephei,HD 211554 Cephei
+3031,Cepheus,HD 217157,,HD 217157,,,,217157,112833,22h 51m 02.94s,+85° 22′ 24.5″,5.89,0.16,457,K5,,342.758,85.373,Cephei,HD 217157 Cephei
+3032,Cepheus,HD 219485,,HD 219485,,,,219485,114745,23h 14m 37.02s,+74° 13′ 52.5″,5.89,0.16,455,A0V,,348.654,74.231,Cephei,HD 219485 Cephei
+3033,Cepheus,V414 Cep,,V414,,,V414,197939,102358,20h 44m 22.04s,+56° 29′ 18.3″,5.91,−1.45,964,M3III,semiregular variable,311.092,56.488,Cephei,V414 Cephei
+3034,Cepheus,77 Dra,,77,-77,,,201908,104105,21h 05m 29.21s,+78° 07′ 34.8″,5.91,0.4,412,B8Vn,,316.371,78.126,Cephei,77 Cephei
+3035,Cepheus,HD 18778,,HD 18778,,,,18778,14844,03h 11m 42.85s,+81° 28′ 14.6″,5.92,1.96,202,A7III-IV,suspected variable,47.925,81.471,Cephei,HD 18778 Cephei
+3036,Cepheus,HD 203399,,HD 203399,,,,203399,104968,21h 15m 42.39s,+77° 00′ 44.1″,5.92,−1.12,836,K5III,suspected variable,318.925,77.012,Cephei,HD 203399 Cephei
+3037,Cepheus,HD 207198,,HD 207198,,,,207198,107374,21h 44m 53.28s,+62° 27′ 38.1″,5.94,−3.01,2012,O9II,,326.221,62.461,Cephei,HD 207198 Cephei
+3038,Cepheus,HD 222386,,HD 222386,,,,222386,116714,23h 39m 10.16s,+75° 17′ 34.3″,5.95,1.42,263,A3V,,354.792,75.293,Cephei,HD 222386 Cephei
+3039,Cepheus,HD 223128,,HD 223128,,,,223128,117265,23h 46m 36.73s,+66° 46′ 56.1″,5.95,−2.68,1734,B2IV,,356.650,66.782,Cephei,HD 223128 Cephei
+3040,Cepheus,HD 209112,,HD 209112,,,,209112,108505,21h 58m 53.51s,+62° 41′ 52.6″,5.96,−2.02,1283,M3III,"variable star, ΔV = 0.020m, P = 1.76 d",329.721,62.698,Cephei,HD 209112 Cephei
+3041,Cepheus,HD 205072,,HD 205072,,,,205072,105727,21h 24m 49.40s,+80° 31′ 29.5″,5.97,0.78,355,G6III:,,321.204,80.525,Cephei,HD 205072 Cephei
+3042,Cepheus,HD 222387,,HD 222387,,,,222387,116728,23h 39m 21.17s,+74° 00′ 09.4″,5.98,0.43,419,G8III,,354.838,74.003,Cephei,HD 222387 Cephei
+3043,Cepheus,HD 200039,,HD 200039,,,,200039,103219,20h 54m 44.28s,+75° 55′ 31.7″,5.99,0.37,434,G5III,,313.683,75.925,Cephei,HD 200039 Cephei
+3044,Cepheus,HD 202987,,HD 202987,,,,202987,105080,21h 17m 14.23s,+55° 47′ 52.7″,6,−2.28,1475,K3III,,319.308,55.798,Cephei,HD 202987 Cephei
+3045,Cepheus,HD 431,,HD 431,,,,431,760,00h 09m 19.83s,+79° 42′ 52.7″,6.01,0.67,381,A7IV,,2.329,79.714,Cephei,HD 431 Cephei
+3046,Cepheus,HD 213973,,HD 213973,,,,213973,111314,22h 33m 02.70s,+69° 54′ 48.1″,6.01,1.6,249,A9III,,338.258,69.913,Cephei,HD 213973 Cephei
+3047,Cepheus,HD 216595,,HD 216595,,,,216595,112998,22h 53m 03.77s,+60° 06′ 03.7″,6.01,−1.99,1299,K2V:,,343.263,60.101,Cephei,HD 216595 Cephei
+3048,Cepheus,HD 197373,,HD 197373,,,,197373,102011,20h 40m 17.88s,+60° 30′ 17.3″,6.02,3.41,108,F6IV,,310.071,60.505,Cephei,HD 197373 Cephei
+3049,Cepheus,HD 12005,,HD 12005,,,,12005,9568,02h 02m 57.04s,+77° 54′ 58.6″,6.04,−1.55,1076,K0,,30.738,77.916,Cephei,HD 12005 Cephei
+3050,Cepheus,HD 212495,,HD 212495,,,,212495,110498,22h 23m 00.50s,+62° 25′ 09.6″,6.04,−0.66,712,A1V,,335.750,62.419,Cephei,HD 212495 Cephei
+3051,Cepheus,HD 12467,,HD 12467,,,,12467,10054,02h 09m 25.44s,+81° 17′ 45.3″,6.05,1.87,223,A1V,,32.354,81.296,Cephei,HD 12467 Cephei
+3052,Cepheus,HD 8065,,HD 8065,,,,8065,6522,01h 23m 46.82s,+78° 43′ 33.8″,6.07,−8.93,32600,A0Iab,suspected variable,20.942,78.726,Cephei,HD 8065 Cephei
+3053,Cepheus,HD 216102,,HD 216102,,,,216102,112635,22h 48m 44.24s,+62° 56′ 18.7″,6.07,−0.39,639,K0,,342.183,62.938,Cephei,HD 216102 Cephei
+3054,Cepheus,HD 206842,,HD 206842,,,,206842,107197,21h 42m 45.37s,+59° 16′ 15.0″,6.1,−3.26,2433,K1III,,325.688,59.271,Cephei,HD 206842 Cephei
+3055,Cepheus,HD 203574,,HD 203574,,,,203574,105370,21h 20m 33.50s,+60° 45′ 23.2″,6.11,0.51,429,G5III,,320.138,60.756,Cephei,HD 203574 Cephei
+3056,Cepheus,V426 Cep,,V426,,,V426,204599,105949,21h 27m 25.30s,+59° 45′ 00.4″,6.11,−1.28,982,M3II-III...,slow irregular variable,321.854,59.750,Cephei,V426 Cephei
+3057,Cepheus,HD 211300,,HD 211300,,,,211300,109659,22h 12m 52.72s,+73° 18′ 25.7″,6.11,−1.05,881,A3V+...,suspected variable,333.217,73.307,Cephei,HD 211300 Cephei
+3058,Cepheus,HD 203501,,HD 203501,,,,203501,104756,21h 13m 21.60s,+81° 13′ 51.5″,6.12,0.14,512,A3IV,,318.338,81.231,Cephei,HD 203501 Cephei
+3059,Cepheus,HD 211242,,HD 211242,,,,211242,109746,22h 13m 49.71s,+63° 09′ 44.5″,6.13,−1.23,967,B8Vn,,333.454,63.162,Cephei,HD 211242 Cephei
+3060,Cepheus,HD 204754,,HD 204754,,,,204754,106052,21h 28m 52.72s,+55° 25′ 07.2″,6.14,−1.13,929,B8III,,322.217,55.419,Cephei,HD 204754 Cephei
+3061,Cepheus,HD 36905,,HD 36905,,,,36905,28532,06h 01m 20.17s,+85° 10′ 55.6″,6.17,−1.89,1336,M0III,,90.333,85.182,Cephei,HD 36905 Cephei
+3062,Cepheus,HD 197734,,HD 197734,,,,197734,102216,20h 42m 39.69s,+60° 36′ 04.9″,6.17,−0.56,724,A2IV,,310.663,60.601,Cephei,HD 197734 Cephei
+3063,Cepheus,HD 208606,,HD 208606,,,,208606,108209,21h 55m 20.60s,+61° 32′ 30.5″,6.17,−6.05,9056,G8Ib...,,328.833,61.542,Cephei,HD 208606 Cephei
+3064,Cepheus,HD 207780,,HD 207780,,,,207780,107723,21h 49m 19.01s,+61° 16′ 22.1″,6.18,−0.96,872,M1II-III,suspected variable,327.329,61.273,Cephei,HD 207780 Cephei
+3065,Cepheus,HD 212454,,HD 212454,,,,212454,110497,22h 23m 00.17s,+57° 17′ 04.6″,6.18,−0.90,851,B8III-IV,,335.750,57.284,Cephei,HD 212454 Cephei
+3066,Cepheus,HD 216172,,HD 216172,,,,216172,112670,22h 49m 00.68s,+68° 34′ 12.2″,6.19,2.21,204,F5,,342.250,68.570,Cephei,HD 216172 Cephei
+3067,Cepheus,HD 6319,,HD 6319,,,,6319,5928,01h 16m 12.60s,+87° 08′ 44.0″,6.2,1.2,326,K2III:,,19.050,87.146,Cephei,HD 6319 Cephei
+3068,Cepheus,HD 218560,,HD 218560,,,,218560,114227,23h 07m 57.20s,+64° 13′ 21.2″,6.21,−1.36,1065,K0,,346.988,64.223,Cephei,HD 218560 Cephei
+3069,Cepheus,HD 199661,,HD 199661,,,,199661,103346,20h 56m 17.01s,+56° 53′ 15.0″,6.23,−0.71,795,B2.5IV,suspected variable,314.071,56.888,Cephei,HD 199661 Cephei
+3070,Cepheus,HD 6473,,HD 6473,,,,6473,5412,01h 09m 12.29s,+80° 00′ 42.0″,6.24,0.46,468,K0,,17.300,80.012,Cephei,HD 6473 Cephei
+3071,Cepheus,HD 218537,,HD 218537,,,,218537,114212,23h 07m 47.74s,+63° 38′ 00.5″,6.25,−1.62,1221,B3V,suspected variable,346.946,63.633,Cephei,HD 218537 Cephei
+3072,Cepheus,HD 214019,,HD 214019,,,,214019,111325,22h 33m 16.76s,+70° 22′ 25.3″,6.26,0.82,400,A0V,,338.317,70.374,Cephei,HD 214019 Cephei
+3073,Cepheus,HD 7238,,HD 7238,,,,7238,5947,01h 16m 31.04s,+79° 54′ 35.5″,6.27,1.98,236,F5Vs,,19.129,79.910,Cephei,HD 7238 Cephei
+3074,Cepheus,HD 210905,,HD 210905,,,,210905,109585,22h 11m 56.74s,+59° 05′ 03.8″,6.29,1.16,345,K0III,,332.983,59.084,Cephei,HD 210905 Cephei
+3075,Cepheus,HD 213232,,HD 213242,,,,213242,110919,22h 28m 19.48s,+64° 05′ 06.8″,6.3,0.99,377,K0,,337.079,64.085,Cephei,HD 213242 Cephei
+3076,Cepheus,V398 Cep,,V398,,,V398,225136,302,00h 03m 51.63s,+66° 42′ 43.9″,6.31,−1.09,985,M4,semiregular variable,0.963,66.712,Cephei,V398 Cephei
+3077,Cepheus,δ Cep C,δ,Delta,27,,,213307,110988,22h 29m 09.23s,+58° 24′ 14.7″,6.3,,887,B7IV,Component of the δ Cep system; spectroscopic binary; suspected variable,337.288,58.404,Cephei,Delta Cephei
+3078,Cepheus,HD 209258,,HD 209258,,,,209258,108420,21h 57m 51.07s,+74° 59′ 48.3″,6.32,−1.35,1113,K5,suspected variable,329.463,74.997,Cephei,HD 209258 Cephei
+3079,Cepheus,V379 Cep,,V379,,,V379,197770,102258,20h 43m 13.69s,+57° 06′ 50.4″,6.32,−5.10,6269,B2III,"Algol variable, ΔV = 0.047m, P = 99.76 d",310.804,57.114,Cephei,V379 Cephei
+3080,Cepheus,HD 215907,,HD 215907,,,,215907,112508,22h 47m 23.23s,+58° 28′ 58.8″,6.33,−1.01,956,B9.5IV,,341.846,58.483,Cephei,HD 215907 Cephei
+3081,Cepheus,ξ Cep B,ξ,Xi,17,,,209791,,22h 03m 46.22s,+64° 37′ 41.5″,6.34,,96,F8V,component of the ξ Cep system; spectroscopic binary,330.942,64.628,Cephei,Xi Cephei
+3082,Cepheus,HD 210220,,HD 210220,,,,210220,109190,22h 07m 09.65s,+58° 50′ 26.8″,6.34,0.16,560,G6III,,331.788,58.841,Cephei,HD 210220 Cephei
+3083,Cepheus,HD 1141,,HD 1141,,,,1141,1296,00h 16m 13.88s,+76° 57′ 02.7″,6.35,−0.04,617,B9Vn,,4.054,76.951,Cephei,HD 1141 Cephei
+3084,Cepheus,HD 219841,,HD 219841,,,,219841,114984,23h 17m 18.86s,+75° 17′ 56.5″,6.35,−0.07,628,A2Vs,,349.325,75.299,Cephei,HD 219841 Cephei
+3085,Cepheus,80 Dra,,80,-80,,,210873,109434,22h 10m 15.32s,+72° 06′ 40.7″,6.36,0.38,511,B9MNp...,,332.563,72.111,Cephei,80 Cephei
+3086,Cepheus,HR 9038,,HD 223778,,,,223778,117712,23h 52m 24.52s,+75° 32′ 40.2″,6.36,6.19,35,K3V,,358.100,75.544,Cephei,HD 223778 Cephei
+3087,Cepheus,HD 208132,,HD 208132,,,,208132,107893,21h 51m 37.25s,+65° 45′ 09.9″,6.37,1.86,260,Am+...,,327.904,65.753,Cephei,HD 208132 Cephei
+3088,Cepheus,HD 3440,,HD 3440,,,,3440,3132,00h 39m 47.75s,+82° 29′ 36.9″,6.38,3.83,105,F6V:,,9.946,82.493,Cephei,HD 3440 Cephei
+3089,Cepheus,HD 202582,,HD 202582,,,,202582,104788,21h 13m 42.46s,+64° 24′ 15.1″,6.38,3.3,135,G2IV+...,suspected variable,318.425,64.404,Cephei,HD 202582 Cephei
+3090,Cepheus,V444 Cep,,V444,,,V444,210071,109124,22h 06m 13.55s,+56° 20′ 36.2″,6.38,0.14,576,A0III,rotating ellipsoidal variable,331.554,56.343,Cephei,V444 Cephei
+3091,Cepheus,HD 25904,,HD 25904,,,,25904,20039,04h 17m 51.85s,+80° 32′ 08.7″,6.39,−0.92,945,K0,,64.463,80.536,Cephei,HD 25904 Cephei
+3092,Cepheus,HD 208947,,HD 208947,,,,208947,108364,21h 57m 11.09s,+66° 09′ 22.2″,6.41,−2.06,1614,B2V,,329.296,66.156,Cephei,HD 208947 Cephei
+3093,Cepheus,V421 Cep,,V421,,,V421,203025,105091,21h 17m 18.79s,+58° 36′ 41.4″,6.42,−3.03,2527,B2III,Be star,319.325,58.611,Cephei,V421 Cephei
+3094,Cepheus,V422 Cep,,V422,,,V422,203265,105193,21h 18m 32.43s,+61° 11′ 03.8″,6.43,−2.03,1606,M3,slow irregular variable,319.633,61.184,Cephei,V422 Cephei
+3095,Cepheus,V438 Cep,,V438,,,V438,209111,108133,21h 54m 26.54s,+80° 18′ 30.9″,6.43,−0.59,825,M3,semiregular variable,328.608,80.308,Cephei,V438 Cephei
+3096,Cepheus,RW Cep,,RW,,,RW,212466,110504,22h 23m 07.02s,+55° 57′ 47.6″,6.44,−3.18,2739,G8Ia,"semiregular variable, Vmax = 6.0m, Vmin = 7.3m, P = 346 d; one of the largest stars known",335.779,55.963,Cephei,RW Cephei
+3097,Cepheus,HD 12918,,HD 12918,,,,12918,10623,02h 16m 45.27s,+83° 33′ 41.5″,6.45,0.86,428,K0,,34.188,83.561,Cephei,HD 12918 Cephei
+3098,Cepheus,HD 198781,,HD 198781,,,,198781,102771,20h 49m 17.39s,+64° 02′ 32.2″,6.45,−3.03,2567,B0.5V,suspected variable,312.321,64.042,Cephei,HD 198781 Cephei
+3099,Cepheus,HD 207636,,HD 207636,,,,207636,107555,21h 47m 00.87s,+70° 09′ 03.4″,6.45,0.55,492,A0V,,326.750,70.151,Cephei,HD 207636 Cephei
+3100,Cepheus,HD 215588,,HD 215588,,,,215588,112324,22h 45m 03.70s,+58° 08′ 50.6″,6.45,3.68,117,F5,,341.263,58.147,Cephei,HD 215588 Cephei
+3101,Cepheus,HD 12927,,HD 12927,,,,12927,10309,02h 12m 49.98s,+79° 41′ 29.3″,6.46,0.96,410,A3,suspected variable,33.204,79.691,Cephei,HD 12927 Cephei
+3102,Cepheus,HD 212136,,HD 212136,,,,212136,110314,22h 20m 38.77s,+58° 24′ 35.5″,6.46,0.15,597,G8III,,335.158,58.410,Cephei,HD 212136 Cephei
+3103,Cepheus,HD 217348,,HD 217348,,,,217348,113498,22h 59m 09.00s,+59° 48′ 52.8″,6.46,−1.29,1156,B9III,,344.788,59.814,Cephei,HD 217348 Cephei
+3104,Cepheus,V431 Cep,,V431,,,V431,205938,106604,21h 35m 25.91s,+68° 13′ 09.3″,6.47,0.08,617,Ap Si,α² CVn variable,323.854,68.219,Cephei,V431 Cephei
+3105,Cepheus,HD 207826,,HD 207826,,,,207826,107710,21h 49m 08.12s,+66° 47′ 31.9″,6.49,1.57,314,F3IV,,327.283,66.792,Cephei,HD 207826 Cephei
+3106,Cepheus,HD 224890,,HD 224890,,,,224890,128,00h 01m 39.30s,+73° 36′ 42.8″,6.5,2.41,214,Am...,,0.413,73.612,Cephei,HD 224890 Cephei
+3107,Cepheus,HD 32196,,HD 32196,,,,32196,25911,05h 31m 48.00s,+85° 56′ 19.4″,6.5,1.51,324,A5m,,82.950,85.939,Cephei,HD 32196 Cephei
+3108,Cepheus,HD 198236,,HD 198236,,,,198236,102370,20h 44m 33.08s,+69° 45′ 06.8″,6.5,0.89,431,G8III,,311.138,69.752,Cephei,HD 198236 Cephei
+3109,Cepheus,V Cep,,V,,,V,224309,118027,23h 56m 27.56s,+83° 11′ 28.0″,6.57,1.75,301,A3V,not variable,359.113,83.191,Cephei,V Cephei
+3110,Cepheus,V419 Cep,,V419,,,V419,202380,104719,21h 12m 47.25s,+60° 05′ 52.8″,6.62,,5200,M2Ib,slow irregular variable,318.196,60.098,Cephei,V419 Cephei
+3111,Cepheus,79 Dra,,79,-79,,,208509,107995,21h 52m 46.94s,+73° 42′ 08.2″,6.65,2.21,276,A2V,,328.192,73.702,Cephei,79 Cephei
+3112,Cepheus,15 Cep,,15,15,,,209744,108925,22h 03m 53.86s,+59° 48′ 52.5″,6.69,−1.43,1370,B1V,multiple star,330.971,59.814,Cephei,15 Cephei
+3113,Cepheus,AH Cep,,AH,,,AH,216014,112562,22h 47m 52.94s,+65° 03′ 43.8″,6.88,,3330,B0.5V+...,"β Lyr variable, Vmax = 6.78m, Vmin = 7.07m, P = 1.77 d",341.967,65.062,Cephei,AH Cephei
+3114,Cepheus,U Cep,,U,,,U,5679,4843,01h 02m 18.34s,+81° 52′ 32.1″,6.9,0.32,674,G8III,"Algol variable, Vmax = 6.75m, Vmin = 9.24m, P = 2.49 d",15.575,81.876,Cephei,U Cephei
+3115,Cepheus,HD 12648,,HD 12648,,,,12648,10800,02h 19m 00.0s,+85° 44′ 10.00″,6.98,,517,G5,has a planet (b),34.750,85.733,Cephei,HD 12648 Cephei
+3116,Cepheus,HD 202432,,HD 202432,,,,202432,104632,21h 11m 40.4s,+70° 26′ 28.00″,7,,525,K2 D,has a planet (b),317.917,70.436,Cephei,HD 202432 Cephei
+3117,Cepheus,EM Cep,,EM,,,EM,208392,108073,21h 53m 48.10s,+62° 36′ 51.9″,7.03,,1610,B1Vn,"W UMa variable, Vmax = 7.02m, Vmin = 7.17m, P = 0.81 d",328.450,62.614,Cephei,EM Cephei
+3118,Cepheus,SS Cep,,SS,,,SS,22689,17881,03h 49m 30.01s,+80° 19′ 20.9″,7.16,,847,M5III,"semiregular variable, Vmax = 6.5m, Vmin = 7.7m, P = 90 d",57.375,80.322,Cephei,SS Cephei
+3119,Cepheus,DQ Cep,,DQ,,,DQ,199908,103471,20h 57m 48.61s,+55° 29′ 15.6″,7.26,,579,F1IV,"δ Sct variable, Vmax = 7.22m, Vmin = 7.32m, P = 0.079 d",314.450,55.488,Cephei,DQ Cephei
+3120,Cepheus,HD 204521,,HD 204521,,,,204521,105766,21h 25m 16.80s,+70° 28′ 39.1″,7.29,,86,G0V_Fe-08,Will pass near the Sun in the future,321.317,70.478,Cephei,HD 204521 Cephei
+3121,Cepheus,HD 207538,,HD 207538,,,,207538,107598,21h 47m 39.79s,+59° 12′ 01.3″,7.3,,,O9.7IV,peculiar metal abundances,326.913,59.200,Cephei,HD 207538 Cephei
+3122,Cepheus,T Cep,,T,,,T,202012,104451,21h 09m 32.00s,+68° 29′ 25.0″,7.33,,612,M6-9e,"Mira variable, Vmax = 5.2m, Vmin = 11.3m, P = 388.14 d",317.383,68.490,Cephei,T Cephei
+3123,Cepheus,V380 Cep,,V380,,,V380,200775,103763,21h 01m 36.92s,+68° 09′ 47.8″,7.36,,1720,B2Ve,"in NGC 7023; Orion variable, Vmax = 7.24m, Vmin = 7.42m",315.400,68.163,Cephei,V380 Cephei
+3124,Cepheus,VW Cep,,VW,,,VW,197433,101750,20h 37m 21.54s,+75° 36′ 01.5″,7.38,,90,G8V+K0V,"W UMa variable, Vmax = 7.23m, Vmin = 7.68m, P = 0.28 d",309.338,75.600,Cephei,VW Cephei
+3125,Cepheus,S Cep,,S,,,S,206362,106583,21h 25m 12.83s,+78° 37′ 28.2″,7.4,,1330,"C7,4e","Mira variable, Vmax = 7.4m, Vmin = 12.9m, P = 486.84 d",321.300,78.624,Cephei,S Cephei
+3126,Cepheus,NY Cep,,NY,,,NY,217312,113461,22h 58m 39.80s,+63° 04′ 37.7″,7.44,,,B0IV,"Algol variable, Vmax = 7.4m, Vmin = 7.55m, P = 15.28 d",344.663,63.077,Cephei,NY Cephei
+3127,Cepheus,V368 Cep,,V368,,,V368,220140,115147,23h 19m 26.63s,+79° 00′ 12.7″,7.54,,63,G9V,RS CVn variable,349.858,79.003,Cephei,V368 Cephei
+3128,Cepheus,W Cep,,W,,,W,214369,111592,22h 36m 27.56s,+58° 25′ 33.9″,7.59,,,K0Iapev...,"semiregular variable, Vmax = 7.02m, Vmin = 8.5m, P = 350 d",339.113,58.426,Cephei,W Cephei
+3129,Cepheus,EI Cep,,EI,,,EI,205234,106024,21h 28m 28.21s,+76° 24′ 12.6″,7.61,,657,F3V+F1m,"Algol variable, Vmax = 7.54m, Vmin = 8.06m, P = 8.44 d",322.117,76.403,Cephei,EI Cephei
+3130,Cepheus,CW Cep,,CW,,,CW,218066,113907,23h 04m 02.22s,+63° 23′ 48.8″,7.67,,2080,B0.5V+B1V,"in Cepheus OB3; Algol variable, Vmax = 7.6m, Vmin = 8.04m, P = 2.73 d",346.008,63.397,Cephei,CW Cephei
+3131,Cepheus,IR Cep,,IR,,,IR,208960,108426,21h 57m 51.93s,+61° 01′ 07.9″,7.86,,2200,G0,"classical Cepheid, Vmax = 7.58m, Vmin = 7.98m, P = 2.11 d",329.463,61.019,Cephei,IR Cephei
+3132,Cepheus,EK Cep,,EK,,,EK,206821,107083,21h 41m 21.50s,+69° 41′ 34.1″,7.89,,528,A0V,Algol variable,325.338,69.693,Cephei,EK Cephei
+3133,Cepheus,HD 204827,,HD 204827,,,,204827,106059,21h 28m 57.76s,+58° 44′ 23.2″,7.94,,,O9V+B0.5III,in Trumpler 37; spectroscopic binary,322.238,58.740,Cephei,HD 204827 Cephei
+3134,Cepheus,XZ Cep,,XZ,,,XZ,,111257,22h 32m 25.08s,+67° 09′ 02.5″,8.51,,1730,O9.5V,"β Lyr variable, Vmax = 8m, Vmin = 8.83m, P = 5.10 d",338.104,67.151,Cephei,XZ Cephei
+3135,Cepheus,HD 211810,,HD 211810,,,,211810,110094,22h 18m 07.00s,+61° 08′ 04.00″,8.59,,199,G5,has a planet (b),334.529,61.134,Cephei,HD 211810 Cephei
+3136,Cepheus,ZZ Cep,,ZZ,,,ZZ,215661,112317,22h 45m 02.61s,+68° 07′ 58.4″,8.6,,430,B7v+...,"Algol variable, Vmax = 8.6m, Vmin = 9.55m, P = 2.14 d",341.258,68.133,Cephei,ZZ Cephei
+3137,Cepheus,DH Cep,,DH,,,DH,215835,112470,22h 46m 54.11s,+58° 05′ 03.5″,8.61,,5000,O5.5V+O6V,"in NGC 7380; rotating ellipsoidal variable, Vmax = 8.58m, Vmin = 8.62m, P = 2.11 d",341.725,58.084,Cephei,DH Cephei
+3138,Cepheus,CQ Cep,,CQ,,,CQ,214419,111633,22h 36m 53.95s,+56° 54′ 21.0″,8.8,,,WN6+O9II-Ib,"β Lyr variable, Vmax = 8.63m, Vmin = 9.12m, P = 1.64 d",339.221,56.906,Cephei,CQ Cephei
+3139,Cepheus,WX Cep,,WX,,,WX,213631,111166,22h 31m 15.79s,+63° 31′ 23.6″,9,,1520,A5V+A2V,"Algol variable, Vmax = 8.7m, Vmin = 9.29m, P = 3.38 d",337.813,63.523,Cephei,WX Cephei
+3140,Cepheus,HD 211853,,GP,,,GP,211853,100154,22h 18m 45.61s,+56° 07′ 33.9″,9,,1450,WN6o+O6I,"eclipsing binary, Vmax = 8.96m, Vmin = 9.07m, P = 6.69 d",334.688,56.126,Cephei,GP Cephei
+3141,Cepheus,XX Cep,,XX,,,XX,222217,116648,23h 38m 20.29s,+64° 20′ 02.7″,9.18,,799,A7V,"Algol variable, Vmax = 9.20m, Vmin = 10.32m, P = 2.34 d",354.583,64.334,Cephei,XX Cephei
+3142,Cepheus,RZ Cep,,RZ,,,RZ,,111839,22h 39m 13.18s,+64° 51′ 30.6″,9.19,,,A0-F2,"RR Lyr variable, Vmax = 9.15m, Vmin = 9.72m, P = 0.31 d",339.804,64.858,Cephei,RZ Cephei
+3143,Cepheus,IL Cep,,IL,,,IL,,113017,22h 53m 15.60s,+62° 08′ 45.0″,9.31,,2790,B3IVe+A3,"UX Ori star, Vmax = 9.24m, Vmin = 9.61m",343.313,62.146,Cephei,IL Cephei
+3144,Cepheus,EG Cep,,EG,,,EG,194089,,20h 15m 56.83s,+76° 48′ 35.7″,9.49,,,A7V,"β Lyr variable, Vmax = 9.31m, Vmin = 10.21m, P = 0.54 d",303.983,76.810,Cephei,EG Cephei
+3145,Cepheus,Kruger 60 A,,HD 239960,,,,239960,110893,22h 27m 59.47s,+57° 41′ 45.2″,9.59,11.58,13.1,M2.0V,one of the nearest known stars; member of the Kruger 60 system,336.996,57.696,Cephei,HD 239960 Cephei
+3146,Cepheus,HIP 109384,,HIP 109384,,,,,109384,22h 08m 32.00s,+71° 18′ 52.00″,9.63,,183,G5,has a planet (b),332.133,71.301,Cephei,HIP 109384 Cephei
+3147,Cepheus,CR Cep,,CR,,,CR,240059,112430,22h 46m 24.77s,+59° 26′ 31.9″,9.64,,1760,G0,"classical Cepheid, Vmax = 9.43m, Vmin = 9.83m, P = 6.23 d",341.600,59.442,Cephei,CR Cephei
+3148,Cepheus,PQ Cep,,PQ,,,PQ,,,21h 44m 28.78s,+73° 38′ 04.9″,9.82,,,"C6-,3e",Mira variable,326.117,73.634,Cephei,PQ Cephei
+3149,Cepheus,HD 219460,,V458,,,V458,219460,114791,23h 15m 12.39s,+60° 27′ 01.8″,9.89,,,WN5+B1III,Wolf–Rayet star,348.800,60.450,Cephei,V458 Cephei
+3150,Cepheus,4U 2206+54,, ,,,,,,23h 07m 56.24s,+54° 31′ 06.4″,9.9,,,O9.5Vep,"high-mass X-ray binary, Vmax = 9.7m, Vmin = 9.9m",346.983,54.518,Cephei,  Cephei
+3151,Cepheus,SV Cep,,SV,,,SV,,,22h 21m 33.20s,+73° 40′ 27.1″,10.35,,,A2IVe,"UX Ori star, Vmax = 10.35m, Vmin = 12.15m",335.388,73.674,Cephei,SV Cephei
+3152,Cepheus,V354 Cephei,,V354,,,V354,,,22h 33m 35.00s,+58° 53′ 45.00″,10.9,,9000,M2.5 Iab,"One of the largest known stars; slow irregular variable, Vmax = 10.82m, Vmin = 11.35m",338.396,58.885,Cephei,V354 Cephei
+3153,Cepheus,DO Cep,,DO,,,DO,239960,,22h 27m 59.57s,+57° 41′ 45.3″,10.3,,13.1,M4.0V,"member of the Kruger 60 system; flare star, Vmax = 10.3m, Vmin = 11.4m",336.996,57.696,Cephei,DO Cephei
+3154,Cepheus,CP Cep,,CP,,,CP,,108427,21h 57m 52.69s,+56° 09′ 50.1″,10.58,,1360,F5Ib,"classical Cepheid, Vmax = 10.06m, Vmin = 10.96m, P = 17.86 d",329.467,56.164,Cephei,CP Cephei
+3155,Cepheus,AK Cep,,AK,,,AK,,110964,22h 28m 50.09s,+58° 12′ 39.4″,10.86,,713,F8,"classical Cepheid, Vmax = 10.86m, Vmin = 11.52m, P = 7.23 d",337.208,58.211,Cephei,AK Cephei
+3156,Cepheus,EE Cep,,EE,,,EE,,,23h 09m 22.76s,+55° 45′ 24.2″,10.9,,,B5:nev,"Algol variable, Vmax = 10.72m, Vmin = 12.15m, P = 2049.53 d",347.342,55.757,Cephei,EE Cephei
+3157,Cepheus,BH Cep,,BH,,,BH,,,22h 01m 42.87s,+69° 44′ 36.5″,11.01,,,F5IIIe,"UX Ori star, Vmax = 10.79m, Vmin = 12.7m",330.425,69.743,Cephei,BH Cephei
+3158,Cepheus,GW Cep,,GW,,,GW,,,01h 45m 58.58s,+80° 04′ 55.3″,11.21,,,G3,W UMa variable,26.492,80.082,Cephei,GW Cephei
+3159,Cepheus,WZ Cep,,WZ,,,WZ,,,23h 22m 24.22s,+72° 54′ 56.7″,11.23,,,F5,W UMa variable,350.600,72.916,Cephei,WZ Cephei
+3160,Cepheus,BO Cep,,BO,,,BO,,,22h 16m 54.06s,+70° 03′ 45.0″,11.55,,,F5Ve,"UX Ori star, Vmax = 11.5m, Vmin = 12.4m",334.225,70.063,Cephei,BO Cephei
+3161,Cepheus,WR 152,,HD 211564,,,,211564,,22h 16m 24.04s,+55° 37′ 36.7″,11.61,,,WN3,Wolf–Rayet star,334.100,55.627,Cephei,HD 211564 Cephei
+3162,Cepheus,DI Cep,,DI,,,DI,,113269,22h 56m 11.53s,+58° 40′ 01.8″,11.95,,797,G8IVe,T Tauri star,344.046,58.667,Cephei,DI Cephei
+3163,Cepheus,CX Cep,,CX,,,CX,,,22h 09m 33.44s,+57° 44′ 30.5″,12.12,,,WN4+O5V,"β Lyr variable, Vmax = 12.09m, Vmin = 12.24m, P = 2.13 d",332.388,57.742,Cephei,CX Cephei
+3164,Cepheus,Cepheus X-4,,V490,,,V490,,,21h 39m 30.68s,+56° 59′ 10.5″,,,,B1.5Ve,in IC 1396; high-mass X-ray binary,324.875,56.986,Cephei,V490 Cephei
+3165,Cepheus,V350 Cep,,V350,,,V350,,,20h 43m 00.01s,+66° 11′ 28.0″,16.2,,,WN4+O5V,in NGC 7129; T Tauri star,310.750,66.191,Cephei,V350 Cephei
+3166,Cepheus,PV Cep,,PV,,,PV,,,20h 45m 53.94s,+67° 57′ 38.7″,17.46,,,A5,in nebula GM 1-29; EXor,311.471,67.961,Cephei,PV Cephei
+3167,Cepheus,IV Cep,,IV,,,IV,,,22h 04m 36.92s,+53° 30′ 23.7″,,,,,nova,331.150,53.506,Cephei,IV Cephei
+3168,Cepheus,Cepheus A HW 2,, ,,,,,,22h 56m 17.90s,+62° 01′ 49.00″,,,,B0.5,in Cepheus A; massive protostar,344.071,62.019,Cephei,  Cephei
+3169,Cepheus,S140 IRS 1,, ,,,,,,22h 19m 18.28s,+63° 18′ 45.8″,,,,,in S140; protostar,334.825,63.313,Cephei,  Cephei
+3170,Cepheus,IRAS 21391+5802,, ,,,,,,21h 40m 42.36s,+58° 16′ 09.7″,,,,,in IC 1396N; protostar,325.175,58.269,Cephei,  Cephei
+3171,Cepheus,NGC 7538 IRS 1,, ,,,,,,23h 13m 45.32s,+61° 28′ 11.7″,,,,O,in NGC 7538; massive protostar,348.438,61.470,Cephei,  Cephei
+3172,Cepheus,NGC 7538 IRS 9,, ,,,,,,23h 14m 01.63s,+61° 27′ 20.2″,,,,,in NGC 7538; massive protostar,348.504,61.456,Cephei,  Cephei
+3173,Cepheus,OH 104.9+2.4,, ,,,,,,22h 19m 27.48s,+59° 51′ 21.7″,,,,,OH/IR star,334.863,59.856,Cephei,  Cephei
+3174,Cepheus,PSR B2224+65,, ,,,,,,22h 25m 52.36s,+65° 35′ 33.8″,,,,,pulsar,336.467,65.593,Cephei,  Cephei
+3175,Cepheus,PSR J2229+6114,, ,,,,,,22h 29m 04.97s,+61° 14′ 12.9″,,,,,pulsar,337.267,61.237,Cephei,  Cephei

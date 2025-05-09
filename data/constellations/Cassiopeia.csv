@@ -1,0 +1,316 @@
+USID,Constellation,Name,B,B->F->VAR->G,F,G.,Var,HD,HIP,RA,Dec,"vis. mag.","abs. mag.",Dist. (ly),Sp. class,Notes https://en.wikipedia.org/wiki/Lists_of_stars_by_constellation,RA angle,Dec Angle,Latin Constellation,Full Designation
+2312,Cassiopeia,γ Cas,γ,Gamma,27,,,5394,4427,00h 56m 42.50s,+60° 43′ 00.3″,2.15,−4.22,613,B0IV:evar,"Tsih, Navi; prototype γ Cas variable, Vmax = 1.6m, Vmin = 3.0m",14.175,60.717,Cassiopaie,Gamma Cassiopaie
+2313,Cassiopeia,α Cas,α,Alpha,18,,,3712,3179,00h 40m 30.39s,+56° 32′ 14.7″,2.24,−1.99,228,K0II-IIIvar,Schedar,10.125,56.537,Cassiopaie,Alpha Cassiopaie
+2314,Cassiopeia,β Cas,β,Beta,11,,,432,746,00h 09m 10.09s,+59° 09′ 00.8″,2.28,1.17,54,F2III-IV,"Caph; δ Sct variable, Vmax = 2.25m, Vmin = 2.29m, P = 0.10 d",2.292,59.150,Cassiopaie,Beta Cassiopaie
+2315,Cassiopeia,δ Cas,δ,Delta,37,,,8538,6686,01h 25m 48.60s,+60° 14′ 07.5″,2.68,0.26,99,A5Vv SB,"Ruchbah; Algol variable, Vmax = 2.68m, Vmin = 2.76m, P = 759 d",21.450,60.235,Cassiopaie,Delta Cassiopaie
+2316,Cassiopeia,ε Cas,ε,Epsilon,45,,,11415,8886,01h 54m 23.68s,+63° 40′ 12.5″,3.35,−2.31,442,B2pvar,"Segin; variable star, ΔV = 0.002m, P = 0.09 d",28.596,63.670,Cassiopaie,Epsilon Cassiopaie
+2317,Cassiopeia,η Cas,η,Eta,24,,,4614,3821,00h 49m 05.10s,+57° 48′ 59.6″,3.46,4.59,19,G0V SB,"Achird, RS CVn variable",12.271,57.816,Cassiopaie,Eta Cassiopaie
+2318,Cassiopeia,ζ Cas,ζ,Zeta,17,,,3360,2920,00h 36m 58.27s,+53° 53′ 49.0″,3.69,−2.62,597,B2IV,"Fùlù (附路)[1], suspected variable",9.242,53.897,Cassiopaie,Zeta Cassiopaie
+2319,Cassiopeia,50 Cas,,50,50,,,12216,9598,02h 03m 26.19s,+72° 25′ 16.5″,3.95,0.47,162,A2V,"variable star, ΔV = 0.003m, P = 0.80 d",30.858,72.421,Cassiopaie,50 Cassiopaie
+2320,Cassiopeia,κ Cas,κ,Kappa,15,,,2905,2599,00h 32m 59.99s,+62° 55′ 54.4″,4.17,−6.34,4127,B1Ia,"α Cyg variable, Vmax = 4.12m, Vmin = 4.21m, P = 2.65 d",8.246,62.932,Cassiopaie,Kappa Cassiopaie
+2321,Cassiopeia,θ Cas,θ,Theta,33,,,6961,5542,01h 11m 05.93s,+55° 08′ 59.8″,4.34,1.22,137,A7Vvar,Marfak; suspected variable,17.771,55.150,Cassiopaie,Theta Cassiopaie
+2322,Cassiopeia,ι Cas,ι,Iota,,,,15089,11569,02h 29m 03.99s,+67° 24′ 08.6″,4.46,1.27,141,A5p Sr,"α2 CVn variable, Vmax = 4.45m, Vmin = 4.53m, P = 1.74 d",37.263,67.402,Cassiopaie,Iota Cassiopaie
+2323,Cassiopeia,ο Cas,ο,Omicron,22,,,4180,3504,00h 44m 43.50s,+48° 17′ 03.8″,4.48,−2.74,906,B5III,"triple star, γ Cas variable, Vmax = 4.31m, Vmin = 4.62m",11.179,48.284,Cassiopaie,Omicron Cassiopaie
+2324,Cassiopeia,48 Cas,A,A,48,,,12111,9480,02h 01m 57.55s,+70° 54′ 25.4″,4.49,1.72,117,A3IV,quadruple star,30.488,70.907,Cassiopaie,A Cassiopaie
+2325,Cassiopeia,ρ Cas,ρ,Rho,7,,,224014,117863,23h 54m 23.04s,+57° 29′ 57.8″,4.51,−9.5,8500,F8Ia0-M2I,"yellow hypergiant; semiregular variable, Vmax = 4.1m, Vmin = 6.2m, P = 320 d",358.596,57.499,Cassiopaie,Rho Cassiopaie
+2326,Cassiopeia,υ2 Cas,υ2,Upsilon 2,28,,,5395,4422,00h 56m 40.01s,+59° 10′ 52.2″,4.62,0.62,206,G8III-IV,Castula,14.167,59.181,Cassiopaie,Upsilon 2 Cassiopaie
+2327,Cassiopeia,χ Cas,χ,Chi,39,,,9408,7294,01h 33m 55.93s,+59° 13′ 55.5″,4.68,0.7,204,K0III,,23.479,59.232,Cassiopaie,Chi Cassiopaie
+2328,Cassiopeia,ψ Cas,ψ,Psi,36,,,8491,6692,01h 25m 55.90s,+68° 07′ 47.8″,4.72,0.86,193,K0III,,21.479,68.130,Cassiopaie,Psi Cassiopaie
+2329,Cassiopeia,λ Cas,λ,Lambda,14,,,2772,2505,00h 31m 46.32s,+54° 31′ 20.4″,4.74,−0.44,354,B8Vn,suspected variable,7.942,54.522,Cassiopaie,Lambda Cassiopaie
+2330,Cassiopeia,ξ Cas,ξ,Xi,19,,,3901,3300,00h 42m 03.88s,+50° 30′ 45.1″,4.8,−2.86,1109,B2.5V,suspected variable,10.513,50.513,Cassiopaie,Xi Cassiopaie
+2331,Cassiopeia,HR 244,,HD 5015,,,,5015,4151,00h 53m 04.28s,+61° 07′ 24.8″,4.8,3.46,61,F8V,spectroscopic binary,13.267,61.123,Cassiopaie,HD 5015 Cassiopaie
+2332,Cassiopeia,R Cas,,R,,,R,224490,118188,23h 58m 24.80s,+51° 23′ 19.0″,4.8,,410,M6.5-9e,"Mira variable, Vmax = 4.7m, Vmin = 13.5m, P = 430 d",359.600,51.389,Cassiopaie,R Cassiopaie
+2333,Cassiopeia,υ1 Cas,υ1,Upsilon 1,26,,,5234,4292,00h 55m 00.19s,+58° 58′ 22.1″,4.83,−0.65,406,K2III,,13.750,58.973,Cassiopaie,Upsilon 1 Cassiopaie
+2334,Cassiopeia,1 Cas,,1,1,,,218376,114104,23h 06m 36.81s,+59° 25′ 11.2″,4.84,−2.81,1105,B0.5IV,,346.650,59.420,Cassiopaie,1 Cassiopaie
+2335,Cassiopeia,HD 19275,,HD 19275,,,,19275,14862,03h 11m 56.24s,+74° 23′ 37.9″,4.85,1.37,162,A2Vnn,,47.983,74.394,Cassiopaie,HD 19275 Cassiopaie
+2336,Cassiopeia,τ Cas,τ,Tau,5,,,223165,117301,23h 47m 03.39s,+58° 39′ 06.7″,4.88,1.26,173,K1III,,356.763,58.652,Cassiopaie,Tau Cassiopaie
+2337,Cassiopeia,σ Cas,σ,Sigma,8,,,224572,118243,23h 59m 00.53s,+55° 45′ 17.8″,4.88,−3.47,1523,B1V...,,359.750,55.755,Cassiopaie,Sigma Cassiopaie
+2338,Cassiopeia,AR Cas,,AR,,,AR,221253,115990,23h 30m 01.92s,+58° 32′ 56.1″,4.89,−1.34,575,B3IV,"septuple star; Algol variable, Vmax = 4.82m, Vmin = 4.96m, P = 6.07 d",352.504,58.549,Cassiopaie,AR Cassiopaie
+2339,Cassiopeia,ν Cas,ν,Nu,25,,,4636,3801,00h 48m 49.99s,+50° 58′ 05.5″,4.9,−0.49,389,B9III,,12.204,50.968,Cassiopaie,Nu Cassiopaie
+2340,Cassiopeia,π Cas,π,Pi,20,,,4058,3414,00h 43m 28.09s,+47° 01′ 28.7″,4.95,1.31,174,A5V,rotating ellipsoidal variable,10.867,47.024,Cassiopaie,Pi Cassiopaie
+2341,Cassiopeia,φ Cas,φ,Phi,34,,,7927,6242,01h 20m 04.92s,+58° 13′ 53.8″,4.95,−4.32,2329,F0Ia,foreground star appearing among NGC 457; suspected variable,20.017,58.231,Cassiopaie,Phi Cassiopaie
+2342,Cassiopeia,4 Cas,,4,4,,,220652,115590,23h 24m 50.25s,+62° 16′ 58.2″,4.96,−1.91,771,M1III,"slow irregular variable, Vmax = 4.95m, Vmin = 5.00m",351.208,62.283,Cassiopaie,4 Cassiopaie
+2343,Cassiopeia,ω Cas,ω,Omega,46,,,11529,9009,01h 56m 00.00s,+68° 41′ 07.0″,4.97,−1.69,701,B8III,suspected variable,29.000,68.685,Cassiopaie,Omega Cassiopaie
+2344,Cassiopeia,HD 3240,,HD 3240,,,,3240,2854,00h 36m 08.29s,+54° 10′ 06.4″,5.08,−0.87,505,B7III,,9.033,54.168,Cassiopaie,HD 3240 Cassiopaie
+2345,Cassiopeia,V509 Cas,,V509,,,V509,217476,113561,23h 00m 05.10s,+56° 56′ 43.4″,5.1,−6.77,7723,F80,"yellow hypergiant; semiregular variable, Vmax = 4.75m, Vmin = 5.5m",345.021,56.945,Cassiopaie,V509 Cassiopaie
+2346,Cassiopeia,μ Cas,μ,Mu,30,,,6582,5336,01h 08m 12.92s,+54° 55′ 27.2″,5.17,5.78,25,G5VIp/M5V,Marfak; suspected variable,17.050,54.924,Cassiopaie,Mu Cassiopaie
+2347,Cassiopeia,HD 15920,,HD 15920,,,,15920,12273,02h 38m 02.09s,+72° 49′ 05.6″,5.17,0.69,256,G8III,,39.508,72.818,Cassiopaie,HD 15920 Cassiopaie
+2348,Cassiopeia,42 Cas,,42,42,,,10250,8016,01h 42m 55.73s,+70° 37′ 21.2″,5.18,0.51,281,B9V,suspected Algol variable,25.729,70.623,Cassiopaie,42 Cassiopaie
+2349,Cassiopeia,49 Cas,,49,49,,,12339,9763,02h 05m 31.58s,+76° 06′ 54.4″,5.22,−0.36,426,G8III,,31.379,76.115,Cassiopaie,49 Cassiopaie
+2350,Cassiopeia,47 Cas,,47,47,,,12230,9727,02h 05m 07.05s,+77° 16′ 53.2″,5.27,2.64,109,F0Vn,,31.279,77.281,Cassiopaie,47 Cassiopaie
+2351,Cassiopeia,40 Cas,,40,40,,,9774,7650,01h 38m 30.94s,+73° 02′ 24.3″,5.28,−0.40,447,G8II-III,suspected variable,24.625,73.040,Cassiopaie,40 Cassiopaie
+2352,Cassiopeia,HD 11946,,HD 11946,,,,11946,9312,01h 59m 37.99s,+64° 37′ 17.9″,5.29,0.81,257,A0Vn,,29.904,64.621,Cassiopaie,HD 11946 Cassiopaie
+2353,Cassiopeia,31 Cas,,31,31,,,6829,5518,01h 10m 39.27s,+68° 46′ 43.3″,5.32,0.38,318,A0Vnn,,17.663,68.779,Cassiopaie,31 Cassiopaie
+2354,Cassiopeia,HD 4775,,HD 4775,,,,4775,3951,00h 50m 43.57s,+64° 14′ 51.3″,5.35,−1.63,813,A4V comp SB,"variable star, ΔV = 0.008m, P = 0.96 d",12.679,64.248,Cassiopaie,HD 4775 Cassiopaie
+2355,Cassiopeia,12 Cas,,12,12,,,2011,1960,00h 24m 47.49s,+61° 49′ 51.8″,5.38,−1.47,763,B9III,,6.196,61.831,Cassiopaie,12 Cassiopaie
+2356,Cassiopeia,HD 4222,,HD 4222,,,,4222,3544,00h 45m 17.20s,+55° 13′ 17.1″,5.41,0.25,351,A2Vs,,11.321,55.221,Cassiopaie,HD 4222 Cassiopaie
+2357,Cassiopeia,23 Cas,,23,23,,,4382,3721,00h 47m 46.02s,+74° 50′ 51.3″,5.42,−1.54,803,B8III,,11.942,74.848,Cassiopaie,23 Cassiopaie
+2358,Cassiopeia,6 Cas,,6,6,,V566,223385,117447,23h 48m 50.17s,+62° 12′ 52.3″,5.43,−8.06,6150,A3Ia comp,"α Cyg variable, Vmax = 5.34m, Vmin = 5.45m, P = 37.26 d",357.208,62.214,Cassiopaie,6 Cassiopaie
+2359,Cassiopeia,HD 3474,,HD 3574,,,,3574,3083,00h 39m 09.89s,+49° 21′ 16.5″,5.45,−2.60,1331,K5III,,9.788,49.354,Cassiopaie,HD 3574 Cassiopaie
+2360,Cassiopeia,HD 9900,,HD 9900,,,,9900,7617,01h 38m 07.56s,+57° 58′ 39.5″,5.55,−2.17,1140,G5II,,24.529,57.978,Cassiopaie,HD 9900 Cassiopaie
+2361,Cassiopeia,HD 223173,,HD 223173,,,,223173,117299,23h 47m 01.91s,+57° 27′ 05.0″,5.55,−3.00,1672,K3II,"slow irregular variable, Vmax = 5.51m, Vmin = 5.54m",356.754,57.451,Cassiopaie,HD 223173 Cassiopaie
+2362,Cassiopeia,HD 5408,,HD 5408,,,,5408,4440,00h 56m 46.94s,+60° 21′ 46.3″,5.56,−0.81,614,B8V,,14.192,60.363,Cassiopaie,HD 5408 Cassiopaie
+2363,Cassiopeia,HD 6960,,HD 6960,,,,6960,5566,01h 11m 25.52s,+64° 12′ 09.8″,5.56,0.06,410,B9.5V,suspected eclipsing binary,17.854,64.203,Cassiopaie,HD 6960 Cassiopaie
+2364,Cassiopeia,HD 220369,,HD 220369,,,,220369,115395,23h 22m 32.52s,+60° 08′ 00.6″,5.56,−2.73,1482,K3II,suspected variable,350.633,60.133,Cassiopaie,HD 220369 Cassiopaie
+2365,Cassiopeia,10 Cas,,10,10,,,144,531,00h 06m 26.53s,+64° 11′ 46.2″,5.57,−1.82,982,B9III,suspected variable,1.608,64.196,Cassiopaie,10 Cassiopaie
+2366,Cassiopeia,32 Cas,,32,32,,RU,6972,5589,01h 11m 41.37s,+65° 01′ 08.0″,5.57,0.34,363,B9IV,"RU Cas, suspected constant",17.921,65.019,Cassiopaie,32 Cassiopaie
+2367,Cassiopeia,43 Cas,,43,43,,V557,10221,7965,01h 42m 20.44s,+68° 02′ 35.0″,5.57,−0.10,444,A0p SiSr,"α2 CVn variable, Vmax = 5.55m, Vmin = 5.64m, P = 3.18 d",25.583,68.043,Cassiopaie,43 Cassiopaie
+2368,Cassiopeia,HR 8832,,HD 219134,,,,219134,114622,23h 13m 14.74s,+57° 10′ 03.5″,5.57,6.5,21,K3Vvar,suspected variable; has 7 planets,348.308,57.168,Cassiopaie,HD 219134 Cassiopaie
+2369,Cassiopeia,HR 9059,,V1022,,,V1022,224355,118077,23h 57m 08.49s,+55° 42′ 20.6″,5.57,1.45,218,G8Ib,"Algol variable, Vmax = 5.56m, Vmin = 5.68m, P = 12.16 d",359.283,55.706,Cassiopaie,V1022 Cassiopaie
+2370,Cassiopeia,HD 224893,,HD 224893,,,,224893,124,00h 01m 37.02s,+61° 13′ 22.1″,5.58,−4.75,3791,F0III,suspected variable,0.404,61.223,Cassiopaie,HD 224893 Cassiopaie
+2371,Cassiopeia,HD 1976,,V746,,,V746,1976,1921,00h 24m 15.64s,+52° 01′ 11.7″,5.58,−2.54,1370,B5IV,spectroscopic binary; slowly pulsating B star,6.063,52.020,Cassiopaie,V746 Cassiopaie
+2372,Cassiopeia,HD 219623,,HD 219623,,,,219623,114924,23h 16m 42.19s,+53° 12′ 50.6″,5.58,4.04,66,F7V,,349.175,53.214,Cassiopaie,HD 219623 Cassiopaie
+2373,Cassiopeia,HD 2774,,HD 2774,,,,2774,2497,00h 31m 41.21s,+52° 50′ 22.4″,5.59,0.18,393,K2III,,7.921,52.839,Cassiopaie,HD 2774 Cassiopaie
+2374,Cassiopeia,53 Cas,,53,53,,,12301,9573,02h 03m 00.19s,+64° 23′ 24.1″,5.59,−4.54,3468,B8Ib,,30.750,64.390,Cassiopaie,53 Cassiopaie
+2375,Cassiopeia,HD 17948,,HD 17948,,,,17948,13665,02h 55m 56.74s,+61° 31′ 15.8″,5.59,3.48,86,F4V,,43.983,61.521,Cassiopaie,HD 17948 Cassiopaie
+2376,Cassiopeia,HR 511,,V987,,,V987,10780,8362,01h 47m 44.06s,+63° 51′ 11.2″,5.63,5.64,33,K0V,"BY Draconis variable, ΔV = 0.05m, P = 21.7 d",26.933,63.853,Cassiopaie,V987 Cassiopaie
+2377,Cassiopeia,YZ Cas,,21,21,,YZ,4161,3572,00h 45m 39.11s,+74° 59′ 17.3″,5.64,0.89,290,A2IV,triple system; Algol variable,11.413,74.988,Cassiopaie,21 Cassiopaie
+2378,Cassiopeia,68 Cas,,68,68,,,4142,3478,00h 44m 26.23s,+47° 51′ 50.3″,5.66,−1.18,760,B5V...,,11.108,47.864,Cassiopaie,68 Cassiopaie
+2379,Cassiopeia,2 Cas,,2,2,,,218753,114365,23h 09m 44.14s,+59° 19′ 57.7″,5.68,−3.23,1976,A5III,suspected variable,347.433,59.333,Cassiopaie,2 Cassiopaie
+2380,Cassiopeia,HD 9352,,HD 9352,,,,9352,7251,01h 33m 25.71s,+58° 19′ 38.4″,5.69,−3.20,1952,K0Ib+...,"slow irregular variable, Vmax = 5.68m, Vmin = 5.72m",23.354,58.327,Cassiopaie,HD 9352 Cassiopaie
+2381,Cassiopeia,HD 2054,,HD 2054,,,,2054,1982,00h 25m 06.39s,+53° 02′ 48.4″,5.72,−0.33,528,B9IV,suspected variable,6.275,53.047,Cassiopaie,HD 2054 Cassiopaie
+2382,Cassiopeia,HD 1239,,HD 1239,,,,1239,1354,00h 16m 57.05s,+61° 31′ 59.5″,5.74,−0.73,642,G8III,,4.238,61.533,Cassiopaie,HD 1239 Cassiopaie
+2383,Cassiopeia,HD 6676,,HD 6676,,,,6676,5361,01h 08m 33.45s,+58° 15′ 48.5″,5.77,−0.43,567,B8V,,17.138,58.263,Cassiopaie,HD 6676 Cassiopaie
+2384,Cassiopeia,HD 3283,,HD 3283,,,,3283,2876,00h 36m 27.34s,+60° 19′ 34.4″,5.78,−4.29,3361,A4III,,9.113,60.326,Cassiopaie,HD 3283 Cassiopaie
+2385,Cassiopeia,44 Cas,,44,44,,,10425,8046,01h 43m 19.74s,+60° 33′ 04.9″,5.78,−1.46,913,B8IIIn,,25.829,60.551,Cassiopaie,44 Cassiopaie
+2386,Cassiopeia,HD 225289,,V567,,,V567,225289,418,00h 05m 06.13s,+61° 18′ 50.3″,5.8,−0.93,724,B8MNp...,"α2 CVn variable, Vmax = 5.71m, Vmin = 5.81m, P = 6.43 d",1.275,61.314,Cassiopaie,V567 Cassiopaie
+2387,Cassiopeia,HD 16024,,HD 16024,,,,16024,12239,02h 37m 36.01s,+65° 44′ 43.3″,5.8,−1.19,815,K5III,,39.400,65.745,Cassiopaie,HD 16024 Cassiopaie
+2388,Cassiopeia,38 Cas,,38,38,,,9021,7078,01h 31m 13.52s,+70° 15′ 53.2″,5.82,3.49,95,F6V,,22.804,70.265,Cassiopaie,38 Cassiopaie
+2389,Cassiopeia,HD 3856,,HD 3856,,,,3856,3299,00h 42m 03.44s,+66° 08′ 51.4″,5.83,−0.11,503,G9III-IV,,10.513,66.148,Cassiopaie,HD 3856 Cassiopaie
+2390,Cassiopeia,HR 297,,HD 6210,,,,6210,5021,01h 04m 19.55s,+61° 34′ 48.9″,5.83,1.31,261,F6V,,16.079,61.580,Cassiopaie,HD 6210 Cassiopaie
+2391,Cassiopeia,HD 1279,,HD 1279,,,,1279,1372,00h 17m 09.04s,+47° 56′ 50.7″,5.86,−1.47,953,B7III,,4.288,47.947,Cassiopaie,HD 1279 Cassiopaie
+2392,Cassiopeia,HD 4440,,HD 4440,,,,4440,3750,00h 48m 08.88s,+72° 40′ 28.0″,5.86,1.69,223,K0IV,,12.033,72.674,Cassiopaie,HD 4440 Cassiopaie
+2393,Cassiopeia,HD 225009,,HD 225009,,,,225009,207,00h 02m 36.08s,+66° 05′ 56.3″,5.87,−3.15,2076,G8III,,0.650,66.099,Cassiopaie,HD 225009 Cassiopaie
+2394,Cassiopeia,V762 Cas,,V762,,,V762,7389,5926,01h 16m 11.90s,+71° 44′ 37.8″,5.87,−7.42,2760,M3,BY Draconis variable,19.046,71.744,Cassiopaie,V762 Cassiopaie
+2395,Cassiopeia,HD 19065,,HD 19065,,,,19065,14502,03h 07m 19.02s,+64° 03′ 27.4″,5.89,−0.27,557,B9V,,46.829,64.058,Cassiopaie,HD 19065 Cassiopaie
+2396,Cassiopeia,9 Cas,,9,9,,,225180,330,00h 04m 13.66s,+62° 17′ 15.6″,5.9,−4.35,3663,A1III,suspected variable,1.054,62.288,Cassiopaie,9 Cassiopaie
+2397,Cassiopeia,HD 6130,,HD 6130,,,,6130,4962,01h 03m 37.01s,+61° 04′ 29.4″,5.92,−2.41,1509,F0II,,15.904,61.075,Cassiopaie,HD 6130 Cassiopaie
+2398,Cassiopeia,HD 2952,,HD 2952,,,,2952,2611,00h 33m 10.32s,+54° 53′ 42.3″,5.93,0.62,376,K0III,has a planet (b),8.292,54.895,Cassiopaie,HD 2952 Cassiopaie
+2399,Cassiopeia,HD 2626,,HD 2626,,,,2626,2377,00h 30m 19.91s,+59° 58′ 39.2″,5.94,−0.77,718,B9IIIn,,7.579,59.978,Cassiopaie,HD 2626 Cassiopaie
+2400,Cassiopeia,SU Cas,,SU,,,SU,17463,13367,02h 51m 58.75s,+68° 53′ 18.7″,5.94,−2.24,1411,F5:Ib-II,"classical Cepheid, Vmax = 5.7m, Vmin = 6.18m, P = 1.95 d",42.992,68.888,Cassiopaie,SU Cassiopaie
+2401,Cassiopeia,HD 16769,,HD 16769,,,,16769,12821,02h 44m 49.67s,+67° 49′ 29.0″,5.95,0.47,406,A5III,variable star,41.204,67.825,Cassiopaie,HD 16769 Cassiopaie
+2402,Cassiopeia,HD 5550,,HD 5550,,,,5550,4572,00h 58m 31.00s,+66° 21′ 06.6″,5.97,0.66,376,A0III,,14.629,66.352,Cassiopaie,HD 5550 Cassiopaie
+2403,Cassiopeia,HR 5,,V640,,,V640,123,518,00h 06m 15.54s,+58° 26′ 12.1″,5.98,4.44,70,G5V,"eclipsing binary, ΔV = 0.066m, P = 1.03 d",1.563,58.437,Cassiopaie,V640 Cassiopaie
+2404,Cassiopeia,HD 6211,,HD 6211,,,,6211,4998,01h 04m 02.39s,+52° 30′ 08.3″,5.99,−1.42,991,K2,,16.008,52.502,Cassiopaie,HD 6211 Cassiopaie
+2405,Cassiopeia,52 Cas,,52,52,,,12279,9564,02h 02m 52.49s,+64° 54′ 05.4″,6,1.3,284,A1Vn,,30.717,64.901,Cassiopaie,52 Cassiopaie
+2406,Cassiopeia,HD 11857,,HD 11857,,,,11857,9220,01h 58m 33.22s,+61° 41′ 52.1″,6.02,−0.70,721,B5III,suspected variable,29.638,61.698,Cassiopaie,HD 11857 Cassiopaie
+2407,Cassiopeia,V373 Cas,,V373,,,V373,224151,117957,23h 55m 33.84s,+57° 24′ 43.8″,6.03,,,B0.5IIv SB,"spectroscopic binary; eclipsing binary, Vmax = 5.9m, Vmin = 6.3m, P = 13.41 d",358.888,57.412,Cassiopaie,V373 Cassiopaie
+2408,Cassiopeia,HD 4817,,HD 4817,,,,4817,3988,00h 51m 16.39s,+61° 48′ 19.8″,6.04,−3.37,2489,K5Ib,"variable star, ΔV = 0.009m, P = 4.32 d",12.817,61.805,Cassiopaie,HD 4817 Cassiopaie
+2409,Cassiopeia,55 Cas,,55,55,,,13474,10438,02h 14m 29.10s,+66° 31′ 28.0″,6.05,−0.72,738,B9V+...,suspected variable,33.621,66.524,Cassiopaie,55 Cassiopaie
+2410,Cassiopeia,AO Cas,,AO,,,AO,1337,1415,00h 17m 43.07s,+51° 25′ 59.1″,6.11,−5.11,5719,O9IIInn,"rotating ellipsoidal variable, Vmax = 6.07m, Vmin = 6.24m, P = 3.52 d",4.429,51.433,Cassiopaie,AO Cassiopaie
+2411,Cassiopeia,HD 12173,,HD 12173,,,,12173,9586,02h 03m 10.51s,+73° 51′ 02.0″,6.12,0.89,363,A5III,,30.792,73.851,Cassiopaie,HD 12173 Cassiopaie
+2412,Cassiopeia,HD 9030,,HD 9030,,,,9030,7050,01h 30m 52.01s,+66° 05′ 53.2″,6.15,1.46,282,A2Vs,,22.717,66.098,Cassiopaie,HD 9030 Cassiopaie
+2413,Cassiopeia,HD 17958,,HD 17958,,,,17958,13700,02h 56m 24.66s,+64° 19′ 56.8″,6.17,−1.80,1278,K3Ibvar,,44.100,64.332,Cassiopaie,HD 17958 Cassiopaie
+2414,Cassiopeia,HD 224784,,HD 224784,,,,224784,43,00h 00m 30.98s,+59° 33′ 35.1″,6.18,0.59,427,G9III-IV,suspected variable,0.125,59.560,Cassiopaie,HD 224784 Cassiopaie
+2415,Cassiopeia,HD 2589,,HD 2589,,,,2589,2422,00h 30m 54.20s,+77° 01′ 10.2″,6.18,3.2,128,K0IV,,7.725,77.019,Cassiopaie,HD 2589 Cassiopaie
+2416,Cassiopeia,13 Cas,,13,13,,,2729,2474,00h 31m 25.20s,+66° 31′ 10.7″,6.18,−0.53,716,B6V,"variable star, ΔV = 0.007m, P = 1.08 d",7.854,66.519,Cassiopaie,13 Cassiopaie
+2417,Cassiopeia,HD 3924,,HD 3924,,,,3924,3334,00h 42m 31.01s,+58° 45′ 12.4″,6.18,−1.29,1016,B9.5III,,10.629,58.753,Cassiopaie,HD 3924 Cassiopaie
+2418,Cassiopeia,V773 Cas,,V773,,,V773,10543,8115,01h 44m 17.91s,+57° 32′ 12.0″,6.18,1.69,258,A3V,Algol variable,26.071,57.537,Cassiopaie,V773 Cassiopaie
+2419,Cassiopeia,HD 5343,,HD 5343,,,,5343,4383,00h 56m 12.93s,+57° 59′ 47.7″,6.2,0.28,497,K3III,,14.050,57.996,Cassiopaie,HD 5343 Cassiopaie
+2420,Cassiopeia,HD 224870,,HD 224870,,,,224870,106,00h 01m 19.24s,+49° 58′ 53.7″,6.22,−0.51,724,G7II-III,,0.329,49.981,Cassiopaie,HD 224870 Cassiopaie
+2421,Cassiopeia,HD 4881,,HD 4881,,,,4881,4023,00h 51m 33.79s,+51° 34′ 17.2″,6.22,−1.51,1148,B9.5V,,12.888,51.571,Cassiopaie,HD 4881 Cassiopaie
+2422,Cassiopeia,HD 225094,,V639,,,V639,225094,274,00h 03m 25.72s,+63° 38′ 25.9″,6.24,−3.92,3505,B3Ia,"α Cyg variable, Vmax = 6.19m, Vmin = 6.28m, P = 2.88 d",0.854,63.640,Cassiopaie,V639 Cassiopaie
+2423,Cassiopeia,HD 217673,,HD 217673,,,,217673,113684,23h 01m 30.72s,+57° 06′ 19.7″,6.24,−1.56,1181,K2II,suspected variable,345.375,57.105,Cassiopaie,HD 217673 Cassiopaie
+2424,Cassiopeia,HD 222618,,HD 222618,,,,222618,116912,23h 41m 54.56s,+57° 15′ 35.9″,6.24,−0.93,886,G8III,,355.475,57.260,Cassiopaie,HD 222618 Cassiopaie
+2425,Cassiopeia,HD 10587,,HD 10587,,,,10587,8148,01h 44m 46.15s,+57° 05′ 21.2″,6.25,0.07,560,A2V,,26.192,57.089,Cassiopaie,HD 10587 Cassiopaie
+2426,Cassiopeia,HD 13222,,HD 13222,,,,13222,10350,02h 13m 21.05s,+74° 01′ 40.1″,6.25,0.61,438,G8III,,33.338,74.028,Cassiopaie,HD 13222 Cassiopaie
+2427,Cassiopeia,HD 21970,,HD 21970,,,,21970,17056,03h 39m 25.10s,+75° 44′ 22.6″,6.25,0.65,429,G9III-IV,,54.854,75.739,Cassiopaie,HD 21970 Cassiopaie
+2428,Cassiopeia,RZ Cas,,RZ,,,RZ,17138,13133,02h 48m 55.51s,+69° 38′ 03.1″,6.26,2.28,204,A3V,"Algol variable, Vmax = 6.18m, Vmin = 7.72m, P = 1.20 d",42.229,69.634,Cassiopaie,RZ Cassiopaie
+2429,Cassiopeia,HD 222570,,HD 222570,,,,222570,116876,23h 41m 26.80s,+49° 30′ 44.9″,6.26,−0.63,778,A4V,,355.358,49.512,Cassiopaie,HD 222570 Cassiopaie
+2430,Cassiopeia,HD 5128,,HD 5128,,,,5128,4212,00h 53m 47.53s,+52° 41′ 21.6″,6.27,1.61,278,A5m,,13.446,52.689,Cassiopaie,HD 5128 Cassiopaie
+2431,Cassiopeia,HD 5273,,HD 5273,,,,5273,4298,00h 55m 05.22s,+48° 40′ 42.8″,6.28,−0.68,803,M2.5IIIa,"variable star, ΔV = 0.012m, P = 21.89 d",13.771,48.678,Cassiopaie,HD 5273 Cassiopaie
+2432,Cassiopeia,HD 6540,,HD 6540,,,,6540,5251,01h 07m 09.44s,+53° 29′ 53.5″,6.31,−1.79,1358,K0,,16.788,53.498,Cassiopaie,HD 6540 Cassiopaie
+2433,Cassiopeia,HD 7732,,HD 7732,,,,7732,6261,01h 20m 19.45s,+77° 34′ 13.7″,6.31,0.98,379,G5III...,,20.079,77.570,Cassiopaie,HD 7732 Cassiopaie
+2434,Cassiopeia,35 Cas,,35,35,,,8003,6312,01h 21m 05.19s,+64° 39′ 29.5″,6.33,2.01,238,A2Vnn,,20.271,64.658,Cassiopaie,35 Cassiopaie
+2435,Cassiopeia,HD 10362,,HD 10362,,,,10362,8020,01h 42m 58.32s,+61° 25′ 15.9″,6.33,−1.15,1022,B7II,,25.742,61.421,Cassiopaie,HD 10362 Cassiopaie
+2436,Cassiopeia,HD 223386,,HD 223386,,,,223386,117450,23h 48m 53.91s,+59° 58′ 44.2″,6.33,1.22,344,A0V,,357.221,59.979,Cassiopaie,HD 223386 Cassiopaie
+2437,Cassiopeia,HD 8424,,HD 8424,,,,8424,6685,01h 25m 46.30s,+70° 58′ 47.7″,6.34,0.35,514,A0Vnn,,21.442,70.980,Cassiopaie,HD 8424 Cassiopaie
+2438,Cassiopeia,HD 10293,,HD 10293,,,,10293,7963,01h 42m 17.69s,+58° 37′ 39.9″,6.35,−1.90,1455,B8III,suspected variable,25.571,58.628,Cassiopaie,HD 10293 Cassiopaie
+2439,Cassiopeia,HD 8272,,HD 8272,,,,8272,6486,01h 23m 21.27s,+58° 08′ 35.6″,6.36,2.56,188,F4V,,20.838,58.143,Cassiopaie,HD 8272 Cassiopaie
+2440,Cassiopeia,HD 223421,,HD 223421,,,,223421,117472,23h 49m 11.89s,+58° 57′ 47.6″,6.36,1.94,250,F2IV,,357.296,58.963,Cassiopaie,HD 223421 Cassiopaie
+2441,Cassiopeia,HD 7925,,HD 7925,,,,7925,6378,01h 21m 58.94s,+76° 14′ 20.0″,6.37,1.95,250,F0IVn,,20.492,76.239,Cassiopaie,HD 7925 Cassiopaie
+2442,Cassiopeia,V805 Cas,,V805,,,V805,21179,16319,03h 30m 19.39s,+71° 51′ 50.0″,6.37,−0.73,856,M2III,semiregular variable,52.579,71.864,Cassiopaie,V805 Cassiopaie
+2443,Cassiopeia,HD 4818,,V526,,,V526,4818,3965,00h 50m 57.27s,+51° 30′ 28.9″,6.38,2.26,217,F2IV,"δ Sct variable, ΔV = 0.03m",12.738,51.508,Cassiopaie,V526 Cassiopaie
+2444,Cassiopeia,HD 4295,,HD 4295,,,,4295,3641,00h 46m 38.23s,+69° 19′ 31.3″,6.39,3.35,132,F3V,,11.658,69.325,Cassiopaie,HD 4295 Cassiopaie
+2445,Cassiopeia,HD 5357,,HD 5357,,,,5357,4446,00h 56m 54.99s,+68° 46′ 32.7″,6.39,2.51,195,F0m,,14.225,68.776,Cassiopaie,HD 5357 Cassiopaie
+2446,Cassiopeia,V465 Cas,,V465,,,V465,7733,6093,01h 18m 13.89s,+57° 48′ 11.4″,6.39,−0.75,874,M5,"semiregular variable, Vmax = 6.1m, Vmin = 7.2m, P = 60 d",19.554,57.803,Cassiopaie,V465 Cassiopaie
+2447,Cassiopeia,HD 220074,,HD 220074,,,,220074,115218,23h 20m 14.37s,+61° 58′ 12.5″,6.39,−0.91,942,K1V,suspected variable; has a planet,350.058,61.970,Cassiopaie,HD 220074 Cassiopaie
+2448,Cassiopeia,HD 5715,,HD 5715,,,,5715,4709,01h 00m 30.87s,+70° 58′ 58.8″,6.4,1.21,355,A4IV,,15.125,70.983,Cassiopaie,HD 5715 Cassiopaie
+2449,Cassiopeia,V761 Cas,,V761,,,V761,7157,5688,01h 13m 09.82s,+61° 42′ 22.3″,6.4,−0.11,652,B9V,α2 CVn variable,18.288,61.706,Cassiopaie,V761 Cassiopaie
+2450,Cassiopeia,HD 222682,,HD 222682,,,,222682,116962,23h 42m 31.41s,+61° 40′ 45.8″,6.4,0.66,459,K2III,,355.629,61.679,Cassiopaie,HD 222682 Cassiopaie
+2451,Cassiopeia,HD 371,,HD 371,,,,371,695,00h 08m 32.87s,+63° 12′ 14.6″,6.41,−1.91,1502,G3II,,2.133,63.204,Cassiopaie,HD 371 Cassiopaie
+2452,Cassiopeia,HD 2904,,HD 2904,,,,2904,2628,00h 33m 19.20s,+70° 58′ 54.7″,6.41,0.36,528,A0Vn,,8.329,70.982,Cassiopaie,HD 2904 Cassiopaie
+2453,Cassiopeia,HD 4362,,HD 4362,,,,4362,3649,00h 46m 42.47s,+59° 34′ 28.3″,6.41,,,G0Ib,,11.675,59.574,Cassiopaie,HD 4362 Cassiopaie
+2454,Cassiopeia,HD 6497,,HD 6497,,,,6497,5240,01h 07m 00.07s,+56° 56′ 06.9″,6.41,1.47,318,K2III...,,16.750,56.935,Cassiopaie,HD 6497 Cassiopaie
+2455,Cassiopeia,HD 218440,,HD 218440,,,,218440,114163,23h 07m 10.45s,+59° 43′ 38.6″,6.41,−1.65,1336,B2.5IV,,346.792,59.727,Cassiopaie,HD 218440 Cassiopaie
+2456,Cassiopeia,HD 220130,,HD 220130,,,,220130,115245,23h 20m 34.54s,+62° 12′ 47.8″,6.41,−2.24,1753,K2III,,350.142,62.213,Cassiopaie,HD 220130 Cassiopaie
+2457,Cassiopeia,HR 9017,,V650,,,V650,223358,117430,23h 48m 39.03s,+64° 52′ 35.3″,6.41,−0.30,718,A0sp...,"α2 CVn variable, ΔV = 0.02m",357.163,64.876,Cassiopaie,V650 Cassiopaie
+2458,Cassiopeia,HD 1142,,HD 1142,,,,1142,1269,00h 15m 54.87s,+61° 00′ 00.7″,6.43,0.23,566,G8III...,,3.975,61.000,Cassiopaie,HD 1142 Cassiopaie
+2459,Cassiopeia,HD 217944,,HD 217944,,,,217944,113852,23h 03m 21.33s,+58° 33′ 50.0″,6.43,1.71,286,G8IV,,345.838,58.564,Cassiopaie,HD 217944 Cassiopaie
+2460,Cassiopeia,HD 5459,,HD 5459,,,,5459,4475,00h 57m 19.53s,+61° 25′ 19.0″,6.44,0.21,575,G8IV,,14.329,61.422,Cassiopaie,HD 5459 Cassiopaie
+2461,Cassiopeia,HD 222748,,HD 222748,,,,222748,116991,23h 43m 05.03s,+51° 56′ 21.6″,6.44,0.27,559,K0,,355.771,51.939,Cassiopaie,HD 222748 Cassiopaie
+2462,Cassiopeia,HD 1601,,HD 1601,,,,1601,1639,00h 20m 30.92s,+48° 58′ 07.1″,6.46,−0.86,950,G0,,5.125,48.969,Cassiopaie,HD 1601 Cassiopaie
+2463,Cassiopeia,HD 17581,,HD 17581,,,,17581,13347,02h 51m 45.92s,+58° 18′ 51.5″,6.46,1.75,285,A1m,,42.938,58.314,Cassiopaie,HD 17581 Cassiopaie
+2464,Cassiopeia,HD 222932,,HD 222932,,,,222932,117133,23h 44m 48.37s,+55° 47′ 58.9″,6.46,0.65,473,G4III:,,356.200,55.799,Cassiopaie,HD 222932 Cassiopaie
+2465,Cassiopeia,16 Cas,,16,16,,,3038,2707,00h 34m 24.89s,+66° 45′ 01.3″,6.47,0.28,565,B9III,,8.600,66.750,Cassiopaie,16 Cassiopaie
+2466,Cassiopeia,V801 Cas,,V801,,,V801,19243,14626,03h 08m 54.18s,+62° 23′ 04.5″,6.47,−2.48,2012,B1V:e,Be star,47.225,62.384,Cassiopaie,V801 Cassiopaie
+2467,Cassiopeia,HD 223552,,HD 223552,,,,223552,117551,23h 50m 22.12s,+51° 37′ 18.1″,6.47,3.43,132,F3V,,357.592,51.622,Cassiopaie,HD 223552 Cassiopaie
+2468,Cassiopeia,HD 224404,,HD 224404,,,,224404,118116,23h 57m 33.52s,+60° 01′ 25.0″,6.47,−1.26,1144,B9III-IV,,359.388,60.024,Cassiopaie,HD 224404 Cassiopaie
+2469,Cassiopeia,HD 5927,,HD 5927,,,,5927,4786,01h 01m 27.04s,+49° 32′ 39.2″,6.48,−0.77,921,G5,,15.363,49.544,Cassiopaie,HD 5927 Cassiopaie
+2470,Cassiopeia,HD 6028,,HD 6028,,,,6028,4844,01h 02m 18.47s,+51° 02′ 05.9″,6.48,0.04,632,A3V,,15.575,51.035,Cassiopaie,HD 6028 Cassiopaie
+2471,Cassiopeia,HD 9811,,HD 9811,,,,9811,7593,01h 37m 47.20s,+64° 44′ 21.7″,6.49,−3.30,2964,A6Iab,,24.446,64.739,Cassiopaie,HD 9811 Cassiopaie
+2472,Cassiopeia,HR 8770,,V638,,,V638,217833,113797,23h 02m 43.80s,+55° 14′ 11.0″,6.5,,723,B9IIIwe...,α2 CVn variable,345.679,55.236,Cassiopaie,V638 Cassiopaie
+2473,Cassiopeia,HD 19439,,HD 19439,,,,19439,14791,03h 11m 00.80s,+64° 53′ 46.7″,6.5,2.03,256,A4V,,47.750,64.896,Cassiopaie,HD 19439 Cassiopaie
+2474,Cassiopeia,V649 Cas,,V649,,,V649,219634,114904,23h 16m 27.05s,+61° 57′ 46.6″,6.53,,3500,B0Vn,"Algol variable, ΔV = 0.1m, P = 2.39 d",349.113,61.963,Cassiopaie,V649 Cassiopaie
+2475,Cassiopeia,54 Cas,,54,54,,,12800,10031,02h 09m 07.69s,+71° 33′ 09.3″,6.57,4.39,89,F8,,32.279,71.553,Cassiopaie,54 Cassiopaie
+2476,Cassiopeia,V816 Cas,,V816,,,V816,222670,116948,23h 42m 20.95s,+64° 30′ 55.4″,6.58,,942,M2III,slow irregular variable,355.583,64.515,Cassiopaie,V816 Cassiopaie
+2477,Cassiopeia,V764 Cas,,V764,,,V764,7636,6027,01h 17m 26.69s,+57° 37′ 55.5″,6.61,,1900,B2IIIne,Be star,19.358,57.632,Cassiopaie,V764 Cassiopaie
+2478,Cassiopeia,V784 Cas,,V784,,,V784,13122,10141,02h 10m 25.50s,+59° 58′ 47.3″,6.64,,335,F5II,δ Sct variable,32.604,59.980,Cassiopaie,V784 Cassiopaie
+2479,Cassiopeia,V772 Cas,,V772,,,V772,10260,7939,01h 42m 02.91s,+61° 02′ 17.7″,6.69,,1220,B8IIIsp...,Algol variable,25.508,61.038,Cassiopaie,V772 Cassiopaie
+2480,Cassiopeia,V809 Cas,,V809,,,V809,219978,115141,23h 19m 23.77s,+62° 44′ 23.2″,6.74,,1960,K4.5Ib,slow irregular variable,349.846,62.740,Cassiopaie,V809 Cassiopaie
+2481,Cassiopeia,V779 Cas,,V779,,,V779,12013,9494,02h 02m 09.31s,+75° 30′ 07.8″,6.78,,626,A0,Algol variable,30.538,75.502,Cassiopaie,V779 Cassiopaie
+2482,Cassiopeia,HD 11755,,HD 11755,,,,11755,9242,01h 58m 50.00s,+73° 09′ 09.00″,6.87,,755,G5,has a planet (b),29.708,73.153,Cassiopaie,HD 11755 Cassiopaie
+2483,Cassiopeia,TU Cas,,TU,,,TU,2207,2085,00h 26m 19.45s,+51° 16′ 49.3″,6.88,,,F3II...,"double-mode Cepheid, Vmax = 6.88m, Vmin = 8.18m, P = 2.14 d",6.579,51.280,Cassiopaie,TU Cassiopaie
+2484,Cassiopeia,HD 223960,,V819,,,V819,223960,117830,23h 53m 49.98s,+60° 51′ 12.2″,6.9,,,A0.1Ia,α Cyg variable,358.454,60.853,Cassiopaie,V819 Cassiopaie
+2485,Cassiopeia,V Cas,,V,,,V,218997,114515,23h 11m 40.72s,+59° 41′ 59.0″,6.9,,1520,M5-7.5e,"Mira variable, Vmax = 6.9m, Vmin = 13.4m, P = 229 d",347.917,59.700,Cassiopaie,V Cassiopaie
+2486,Cassiopeia,V486 Cas,,V486,,,V486,3950,3346,00h 42m 37.99s,+52° 20′ 13.7″,6.95,,,B1III,"eclipsing binary, ΔV = 0.04m, P = 5.56 d",10.654,52.337,Cassiopaie,V486 Cassiopaie
+2487,Cassiopeia,HD 14817,,V559,,,V559,14817,11318,02h 25m 40.11s,+61° 32′ 58.8″,7.02,,695,B8V,"Algol variable, Vmax = 7.01m, Vmin = 7.23m, P = 1.58 d",36.417,61.549,Cassiopaie,V559 Cassiopaie
+2488,Cassiopeia,V777 Cas,,V777,,,V777,11606,8980,01h 55m 42.85s,+59° 16′ 24.4″,7.02,,959,B2Vne,Be star,28.925,59.273,Cassiopaie,V777 Cassiopaie
+2489,Cassiopeia,HD 17505,,HD 17505,,,,17505,13296,02h 51m 07.98s,+60° 25′ 03.9″,7.08,,2860,O7V((f))+O9I,associated with a bow shock,42.779,60.418,Cassiopaie,HD 17505 Cassiopaie
+2490,Cassiopeia,CC Cas,,CC,,,CC,19820,15063,03h 14m 05.33s,+59° 33′ 48.5″,7.08,,1860,O8.5III,"β Lyr variable, Vmax = 7.06m, Vmin = 7.3m, P = 3.37 d",48.521,59.563,Cassiopaie,CC Cassiopaie
+2491,Cassiopeia,HD 698,,V742,,,V742,698,940,00h 11m 37.15s,+58° 12′ 42.6″,7.08,,3500,B7:Ib-IIe,Be star,2.904,58.212,Cassiopaie,V742 Cassiopaie
+2492,Cassiopeia,V989 Cas,,V989,,,V989,13579,10531,02h 15m 42.56s,+67° 40′ 20.3″,7.13,,60.6,K2V,"BY Dra variable, ΔV = 0.03m, P = 6.79 d",33.925,67.672,Cassiopaie,V989 Cassiopaie
+2493,Cassiopeia,V636 Cas,,V636,,,V636,9250,7192,01h 32m 43.23s,+63° 35′ 37.7″,7.19,,1640,G0Ib,"classical Cepheid, Vmax = 7.09m, Vmin = 7.26m, P = 8.38 d",23.179,63.594,Cassiopaie,V636 Cassiopaie
+2494,Cassiopeia,HD 7924,,HD 7924,,,,7924,6379,01h 21m 59.12s,+76° 42′ 37.0″,7.19,6.06,55,K0V,"has three planets (b, c & d)",20.496,76.710,Cassiopaie,HD 7924 Cassiopaie
+2495,Cassiopeia,TV Cas,,TV,,,TV,1486,1550,00h 19m 18.74s,+59° 08′ 20.6″,7.22,,516,B9V,"Algol variable, Vmax = 7.22m, Vmin = 8.22m, P = 1.81 d",4.825,59.139,Cassiopaie,TV Cassiopaie
+2496,Cassiopeia,V755 Cas,,V755,,,V755,3940,3367,00h 42m 50.06s,+64° 17′ 28.6″,7.29,,3700,A1Ia,"α Cyg variable, Vmax = 7.25m, Vmin = 7.31m, P = 5.67 d",10.708,64.291,Cassiopaie,V755 Cassiopaie
+2497,Cassiopeia,RV Cas,,RV,,,RV,5016,,00h 52m 42.76s,+47° 24′ 56.1″,7.3,,,M5-6.5Se,"Mira variable, Vmax = 7.3m, Vmin = 16.1m, P = 332 d",13.175,47.416,Cassiopaie,RV Cassiopaie
+2498,Cassiopeia,HD 108,,HD 108,,,,108,505,00h 06m 03.39s,+63° 40′ 46.8″,7.4,,3800,O4-8f?p,binary star; runaway star; variable spectrum,1.513,63.679,Cassiopaie,HD 108 Cassiopaie
+2499,Cassiopeia,HD 221585,,HD 221585,,,,221585,116221,23h 32m 54.00s,+63° 09′ 20.00″,7.47,,,G8IV,has a planet (b),353.225,63.150,Cassiopaie,HD 221585 Cassiopaie
+2500,Cassiopeia,HD 13908,,HD 13908,,,,13908,10743,02h 18m 15.00s,+65° 35′ 40.00″,7.51,,232,F8V,has two planets (b & c),34.563,65.583,Cassiopaie,HD 13908 Cassiopaie
+2501,Cassiopeia,Gliese 83.3,,V598,,,V598,12208,9481,02h 01m 59.06s,+61° 54′ 18.2″,7.52,,906,K5III,"slow irregular variable, Vmax = 7.38m, Vmin = 7.54m",30.496,61.905,Cassiopaie,V598 Cassiopaie
+2502,Cassiopeia,HD 221468,,V436,,,V436,221568,116210,23h 32m 47.65s,+57° 54′ 20.1″,7.55,,709,A0p,"α2 CVn variable, Vmax = 7.55m, Vmin = 7.62m, P = 159 d",353.196,57.906,Cassiopaie,V436 Cassiopaie
+2503,Cassiopeia,HD 19557,,V623,,,V623,19557,14827,03h 11m 25.33s,+57° 54′ 11.2″,7.57,,1590,"C4,5J","slow irregular variable, Vmax = 7.34m, Vmin = 7.96m",47.854,57.903,Cassiopaie,V623 Cassiopaie
+2504,Cassiopeia,V487 Cas,,V487,,,V487,6474,5239,01h 06m 59.74s,+63° 46′ 23.4″,7.6,,,G4Ia,"UU Her variable, Vmax = 7.44m, Vmin = 7.74m, P = 99.6 d",16.746,63.773,Cassiopaie,V487 Cassiopaie
+2505,Cassiopeia,HD 16429,,V482,,,V482,16429,12495,02h 40m 44.94s,+61° 16′ 56.1″,7.65,,,O9.5III+F4V,triple star; β Cep variable,40.183,61.282,Cassiopaie,V482 Cassiopaie
+2506,Cassiopeia,WZ Cas,,WZ,,,WZ,224855,99,00h 01m 15.85s,+60° 21′ 19.0″,7.7,,2860,"C9,2JLi","semiregular variable, Vmax = 6.8m, Vmin = 7.7m, P = 186 d",0.313,60.355,Cassiopaie,WZ Cassiopaie
+2507,Cassiopeia,HD 12288,,V540,,,V540,12288,9604,02h 03m 30.51s,+69° 34′ 56.4″,7.74,,1010,A2,"α2 CVn variable, Vmax = 7.73m, Vmin = 7.75m, P = 34.9 d",30.875,69.582,Cassiopaie,V540 Cassiopaie
+2508,Cassiopeia,W Cas,,W,,,W,5235,4284,00h 54m 53.85s,+58° 33′ 49.1″,7.8,,,"C9,1e","Mira variable, Vmax = 7.8m, Vmin = 12.5m, P = 406 d",13.721,58.564,Cassiopaie,W Cassiopaie
+2509,Cassiopeia,HD 15558,,HD 15558,,,,15558,11832,02h 32m 42.54s,+61° 27′ 21.6″,7.87,,,O4.5III,in IC 1805; binary star; extremely luminous,38.175,61.456,Cassiopaie,HD 15558 Cassiopaie
+2510,Cassiopeia,S Cas,,S,,,S,7769,,01h 19m 41.99s,+72° 36′ 40.8″,7.9,,,S3-5/4-8,"Mira variable, Vmax = 7.9m, Vmin = 16.1m, P = 612 d",19.921,72.611,Cassiopaie,S Cassiopaie
+2511,Cassiopeia,HD 220842,,HD 220842,,,,220842,115714,23h 26m 37.00s,+56° 53′ 12.00″,7.99,,204,F8,has a planet (b),351.654,56.884,Cassiopaie,HD 220842 Cassiopaie
+2512,Cassiopeia,U Cas,,U,,,U,4350,,00h 46m 21.37s,+48° 14′ 38.7″,8,,,S4.5-6/3-5e,"Mira variable, Vmax = 8m, Vmin = 15.7m, P = 277 d",11.588,48.244,Cassiopaie,U Cassiopaie
+2513,Cassiopeia,HD 15570,,HD 15570,,,,15570,11837,02h 32m 49.42s,+61° 22′ 42.1″,8.11,,2100,O4If+,in IC 1805,38.204,61.378,Cassiopaie,HD 15570 Cassiopaie
+2514,Cassiopeia,V745 Cas,,V745,,,V745,1810,1805,00h 22m 53.32s,+62° 14′ 29.1″,8.11,,,B0V+B1.5III,β Lyr variable,5.721,62.241,Cassiopaie,V745 Cassiopaie
+2515,Cassiopeia,HD 220147,,V812,,,V812,220147,115267,23h 20m 48.92s,+62° 24′ 45.2″,8.12,,1060,B9p,α2 CVn variable,350.200,62.413,Cassiopaie,V812 Cassiopaie
+2516,Cassiopeia,HD 17156,,HD 17156,,,,17156,13192,02h 49m 44.49s,+71° 45′ 11.6″,8.17,3.7,255,G0IV,"Nushagak[2], has a confirmed transiting planet (b) and a unconfirmed transiting planet (c)",42.433,71.753,Cassiopaie,HD 17156 Cassiopaie
+2517,Cassiopeia,HD 240237,,HD 240237,,,,240237,114840,23h 15m 42.22s,+58° 02′ 35.7″,8.17,,,K2,has a planet (b),348.925,58.043,Cassiopaie,HD 240237 Cassiopaie
+2518,Cassiopeia,HD 17520,,HD 17520,,,,17520,13308,02h 51m 14.46s,+60° 23′ 09.8″,8.24,,,O8V+O9:V,transitioned to a Be star in the 1980s,42.808,60.386,Cassiopaie,HD 17520 Cassiopaie
+2519,Cassiopeia,V641 Cas,,V641,,,V641,,,00h 09m 26.34s,+63° 57′ 14.1″,8.3,,,M0,semiregular variable,2.358,63.954,Cassiopaie,V641 Cassiopaie
+2520,Cassiopeia,V368 Cas,,V368,,,V368,19644,14936,03h 12m 35.54s,+59° 55′ 10.9″,8.32,,,B8II-III,Algol variable,48.146,59.919,Cassiopaie,V368 Cassiopaie
+2521,Cassiopeia,HD 240210,,HD 240210,,,,240210,,23h 10m 29.23s,+57° 01′ 46.0″,8.33,2.55,468,K3III,has a planet,347.621,57.029,Cassiopaie,HD 240210 Cassiopaie
+2522,Cassiopeia,V605 Cas,,V605,,,V605,14242,10904,02h 20m 22.47s,+59° 40′ 16.9″,8.36,,1570,M2Iab,"slow irregular variable, Vmax = 8.22m, Vmin = 8.48m",35.092,59.671,Cassiopaie,V605 Cassiopaie
+2523,Cassiopeia,TW Cas,,TW,,,TW,16907,12906,02h 45m 54.82s,+65° 43′ 35.1″,8.38,,849,A0V,"Algol variable, Vmax = 8.32m, Vmin = 8.98m, P = 1.43 d",41.475,65.726,Cassiopaie,TW Cassiopaie
+2524,Cassiopeia,HD 15629,,HD 15629,,,,15629,11891,02h 33m 20.59s,+61° 31′ 18.2″,8.42,,1330,O4.5V,in IC 1805,38.333,61.522,Cassiopaie,HD 15629 Cassiopaie
+2525,Cassiopeia,HD 5797,,V551,,,V551,5797,4717,01h 00m 33.43s,+60° 26′ 40.9″,8.47,,1490,Am,"α2 CVn variable, Vmax = 8.43m, Vmin = 8.77m, P = 69 d",15.138,60.444,Cassiopaie,V551 Cassiopaie
+2526,Cassiopeia,Z Cas,,Z,,,Z,222914,,23h 44m 31.59s,+56° 34′ 52.7″,8.5,,,M7e,"Mira variable, Vmax = 8.5m, Vmin = 15.4m, P = 496 d",356.129,56.581,Cassiopaie,Z Cassiopaie
+2527,Cassiopeia,HD 217850,,HD 217850,,,,217850,113789,23h 02m 37.00s,+58° 52′ 34.00″,8.5,,199,G8V,has a planet (b),345.654,58.868,Cassiopaie,HD 217850 Cassiopaie
+2528,Cassiopeia,DO Cas,,DO,,,DO,16506,12543,02h 41m 24.16s,+60° 33′ 11.8″,8.54,,533,A2II,"β Lyr variable, Vmax = 8.39m, Vmin = 9.01m, P = 0.68 d",40.350,60.553,Cassiopaie,DO Cassiopaie
+2529,Cassiopeia,HD 12098,,V988,,,V988,12098,,02h 00m 40.18s,+58° 31′ 37.1″,,,,F0,rapidly oscillating Ap star,30.167,58.527,Cassiopaie,V988 Cassiopaie
+2530,Cassiopeia,RW Cas,,RW,,,RW,,7548,01h 37m 14.02s,+57° 45′ 33.2″,8.58,,,G2,"classical Cepheid, Vmax = 8.62m, Vmin = 9.67m, P = 14.79 d",24.308,57.759,Cassiopaie,RW Cassiopaie
+2531,Cassiopeia,DL Cas,,DL,,,DL,236429,2347,00h 29m 58.59s,+60° 12′ 43.1″,8.63,,1480,G1Ib-II_Hdel-1,"in NGC 129; classical Cepheid, Vmax = 8.63m, Vmin = 9.26m, P = 8.00 d",7.492,60.212,Cassiopaie,DL Cassiopaie
+2532,Cassiopeia,RX Cas,,RX,,,RX,,14542,03h 05m 45.75s,+67° 34′ 38.6″,8.64,,,K1III+A5eIII,"β Lyr variable, Vmax = 8.64m, Vmin = 9.49m, P = 32.31 d",46.438,67.577,Cassiopaie,RX Cassiopaie
+2533,Cassiopeia,Y Cas,,Y,,,Y,225082,,00h 03m 21.47s,+55° 40′ 51.8″,8.7,,,M7.5e,"Mira variable, Vmax = 8.7m, Vmin = 15.3m, P = 413 d",0.838,55.681,Cassiopaie,Y Cassiopaie
+2534,Cassiopeia,BD+60 2522,, ,,,,,,23h 20m 44.52s,+61° 11′ 40.6″,8.7,,300,O6.5III,source of nebula NGC 7635,350.183,61.194,Cassiopaie,  Cassiopaie
+2535,Cassiopeia,T Cas,,T,,,T,1845,1834,00h 23m 14.27s,+55° 47′ 33.2″,8.87,,,M7-9e,"Mira variable, Vmax = 6.9m, Vmin = 13m, P = 445 d",5.808,55.793,Cassiopaie,T Cassiopaie
+2536,Cassiopeia,PZ Cas,,PZ,,,PZ,,117078,23h 44m 03.28s,+61° 47′ 22.2″,8.9,,,M3Iab:,semiregular variable,356.013,61.789,Cassiopaie,PZ Cassiopaie
+2537,Cassiopeia,BM Cas,,BM,,,BM,,4279,00h 54m 45.95s,+64° 05′ 06.2″,8.91,,1850,F0Ia,"β Lyr variable, Vmax = 8.78m, Vmin = 9.31m, P = 197 d",13.688,64.085,Cassiopaie,BM Cassiopaie
+2538,Cassiopeia,HD 219415,,HD 219415,,,,219415,,23h 14m 54.00s,+56° 43′ 49.00″,8.94,,,K0III,has a planet,348.725,56.719,Cassiopaie,HD 219415 Cassiopaie
+2539,Cassiopeia,SX Cas,,SX,,,SX,232121,871,00h 10m 42.08s,+54° 53′ 29.4″,8.87,,771,B5+K3III,"Algol variable, Vmax = 8.96m, Vmin = 9.83m, P = 36.56 d",2.675,54.891,Cassiopaie,SX Cassiopaie
+2540,Cassiopeia,WW Cas,,WW,,,WW,,7260,01h 33m 32.69s,+57° 45′ 05.4″,9.1,,,"C5,5","slow irregular variable, Vmax = 9.1m, Vmin = 11.7m",23.383,57.751,Cassiopaie,WW Cassiopaie
+2541,Cassiopeia,FM Cas,,FM,,,FM,236349,1162,00h 14m 28.24s,+56° 15′ 10.6″,9.16,,,F7.5Ib,"classical Cepheid, Vmax = 8.82m, Vmin = 9.47m, P = 5.81 d",3.617,56.253,Cassiopaie,FM Cassiopaie
+2542,Cassiopeia,TZ Cas,,TZ,,,TZ,,117763,23h 52m 56.24s,+61° 00′ 08.4″,9.18,,,M3Iab,"slow irregular variable, Vmax = 8.86m, Vmin = 10.5m",358.233,61.002,Cassiopaie,TZ Cassiopaie
+2543,Cassiopeia,AZ Cas,,AZ,,,AZ,,,01h 42m 16.51s,+61° 25′ 16.3″,9.22,,,M0Ib:ep+B,"Algol variable, Vmax = 9.22m, Vmin = 9.52m, P = 3402 d",25.567,61.421,Cassiopaie,AZ Cassiopaie
+2544,Cassiopeia,TX Cas,,TX,,,TX,,,02h 52m 16.19s,+62° 46′ 57.5″,9.33,,,B1V,"β Lyr variable, Vmax = 9.16m, Vmin = 9.8m, P = 2.93 d",43.067,62.783,Cassiopaie,TX Cassiopaie
+2545,Cassiopeia,X Cas,,X,,,X,,9057,01h 56m 38.09s,+59° 15′ 33.7″,9.45,,942,"C5,4e","Mira variable, Vmax = 9.45m, Vmin = 13.2m, P = 423 d",29.158,59.259,Cassiopaie,X Cassiopaie
+2546,Cassiopeia,XX Cas,,XX,,,XX,,,01h 29m 34.61s,+60° 58′ 04.7″,9.57,,,B4Vn,Algol variable,22.392,60.968,Cassiopaie,XX Cassiopaie
+2547,Cassiopeia,SZ Cas,,SZ,,,SZ,,11420,02h 27m 13.77s,+59° 27′ 38.2″,9.6,,1210,G5III,"classical Cepheid, Vmax = 9.6m, Vmin = 10.02m, P = 13.63 d",36.804,59.461,Cassiopaie,SZ Cassiopaie
+2548,Cassiopeia,SW Cas,,SW,,,SW,,114160,23h 07m 10.08s,+58° 33′ 15.1″,9.74,,1520,K0,"classical Cepheid, Vmax = 9.32m, Vmin = 10.01m, P = 5.44 d",346.792,58.554,Cassiopaie,SW Cassiopaie
+2549,Cassiopeia,UU Cas,,UU,,,UU,,117576,23h 50m 39.52s,+60° 54′ 39.1″,9.74,,,B1Iab:,β Lyr variable,357.663,60.911,Cassiopaie,UU Cassiopaie
+2550,Cassiopeia,DD Cas,,DD,,,DD,,118122,23h 57m 34.96s,+62° 43′ 05.7″,9.84,,,F7,"classical Cepheid, Vmax = 9.56m, Vmin = 10.18m, P = 9.81 d",359.392,62.718,Cassiopaie,DD Cassiopaie
+2551,Cassiopeia,PV Cas,,PV,,,PV,240208,,23h 10m 02.58s,+59° 12′ 06.1″,9.86,,,B6V,"Algol variable, Vmax = 9.71m, Vmin = 10.36m, P = 1.75 d",347.508,59.202,Cassiopaie,PV Cassiopaie
+2552,Cassiopeia,SY Cas,,SY,,,SY,,1213,00h 15m 09.81s,+58° 25′ 27.4″,9.92,,1210,F5,"classical Cepheid, Vmax = 9.4m, Vmin = 10.24m, P = 4.07 d",3.788,58.424,Cassiopaie,SY Cassiopaie
+2553,Cassiopeia,DN Cas,,DN,,,DN,,,02h 23m 11.53s,+60° 49′ 50.1″,9.93,,,O8Vv,"Algol variable, Vmax = 9.81m, Vmin = 10.24m, P = 2.31 d",35.796,60.831,Cassiopaie,DN Cassiopaie
+2554,Cassiopeia,RY Cas,,RY,,,RY,,117690,23h 52m 07.03s,+58° 44′ 30.2″,9.95,,,F9Ib,"classical Cepheid, Vmax = 9.38m, Vmin = 10.39m, P = 12.14 d",358.029,58.742,Cassiopaie,RY Cassiopaie
+2555,Cassiopeia,XY Cas,,XY,,,XY,236542,3886,00h 49m 53.26s,+60° 07′ 38.6″,9.97,,1190,F6Iab-b:...,"classical Cepheid, Vmax = 9.61m, Vmin = 10.26m, P = 4.50 d",12.471,60.127,Cassiopaie,XY Cassiopaie
+2556,Cassiopeia,OX Cas,,OX,,,OX,,5391,01h 09m 00.10s,+61° 28′ 14.8″,10.06,,1230,B1V,"Algol variable, Vmax = 9.9m, Vmin = 10.35m, P = 2.49 d",17.250,61.471,Cassiopaie,OX Cassiopaie
+2557,Cassiopeia,RS Cas,,RS,,,RS,,116556,23h 37m 16.06s,+62° 25′ 44.4″,10.06,,,F7-G1Ib,"classical Cepheid, Vmax = 9.53m, Vmin = 10.36m, P = 6.39 d",354.317,62.429,Cassiopaie,RS Cassiopaie
+2558,Cassiopeia,QQ Cas,,QQ,,,QQ,,,23h 45m 36.75s,+59° 54′ 21.6″,10.2,,,B2,β Lyr variable,356.400,59.906,Cassiopaie,QQ Cassiopaie
+2559,Cassiopeia,V381 Cas,,V381,,,V381,,,00h 32m 51.61s,+49° 19′ 39.3″,10.22,,,B,Algol variable,8.213,49.328,Cassiopaie,V381 Cassiopaie
+2560,Cassiopeia,QX Cas,,QX,,,QX,,,23h 58m 43.15s,+61° 09′ 39.5″,10.25,,,B1V+B1V,"Algol variable, Vmax = 10.19m, Vmin = 10.7m, P = 6.00 d",359.679,61.161,Cassiopaie,QX Cassiopaie
+2561,Cassiopeia,V547 Cas,,V547,,,V547,,2552,00h 32m 29.43s,+67° 14′ 08.4″,10.29,,32.8,M2V+M3V,triple star; flare star,8.121,67.236,Cassiopaie,V547 Cassiopaie
+2562,Cassiopeia,AQ Cas,,AQ,,,AQ,,6174,01h 19m 10.35s,+62° 23′ 48.4″,10.31,,,B3,"Algol variable, Vmax = 10.06m, Vmin = 11m, P = 11.72 d",19.792,62.397,Cassiopaie,AQ Cassiopaie
+2563,Cassiopeia,AB Cas,,AB,,,AB,,12235,02h 37m 31.51s,+71° 18′ 16.3″,10.32,,888,A3Vv+...,"Algol and δ Sct variable, Vmax = 10.1m, Vmin = 11.85m, P = 1.37 d",39.379,71.304,Cassiopaie,AB Cassiopaie
+2564,Cassiopeia,V459 Cas,,V459,,,V459,,,01h 11m 29.92s,+61° 08′ 48.0″,10.36,,,B9,Algol variable,17.871,61.147,Cassiopaie,V459 Cassiopaie
+2565,Cassiopeia,BY Cas,,BY,,,BY,,8312,01h 47m 11.92s,+61° 25′ 21.0″,10.41,,,F5,"classical Cepheid, Vmax = 10.06m, Vmin = 10.58m, P = 3.22 d",26.796,61.423,Cassiopaie,BY Cassiopaie
+2566,Cassiopeia,VX Cas,,VX,,,VX,,,00h 31m 30.68s,+61° 58′ 51.0″,10.5,,,A0Vep,"UX Ori star, Vmax = 10.5m, Vmin = 13.3m",7.875,61.981,Cassiopaie,VX Cassiopaie
+2567,Cassiopeia,WR 1,,V863,,,V863,4004,3415,00h 43m 28.40s,+64° 45′ 35.4″,10.54,,,WN4-s,,10.867,64.760,Cassiopaie,V863 Cassiopaie
+2568,Cassiopeia,MWC 419,,V594,,,V594,,3401,00h 43m 18.26s,+61° 54′ 40.1″,10.6,,657,B8eq,Orion variable,10.825,61.911,Cassiopaie,V594 Cassiopaie
+2569,Cassiopeia,CE Cas,,CE,,,CE,,,23h 58m 09.31s,+61° 12′ 49.3″,10.63,,10800,F9Ib+F8Ib,"in NGC 7790; binary classical Cepheid, Vmax = 10.63m, Vmin = 11.15m, P = 5.14 d and Vmax = 10.62m, Vmin = 11.30m, P = 4.48 d",359.538,61.214,Cassiopaie,CE Cassiopaie
+2570,Cassiopeia,CD Cas,,CD V405,,,CD V405,,117154,23h 45m 02.63s,+63° 00′ 13.9″,10.64,,1230,F6-G5,"classical Cepheid, Vmax = 10.37m, Vmin = 11.15m, P = 7.80 d",356.258,63.004,Cassiopaie,CD V405 Cassiopaie
+2571,Cassiopeia,VW Cas,,VW,,,VW,,5138,01h 05m 48.22s,+61° 45′ 17.8″,10.67,,,K0,"classical Cepheid, Vmax = 10.36m, Vmin = 11.07m, P = 5.99 d",16.450,61.755,Cassiopaie,VW Cassiopaie
+2572,Cassiopeia,WR 3,,HD 9974,,,,9974,7681,01h 38m 55.63s,+58° 09′ 22.7″,10.69,,,WN3h-w,surrounded by a unique stellar-wind bubble,24.729,58.156,Cassiopaie,HD 9974 Cassiopaie
+2573,Cassiopeia,VV Cas,,VV,,,VV,,8614,01h 51m 07.03s,+59° 53′ 17.5″,10.73,,,F6,"classical Cepheid, Vmax = 10.26m, Vmin = 11.2m, P = 6.21 d",27.779,59.888,Cassiopaie,VV Cassiopaie
+2574,Cassiopeia,DF Cas,,DF,,,DF,,12817,02h 44m 43.31s,+61° 27′ 52.9″,10.74,,,F8,"classical Cepheid, Vmax = 10.53m, Vmin = 11.13m, P = 3.83 d",41.179,61.464,Cassiopaie,DF Cassiopaie
+2575,Cassiopeia,V364 Cas,,V364,,,V364,,,00h 52m 43.01s,+50° 28′ 10.2″,10.75,,,A7,"Algol variable, Vmax = 10.53m, Vmin = 11.22m, P = 1.54 d",13.179,50.469,Cassiopaie,V364 Cassiopaie
+2576,Cassiopeia,WY Cas,,WY,,,WY,,,23h 58m 01.30s,+56° 29′ 13.5″,10.76,,,S6-6.5/6-e,Mira variable,359.504,56.487,Cassiopaie,WY Cassiopaie
+2577,Cassiopeia,ZZ Cas,,ZZ,,,ZZ,,2644,00h 33m 30.38s,+62° 30′ 40.2″,10.79,,1290,B3,β Lyr variable,8.375,62.511,Cassiopaie,ZZ Cassiopaie
+2578,Cassiopeia,CH Cas,,CH,,,CH,,115390,23h 22m 28.44s,+62° 45′ 25.7″,10.79,,,F3Ibp,"classical Cepheid, Vmax = 10.47m, Vmin = 11.56m, P = 15.09 d",350.617,62.757,Cassiopaie,CH Cassiopaie
+2579,Cassiopeia,CF Cas,,CF,,,CF,,118174,23h 58m 17.98s,+61° 13′ 15.8″,10.8,,10800,B3,"in NGC 7790; classical Cepheid, Vmax = 10.8m, Vmin = 11.47m, P = 4.88 d",359.571,61.221,Cassiopaie,CF Cassiopaie
+2580,Cassiopeia,BP Cas,,BP,,,BP,,5846,01h 15m 01.09s,+65° 35′ 57.9″,10.8,,,F6,"classical Cepheid, Vmax = 10.55m, Vmin = 11.33m, P = 6.27 d",18.754,65.599,Cassiopaie,BP Cassiopaie
+2581,Cassiopeia,LS I +61 303,,V615,,,V615,,12469,02h 40m 31.67s,+61° 13′ 45.6″,10.8,,,B0Ve,"microquasar, Vmax = 10.4m, Vmin = 11.1m, P = 26.50 d",40.129,61.229,Cassiopaie,V615 Cassiopaie
+2582,Cassiopeia,V523 Cas,,V523,,,V523,,,00h 40m 06.26s,+50° 14′ 15.5″,10.87,,,K4V,"W UMa variable, Vmax = 10.62m, Vmin = 11.45m, P = 0.23 d",10.025,50.238,Cassiopaie,V523 Cassiopaie
+2583,Cassiopeia,WASP-93,,W-93,,,,,,00h 37m 50.00s,+51° 17′ 20.00″,10.97,,815,F4,has a transiting planet (b),9.458,51.283,Cassiopaie,W-93 Cassiopaie
+2584,Cassiopeia,CW Cas,,CW,,,CW,,,00h 45m 52.69s,+63° 05′ 08.4″,11.08,,1340,G8V,"W UMa variable, Vmax = 11.02m, Vmin = 11.62m, P = 0.32 d",11.467,63.086,Cassiopaie,CW Cassiopaie
+2585,Cassiopeia,2S 0114+650,,V662,,,V662,,6081,01h 18m 02.70s,+65° 17′ 29.9″,11.09,,,B1Iae,"X-ray pulsar, Vmax = 10.97m, Vmin = 11.09m, P = 11.60 d",19.508,65.291,Cassiopaie,V662 Cassiopaie
+2586,Cassiopeia,IR Cas,,IR,,,IR,,,23h 06m 52.37s,+54° 04′ 52.2″,11.14,,,F4...,β Lyr variable,346.717,54.081,Cassiopaie,IR Cassiopaie
+2587,Cassiopeia,IT Cas,,IT,,,IT,,,23h 42m 01.40s,+51° 44′ 36.8″,11.23,,,F6,Algol variable,355.504,51.743,Cassiopaie,IT Cassiopaie
+2588,Cassiopeia,WR 2,,HD 6327,,,,6327,5100,01h 05m 23.01s,+60° 25′ 19.0″,11.33,,,WN2-w,"The only WN2 star known, GRB candidate",16.346,60.422,Cassiopaie,HD 6327 Cassiopaie
+2589,Cassiopeia,CG Cas,,CG,,,CG,,,00h 00m 59.25s,+69° 57′ 32.2″,11.28,,,F5,"classical Cepheid, Vmax = 10.89m, Vmin = 11.73m, P = 4.35 d",0.246,69.959,Cassiopaie,CG Cassiopaie
+2590,Cassiopeia,RX J0146.9+6121,,V831,,,V831,,,01h 47m 00.21s,+61° 31′ 23.7″,11.34,,,B1III-Ve,"in NGC 663; X-ray pulsar, Vmax = 11.3m, Vmin = 11.5m",26.750,61.523,Cassiopaie,V831 Cassiopaie
+2591,Cassiopeia,IV Cas,,IV,,,IV,,,23h 49m 31.53s,+53° 08′ 04.8″,11.34,,,A2,Algol and δ Sct variable,357.379,53.134,Cassiopaie,IV Cassiopaie
+2592,Cassiopeia,IX Cas,,IX,,,IX,,390,00h 04m 50.82s,+50° 14′ 05.5″,11.36,,637,F7,"W Vir variable, Vmax = 11.19m, Vmin = 11.77m, P = 9.15 d",1.208,50.235,Cassiopaie,IX Cassiopaie
+2593,Cassiopeia,UZ Cas,,UZ,,,UZ,,5658,01h 12m 41.16s,+61° 12′ 48.1″,11.45,,1840,G2,"classical Cepheid, Vmax = 10.93m, Vmin = 11.73m, P = 4.26 d",18.171,61.213,Cassiopaie,UZ Cassiopaie
+2594,Cassiopeia,GP Cas,,GP,,,GP,,12416,02h 39m 50.44s,+59° 35′ 51.3″,11.5,,,M2Iab,slow irregular variable,39.958,59.598,Cassiopaie,GP Cassiopaie
+2595,Cassiopeia,MWC 1080,,V628,,,V628,,114995,23h 17m 25.58s,+60° 50′ 43.4″,11.58,,,B0eq,"Orion variable, Vmax = 10.88m, Vmin = 11.84m",349.354,60.845,Cassiopaie,V628 Cassiopaie
+2596,Cassiopeia,CY Cas,,CY,,,CY,,115925,23h 29m 12.77s,+63° 22′ 27.5″,11.67,,,G1-2Ib,"classical Cepheid, Vmax = 11.07m, Vmin = 12.21m, P = 14.38 d",352.300,63.374,Cassiopaie,CY Cassiopaie
+2597,Cassiopeia,UV Cas,,UV,,,UV,,,23h 02m 14.66s,+59° 36′ 36.7″,11.8,,,F0/5Ib,R CrB variable,345.558,59.610,Cassiopaie,UV Cassiopaie
+2598,Cassiopeia,BS Cas,,BS,,,BS,,,01h 21m 38.57s,+59° 10′ 27.1″,11.84,,,A-F,"W UMa variable, Vmax = 11.50m, Vmin = 12.16m, P = 0.44 d",20.408,59.174,Cassiopaie,BS Cassiopaie
+2599,Cassiopeia,Gliese 82,,V596,,,V596,,9291,01h 59m 23.51s,+58° 31′ 16.1″,12.04,,39.9,M4Ve,flare star,29.846,58.521,Cassiopaie,V596 Cassiopaie
+2600,Cassiopeia,V627 Cas,,V627,,,V627,,113373,22h 57m 40.99s,+58° 09′ 12.5″,12.4,,,M2eII-III,"semiregular variable, Vmax = 12.4m, Vmin = 13.24m",344.417,58.153,Cassiopaie,V627 Cassiopaie
+2601,Cassiopeia,TY Cas,,TY,,,TY,,,00h 36m 59.42s,+63° 08′ 01.7″,,,,M6,Mira variable,9.246,63.134,Cassiopaie,TY Cassiopaie
+2602,Cassiopeia,V592 Cas,,V592,,,V592,,,00h 20m 52.22s,+55° 42′ 16.3″,12.79,,,OB,"nova-like star, ΔV = 0.4m, P = 0.12 d",5.217,55.704,Cassiopaie,V592 Cassiopaie
+2603,Cassiopeia,HV Cas,,HV,,,HV,,,01h 11m 03.48s,+53° 43′ 40.2″,12.9,,,Ce,Mira variable,17.763,53.728,Cassiopaie,HV Cassiopaie
+2604,Cassiopeia,BH Cas,,BH,,,BH,,,00h 21m 21.38s,+59° 09′ 05.4″,13,,,B3,"W UMa variable, Vmax = 12.51m, Vmin = 13.10m, P = 0.41 d",5.338,59.151,Cassiopaie,BH Cassiopaie
+2605,Cassiopeia,IRAS 23304+6147,, ,,,,,,23h 32m 44.79s,+62° 03′ 49.1″,13.1,,,G2Ia,"post-AGB star, ΔV = 0.20m, P = 85 d",353.183,62.064,Cassiopaie,  Cassiopaie
+2606,Cassiopeia,LkHα 198,,V633,,,V633,,,00h 11m 25.83s,+58° 49′ 28.6″,13.79,,,B9e,Herbig Ae/Be star; Orion variable,2.854,58.824,Cassiopaie,V633 Cassiopaie
+2607,Cassiopeia,V664 Cas,,V664,,,V664,,,03h 03m 47.01s,+64° 54′ 35.7″,14.56,,,,"central star of HFG 1, re-radiating binary system",45.946,64.910,Cassiopaie,V664 Cassiopaie
+2608,Cassiopeia,V425 Cas,,V425,,,V425,,,23h 03m 46.66s,+53° 17′ 14.9″,,,,,VY Scl variable,345.942,53.287,Cassiopaie,V425 Cassiopaie
+2609,Cassiopeia,V709 Cas,,V709,,,V709,,,00h 28m 48.84s,+59° 17′ 22.0″,,,,,DQ Her variable,7.200,59.289,Cassiopaie,V709 Cassiopaie
+2610,Cassiopeia,4U 0115+634,,V635,,,V635,,,01h 18m 31.90s,+63° 44′ 24.0″,15.19,,,B0.2Ve,"X-ray pulsar, Vmax = 14.5m, Vmin = 16.3m, P = 24.3 d",19.629,63.740,Cassiopaie,V635 Cassiopaie
+2611,Cassiopeia,V376 Cas,,V376,,,V376,,,00h 11m 26.52s,+58° 50′ 03.7″,,,,A3/F2e,Orion variable,2.858,58.834,Cassiopaie,V376 Cassiopaie
+2612,Cassiopeia,IGR J00234+6141,,V1033,,,V1033,,,00h 22m 57.64s,+61° 41′ 07.6″,16.1,,,,"DQ Her variable, Vmax = 16.1m, Vmin = 16.9m, P = 0.17 d",5.738,61.685,Cassiopaie,V1033 Cassiopaie
+2613,Cassiopeia,V705 Cas,,V705,,,V705,,,23h 41m 47.19s,+57° 30′ 59.5″,16.4,,,,"nova, Vmax = 5.7m, Vmin = 16.4m",355.446,57.516,Cassiopaie,V705 Cassiopaie
+2614,Cassiopeia,Tycho G,, ,,,,,,00h 25m 19.90s,+64° 08′ 18.00″,17,,,G2IV,former companion of progenitor of SN 1572,6.329,64.136,Cassiopaie,  Cassiopaie
+2615,Cassiopeia,V723 Cas,,V723,,,V723,,,01h 05m 05.36s,+54° 00′ 40.3″,18,,,A7,"nova, Vmax = 7.08m, Vmin = <18.0m",16.271,54.011,Cassiopaie,V723 Cassiopaie
+2616,Cassiopeia,RNO 1B,,V710,,,V710,,,00h 36m 46.30s,+63° 28′ 54.1″,18.6,,,F8II,"FU Ori star, Vmax = 18.6m, Vmin = 21.6m",9.192,63.482,Cassiopaie,V710 Cassiopaie
+2617,Cassiopeia,HT Cas,,HT,,,HT,,,01h 10m 13.13s,+60° 04′ 35.4″,19.32,,,M5.5e,"SU UMa variable and eclipsing binary, Vmax = 12.6m, Vmin = 19.32m",17.554,60.076,Cassiopaie,HT Cassiopaie
+2618,Cassiopeia,4U 0142+61,, ,,,,,,01h 46m 22.21s,+61° 45′ 03.8″,25.62,,,,magnetar,26.592,61.751,Cassiopaie,  Cassiopaie
+2619,Cassiopeia,IGR J00291+5934,,V1037,,,V1037,,,00h 29m 13.06s,+59° 34′ 19.0″,,,,,X-ray pulsar with millisecond pulsar,7.304,59.572,Cassiopaie,V1037 Cassiopaie
+2620,Cassiopeia,1E 2259+586,, ,,,,,,23h 01m 08.14s,+58° 52′ 44.5″,,,,,magnetar,345.283,58.879,Cassiopaie,  Cassiopaie
+2621,Cassiopeia,PSR B2319+60,, ,,,,,,23h 21m 55.21s,+60° 24′ 30.7″,,,,,pulsar,350.479,60.408,Cassiopaie,  Cassiopaie
+2622,Cassiopeia,PSR B2334+61,, ,,,,,,23h 37m 05.78s,+61° 51′ 01.7″,,,,,pulsar,354.271,61.850,Cassiopaie,  Cassiopaie
+2623,Cassiopeia,PSR J0205+6449,, ,,,,,,02h 05m 37.92s,+64° 49′ 42.8″,,,,,central pulsar of 3C 58,31.404,64.828,Cassiopaie,  Cassiopaie
+2624,Cassiopeia,OH 127.8+0.0,,V669,,,V669,,,01h 33m 51.21s,+62° 26′ 53.2″,,,,M9III,Mira variable,23.463,62.448,Cassiopaie,V669 Cassiopaie
+2625,Cassiopeia,W3 IRS 5,, ,,,,,,02h 25m 40.54s,+62° 05′ 51.4″,,,,B1,protostar; possibly similar to a proto-Trapezium,36.417,62.098,Cassiopaie,  Cassiopaie
+2626,Cassiopeia,IRAS 00338+6312,, ,,,,,,00h 36m 47.50s,+63° 29′ 02.00″,,,,,protostar,9.196,63.484,Cassiopaie,  Cassiopaie

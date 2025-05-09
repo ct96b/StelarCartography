@@ -1,0 +1,66 @@
+USID,Constellation,Name,B,B->F->VAR->G,F,G.,Var,HD,HIP,RA,Dec,"vis. mag.","abs. mag.",Dist. (ly),Sp. class,Notes https://en.wikipedia.org/wiki/Lists_of_stars_by_constellation,RA angle,Dec Angle,Latin Constellation,Full Designation
+4333,Delphinus,β Del,β,Beta,6,,,196524,101769,20h 37m 32.87s,+14° 35′ 42.7″,3.64,1.26,97,F5IV,"Rotanev, Rotanen, Venator; spectroscopic binary",309.383,14.595,Delphini,Beta Delphini
+4334,Delphinus,α Del,α,Alpha,9,,,196867,101958,20h 39m 38.25s,+15° 54′ 43.4″,3.77,−0.57,241,B9V,"Sualocin, Scalovin, Svalocin, Nicolaus; binary star; suspected variable, Vmax = 3.77m, Vmin = 3.80m",309.908,15.912,Delphini,Alpha Delphini
+4335,Delphinus,ε Del,ε,Epsilon,2,,,195810,101421,20h 33m 12.76s,+11° 18′ 12.0″,4.03,−1.18,359,B6III,"Aldulfin, Deneb Dulfim, Deneb, Al Dhanab al Dulfim, Dzaneb al Delphin, Cauda Delphini;[1] suspected variable, Vmax = 3.95m, Vmin = 4.05m",308.300,11.303,Delphini,Epsilon Delphini
+4336,Delphinus,γ2 Del,γ2,Gamma 2,12,,,197964,102532,20h 46m 39.52s,+16° 07′ 29.2″,4.27,1.81,101,K1IV,binary star with γ1 Del,311.663,16.125,Delphini,Gamma 2 Delphini
+4337,Delphinus,δ Del,δ,Delta,11,,,197461,102281,20h 43m 27.55s,+15° 04′ 28.9″,4.43,0.45,203,A7IIIp d Del,"δ Sct variable, Vmax = 4.38m, Vmin = 4.49m, P = 0.1567924 d",310.863,15.074,Delphini,Delta Delphini
+4338,Delphinus,ζ Del,ζ,Zeta,4,,,196180,101589,20h 35m 18.51s,+14° 40′ 27.1″,4.64,0.43,227,A3V,"suspected variable, Vmax = 4.64m, Vmin = 4.70m",308.825,14.674,Delphini,Zeta Delphini
+4339,Delphinus,ρ Aql,ρ,Rho,67,,,192425,99742,20h 14m 16.59s,+15° 11′ 50.9″,4.94,1.58,153,A2V,Tso Ke; recently moved into Delphinus due to proper motion,303.567,15.197,Delphini,Rho Delphini
+4340,Delphinus,κ Del,κ,Kappa,7,,,196755,101916,20h 39m 07.59s,+10° 05′ 10.1″,5.07,2.68,98,G5IV+...,,309.779,10.086,Delphini,Kappa Delphini
+4341,Delphinus,γ1 Del,γ1,Gamma 1,12,,,197963,102531,20h 46m 38.87s,+16° 07′ 28.6″,5.15,2.65,103,A2Ia+...,binary star with γ2 Del,311.658,16.124,Delphini,Gamma 1 Delphini
+4342,Delphinus,17 Del,,17,17,,,199253,103294,20h 55m 36.68s,+13° 43′ 17.6″,5.19,−0.62,474,K0III,"suspected variable, Vmax = 5.16m, Vmin = 5.27m",313.900,13.721,Delphini,17 Delphini
+4343,Delphinus,η Del,η,Eta,3,,,195943,101483,20h 33m 57.00s,+13° 01′ 37.9″,5.39,1.77,173,A3IVs,"suspected variable, Vmax = 5.37m, Vmin = 5.40m",308.488,13.027,Delphini,Eta Delphini
+4344,Delphinus,ι Del,ι,Iota,5,,,196544,101800,20h 37m 49.10s,+11° 22′ 39.7″,5.42,1.74,177,A2V,spectroscopic binary,309.454,11.378,Delphini,Iota Delphini
+4345,Delphinus,18 Del,,18,18,,,199665,103527,20h 58m 25.96s,+10° 50′ 21.7″,5.51,1.19,238,G6III:,"Musica,[2] optical double, has a planet (b)",314.604,10.839,Delphini,18 Delphini
+4346,Delphinus,16 Del,,16,16,,,199254,103298,20h 55m 38.55s,+12° 34′ 06.6″,5.54,1.61,199,A4V,double star,313.908,12.568,Delphini,16 Delphini
+4347,Delphinus,13 Del,,13,13,,,198069,102633,20h 47m 48.33s,+06° 00′ 29.7″,5.57,−0.42,513,A0V,double star,311.950,6.008,Delphini,13 Delphini
+4348,Delphinus,θ Del,θ,Theta,8,,,196725,101882,20h 38m 43.98s,+13° 18′ 54.5″,5.69,−2.32,1304,K3Ib,,309.679,13.315,Delphini,Theta Delphini
+4349,Delphinus,HD 200044,,HD 200044,,,,200044,103675,21h 00m 27.70s,+19° 19′ 47.0″,5.69,−0.62,596,M3III,"suspected variable, ΔV = 0.05m",315.113,19.330,Delphini,HD 200044 Delphini
+4350,Delphinus,HD 193472,,HD 193472,,,,193472,100256,20h 20m 00.19s,+13° 32′ 53.2″,5.96,1.18,294,A5m,suspected variable,305.000,13.548,Delphini,HD 193472 Delphini
+4351,Delphinus,HD 196775,,HD 196775,,,,196775,101909,20h 39m 04.97s,+15° 50′ 17.6″,5.99,−2.01,1299,B3V,double star,309.767,15.838,Delphini,HD 196775 Delphini
+4352,Delphinus,10 Del,,10,10,,,197121,102080,20h 41m 16.21s,+14° 34′ 58.4″,6.01,0.13,488,K4III:,suspected variable,310.317,14.583,Delphini,10 Delphini
+4353,Delphinus,15 Del,,15,15,,,198390,102805,20h 49m 37.74s,+12° 32′ 41.6″,6.01,3.66,96,F5V,double star,312.404,12.545,Delphini,15 Delphini
+4354,Delphinus,1 Del,,1,1,,,195325,101160,20h 30m 17.95s,+10° 53′ 45.3″,6.03,−0.17,566,A1sh,"double star; emission-line star; suspected variable, Vmax = 5.92m, Vmin = 6.07m",307.571,10.896,Delphini,1 Delphini
+4355,Delphinus,HD 199223,,HD 199223,,,,199223,103301,20h 55m 40.64s,+04° 31′ 57.7″,6.04,0.82,361,G6III-IV,double star,313.917,4.533,Delphini,HD 199223 Delphini
+4356,Delphinus,HD 194012,,HD 194012,,,,194012,100511,20h 22m 52.32s,+14° 33′ 04.0″,6.16,4.07,85,F8V,,305.717,14.551,Delphini,HD 194012 Delphini
+4357,Delphinus,HD 193556,,HD 193556,,,,193556,100274,20h 20m 20.53s,+14° 34′ 09.3″,6.17,0.04,550,G8III,,305.083,14.569,Delphini,HD 193556 Delphini
+4358,Delphinus,HD 193373,,HD 193373,,,,193373,100208,20h 19m 29.31s,+13° 13′ 00.5″,6.2,−0.73,791,M1III,,304.871,13.217,Delphini,HD 193373 Delphini
+4359,Delphinus,HD 194953,,HD 194953,,,,194953,100969,20h 28m 16.77s,+02° 56′ 13.7″,6.2,0.47,456,G8III,,307.067,2.937,Delphini,HD 194953 Delphini
+4360,Delphinus,HD 198404,,HD 198404,,,,198404,102833,20h 49m 59.07s,+05° 32′ 40.4″,6.2,0.29,495,K0,double star,312.496,5.544,Delphini,HD 198404 Delphini
+4361,Delphinus,HD 195479,,HD 195479,,,,195479,101213,20h 30m 58.10s,+20° 36′ 21.6″,6.21,1.08,346,A1m,triple star,307.742,20.606,Delphini,HD 195479 Delphini
+4362,Delphinus,EU Del,,EU,,,EU,196610,101810,20h 37m 54.71s,+18° 16′ 06.4″,6.22,1.03,356,M6III,"semiregular variable, Vmax = 5.41m, Vmin = 6.72m, P = 58.63 d",309.475,18.268,Delphini,EU Delphini
+4363,Delphinus,HD 194688,,HD 194688,,,,194688,100807,20h 26m 23.15s,+17° 18′ 56.1″,6.23,−0.75,813,K0,,306.596,17.316,Delphini,HD 194688 Delphini
+4364,Delphinus,HD 194937,,HD 194937,,,,194937,100953,20h 28m 07.52s,+08° 26′ 14.7″,6.23,1.23,326,G9III,,307.029,8.437,Delphini,HD 194937 Delphini
+4365,Delphinus,LU Del,,LU,,,LU,197249,102158,20h 41m 58.16s,+17° 31′ 17.0″,6.24,0.63,432,G8III,suspected variable,310.492,17.521,Delphini,LU Delphini
+4366,Delphinus,HD 201196,,HD 201196,,,,201196,104281,21h 07m 33.61s,+15° 39′ 31.7″,6.27,1,369,K2IV,,316.888,15.659,Delphini,HD 201196 Delphini
+4367,Delphinus,HD 194526,,HD 194526,,,,194526,100762,20h 25m 44.10s,+10° 03′ 21.9″,6.32,−0.83,876,K5IIIvar,,306.433,10.056,Delphini,HD 194526 Delphini
+4368,Delphinus,14 Del,,14,14,,,198391,102819,20h 49m 48.24s,+07° 51′ 51.0″,6.32,0.32,517,A1Vs,spectroscopic binary,312.450,7.864,Delphini,14 Delphini
+4369,Delphinus,HD 200430,,HD 200430,,,,200430,103891,21h 03m 01.78s,+14° 43′ 48.1″,6.33,−0.11,633,M1III,suspected variable,315.754,14.730,Delphini,HD 200430 Delphini
+4370,Delphinus,HD 194578,,HD 194578,,,,194578,100781,20h 26m 01.58s,+13° 54′ 42.0″,6.35,−0.64,815,K5,suspected variable,306.504,13.912,Delphini,HD 194578 Delphini
+4371,Delphinus,HD 198070,,HD 198070,,,,198070,102631,20h 47m 47.86s,+03° 18′ 23.2″,6.38,0.6,467,A0Vn,,311.946,3.306,Delphini,HD 198070 Delphini
+4372,Delphinus,HD 196885,,HD 196885,,,,196885,101966,20h 39m 51.85s,+11° 14′ 58.0″,6.39,3.8,108,F8IV:,binary star; has a planet (b),309.963,11.249,Delphini,HD 196885 Delphini
+4373,Delphinus,HD 195909,,HD 195909,,,,195909,101489,20h 33m 59.92s,+04° 53′ 55.3″,6.42,0.02,622,K0,,308.496,4.899,Delphini,HD 195909 Delphini
+4374,Delphinus,HD 197076,,HD 197076,,,,197076,102040,20h 40m 45.07s,+19° 56′ 05.2″,6.43,4.82,68,G5V,optical double,310.188,19.935,Delphini,HD 197076 Delphini
+4375,Delphinus,HD 194841,,HD 194841,,,,194841,100876,20h 27m 14.19s,+20° 28′ 35.4″,6.44,−2.09,1655,K0,,306.808,20.476,Delphini,HD 194841 Delphini
+4376,Delphinus,HD 194616,,HD 194616,,,,194616,100779,20h 26m 01.15s,+19° 51′ 55.6″,6.45,−0.13,675,K0III,,306.504,19.865,Delphini,HD 194616 Delphini
+4377,Delphinus,U Del,,U,,,U,197812,102440,20h 45m 28.23s,+18° 05′ 24.2″,6.74,−1.16,1240,M5II-III,"semiregular variable, Vmax = 6.14m, Vmin = 7.61m, P = 120 d",311.367,18.090,Delphini,U Delphini
+4378,Delphinus,HD 195019,,HD 195019,,,,195019,100970,20h 28m 18.64s,+18° 46′ 10.2″,6.91,4.05,122,G3IV-V,double star; has a planet (b),307.075,18.769,Delphini,HD 195019 Delphini
+4379,Delphinus,Gliese 795,,OQ,,,OQ,196795,101955,20h 39m 37.71s,+04° 58′ 19.3″,7.84,,54.52,K5V,"triple star; BY Dra variable, ΔV = 0.04m",309.904,4.972,Delphini,OQ Delphini
+4380,Delphinus,V Del,,V,,,V,198136,,20h 47m 46.04s,+19° 20′ 06.9″,8.1,,,M6e:,"Mira variable, Vmax = 8.1m, Vmin = 17.0m, P = 527 d",311.942,19.335,Delphini,V Delphini
+4381,Delphinus,DM Del,,DM,,,DM,,,20h 39m 37.01s,+14° 25′ 43.1″,8.65,,,A2V,"β Lyr variable, Vmax = 8.58m, Vmin = 9.11m, P = 0.8446725 d",309.904,14.429,Delphini,DM Delphini
+4382,Delphinus,LS Del,,LS,,,LS,199497,,20h 57m 10.29s,+19° 38′ 55.2″,8.72,,256.5,G5,"W UMa variable, Vmax = 8.61m, Vmin = 8.76m, P = 0.363842 d",314.292,19.649,Delphini,LS Delphini
+4383,Delphinus,MR Del,,MR,,,MR,195434,101236,20h 31m 13.46s,+05° 13′ 08.5″,8.77,,158.3,K0,"Algol and BY Dra variable, Vmax = 8.71m, Vmin = 9.01m, P = 0.521692 d",307.804,5.219,Delphini,MR Delphini
+4384,Delphinus,TX Del,,TX,,,TX,,102853,20h 50m 12.69s,+03° 39′ 08.4″,8.86,,,F8,"BL Her variable, Vmax = 8.86m, Vmin = 9.51m, P = 6.165907 d",312.550,3.652,Delphini,TX Delphini
+4385,Delphinus,DX Del,,DX,,,DX,,102593,20h 47m 28.36s,+12° 27′ 50.7″,9.56,,4200,A7IIIv,"RR Lyr variable, Vmax = 9.558m, Vmin = 10.291m, P = 0.4726191 d",311.867,12.464,Delphini,DX Delphini
+4386,Delphinus,W Del,,W,,,W,352682,101780,20h 37m 40.09s,+18° 17′ 03.8″,9.81,,2200,A0Ve,"Algol variable, Vmax = 9.69m, Vmin = 12.33m, P = 4.8061 d",309.417,18.284,Delphini,W Delphini
+4387,Delphinus,TY Del,,TY,,,TY,,,21h 04m 21.98s,+13° 12′ 53.5″,10.08,,,A0,"Algol variable, Vmax = 9.7m, Vmin = 10.9m, P = 1.19112689 d",316.088,13.215,Delphini,TY Delphini
+4388,Delphinus,HAT-P-23,, ,,,,,,20h 24m 30.00s,+16° 45′ 44.00″,11.94,,1282,G5,Moriah; has a transiting planet (b),306.125,16.751,Delphini,  Delphini
+4389,Delphinus,WASP-2,,W-2,,,,,,20h 30m 54.00s,+06° 25′ 46.00″,11.98,,,K1V,has a transiting planet (b),307.725,6.418,Delphini,W-2 Delphini
+4390,Delphinus,BX Del,,BX,,,BX,,,20h 21m 18.97s,+18° 26′ 16.2″,11.99,,,A0,"BL Her variable, Vmax = 11.79m, Vmin = 12.57m, P = 1.091787 d",305.325,18.438,Delphini,BX Delphini
+4391,Delphinus,WASP-176,,W-176,,,,,,20h 54m 45.00s,+09° 10′ 45.00″,12,,1885,,has a transiting planet (b),313.688,9.168,Delphini,W-176 Delphini
+4392,Delphinus,HR Del,,HR,,,HR,,,20h 42m 20.35s,+19° 09′ 35.3″,12.1,,,A0,"nova, Vmax = 3.6m, Vmin = 12.1m, P = 0.214165 d",310.583,19.160,Delphini,HR Delphini
+4393,Delphinus,HU Del,,HU,,,HU,,,20h 29m 48.34s,+09° 41′ 20.3″,13.04,,29.6,M6.0V+...,flare star,307.450,9.689,Delphini,HU Delphini
+4394,Delphinus,He 2-467,,LT,,,LT,,,20h 35m 57.23s,+20° 11′ 27.5″,13.05,,,G6III,"Z And and rotating ellipsoidal variable, Vmax = 12.0m, Vmin = 13.4m, P = 476 d",308.988,20.191,Delphini,LT Delphini
+4395,Delphinus,CM Del,,CM,,,CM,,,20h 24m 56.93s,+17° 17′ 54.4″,13.4,,,A0,nova-like star,306.233,17.298,Delphini,CM Delphini
+4396,Delphinus,V339 Del,,V339,,,V339,,,20h 29m 30.68s,+20° 46′ 03.8″,16.86,,,,"nova, Vmax = 4.3m, Vmin = 17.6m, P = 1.19112689 d",307.375,20.768,Delphini,V339 Delphini
+4397,Delphinus,WISE 2056+1459,, ,,,,,,20h 56m 28.90s,+14° 59′ 53.3″,,,22.6,Y0,brown dwarf,314.117,14.998,Delphini,  Delphini

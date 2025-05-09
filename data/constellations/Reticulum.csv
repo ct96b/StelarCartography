@@ -1,0 +1,37 @@
+USID,Constellation,Name,B,B->F->VAR->G,F,G.,Var,HD,HIP,RA,Dec,"vis. mag.","abs. mag.",Dist. (ly),Sp. class,Notes https://en.wikipedia.org/wiki/Lists_of_stars_by_constellation,RA angle,Dec Angle,Latin Constellation,Full Designation
+9229,Reticulum,α Ret,α,Alpha,,,,27256,19780,04h 14m 25.43s,-62° 28′ 26.3″,3.33,−0.17,163,G7III,double star,63.604,-61.526,Reticulii,Alpha Reticulii
+9230,Reticulum,β Ret,β,Beta,,,,23817,17440,03h 44m 11.55s,-64° 48′ 25.5″,3.84,1.41,100,K0IV SB,"binary star system, spectroscopic binary",56.046,-63.193,Reticulii,Beta Reticulii
+9231,Reticulum,ε Ret,ε,Epsilon,,,,27442,19921,04h 16m 29.08s,-59° 18′ 06.3″,4.44,3.14,59,K2IV,double star; component A has a planet (b),64.121,-58.698,Reticulii,Epsilon Reticulii
+9232,Reticulum,γ Ret,γ,Gamma,,,,25705,18744,04h 00m 53.81s,-62° 09′ 33.7″,4.48,−1.41,490,M4III,"semiregular variable, Vmax = 4.42m, Vmin = 4.64m, P = 25 d",60.221,-61.841,Reticulii,Gamma Reticulii
+9233,Reticulum,δ Ret,δ,Delta,,,,25422,18597,03h 58m 44.74s,-61° 24′ 00.5″,4.56,−1.50,530,M2III,"irregular variable, Vmax = 4.54m, Vmin = 4.59m",59.683,-60.600,Reticulii,Delta Reticulii
+9234,Reticulum,κ Ret,κ,Kappa,,,,22001,16245,03h 29m 22.19s,-62° 56′ 18.4″,4.71,3.05,70,F5IV-V,binary star,52.342,-61.062,Reticulii,Kappa Reticulii
+9235,Reticulum,ι Ret,ι,Iota,,,,25728,18772,04h 01m 18.07s,-61° 04′ 44.6″,4.97,−0.06,331,K4III,,60.325,-60.921,Reticulii,Iota Reticulii
+9236,Reticulum,ζ2 Ret,ζ2,Zeta 2,,,,20807,15371,03h 18m 11.14s,-62° 30′ 28.6″,5.24,4.83,39,G1V,component of the ζ Ret system,49.546,-61.492,Reticulii,Zeta 2 Reticulii
+9237,Reticulum,η Ret,η,Eta,,,,28093,20384,04h 21m 53.22s,-63° 23′ 12.5″,5.24,−0.09,380,G7III,,65.471,-62.613,Reticulii,Eta Reticulii
+9238,Reticulum,HD 27304,,HD 27304,,,,27304,19805,04h 14m 48.55s,-62° 11′ 31.4″,5.45,0.88,267,K0III,double star,63.700,-61.808,Reticulii,HD 27304 Reticulii
+9239,Reticulum,ζ1 Ret,ζ1,Zeta 1,,,,20766,15330,03h 17m 44.47s,-62° 34′ 36.8″,5.53,5.11,40,G2V,component of the ζ Ret system; suspected variable,49.433,-61.423,Reticulii,Zeta 1 Reticulii
+9240,Reticulum,HD 28732,,HD 28732,,,,28732,20825,04h 27m 46.04s,-62° 31′ 16.4″,5.74,0.72,329,K0III,double star,66.942,-61.479,Reticulii,HD 28732 Reticulii
+9241,Reticulum,HD 29399,,HD 29399,,,,29399,21253,04h 33m 34.10s,-62° 49′ 25.1″,5.79,2.48,150,K1III,binary star; suspected variable,68.392,-61.176,Reticulii,HD 29399 Reticulii
+9242,Reticulum,HD 22252,,HD 22252,,,,22252,16368,03h 30m 51.68s,-66° 29′ 23.0″,5.81,−1.27,851,B8V,,52.713,-65.510,Reticulii,HD 22252 Reticulii
+9243,Reticulum,θ Ret,θ,Theta,,,,27657,20020,04h 17m 40.27s,-63° 15′ 19.8″,5.88,0.12,462,B9III-IV,"double star; suspected variable, Vmax = 5.86m, Vmin = 5.90m",64.417,-62.745,Reticulii,Theta Reticulii
+9244,Reticulum,HD 28413,,HD 28413,,,,28413,20619,04h 25m 05.36s,-61° 14′ 17.7″,5.94,−0.53,642,K4/K5III,suspected variable,66.271,-60.762,Reticulii,HD 28413 Reticulii
+9245,Reticulum,HD 20888,,HD 20888,,,,20888,15353,03h 17m 58.99s,-66° 55′ 36.8″,6.03,2.21,189,A3V,,49.492,-65.073,Reticulii,HD 20888 Reticulii
+9246,Reticulum,HD 25346,,HD 25346,,,,25346,18592,03h 58m 42.87s,-57° 06′ 08.6″,6.05,2.1,201,F2IV,,59.675,-56.898,Reticulii,HD 25346 Reticulii
+9247,Reticulum,HD 25170,,HD 25170,,,,25170,18401,03h 56m 03.90s,-63° 27′ 49.8″,6.14,0.86,371,K1/K2III,,59.013,-62.536,Reticulii,HD 25170 Reticulii
+9248,Reticulum,HD 23697,,HD 23697,,,,23697,17464,03h 44m 33.86s,-54° 16′ 27.1″,6.29,1.83,254,K1III,double star,56.138,-53.726,Reticulii,HD 23697 Reticulii
+9249,Reticulum,TT Ret,,TT,,,TT,27463,19917,04h 16m 20.92s,-60° 56′ 54.8″,6.34,0.96,388,Ap EuCr(Sr),"double star; α2 CVn variable, , P = 2.83507 d",64.083,-59.052,Reticulii,TT Reticulii
+9250,Reticulum,HD 26491,,HD 26491,,,,26491,19233,04h 07m 21.29s,-64° 13′ 23.2″,6.37,4.54,76,G3V,,61.838,-63.777,Reticulii,HD 26491 Reticulii
+9251,Reticulum,HD 22382,,HD 22382,,,,22382,16531,03h 32m 51.46s,-61° 01′ 01.2″,6.42,0.82,429,K0III,,53.213,-60.983,Reticulii,HD 22382 Reticulii
+9252,Reticulum,HD 23079,,HD 23079,,,,23079,17096,03h 39m 43.10s,-52° 54′ 57.0″,7.1,4.4,113,F9.5V,"Tupi[1], has a planet (b)",54.929,-51.084,Reticulii,HD 23079 Reticulii
+9253,Reticulum,HD 25171,,HD 25171,,,,25171,18387,03h 55m 49.00s,"-65° 11′ 12.0""",7.79,,179,F8V,has a planet (b),58.954,-64.813,Reticulii,HD 25171 Reticulii
+9254,Reticulum,HD 21693,,HD 21693,,,,21693,16085,03h 27m 12.00s,"-58° 19′ 25.0""",7.94,,105,G9IV,has two planets (b & c),51.800,-57.676,Reticulii,HD 21693 Reticulii
+9255,Reticulum,HD 21749,,HD 21749,,,,21749,16069,03h 27m 00.0s,"-63° 30′ 08.0""",8.1,,53,K4.5,has two planets (b & c),51.750,-62.498,Reticulii,HD 21749 Reticulii
+9256,Reticulum,HD 23127,,HD 23127,,,,23127,17054,03h 39m 23.64s,-60° 04′ 40.2″,8.56,3.81,291,G2V,has a planet (b),54.846,-59.922,Reticulii,HD 23127 Reticulii
+9257,Reticulum,R Ret,,"R, S",,,"R, S",29383,21252,04h 33m 32.83s,-63° 01′ 45.0″,9.23,−1.71,5015,M4e-M7.5e,"Mira variable, Vmax = 6.35m, Vmin = 14.2m, P = 281 d",68.383,-62.971,Reticulii,"R, S Reticulii"
+9258,Reticulum,HD 27894,,HD 27894,,,,27894,20277,04h 20m 47.05s,-59° 24′ 39.0″,9.42,6.28,138,K2V,"has three planets (b, c & d)",65.196,-58.589,Reticulii,HD 27894 Reticulii
+9259,Reticulum,HD 23472,,HD 23472,,,,23472,17264,03h 41m 50.00s,"-62° 46′ 01.0""",9.7,,128,K3.5V,has two planets (b & c),55.458,-61.233,Reticulii,HD 23472 Reticulii
+9260,Reticulum,WASP-100,,W-100,,,,,,04h 35m 50.00s,"-64° 01′ 37.0""",10.8,,,F2,has a transiting planet (b),68.958,-63.973,Reticulii,W-100 Reticulii
+9261,Reticulum,WASP-119,,W-119,,,,,,03h 43m 46.00s,"-65° 11′ 38.0""",12.2,,1086,G5,has a transiting planet (b),55.942,-64.806,Reticulii,W-119 Reticulii
+9262,Reticulum,NGC 1313 X-2,, ,,,,,,03h 18m 22.00s,-66° 36′ 04.3″,23.6,,12800000,,ultraluminous X-ray source,49.592,-65.399,Reticulii,  Reticulii
+9263,Reticulum,WISE 0359-5401,, ,,,,,,03h 59m 34.06s,-66° 36′ 04.3″,,,19.2,Y0,brown dwarf,59.892,-65.399,Reticulii,  Reticulii
+9264,Reticulum,WISE 0350-5658,, ,,,,,,03h 50m 00.32s,-54° 01′ 54.6″,,,12.1,Y1,brown dwarf,57.500,-53.968,Reticulii,  Reticulii

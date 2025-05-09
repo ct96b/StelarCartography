@@ -1,0 +1,324 @@
+USID,Constellation,Name,B,B->F->VAR->G,F,G.,Var,HD,HIP,RA,Dec,"vis. mag.","abs. mag.",Dist. (ly),Sp. class,Notes https://en.wikipedia.org/wiki/Lists_of_stars_by_constellation,RA angle,Dec Angle,Latin Constellation,Full Designation
+2627,Centaurus,α Cen A,α,Alpha,,363,,128620,71683,14h 39m 40.90s,-60° 50′ 06.5″,−0.01,4.34,4.36,G2V,Rigil Kentaurus; nearest star system; 4th brightest star; a component of the triple Alpha Centauri star system,219.917,-59.165,Centarui,Alpha Centarui
+2628,Centaurus,β Cen,β,Beta,,304,,122451,68702,14h 03m 49.44s,-60° 22′ 22.7″,0.61,−5.42,525,B1III,"Hadar, Agena; β Cep variable, ΔV = 0.045m, P = 0.157 d",210.954,-59.627,Centarui,Beta Centarui
+2629,Centaurus,α Cen B,α,Alpha,,364,,128621,71681,14h 39m 39.39s,-60° 50′ 22.1″,1.35,5.7,4.36,K1V,"Toliman, 21st brightest star; a component of the triple Alpha Centauri star system; has a planet (b)",219.913,-59.161,Centarui,Alpha Centarui
+2630,Centaurus,"θ Cen (5 Cen)",θ,Theta,,314,,123139,68933,14h 06m 41.32s,-36° 22′ 07.3″,2.06,0.7,61,K0IIIb,Menkent,211.671,-35.631,Centarui,Theta Centarui
+2631,Centaurus,γ Cen,γ,Gamma,,134,,110304,61932,12h 41m 31.20s,-48° 57′ 35.6″,2.2,−0.81,130,A1IV,Muhlifain; binary period 89.3 y,190.379,-47.040,Centarui,Gamma Centarui
+2632,Centaurus,ε Cen,ε,Epsilon,,245,,118716,66657,13h 39m 53.27s,-53° 27′ 58.9″,2.29,−3.02,376,B1III,"β Cep variable, ΔV = 0.02m, P = 0.169608 d",204.971,-52.534,Centarui,Epsilon Centarui
+2633,Centaurus,η Cen,η,Eta,,356,,127972,71352,14h 35m 30.45s,-42° 09′ 27.9″,2.33,−2.55,308,B1Vn + A,"γ Cas variable, Vmax = 2.30m, Vmin = 2.41m",218.875,-41.843,Centarui,Eta Centarui
+2634,Centaurus,ζ Cen,ζ,Zeta,,289,,121263,68002,13h 55m 32.43s,-47° 17′ 17.8″,2.55,−2.81,384,B2.5IV,Alnair; spectroscopic binary,208.883,-46.712,Centarui,Zeta Centarui
+2635,Centaurus,δ Cen,δ,Delta,,94,,105435,59196,12h 08m 21.54s,-50° 43′ 20.7″,2.58,−2.84,395,B2IVne,"γ Cas variable, Vmax = 2.51m, Vmin = 2.65m",182.088,-49.278,Centarui,Delta Centarui
+2636,Centaurus,ι Cen,ι,Iota,,204,,115892,65109,13h 20m 36.07s,-36° 42′ 43.5″,2.75,1.48,59,A2V,,200.150,-35.288,Centarui,Iota Centarui
+2637,Centaurus,λ Cen,λ,Lambda,,46,,100841,56561,11h 35m 46.93s,-63° 01′ 11.4″,3.11,−2.39,410,B9II:,,173.942,-62.980,Centarui,Lambda Centarui
+2638,Centaurus,κ Cen,κ,Kappa,,385,,132200,73334,14h 59m 09.70s,-42° 06′ 14.9″,3.13,−2.96,539,B2IV,suspected variable,224.788,-41.896,Centarui,Kappa Centarui
+2639,Centaurus,ν Cen,ν,Nu,,272,,120307,67464,13h 49m 30.30s,-41° 41′ 15.6″,3.41,−2.41,475,B2IV,"rotating ellipsoidal variable and β Cep variable, ΔV = 0.03m",207.375,-40.313,Centarui,Nu Centarui
+2640,Centaurus,μ Cen,μ,Mu,,273,,120324,67472,13h 49m 37.01s,-42° 28′ 25.3″,3.47,−2.57,527,B2IV-Ve,"γ Cas variable, Vmax = 2.92m, Vmin = 3.47m",207.404,-41.526,Centarui,Mu Centarui
+2641,Centaurus,φ Cen,φ,Phi,,296,,121743,68245,13h 58m 16.28s,-42° 06′ 02.5″,3.83,−1.94,465,B2IV,,209.567,-41.899,Centarui,Phi Centarui
+2642,Centaurus,τ Cen,τ,Tau,,131,,109787,61622,12h 37m 42.33s,-48° 32′ 28.6″,3.85,0.82,132,A2V,,189.425,-47.459,Centarui,Tau Centarui
+2643,Centaurus,υ1 Cen,υ1,Upsilon 1,,297,,121790,68282,13h 58m 40.77s,-44° 48′ 12.7″,3.87,−1.67,417,B2IV-V,,209.667,-43.197,Centarui,Upsilon 1 Centarui
+2644,Centaurus,π Cen,π,Pi,,24,,98718,55425,11h 21m 00.44s,-54° 29′ 27.7″,3.9,−1.07,321,B5Vn,binary star,170.250,-53.509,Centarui,Pi Centarui
+2645,Centaurus,d Cen,d,D,,227,,117440,65936,13h 31m 02.67s,-39° 24′ 26.2″,3.9,−4.03,1254,G8II/III,,202.758,-38.593,Centarui,D Centarui
+2646,Centaurus,σ Cen,σ,Sigma,,121,,108483,60823,12h 28m 02.41s,-50° 13′ 50.2″,3.91,−1.76,443,B3V,,187.008,-49.769,Centarui,Sigma Centarui
+2647,Centaurus,ρ Cen,ρ,Rho,,101,,105937,59449,12h 11m 39.15s,-52° 22′ 06.3″,3.97,−1.13,342,B3V,,182.913,-51.632,Centarui,Rho Centarui
+2648,Centaurus,b Cen,b,B,,368,,129116,71865,14h 41m 57.61s,-37° 47′ 36.3″,4.01,−0.85,305,B2.5V,,220.488,-36.207,Centarui,B Centarui
+2649,Centaurus,ψ Cen,ψ,Psi,,338,,125473,70090,14h 20m 33.48s,-37° 53′ 07.0″,4.05,−0.35,247,A0IV,,215.138,-36.115,Centarui,Psi Centarui
+2650,Centaurus,c1 Cen,c1,C1,,371,,129456,72010,14h 43m 39.48s,-35° 10′ 23.6″,4.06,0.07,205,K3III,,220.913,-34.827,Centarui,C1 Centarui
+2651,Centaurus,HD 102350,,65 G,,65,,102350,57439,11h 46m 30.85s,-61° 10′ 42.1″,4.11,−1.51,434,G0II,Cepheid variable,176.625,-60.822,Centarui,65 G Centarui
+2652,Centaurus,2 Cen,g,G,,274,,120323,67457,13h 49m 26.75s,-34° 27′ 02.3″,4.19,0.51,177,M5III,"V806 Cen; semiregular variable, Vmax = 4.16m, Vmin = 4.26m, P = 12 d",207.358,-33.549,Centarui,G Centarui
+2653,Centaurus,1 Cen,i,I,,265,,119756,67153,13h 45m 41.57s,-33° 02′ 36.1″,4.23,2.81,63,F3V,,206.421,-32.957,Centarui,I Centarui
+2654,Centaurus,n Cen,n,N,,150,,111968,62896,12h 53m 26.15s,-40° 10′ 43.7″,4.25,0.86,155,A4IV,,193.358,-39.821,Centarui,N Centarui
+2655,Centaurus,ξ2 Cen,ξ2,Xi2,,173,V1261 (B),113791,64004,13h 06m 54.66s,-49° 54′ 22.4″,4.27,−1.24,412,B1.5V,,196.725,-48.094,Centarui,Xi2 Centarui
+2656,Centaurus,j Cen,j,J,,69,,102776,57669,11h 49m 41.09s,-63° 47′ 18.6″,4.3,−1.44,459,B3V,suspected variable,177.421,-62.212,Centarui,J Centarui
+2657,Centaurus,v Cen,v,V,,336,,125288,70069,14h 20m 19.55s,-56° 23′ 11.3″,4.3,−3.50,1185,B6Ib,,215.079,-55.614,Centarui,V Centarui
+2658,Centaurus,3 Cen A,k,K,,280,V983,120709,67669,13h 51m 49.63s,-32° 59′ 38.5″,4.32,−0.48,297,B5,"V983 Cen; double star; possible eclipsing binary, ΔV = 0.05m",207.954,-31.006,Centarui,K Centarui
+2659,Centaurus,e Cen,e,E,,149,,111915,62867,12h 53m 06.98s,-48° 56′ 35.7″,4.33,−0.51,303,K3/K4III,,193.275,-47.057,Centarui,E Centarui
+2660,Centaurus,υ2 Cen,υ2,Upsilon 2,,303,,122223,68523,14h 01m 43.49s,-45° 36′ 12.1″,4.34,−1.35,448,F6II,,210.429,-44.397,Centarui,Upsilon 2 Centarui
+2661,Centaurus,χ Cen,χ,Chi,,311,,122980,68862,14h 06m 02.79s,-41° 10′ 46.5″,4.36,−1.32,446,B2V,"β Cep variable, ΔV = ~0.02m, P = 0.035 d",211.508,-40.821,Centarui,Chi Centarui
+2662,Centaurus,V761 Cen,a,A,,342,V761,125823,70300,14h 23m 02.26s,-39° 30′ 42.4″,4.41,−1.13,418,B2V,"Bidelman's Helium Variable Star; SX Ari variable, Vmax = 4.38m, Vmin = 4.43m, P = 8.8171 d",215.758,-38.488,Centarui,A Centarui
+2663,Centaurus,V863 Cen,,V863,,92,V863,105382,59173,12h 08m 05.26s,-50° 39′ 40.5″,4.46,−0.85,376,B2IIIne,"Be star; variable, ΔV = ~0.05m",182.021,-49.339,Centarui,V863 Centarui
+2664,Centaurus,B Cen,B,B,,71,,102964,57803,11h 51m 08.75s,-45° 10′ 24.4″,4.47,−1.30,464,K4III,,177.783,-44.827,Centarui,B Centarui
+2665,Centaurus,J Cen,J,J,,208,,116087,65271,13h 22m 37.98s,-60° 59′ 18.1″,4.52,−0.66,354,B3V,,200.654,-59.012,Centarui,J Centarui
+2666,Centaurus,m Cen,m,M,,214,,116243,65387,13h 24m 00.44s,-64° 32′ 08.2″,4.52,0.04,257,G5III-IV,,201.000,-63.464,Centarui,M Centarui
+2667,Centaurus,V831 Cen,,V831,,183,V831,114529,64425,13h 12m 17.63s,-59° 55′ 13.9″,4.58,−0.55,346,B8V,"ellipsoidal variable, Vmax = 4.49m, Vmin = 4.66m",198.071,-58.080,Centarui,V831 Centarui
+2668,Centaurus,A Cen,A,A,,42,,100673,56480,11h 34m 45.71s,-54° 15′ 50.9″,4.62,−1.14,463,B9V,,173.688,-53.736,Centarui,A Centarui
+2669,Centaurus,l Cen,l,L,,132,,110073,61789,12h 39m 52.56s,-39° 59′ 14.1″,4.63,−0.55,355,B8II/III,,189.967,-38.013,Centarui,L Centarui
+2670,Centaurus,M Cen,M,M,,266,,119834,67234,13h 46m 39.37s,-51° 25′ 57.7″,4.64,0.16,257,G8/K0III,,206.663,-50.568,Centarui,M Centarui
+2671,Centaurus,w Cen,w,W,,136,,110458,62012,12h 42m 35.56s,-48° 48′ 46.9″,4.66,0.85,188,K0III,,190.646,-47.187,Centarui,W Centarui
+2672,Centaurus,f Cen,f,F,,171,,113703,63945,13h 06m 16.73s,-48° 27′ 47.7″,4.71,−0.81,414,B5V,,196.567,-47.537,Centarui,F Centarui
+2673,Centaurus,294 G. Cen,,294 G,,294,,121474,68191,13h 57m 38.94s,-63° 41′ 11.8″,4.71,0.68,209,K4III,,209.408,-62.314,Centarui,294 G Centarui
+2674,Centaurus,321 G. Cen,,321 G,,321,,123569,69191,14h 09m 54.96s,-53° 26′ 19.4″,4.74,1.01,182,G8III,double star,212.475,-52.561,Centarui,321 G Centarui
+2675,Centaurus,4 Cen,h,H,,284,,120955,67786,13h 53m 12.55s,-31° 55′ 39.3″,4.75,−1.81,669,B4IV,,208.300,-30.073,Centarui,H Centarui
+2676,Centaurus,340 G. Cen,,340 G,,340,,125628,70264,14h 22m 37.12s,-58° 27′ 33.0″,4.76,0.07,282,G8/K1 + F/G,quadruple star,215.654,-57.541,Centarui,340 G Centarui
+2677,Centaurus,G Cen,G,G,,119,,108257,60710,12h 26m 31.79s,-51° 27′ 02.2″,4.82,−0.62,400,B3Vn,,186.629,-50.549,Centarui,G Centarui
+2678,Centaurus,ξ1 Cen,ξ1,Xi1,,165,,113314,63724,13h 03m 33.35s,-49° 31′ 38.1″,4.83,0.71,218,A0V,,195.888,-48.473,Centarui,Xi1 Centarui
+2679,Centaurus,185 G. Cen,,185 G,,185,,114613,64408,13h 12m 03.47s,-37° 48′ 11.3″,4.85,3.29,67,G3IV,has a planet (b),198.013,-36.197,Centarui,185 G Centarui
+2680,Centaurus,HR 4523,,66 G,,66,,102365,57443,11h 46m 32.25s,-40° 30′ 04.8″,4.89,5.06,30,G3/G5V,has a planet (b),176.633,-39.499,Centarui,66 G Centarui
+2681,Centaurus,p Cen,p,P,,143,,111597,62683,12h 50m 41.19s,-33° 59′ 57.4″,4.9,−0.48,389,B9V,,192.671,-32.001,Centarui,P Centarui
+2682,Centaurus,191 G. Cen,,191 G,,191,,114837,64583,13h 14m 15.43s,-59° 06′ 10.3″,4.9,3.62,59,F7IV,,198.563,-58.897,Centarui,191 G Centarui
+2683,Centaurus,c2 Cen,c2,C2,,372,,129685,72104,14h 44m 59.20s,-35° 11′ 30.6″,4.92,0.91,207,A0V,,221.246,-34.808,Centarui,C2 Centarui
+2684,Centaurus,58 G. Cen,,58 G,,58,,101570,56986,11h 40m 53.65s,-62° 05′ 24.4″,4.93,−1.82,729,G3Ib,,175.221,-61.910,Centarui,58 G Centarui
+2685,Centaurus,Q Cen,Q,Q,,250,,118991,66821,13h 41m 44.81s,-54° 33′ 33.7″,4.99,0.39,271,B8Vn+...,binary star,205.433,-53.441,Centarui,Q Centarui
+2686,Centaurus,26 G. Cen,,26 G,,26,,98993,55588,11h 23m 12.70s,-36° 09′ 53.2″,5,−2.10,858,K4III,,170.800,-35.835,Centarui,26 G Centarui
+2687,Centaurus,V810 Cen,,V810,,61,V810,101947,57175,11h 43m 31.20s,-62° 29′ 21.8″,5,−4.48,2567,F9Ia,"semiregular variable, Vmax = 4.95m, Vmin = 5.12m, P = 130 d",175.879,-61.511,Centarui,V810 Centarui
+2688,Centaurus,F Cen,F,F,,108,,107079,60059,12h 18m 59.83s,-55° 08′ 34.7″,5.01,−0.33,381,M1III,,184.746,-54.857,Centarui,F Centarui
+2689,Centaurus,V1019 Cen,,V1019,,376,V1019,131120,72800,14h 52m 51.09s,-37° 48′ 11.2″,5.02,−0.34,384,B7II/III,"long-period pulsating variable, ΔV = 0.02m",223.213,-36.197,Centarui,V1019 Centarui
+2690,Centaurus,V795 Cen,,V795,,328,V795,124367,69618,14h 14m 57.16s,-57° 05′ 09.9″,5.03,−0.84,486,B4Vne,"γ Cas variable, Vmax = 4.97m, Vmin = 5.10m",213.738,-56.914,Centarui,V795 Centarui
+2691,Centaurus,K Cen,K,K,,224,,117150,65810,13h 29m 25.26s,-51° 09′ 54.4″,5.04,−0.91,504,A0V,,202.354,-50.835,Centarui,K Centarui
+2692,Centaurus,ο1 Cen,ο1,Omicron 1,,37,,100261,56243,11h 31m 46.07s,-59° 26′ 31.4″,5.07,−4.91,3228,G0Ia,"semiregular variable, Vmax = ~4.8m, Vmin = ~5.6m",172.942,-58.558,Centarui,Omicron 1 Centarui
+2693,Centaurus,r Cen,r,R,,195,,115310,64803,13h 16m 53.11s,-31° 30′ 21.9″,5.1,0.7,247,K0III,,199.221,-30.494,Centarui,R Centarui
+2694,Centaurus,217 G. Cen,,217 G,,217,,116713,65535,13h 26m 07.64s,-39° 45′ 17.9″,5.11,1.09,207,Kp...,,201.529,-38.245,Centarui,217 G Centarui
+2695,Centaurus,ο2 Cen,ο2,Omicron 2,,38,,100262,56250,11h 31m 48.81s,-59° 30′ 56.3″,5.12,−4.97,3396,A3Ia,"α Cyg variable, ΔV = 0.10m, P = 46.3 d",172.950,-58.484,Centarui,Omicron 2 Centarui
+2696,Centaurus,128 G. Cen,,128 G,,128,,109536,61468,12h 35m 45.61s,-41° 01′ 19.0″,5.12,2.43,113,A7III,,188.938,-40.978,Centarui,128 G Centarui
+2697,Centaurus,34 G. Cen,,34 G,,34,,99803,56000,11h 28m 35.11s,-42° 40′ 27.2″,5.14,−1.27,625,B9V,,172.146,-41.326,Centarui,34 G Centarui
+2698,Centaurus,52 G. Cen,,52 G,,52,,101021,56656,11h 37m 00.80s,-61° 17′ 00.4″,5.14,0.89,231,K1III,,174.250,-60.717,Centarui,52 G Centarui
+2699,Centaurus,V815 Cen,,V815,,4,V815,96616,54360,11h 07m 16.76s,-42° 38′ 19.6″,5.15,0.45,283,Ap SrCrEu,"α² CVn variable, ΔV = 0.03m, P = 2.433 d",166.817,-41.361,Centarui,V815 Centarui
+2700,Centaurus,54 G. Cen,,54 G,,54,,101189,56754,11h 38m 07.37s,-61° 49′ 35.6″,5.15,0.35,297,B9IV,,174.529,-60.174,Centarui,54 G Centarui
+2701,Centaurus,88 G. Cen,,88 G,,88,,104731,58803,12h 03m 39.31s,-42° 26′ 01.6″,5.15,3.23,79,F6V,,180.913,-41.566,Centarui,88 G Centarui
+2702,Centaurus,z Cen,z,Z,,267,,119921,67244,13h 46m 56.36s,-36° 15′ 06.9″,5.15,−0.44,428,A0V,,206.733,-35.748,Centarui,Z Centarui
+2703,Centaurus,H Cen,H,H,,156,V945,112409,63210,12h 57m 04.38s,-51° 11′ 55.4″,5.17,−0.67,479,B8V,"V945 Cen; long-period pulsating variable, ΔV = 0.02m",194.267,-50.801,Centarui,H Centarui
+2704,Centaurus,31 G. Cen,,31 G,,31,,99453,55779,11h 25m 43.56s,-63° 58′ 20.3″,5.18,2.99,89,F7V,,171.429,-62.028,Centarui,31 G Centarui
+2705,Centaurus,29 G. Cen,,29 G,,29,,99322,55756,11h 25m 29.53s,-36° 03′ 47.2″,5.21,0.54,280,K0III,,171.371,-35.937,Centarui,29 G Centarui
+2706,Centaurus,33 G. Cen,,33 G,,33,,99556,55831,11h 26m 35.43s,-61° 06′ 54.6″,5.22,−3.17,1552,B3IV,,171.646,-60.885,Centarui,33 G Centarui
+2707,Centaurus,334 G. Cen,,334 G,,334,,125158,70035,14h 19m 51.70s,-61° 16′ 21.9″,5.22,1.8,158,Am,,214.963,-60.728,Centarui,334 G Centarui
+2708,Centaurus,182 G. Cen,,182 G,,182,,114474,64348,13h 11m 23.31s,-43° 22′ 06.6″,5.24,1.09,221,K1/K2III,,197.846,-42.632,Centarui,182 G Centarui
+2709,Centaurus,C2 Cen,C2,C2,,45,,100825,56573,11h 35m 55.56s,-47° 38′ 29.5″,5.26,1.44,189,A7m,,173.979,-46.359,Centarui,C2 Centarui
+2710,Centaurus,N Cen,N,N,,277,,120642,67703,13h 52m 04.90s,-52° 48′ 41.3″,5.26,0.03,363,B9Vn,,208.017,-51.189,Centarui,N Centarui
+2711,Centaurus,64 G. Cen,,64 G,,64,,102232,57371,11h 45m 44.00s,-45° 41′ 24.5″,5.28,−1.62,782,B6III,,176.433,-44.310,Centarui,64 G Centarui
+2712,Centaurus,D Cen,D,D,,103,,106321,59654,12h 14m 02.73s,-45° 43′ 26.1″,5.31,−0.89,566,K3III,binary star,183.508,-44.276,Centarui,D Centarui
+2713,Centaurus,x1 Cen,x1,X1,,113,,107832,60449,12h 23m 35.45s,-35° 24′ 45.6″,5.32,−0.17,409,B8/B9V,,185.896,-34.588,Centarui,X1 Centarui
+2714,Centaurus,215 G. Cen,,215 G,,215,,116457,65479,13h 25m 14.14s,-64° 29′ 06.3″,5.32,2.35,128,F2III,,201.308,-63.515,Centarui,215 G Centarui
+2715,Centaurus,381 G. Cen,,381 G,,381,,131625,73049,14h 55m 44.69s,-33° 51′ 20.8″,5.32,0.92,247,A0V,,223.933,-32.144,Centarui,381 G Centarui
+2716,Centaurus,E Cen,E,E,,93,,105416,59184,12h 08m 14.73s,-48° 41′ 32.9″,5.34,−0.95,590,A1V,,182.058,-47.308,Centarui,E Centarui
+2717,Centaurus,9 G. Cen,,9 G,,9,,97495,54746,11h 12m 33.15s,-49° 06′ 03.9″,5.37,1.88,163,A2III,,168.138,-48.899,Centarui,9 G Centarui
+2718,Centaurus,251 G. Cen,,251 G,,251,,118978,66849,13h 42m 01.12s,-58° 47′ 13.4″,5.38,−1.11,647,B9IV,,205.504,-57.213,Centarui,251 G Centarui
+2719,Centaurus,41 G. Cen,,41 G,,41,,100493,56391,11h 33m 37.26s,-40° 35′ 12.1″,5.39,0.13,368,A2IV/V,,173.404,-39.413,Centarui,41 G Centarui
+2720,Centaurus,V918 Cen,,V918,,68,V918,102461,57512,11h 47m 19.17s,-57° 41′ 47.6″,5.42,−1.59,821,K5III,"semiregular variable, ΔV = ~0.07m",176.829,-56.304,Centarui,V918 Centarui
+2721,Centaurus,u Cen,u,U,,122,U,108541,60855,12h 28m 22.49s,-39° 02′ 28.1″,5.45,−0.13,427,B8/B9V,,187.092,-38.959,Centarui,U Centarui
+2722,Centaurus,C3 Cen,C3,C3,,53,,101067,56700,11h 37m 34.05s,-47° 44′ 50.6″,5.46,0.23,363,K2III,,174.392,-46.253,Centarui,C3 Centarui
+2723,Centaurus,152 G. Cen,,152 G,,152,,112213,63066,12h 55m 19.46s,-42° 54′ 56.5″,5.46,−0.87,601,M0III,,193.829,-41.084,Centarui,152 G Centarui
+2724,Centaurus,269 G. Cen,,269 G,,269,,119971,67304,13h 47m 38.67s,-50° 19′ 14.4″,5.46,−0.26,454,K2III,,206.908,-49.679,Centarui,269 G Centarui
+2725,Centaurus,V964 Cen,,V964,,202,V964,115823,65112,13h 20m 37.85s,-52° 44′ 52.0″,5.47,0.05,396,B6V,"β Lyr variable, ΔV = 0.04m",200.154,-51.252,Centarui,V964 Centarui
+2726,Centaurus,43 G. Cen,,43 G,,43,,100708,56497,11h 34m 57.00s,-49° 08′ 13.0″,5.5,1.48,207,K1III/IV,,173.738,-48.863,Centarui,43 G Centarui
+2727,Centaurus,V817 Cen,,V817,,96,V817,105521,59232,12h 08m 54.60s,-41° 13′ 53.7″,5.51,−3.52,2090,B3IV,"γ Cas variable, Vmax = 5.47m, Vmin = 5.58m",182.225,-40.769,Centarui,V817 Centarui
+2728,Centaurus,HD 120987,,286 G,,286,,120987,67819,13h 53m 32.82s,-35° 39′ 51.1″,5.53,2.03,163,F3V,quintuple star system,208.383,-34.336,Centarui,286 G Centarui
+2729,Centaurus,324 G. Cen,,324 G,,324,,124147,69462,14h 13m 16.42s,-53° 39′ 56.3″,5.53,−3.99,2608,K5III+...,,213.317,-52.334,Centarui,324 G Centarui
+2730,Centaurus,59 G. Cen,,59 G,,59,,101615,57013,11h 41m 19.86s,-43° 05′ 44.4″,5.54,1.5,209,A0V,,175.329,-42.904,Centarui,59 G Centarui
+2731,Centaurus,74 G. Cen,,74 G,,74,,103101,57870,11h 52m 10.39s,-56° 59′ 16.2″,5.56,0.46,341,B4III,,178.042,-55.012,Centarui,74 G Centarui
+2732,Centaurus,341 G. Cen,,341 G,,341,,125745,70243,14h 22m 19.74s,-34° 47′ 12.4″,5.57,−2.31,1230,B8V,,215.579,-33.213,Centarui,341 G Centarui
+2733,Centaurus,172 G. Cen,,172 G,,172,,113778,63972,13h 06m 35.05s,-41° 35′ 18.3″,5.59,0.51,339,K0II/III,,196.646,-40.412,Centarui,172 G Centarui
+2734,Centaurus,248 G. Cen,,248 G,,248,,118799,66656,13h 39m 48.59s,-40° 03′ 05.7″,5.61,−0.41,522,K2/K3III,,204.950,-39.949,Centarui,248 G Centarui
+2735,Centaurus,330 G. Cen,,330 G,,330,,124433,69598,14h 14m 42.76s,-41° 50′ 14.8″,5.61,−0.09,449,G8III,,213.675,-40.163,Centarui,330 G Centarui
+2736,Centaurus,176 G. Cen,,176 G,,176,,113852,64003,13h 06m 54.23s,-35° 51′ 42.6″,5.63,1.39,229,A0V,,196.725,-34.138,Centarui,176 G Centarui
+2737,Centaurus,235 G. Cen,,235 G,,235,,118261,66438,13h 37m 12.20s,-61° 41′ 29.7″,5.63,2.88,116,F6V,,204.300,-60.309,Centarui,235 G Centarui
+2738,Centaurus,39 G. Cen,,39 G,,39,,100378,56319,11h 32m 48.14s,-40° 26′ 10.8″,5.64,−0.47,544,M1III,,173.200,-39.564,Centarui,39 G Centarui
+2739,Centaurus,C1 Cen,C1,C1,,44,V763,100733,56518,11h 35m 13.36s,-47° 22′ 21.2″,5.64,−0.87,652,M3III,"V763 Cen; semiregular variable, Vmax = 5.55m, Vmin = 5.80m, P = 60 d",173.804,-46.628,Centarui,C1 Centarui
+2740,Centaurus,288 G. Cen,,288 G,,288,,121190,67973,13h 55m 12.17s,-52° 09′ 38.8″,5.66,0.56,342,B8V,,208.800,-51.839,Centarui,288 G Centarui
+2741,Centaurus,367 G. Cen,,367 G,,367,,128974,71783,14h 41m 01.41s,-36° 08′ 05.4″,5.67,−0.61,588,Ap Si,,220.254,-35.865,Centarui,367 G Centarui
+2742,Centaurus,70 G. Cen,,70 G,,70,,102878,57741,11h 50m 27.28s,-62° 38′ 57.8″,5.68,−4.19,3075,A3Iab,,177.613,-61.351,Centarui,70 G Centarui
+2743,Centaurus,221 G. Cen,,221 G,,221,,116835,65593,13h 26m 56.12s,-41° 29′ 51.2″,5.69,−3.26,2012,K3III,,201.733,-40.503,Centarui,221 G Centarui
+2744,Centaurus,142 G. Cen,,142 G,,142,,111588,62703,12h 50m 57.90s,-52° 47′ 14.6″,5.7,0.35,382,A5V,,192.738,-51.213,Centarui,142 G Centarui
+2745,Centaurus,177 G. Cen,,177 G,,177,,113902,64053,13h 07m 38.32s,-53° 27′ 35.0″,5.7,0.71,324,B8V,,196.908,-52.540,Centarui,177 G Centarui
+2746,Centaurus,x2 Cen,x2,X2,,118,,108114,60610,12h 25m 21.76s,-35° 11′ 11.0″,5.71,0.16,420,B9IV/V,,186.338,-34.814,Centarui,X2 Centarui
+2747,Centaurus,V744 Cen,,V744,,246,V744,118767,66666,13h 39m 59.90s,-49° 57′ 00.0″,5.74,−0.37,543,M8III,"semiregular variable, Vmax = 5.14m, Vmin = 6.55m, P = 90 d",204.996,-48.050,Centarui,V744 Centarui
+2748,Centaurus,359 G. Cen,,359 G,,359,,128207,71453,14h 36m 44.15s,-40° 12′ 41.5″,5.74,0.19,419,B8V,,219.183,-39.789,Centarui,359 G Centarui
+2749,Centaurus,13 G. Cen,,13 G,,13,,97651,54840,11h 13m 39.41s,-53° 13′ 54.9″,5.75,0.07,446,K2III,,168.413,-52.768,Centarui,13 G Centarui
+2750,Centaurus,V788 Cen,,V788,,95,V788,105509,59229,12h 08m 53.84s,-44° 19′ 33.2″,5.75,0.75,326,A3III,"Algol variable, Vmax = 5.74m, Vmin = 5.93m, P = 4.96638 d",182.221,-43.674,Centarui,V788 Centarui
+2751,Centaurus,127 G. Cen,,127 G,,127,,109409,61379,12h 34m 42.46s,-44° 40′ 21.1″,5.76,3.5,92,G4IV,,188.675,-43.328,Centarui,127 G Centarui
+2752,Centaurus,205 G. Cen,,205 G,,205,,115912,65144,13h 20m 57.76s,-46° 52′ 48.2″,5.76,0.44,377,K1III,,200.238,-45.120,Centarui,205 G Centarui
+2753,Centaurus,11 G. Cen,,11 G,,11,,97576,54811,11h 13m 14.69s,-44° 22′ 20.0″,5.77,−1.29,840,K5/M0III,,168.308,-43.628,Centarui,11 G Centarui
+2754,Centaurus,102 G. Cen,,102 G,,102,,106231,59607,12h 13m 25.06s,-38° 55′ 45.0″,5.77,−3.21,2037,B4III,,183.354,-37.071,Centarui,102 G Centarui
+2755,Centaurus,278 G. Cen,,278 G,,278,,120640,67663,13h 51m 47.23s,-46° 53′ 55.1″,5.77,−2.01,1173,B2Vp,,207.946,-45.101,Centarui,278 G Centarui
+2756,Centaurus,129 G. Cen,,129 G,,129,,109573,61498,12h 36m 01.07s,-39° 52′ 10.0″,5.78,1.65,219,A0V,,189.004,-38.131,Centarui,129 G Centarui
+2757,Centaurus,181 G. Cen,,181 G,,181,,114435,64332,13h 11m 08.94s,-42° 13′ 58.2″,5.78,0.97,299,F7IV,,197.783,-41.767,Centarui,181 G Centarui
+2758,Centaurus,114 G. Cen,,114 G,,114,,107860,60463,12h 23m 44.79s,-38° 54′ 40.9″,5.79,0.68,342,B8/B9V,,185.933,-37.089,Centarui,114 G Centarui
+2759,Centaurus,243 G. Cen,,243 G,,243,,118666,66681,13h 40m 10.80s,-64° 34′ 35.6″,5.79,1.59,226,F3III-IV,,205.042,-63.424,Centarui,243 G Centarui
+2760,Centaurus,32 G. Cen,,32 G,,32,,99574,55849,11h 26m 47.30s,-53° 09′ 35.8″,5.8,−0.61,625,K0III+...,,171.696,-52.840,Centarui,32 G Centarui
+2761,Centaurus,209 G. Cen,,209 G,,209,,116084,65247,13h 22m 16.29s,-52° 10′ 58.6″,5.81,−5.19,5175,B2.5Ib,,200.567,-51.817,Centarui,209 G Centarui
+2762,Centaurus,27 G. Cen,,27 G,,27,,99022,55581,11h 23m 08.17s,-56° 46′ 45.7″,5.82,−0.69,653,A4:p,,170.783,-55.221,Centarui,27 G Centarui
+2763,Centaurus,196 G. Cen,,196 G,,196,,115331,64822,13h 17m 13.92s,-43° 58′ 46.0″,5.82,1.99,190,Am,,199.304,-42.021,Centarui,196 G Centarui
+2764,Centaurus,293 G. Cen,,293 G,,293,,121416,68079,13h 56m 19.89s,-46° 35′ 33.8″,5.82,1.12,284,K0IV,,209.079,-45.408,Centarui,293 G Centarui
+2765,Centaurus,V767 Cen,,V767,,285,V767,120991,67861,13h 53m 57.25s,-47° 07′ 41.4″,5.83,,,B2IIIe,"γ Cas variable, ΔV = 0.4m",208.488,-46.872,Centarui,V767 Centarui
+2766,Centaurus,50 G. Cen,,50 G,,50,,100929,56606,11h 36m 22.38s,-61° 03′ 08.8″,5.84,−2.42,1462,B2.5IV,,174.092,-60.948,Centarui,50 G Centarui
+2767,Centaurus,133 G. Cen,,133 G,,133,,110287,61916,12h 41m 23.04s,-46° 08′ 44.6″,5.84,−1.10,797,K3II,,190.346,-45.854,Centarui,133 G Centarui
+2768,Centaurus,193 G. Cen,,193 G,,193,,114971,64623,13h 14m 43.36s,-48° 57′ 24.5″,5.84,1.34,259,K0IV,,198.679,-47.043,Centarui,193 G Centarui
+2769,Centaurus,380 G. Cen,,380 G,,380,,131432,72959,14h 54m 37.92s,-33° 18′ 02.0″,5.85,−1.10,801,K2III,,223.654,-32.699,Centarui,380 G Centarui
+2770,Centaurus,30 G. Cen,,30 G,,30,,99333,55763,11h 25m 33.13s,-37° 44′ 51.2″,5.87,−0.23,541,M3III,,171.388,-36.253,Centarui,30 G Centarui
+2771,Centaurus,140 G. Cen,,140 G,,140,,111032,62360,12h 46m 46.22s,-33° 18′ 55.5″,5.87,0.52,384,K3III,,191.692,-32.685,Centarui,140 G Centarui
+2772,Centaurus,283 G. Cen,,283 G,,283,,120908,67836,13h 53m 43.11s,-53° 22′ 23.8″,5.87,−1.97,1203,B5III,,208.429,-52.627,Centarui,283 G Centarui
+2773,Centaurus,357 G. Cen,,357 G,,357,,127971,71353,14h 35m 31.50s,-41° 31′ 02.6″,5.88,0.68,358,B6V,,218.879,-40.483,Centarui,357 G Centarui
+2774,Centaurus,388 G. Cen,,388 G,,388,,132604,73493,15h 01m 13.07s,-38° 03′ 29.9″,5.88,0.51,387,K2/K3III,,225.304,-37.942,Centarui,388 G Centarui
+2775,Centaurus,79 G. Cen,,79 G,,79,,103516,58103,11h 55m 00.02s,-63° 16′ 45.0″,5.89,−3.59,2567,A3Ib,,178.750,-62.721,Centarui,79 G Centarui
+2776,Centaurus,151 G. Cen,,151 G,,151,,112164,63033,12h 54m 58.71s,-44° 09′ 05.1″,5.89,2.89,130,G2IV,,193.742,-43.849,Centarui,151 G Centarui
+2777,Centaurus,375 G. Cen,,375 G,,375,,130328,72432,14h 48m 38.06s,-36° 38′ 04.5″,5.89,0.19,449,M5III,,222.158,-35.366,Centarui,375 G Centarui
+2778,Centaurus,189 G. Cen,,189 G,,189,,114772,64515,13h 13m 23.38s,-50° 41′ 59.2″,5.9,0.88,329,B9V,,198.346,-49.300,Centarui,189 G Centarui
+2779,Centaurus,373 G. Cen,,373 G,,373,,130055,72296,14h 47m 05.06s,-38° 17′ 25.6″,5.9,−0.25,554,K3III,,221.771,-37.710,Centarui,373 G Centarui
+2780,Centaurus,148 G. Cen,,148 G,,148,,111884,62861,12h 53m 04.26s,-54° 57′ 08.9″,5.91,0.59,379,K3III,,193.267,-53.048,Centarui,148 G Centarui
+2781,Centaurus,190 G. Cen,,190 G,,190,,114835,64580,13h 14m 12.15s,-58° 41′ 02.1″,5.91,0.8,344,K0/K1III,,198.550,-57.316,Centarui,190 G Centarui
+2782,Centaurus,239 G. Cen,,239 G,,239,,118354,66454,13h 37m 23.50s,-46° 25′ 40.2″,5.91,0.52,389,B8V,,204.346,-45.572,Centarui,239 G Centarui
+2783,Centaurus,268 G. Cen,,268 G,,268,,119938,67292,13h 47m 27.58s,-50° 14′ 57.6″,5.92,2.03,196,A3m...,,206.863,-49.751,Centarui,268 G Centarui
+2784,Centaurus,298 G. Cen,,298 G,,298,,121853,68333,13h 59m 17.46s,-50° 22′ 10.6″,5.92,0.86,335,G8/K0III,,209.821,-49.631,Centarui,298 G Centarui
+2785,Centaurus,305 G. Cen,,305 G,,305,,122438,68670,14h 03m 26.58s,-56° 12′ 48.2″,5.93,−0.13,530,K2III,,210.858,-55.787,Centarui,305 G Centarui
+2786,Centaurus,337 G. Cen,,337 G,,337,,125283,69995,14h 19m 23.91s,-37° 00′ 10.1″,5.93,1.75,223,A1V,,214.846,-36.997,Centarui,337 G Centarui
+2787,Centaurus,V914 Cen,,V914,,57,V914,101541,56970,11h 40m 42.49s,-53° 58′ 06.8″,5.95,−1.62,1065,M1III,"irregular variable, ΔV = ~0.13m",175.175,-52.032,Centarui,V914 Centarui
+2788,Centaurus,236 G. Cen,,236 G,,236,,118338,66427,13h 37m 06.05s,-44° 08′ 35.4″,5.96,0.65,376,G8/K0III,,204.275,-43.857,Centarui,236 G Centarui
+2789,Centaurus,256 G. Cen,,256 G,,256,,119250,66924,13h 42m 55.06s,-41° 24′ 03.4″,5.96,0.79,352,K0III,,205.729,-40.599,Centarui,256 G Centarui
+2790,Centaurus,258 G. Cen,,258 G,,258,,119361,66984,13h 43m 40.10s,-42° 04′ 03.0″,5.96,−2.48,1590,B8III,,205.917,-41.933,Centarui,258 G Centarui
+2791,Centaurus,V869 Cen,,V869,,320,V869,123515,69174,14h 09m 35.06s,-51° 30′ 16.7″,5.96,−0.17,548,B9IV,"spectroscopic binary; unique variable, ΔV = 0.09m",212.396,-50.496,Centarui,V869 Centarui
+2792,Centaurus,60 G. Cen,,60 G,,60,,101883,57165,11h 43m 27.20s,-37° 11′ 24.4″,5.98,−0.34,598,K3III,,175.863,-36.810,Centarui,60 G Centarui
+2793,Centaurus,174 G. Cen,,174 G,,174,,113823,64033,13h 07m 24.31s,-59° 51′ 37.8″,5.98,−1.91,1235,B9IV+...,,196.850,-58.140,Centarui,174 G Centarui
+2794,Centaurus,145 G. Cen,,145 G,,145,,111774,62786,12h 51m 56.95s,-39° 40′ 49.4″,5.99,0.22,465,B7/B8V,,192.983,-38.320,Centarui,145 G Centarui
+2795,Centaurus,351 G. Cen,,351 G,,351,,127193,70987,14h 31m 10.84s,-38° 52′ 11.2″,5.99,0.86,346,K1III,,217.792,-37.130,Centarui,351 G Centarui
+2796,Centaurus,V928 Cen,,V928,,123,V928,108759,60979,12h 29m 57.88s,-41° 44′ 09.1″,6,−1.25,918,M2II/III,"semiregular variable, ΔV = ~0.07m",187.488,-40.264,Centarui,V928 Centarui
+2797,Centaurus,203 G. Cen,,203 G,,203,,115842,65129,13h 20m 48.34s,-55° 48′ 02.5″,6,,,B0.5Ia,,200.200,-54.199,Centarui,203 G Centarui
+2798,Centaurus,242 G. Cen,,242 G,,242,,118520,66575,13h 38m 48.96s,-57° 37′ 21.7″,6,−1.89,1235,G5Ib,,204.700,-56.378,Centarui,242 G Centarui
+2799,Centaurus,253 G. Cen,,253 G,,253,,119159,66925,13h 42m 56.12s,-56° 46′ 04.7″,6,−3.85,3047,B0.5III,,205.733,-55.232,Centarui,253 G Centarui
+2800,Centaurus,291 G. Cen,,291 G,,291,,121384,68101,13h 56m 32.99s,-54° 42′ 14.8″,6,3.09,124,G8V,,209.133,-53.296,Centarui,291 G Centarui
+2801,Centaurus,162 G. Cen,,162 G,,162,,112935,63490,13h 00m 32.71s,-33° 30′ 18.3″,6.01,3,131,F3V,,195.133,-32.495,Centarui,162 G Centarui
+2802,Centaurus,85 G. Cen,,85 G,,85,,104081,58453,11h 59m 10.88s,-51° 41′ 48.3″,6.04,−1.04,849,K1/K2II,,179.792,-50.303,Centarui,85 G Centarui
+2803,Centaurus,361 G. Cen,,361 G,,361,,128488,71581,14h 38m 19.34s,-38° 47′ 38.9″,6.04,−0.38,627,K3III,,219.579,-37.206,Centarui,361 G Centarui
+2804,Centaurus,76 G. Cen,,76 G,,76,,103400,58041,11h 54m 11.51s,-57° 24′ 36.7″,6.05,−2.07,1370,A0/A1III,,178.546,-56.590,Centarui,76 G Centarui
+2805,Centaurus,V824 Cen,,V824,,179,V824,114365,64320,13h 10m 58.47s,-52° 34′ 00.7″,6.05,0.94,343,Ap,"α² CVn variable, ΔV = 0.035m, P = 1.272 d",197.742,-51.433,Centarui,V824 Centarui
+2806,Centaurus,3 Cen B,k,K,,281,,120710,,13h 51m 50.10s,-32° 59′ 41.0″,6.06,,318,,component of the 3 Cen system,207.958,-31.005,Centarui,K Centarui
+2807,Centaurus,383 G. Cen,,383 G,,383,,131774,73107,14h 56m 30.87s,-32° 38′ 12.2″,6.06,−0.08,551,K3III,,224.125,-31.363,Centarui,383 G Centarui
+2808,Centaurus,97 G. Cen,,97 G,,97,,105776,59353,12h 10m 33.78s,-37° 52′ 13.0″,6.07,1.79,234,A5V,,182.638,-36.130,Centarui,97 G Centarui
+2809,Centaurus,352 G. Cen,,352 G,,352,,127624,71154,14h 33m 09.62s,-30° 42′ 53.9″,6.07,0.56,412,K0III,,218.288,-29.285,Centarui,352 G Centarui
+2810,Centaurus,V828 Cen,,V828,,307,V828,122532,68673,14h 03m 27.49s,-41° 25′ 23.9″,6.08,−0.06,552,B8 Si,"α² CVn variable, ΔV = 0.045m, P = 1.837 d",210.863,-40.577,Centarui,V828 Centarui
+2811,Centaurus,V716 Cen,,V716,,325,V716,124195,69491,14h 13m 39.84s,-54° 37′ 32.2″,6.09,−1.55,1101,B5V,"β Lyr variable, Vmax = 5.96m, Vmin = 6.52m, P = 1.49010 d",213.413,-53.374,Centarui,V716 Centarui
+2812,Centaurus,25 G. Cen,,25 G,,25,,98892,55528,11h 22m 23.15s,-44° 38′ 45.1″,6.1,0.99,344,G8III,,170.596,-43.354,Centarui,25 G Centarui
+2813,Centaurus,62 G. Cen,,62 G,,62,,101995,57211,11h 43m 52.82s,-62° 52′ 41.7″,6.1,0.68,396,A2III/IV,,175.967,-61.122,Centarui,62 G Centarui
+2814,Centaurus,HD 108063,,117 G,,117,,108063,60591,12h 25m 08.62s,-42° 30′ 51.3″,6.1,2.49,172,F9.5IV,Extremely metal-rich,186.283,-41.486,Centarui,117 G Centarui
+2815,Centaurus,282 G. Cen,,282 G,,282,,120759,67696,13h 52m 01.00s,-31° 37′ 08.9″,6.11,2.46,175,F5/F6V,,208.004,-30.381,Centarui,282 G Centarui
+2816,Centaurus,10 G. Cen,,10 G,,10,,97550,54783,11h 12m 56.74s,-49° 44′ 10.0″,6.12,−0.72,760,G8II/III,,168.233,-48.264,Centarui,10 G Centarui
+2817,Centaurus,302 G. Cen,,302 G,,302,,122210,68493,14h 01m 19.08s,-40° 13′ 19.0″,6.12,−0.84,805,K1III,,210.329,-39.778,Centarui,302 G Centarui
+2818,Centaurus,28 G. Cen,,28 G,,28,,99171,55667,11h 24m 22.06s,-42° 40′ 08.8″,6.13,−3.74,3075,B2IV-V,,171.092,-41.331,Centarui,28 G Centarui
+2819,Centaurus,80 G. Cen,,80 G,,80,,103637,58177,11h 55m 54.73s,-39° 41′ 22.1″,6.13,0.27,484,K0III,,178.975,-38.311,Centarui,80 G Centarui
+2820,Centaurus,358 G. Cen,,358 G,,358,,128152,71429,14h 36m 24.14s,-39° 35′ 50.5″,6.13,0.69,400,K1III,,219.100,-38.403,Centarui,358 G Centarui
+2821,Centaurus,229 G. Cen,,229 G,,229,,117597,66019,13h 32m 05.39s,-38° 23′ 55.5″,6.14,0.91,363,K1III,,203.021,-37.601,Centarui,229 G Centarui
+2822,Centaurus,290 G. Cen,,290 G,,290,,121336,68080,13h 56m 19.99s,-54° 07′ 56.5″,6.14,0.37,466,A1V,,209.079,-53.868,Centarui,290 G Centarui
+2823,Centaurus,106 G. Cen,,106 G,,106,,106922,59950,12h 17m 47.29s,-36° 05′ 38.3″,6.15,0.27,488,A0V,,184.446,-35.906,Centarui,106 G Centarui
+2824,Centaurus,67 G. Cen,,67 G,,67,,102397,57497,11h 47m 07.02s,-35° 54′ 24.5″,6.16,0.34,475,G8III,,176.779,-34.093,Centarui,67 G Centarui
+2825,Centaurus,192 G. Cen,,192 G,,192,,114873,64557,13h 13m 57.80s,-43° 08′ 21.0″,6.16,1,351,K5II,,198.488,-42.861,Centarui,192 G Centarui
+2826,Centaurus,194 G. Cen,,194 G,,194,,115050,64651,13h 15m 09.49s,-36° 22′ 16.9″,6.17,0.4,464,K1III,,198.788,-35.629,Centarui,194 G Centarui
+2827,Centaurus,213 G. Cen,,213 G,,213,,116278,65311,13h 23m 08.64s,-33° 11′ 23.6″,6.17,−0.58,731,M2III,,200.783,-32.810,Centarui,213 G Centarui
+2828,Centaurus,HD 121056,,287 G,,287,,121056,67851,13h 53m 52.0s,-35° 18′ 52.00″,6.17,2.13,215,K0III,has two planet (b & c),208.467,-34.699,Centarui,287 G Centarui
+2829,Centaurus,384 G. Cen,,384 G,,384,,132096,73279,14h 58m 36.59s,-39° 54′ 25.1″,6.17,0.92,365,K1III,,224.650,-38.093,Centarui,384 G Centarui
+2830,Centaurus,V790 Cen,,V790,,,V790,116072,,13h 22m 35.7s,-60° 58′ 20.0″,6.18,,,B2.5Vn,"β Cep variable, Vmax = 6.16m, Vmin = 6.27m",200.646,-59.028,Centarui,V790 Centarui
+2831,Centaurus,186 G. Cen,,186 G,,186,,114630,64478,13h 12m 55.71s,-59° 48′ 58.8″,6.18,3.18,130,G0V,,198.229,-58.184,Centarui,186 G Centarui
+2832,Centaurus,198 G. Cen,,198 G,,198,,115529,64933,13h 18m 34.89s,-51° 17′ 08.7″,6.18,−0.30,644,A0V,,199.642,-50.714,Centarui,198 G Centarui
+2833,Centaurus,211 G. Cen,,211 G,,211,,116197,65288,13h 22m 52.50s,-47° 56′ 35.6″,6.18,−1.24,994,A4V,,200.717,-46.057,Centarui,211 G Centarui
+2834,Centaurus,306 G. Cen,,306 G,,306,,122510,68641,14h 03m 01.71s,-31° 41′ 03.1″,6.18,3.27,125,F6V,,210.754,-30.316,Centarui,306 G Centarui
+2835,Centaurus,312 G. Cen,,312 G,,312,,123004,68872,14h 06m 10.91s,-43° 05′ 29.8″,6.18,0,561,G8III,,211.542,-42.909,Centarui,312 G Centarui
+2836,Centaurus,187 G. Cen,,187 G,,187,,114707,64472,13h 12m 50.86s,-42° 41′ 59.0″,6.19,−0.24,629,K0III,,198.208,-41.300,Centarui,187 G Centarui
+2837,Centaurus,319 G. Cen,,319 G,,319,,123445,69113,14h 08m 51.90s,-43° 28′ 14.7″,6.19,−0.51,713,B9V,,212.213,-42.529,Centarui,319 G Centarui
+2838,Centaurus,200 G. Cen,,200 G,,200,,115778,65108,13h 20m 35.06s,-59° 46′ 21.9″,6.2,0.8,392,F3/F5II,,200.146,-58.228,Centarui,200 G Centarui
+2839,Centaurus,V992 Cen,,V992,,309,V992,122844,68842,14h 05m 46.53s,-54° 40′ 09.5″,6.2,0.62,425,A5III/IV,"β Lyr variable, ΔV = ~0.09m",211.442,-53.331,Centarui,V992 Centarui
+2840,Centaurus,389 G. Cen,,389 G,,389,,132763,73559,15h 01m 58.10s,-34° 21′ 31.7″,6.21,0.81,393,A8/A9III/IV,,225.492,-33.641,Centarui,389 G Centarui
+2841,Centaurus,15 G. Cen,,15 G,,15,,97866,54929,11h 14m 54.13s,-43° 44′ 01.3″,6.22,−2.40,1725,K4III,,168.725,-42.266,Centarui,15 G Centarui
+2842,Centaurus,,,HD 100826,,,,100826,56550,11h 35m 42.34s,-61° 17′ 16.3″,6.23,−4.42,4405,A0Ib,,173.925,-60.712,Centarui,HD 100826 Centarui
+2843,Centaurus,100 G. Cen,,100 G,,100,,105920,59439,12h 11m 31.67s,-51° 21′ 33.0″,6.23,2.59,174,G6III+...,,182.879,-50.641,Centarui,100 G Centarui
+2844,Centaurus,20 G. Cen,,20 G,,20,,98161,55130,11h 17m 12.06s,-38° 00′ 51.8″,6.24,1.96,234,A1V,,169.300,-37.986,Centarui,20 G Centarui
+2845,Centaurus,104 G. Cen,,104 G,,104,,106572,59785,12h 15m 30.71s,-41° 54′ 46.2″,6.24,1.1,347,K0III,,183.875,-40.087,Centarui,104 G Centarui
+2846,Centaurus,116 G. Cen,,116 G,,116,,107998,60549,12h 24m 44.77s,-41° 23′ 02.8″,6.24,0.32,498,K2/K3III,,186.183,-40.616,Centarui,116 G Centarui
+2847,Centaurus,V789 Cen,,V789,,167,V789,113523,63820,13h 04m 48.25s,-41° 11′ 46.6″,6.24,−1.54,1173,M3/M4III,"irregular variable, ΔV = 0.09m",196.200,-40.804,Centarui,V789 Centarui
+2848,Centaurus,120 G. Cen,,120 G,,120,,108309,60729,12h 26m 48.71s,-48° 54′ 46.8″,6.25,4.12,87,G5IV-V,,186.700,-47.087,Centarui,120 G Centarui
+2849,Centaurus,63 G. Cen,,63 G,,63,,102150,57322,11h 45m 12.66s,-49° 04′ 11.5″,6.26,0.24,521,K1III,,176.300,-48.930,Centarui,63 G Centarui
+2850,Centaurus,81 G. Cen,,81 G,,81,,103746,58242,11h 56m 44.02s,-47° 04′ 20.8″,6.26,2.6,176,F3IV-V,,179.183,-46.928,Centarui,81 G Centarui
+2851,Centaurus,141 G. Cen,,141 G,,141,,111519,62655,12h 50m 19.53s,-48° 27′ 34.4″,6.26,0.04,571,A0V,,192.579,-47.541,Centarui,141 G Centarui
+2852,Centaurus,147 G. Cen,,147 G,,147,,111790,62821,12h 52m 24.61s,-53° 49′ 47.7″,6.26,−1.36,1090,G8Ib/II,,193.100,-52.170,Centarui,147 G Centarui
+2853,Centaurus,7 G. Cen,,7 G,,7,,97413,54718,11h 12m 10.24s,-46° 16′ 00.4″,6.27,1.29,322,A1V,,168.042,-45.733,Centarui,7 G Centarui
+2854,Centaurus,222 G. Cen,,222 G,,222,,116862,65630,13h 27m 20.66s,-49° 22′ 52.6″,6.27,−2.98,2312,B3IV,,201.833,-48.619,Centarui,222 G Centarui
+2855,Centaurus,2 G. Cen,,2 G,,2,,96407,54264,11h 06m 05.74s,-51° 12′ 45.9″,6.28,0.77,412,G6IV,,166.521,-50.788,Centarui,2 G Centarui
+2856,Centaurus,V809 Cen,,V809,,36,V809,100198,56201,11h 31m 15.05s,-61° 16′ 42.5″,6.28,−4.49,4657,A3Iae,"α Cyg variable, ΔV = 0.05m",172.813,-60.722,Centarui,V809 Centarui
+2857,Centaurus,V765 Cen,,V765,,247,V765,118781,66645,13h 39m 40.85s,-39° 44′ 51.2″,6.29,−1.39,1120,M3/M4III,"irregular variable, ΔV = 0.08m",204.917,-38.253,Centarui,V765 Centarui
+2858,Centaurus,19 G. Cen,,19 G,,19,,98096,55068,11h 16m 27.94s,-45° 52′ 48.6″,6.3,2.58,181,F3V,,169.113,-44.120,Centarui,19 G Centarui
+2859,Centaurus,49 G. Cen,,49 G,,49,,100911,56632,11h 36m 40.74s,-37° 14′ 13.9″,6.3,0.69,432,A1V,,174.167,-36.763,Centarui,49 G Centarui
+2860,Centaurus,365 G. Cen,,365 G,,365,,128713,71746,14h 40m 32.77s,-56° 26′ 26.7″,6.3,−1.15,1006,K0/K1II,,220.133,-55.559,Centarui,365 G Centarui
+2861,Centaurus,377 G. Cen,,377 G,,377,,131117,72772,14h 52m 33.33s,-30° 34′ 37.8″,6.3,3.29,130,G0/G1V,,223.138,-29.423,Centarui,377 G Centarui
+2862,Centaurus,3 G. Cen,,3 G,,3,,96484,54291,11h 06m 27.57s,-50° 57′ 24.3″,6.31,1.05,367,K2II,,166.613,-49.043,Centarui,3 G Centarui
+2863,Centaurus,144 G. Cen,,144 G,,144,,111775,62799,12h 52m 05.47s,-48° 05′ 39.5″,6.31,0.48,479,A0IV,,193.021,-47.906,Centarui,144 G Centarui
+2864,Centaurus,220 G. Cen,,220 G,,220,,116836,65606,13h 27m 06.40s,-49° 08′ 37.3″,6.31,−1.27,1069,A0III/IV,,201.775,-48.856,Centarui,220 G Centarui
+2865,Centaurus,332 G. Cen,,332 G,,332,,124580,69671,14h 15m 38.58s,-45° 00′ 01.5″,6.31,4.69,69,F9V,,213.908,-45.000,Centarui,332 G Centarui
+2866,Centaurus,,,HD 101545,,,,101545,56961,11h 40m 37.01s,-62° 34′ 05.2″,6.32,−3.36,2810,O9.5Ib,,175.154,-61.432,Centarui,HD 101545 Centarui
+2867,Centaurus,180 G. Cen,,180 G,,180,,114461,64395,13h 11m 53.07s,-63° 18′ 10.7″,6.32,,,F0II,,197.971,-62.697,Centarui,180 G Centarui
+2868,Centaurus,232 G. Cen,,232 G,,232,,117919,66236,13h 34m 28.99s,-48° 16′ 19.7″,6.32,−0.42,726,B8III,,203.617,-47.728,Centarui,232 G Centarui
+2869,Centaurus,347 G. Cen,,347 G,,347,,126386,70580,14h 26m 13.53s,-42° 19′ 06.5″,6.33,1.41,314,K3III,,216.554,-41.682,Centarui,347 G Centarui
+2870,Centaurus,279 G. Cen,,279 G,,279,,120672,67648,13h 51m 36.58s,-36° 25′ 58.8″,6.34,2.45,195,F6V,,207.900,-35.567,Centarui,279 G Centarui
+2871,Centaurus,V883 Cen,,V883,,318,V883,123335,69122,14h 08m 56.27s,-59° 16′ 36.0″,6.34,−1.24,1069,B5IV,"eclipsing binary, Vmax = ~6.3m, Vmin = ~6.6m",212.233,-58.723,Centarui,V883 Centarui
+2872,Centaurus,84 G. Cen,,84 G,,84,,104080,58452,11h 59m 10.71s,-45° 49′ 55.9″,6.36,0.49,487,B8/B9V,,179.792,-44.168,Centarui,84 G Centarui
+2873,Centaurus,348 G. Cen,,348 G,,348,,126475,70626,14h 26m 49.89s,-39° 52′ 26.2″,6.36,0.62,458,B9V,,216.704,-38.126,Centarui,348 G Centarui
+2874,Centaurus,382 G. Cen,,382 G,,382,,131752,73116,14h 56m 35.78s,-39° 24′ 57.5″,6.36,0.96,393,A0/A1V,,224.146,-38.584,Centarui,382 G Centarui
+2875,Centaurus,210 G. Cen,,210 G,,210,,116226,65303,13h 23m 02.61s,-48° 33′ 46.0″,6.37,−2.33,1791,B6IV,,200.758,-47.437,Centarui,210 G Centarui
+2876,Centaurus,126 G. Cen,,126 G,,126,,109312,61328,12h 33m 59.26s,-49° 54′ 34.9″,6.38,2.24,220,F5IV-V,,188.496,-48.091,Centarui,126 G Centarui
+2877,Centaurus,138 G. Cen,,138 G,,138,,110653,62128,12h 43m 58.66s,-36° 20′ 56.9″,6.38,−0.99,973,B8/B9V,,190.992,-35.651,Centarui,138 G Centarui
+2878,Centaurus,369 G. Cen,,369 G,,369,,129161,71853,14h 41m 51.25s,-30° 55′ 59.2″,6.38,−1.22,1079,Asp...,,220.463,-29.067,Centarui,369 G Centarui
+2879,Centaurus,112 G. Cen,,112 G,,112,,107833,60454,12h 23m 36.76s,-39° 18′ 08.5″,6.39,1.01,389,F2V,,185.900,-38.698,Centarui,112 G Centarui
+2880,Centaurus,310 G. Cen,,310 G,,310,,122879,68902,14h 06m 25.16s,-59° 42′ 57.2″,6.39,,,B0Ia,,211.604,-58.284,Centarui,310 G Centarui
+2881,Centaurus,313 G. Cen,,313 G,,313,,123151,69065,14h 08m 14.27s,-63° 12′ 28.9″,6.39,1.03,384,G8/K0III,,212.058,-62.792,Centarui,313 G Centarui
+2882,Centaurus,R Cen,,R,,331,R,124601,,14h 16m 34.20s,-59° 54′ 50.0″,6.39,,,,"Mira variable, Vmax = 5.3m, Vmin = 11.8m, P = 546.2 d; H2O maser",214.142,-58.086,Centarui,R Centarui
+2883,Centaurus,350 G. Cen,,350 G,,350,,127152,70966,14h 30m 56.63s,-40° 50′ 42.4″,6.39,−1.15,1048,K3III,,217.733,-39.155,Centarui,350 G Centarui
+2884,Centaurus,354 G. Cen,,354 G,,354,,127724,71333,14h 35m 17.08s,-60° 00′ 56.1″,6.39,0.03,609,K2III,,218.821,-59.984,Centarui,354 G Centarui
+2885,Centaurus,130 G. Cen,,130 G,,130,,109675,61557,12h 36m 46.65s,-50° 20′ 07.3″,6.4,1.19,359,A0V,,189.192,-49.665,Centarui,130 G Centarui
+2886,Centaurus,223 G. Cen,,223 G,,223,,116873,65621,13h 27m 14.67s,-40° 09′ 45.7″,6.4,0.69,452,G8/K0III,,201.808,-39.838,Centarui,223 G Centarui
+2887,Centaurus,V766 Cen,,V766,,264,V766,119796,67261,13h 47m 10.87s,-62° 35′ 22.9″,6.4,−6.36,11643,A7V,"S Doradus variable, Vmax = 6.17m, Vmin = 7.50m",206.792,-61.411,Centarui,V766 Centarui
+2888,Centaurus,329 G. Cen,,329 G,,329,,124454,69655,14h 15m 21.33s,-53° 30′ 35.7″,6.4,−0.99,979,K3III,,213.838,-52.490,Centarui,329 G Centarui
+2889,Centaurus,238 G. Cen,,238 G,,238,,118384,66521,13h 38m 07.63s,-58° 24′ 52.5″,6.41,0.6,472,K1III,,204.529,-57.586,Centarui,238 G Centarui
+2890,Centaurus,263 G. Cen,,263 G,,263,,119727,67199,13h 46m 14.54s,-54° 40′ 59.9″,6.42,1.35,337,A1V,,206.558,-53.317,Centarui,263 G Centarui
+2891,Centaurus,137 G. Cen,,137 G,,137,,110575,62081,12h 43m 26.24s,-40° 10′ 40.1″,6.43,2.15,235,A7III,,190.858,-39.822,Centarui,137 G Centarui
+2892,Centaurus,V1154 Cen,,V1154,,169,V1154,113602,63883,13h 05m 30.83s,-52° 06′ 56.5″,6.43,−1.21,1101,M1III,"semiregular variable, Vmax = 6.33m, Vmin = 6.58m, P = 21.8 d",196.375,-51.884,Centarui,V1154 Centarui
+2893,Centaurus,254 G. Cen,,254 G,,254,,119193,66923,13h 42m 54.64s,-50° 47′ 24.7″,6.43,−0.89,948,M0III,,205.725,-49.210,Centarui,254 G Centarui
+2894,Centaurus,HD 120457,,275 G,,275,,120457,67537,13h 50m 19.39s,-39° 54′ 03.0″,6.43,1.17,367,K1III,has a planet (b),207.579,-38.099,Centarui,275 G Centarui
+2895,Centaurus,317 G. Cen,,317 G,,317,,123247,69011,14h 07m 40.84s,-48° 42′ 14.3″,6.43,1.41,330,B9V,,211.917,-47.296,Centarui,317 G Centarui
+2896,Centaurus,5 G. Cen,,5 G,,5,,96660,54380,11h 07m 34.15s,-48° 38′ 24.1″,6.44,0.29,553,K3III,,166.892,-47.360,Centarui,5 G Centarui
+2897,Centaurus,168 G. Cen,,168 G,,168,,113537,63849,13h 05m 06.70s,-47° 07′ 00.6″,6.44,1.2,364,F5III,,196.275,-46.883,Centarui,168 G Centarui
+2898,Centaurus,V827 Cen,,V827,,259,V827,119419,67036,13h 44m 16.03s,-51° 00′ 44.7″,6.44,1.18,367,A0p,"α² CVn variable, ΔV = 0.025m, P = 2.605 d",206.067,-50.988,Centarui,V827 Centarui
+2899,Centaurus,V808 Cen,,V808,,35,V808,99953,56050,11h 29m 15.14s,-63° 33′ 14.2″,6.45,−4.45,4939,B2Ia,"α Cyg variable, Vmax = 6.42m, Vmin = 6.47m",172.313,-62.446,Centarui,V808 Centarui
+2900,Centaurus,316 G. Cen,,316 G,,316,,123227,69012,14h 07m 41.56s,-49° 52′ 04.3″,6.45,3.42,132,G3V,,211.921,-48.132,Centarui,316 G Centarui
+2901,Centaurus,386 G. Cen,,386 G,,386,,132238,73341,14h 59m 13.94s,-37° 52′ 52.3″,6.45,0.03,626,B8V,,224.804,-36.119,Centarui,386 G Centarui
+2902,Centaurus,22 G. Cen,,22 G,,22,,98176,55133,11h 17m 14.37s,-41° 56′ 03.5″,6.46,1.01,401,A0V,,169.308,-40.066,Centarui,22 G Centarui
+2903,Centaurus,V871 Cen,,V871,,,V871,101205,56769,11h 38m 20.37s,-63° 22′ 21.9″,6.46,,,O8var,"β Lyr variable, ΔV = 0.12m",174.583,-62.628,Centarui,V871 Centarui
+2904,Centaurus,77 G. Cen,,77 G,,77,,103437,58057,11h 54m 26.06s,-37° 44′ 56.7″,6.46,3.12,152,F7V,,178.608,-36.251,Centarui,77 G Centarui
+2905,Centaurus,233 G. Cen,,233 G,,233,,118010,66254,13h 34m 43.61s,-33° 18′ 39.0″,6.46,−0.75,903,K2III,,203.679,-32.689,Centarui,233 G Centarui
+2906,Centaurus,349 G. Cen,,349 G,,349,,126610,70798,14h 28m 43.50s,-59° 11′ 51.1″,6.46,,,A0II/III,,217.179,-58.803,Centarui,349 G Centarui
+2907,Centaurus,90 G. Cen,,90 G,,90,,104839,58859,12h 04m 16.74s,-51° 28′ 21.0″,6.48,1.1,388,B9V,,181.067,-50.528,Centarui,90 G Centarui
+2908,Centaurus,155 G. Cen,,155 G,,155,,112381,63204,12h 56m 58.26s,-54° 35′ 14.3″,6.48,1.46,329,A0p,,194.242,-53.413,Centarui,155 G Centarui
+2909,Centaurus,,,HD 116338,,,,116338,65372,13h 23m 52.19s,-49° 49′ 21.8″,6.48,0.91,424,G8III,,200.967,-48.178,Centarui,HD 116338 Centarui
+2910,Centaurus,237 G. Cen,,237 G,,237,,118319,66405,13h 36m 50.58s,-34° 28′ 03.9″,6.48,0.47,519,K0III,,204.208,-33.533,Centarui,237 G Centarui
+2911,Centaurus,299 G. Cen,,299 G,,299,,121901,68413,14h 00m 17.47s,-61° 28′ 51.4″,6.49,2.42,213,F1III-IV,,210.071,-60.519,Centarui,299 G Centarui
+2912,Centaurus,,,HD 99145,,,,99145,55645,11h 23m 56.54s,-57° 52′ 49.4″,6.5,0.32,561,M0III,,170.983,-56.120,Centarui,HD 99145 Centarui
+2913,Centaurus,89 G. Cen [1],,89 G,,89,,104747,58799,12h 03m 36.62s,-39° 00′ 32.3″,6.51,3.17,152,F7V,,180.900,-38.991,Centarui,89 G Centarui
+2914,Centaurus,T Cen,,T,,252,T,119090,66825,13h 41m 45.58s,-33° 35′ 50.6″,6.58,−2.43,2063,M3e,"semiregular variable, Vmax = 5.5m, Vmin = 9.0m, P = 90.44 d",205.438,-32.403,Centarui,T Centarui
+2915,Centaurus,HD 114729,,188 G,,188,,114729,64459,13h 12m 44.26s,-31° 52′ 24.1″,6.69,3.97,114,G3V,has a planet (b),198.183,-30.127,Centarui,188 G Centarui
+2916,Centaurus,HD 117253,,HD 117253,,,,117253,65891,13h 30m 25.00s,-58° 39′ 52.00″,6.75,,444,K0III,has a planet (b),202.604,-57.349,Centarui,HD 117253 Centarui
+2917,Centaurus,HD 115470,,HD 115470,,,,115470,64892,13h 18m 05.00s,-44° 03′ 19.00″,6.8,,408,B9.5V,has a planet (b),199.521,-43.948,Centarui,HD 115470 Centarui
+2918,Centaurus,HD 116434,,HD 116434,,,,116434,65426,13h 24m 36.00s,-51° 30′ 16.00″,7.01,,36,A2V,has a planet (b),201.150,-50.498,Centarui,HD 116434 Centarui
+2919,Centaurus,HD 117618,,HD 117618,,,,117618,66047,13h 32m 25.00s,-47° 16′ 16.00″,7.18,4.28,124,G2V,"Dofida[2], has two planets (b and c)",203.104,-46.732,Centarui,HD 117618 Centarui
+2920,Centaurus,HD 117207,,HD 117207,,,,117207,65808,13h 29m 21.11s,-35° 34′ 15.6″,7.26,4.67,108,G8IV-V,has a planet (b),202.338,-34.429,Centarui,HD 117207 Centarui
+2921,Centaurus,HD 102117,,HD 102117,,,,102117,57291,11h 44m 50.46s,-58° 42′ 13.4″,7.47,4.35,137,G6V,"Uklun[3], has a planet (b)",176.208,-57.296,Centarui,HD 102117 Centarui
+2922,Centaurus,HD 121504,,HD 121504,,,,121504,68162,13h 57m 17.24s,-56° 02′ 24.5″,7.54,4.29,145,G2V,has a planet (b),209.321,-55.960,Centarui,HD 121504 Centarui
+2923,Centaurus,Przybylski's Star,,V816,,,V816,101065,56709,11h 37m 37.04s,-46° 42′ 34.88″,8.02,,410,B5p,"V816 Cen; chemically peculiar star; δ Sct variable, Vmax = 7.996m, Vmin = 8.020m, P = 0.0084306 d",174.404,-45.299,Centarui,V816 Centarui
+2924,Centaurus,HD 109749,,HD 109749,,,,109749,61595,12h 37m 16.38s,-40° 48′ 43.6″,8.1,4.24,192,G3V,has a planet (b),189.317,-39.188,Centarui,HD 109749 Centarui
+2925,Centaurus,HD 101930,,HD 101930,,,,101930,57172,11h 43m 30.11s,-58° 00′ 24.8″,8.21,5.79,99,K1V,has a planet (b),175.875,-57.993,Centarui,HD 101930 Centarui
+2926,Centaurus,HD 114386,,HD 114386,,,,114386,64295,13h 10m 39.82s,-35° 03′ 17.2″,8.73,6.49,91,K3V,has two planets (b & c),197.663,-34.945,Centarui,HD 114386 Centarui
+2927,Centaurus,HD 113538,,HD 113538,,,,113538,63833,13h 04m 57.00s,-52° 26′ 35.00″,9.02,,52,K9V,has two planets (b and c),196.238,-51.565,Centarui,HD 113538 Centarui
+2928,Centaurus,HD 125595,,HD 125595,,,,125595,70170,14h 21m 23.00s,-40° 23′ 39.00″,9.03,,89,K4V,has a planet (b),215.346,-39.614,Centarui,HD 125595 Centarui
+2929,Centaurus,HD 108236,,HD 108236,,,,108236,60689,12h 26m 17.80s,-51° 21′ 47.00″,9.2,,211,K4V,"has four planets (b, c, e and f)",186.571,-50.648,Centarui,HD 108236 Centarui
+2930,Centaurus,HD 103197,,HD 103197,,,,103197,57931,11h 52m 52.98s,-50° 17′ 34.2″,9.41,5.94,161,K1Vp...,has a planet (b),178.217,-49.707,Centarui,HD 103197 Centarui
+2931,Centaurus,HD 120411,,HD 120411,,,,120411,67522,13h 50m 06.00s,-40° 50′ 09.00″,9.9,,415,,has a planet (b),207.525,-39.164,Centarui,HD 120411 Centarui
+2932,Centaurus,PSR B1259-63,, ,,,,,,13h 02m 47.66s,-63° 50′ 08.07″,10.08,,,B2e,Pulsar in binary system,195.696,-62.164,Centarui,  Centarui
+2933,Centaurus,WASP-131,,W-131,,,,,,14h 00m 46.00s,-30° 35′ 01.00″,10.1,,815,G0,has a transiting planet (b),210.192,-29.416,Centarui,W-131 Centarui
+2934,Centaurus,WASP-167,,W-167,,,,,,13h 04m 10.50s,-35° 32′ 58.00″,10.5,,1243,F1 V,has a transiting planet (b),196.042,-34.464,Centarui,W-167 Centarui
+2935,Centaurus,WASP-87 A,,W-87 A,,,,,,12h 21m 18.00s,-52° 50′ 27.00″,10.7,,783,F5,has a transiting planet (b),185.325,-51.165,Centarui,W-87 A Centarui
+2936,Centaurus,WASP-15,,W-15,,,,,,13h 55m 43.00s,-32° 09′ 35.00″,10.9,,1005,F7,"Nyamien[4], has a transiting planet (b)",208.929,-31.849,Centarui,W-15 Centarui
+2937,Centaurus,WASP-172,,W-172,,,,,,13h 17m 44.00s,-47° 14′ 15.00″,11,,,F1V,has a transiting planet (b),199.433,-46.765,Centarui,W-172 Centarui
+2938,Centaurus,Proxima Centauri,,V645,,,V645,,70890,14h 29m 42.95s,-62° 40′ 46.1″,11.05,15.49,4.22,M5.5V,"α Cen C, V645 Cen; nearest star; flare star; a component of the triple Alpha Centauri star system",217.425,-61.321,Centarui,V645 Centarui
+2939,Centaurus,WASP-130,,W-130,,,,,,13h 32m 25.00s,-42° 28′ 31.00″,11.1,,587,G6,has a transiting planet (b),203.104,-41.533,Centarui,W-130 Centarui
+2940,Centaurus,WASP-108,,W-108,,,,,,13h 03m 19.00s,-49° 38′ 23.00″,11.2,,718,F9,has a transiting planet (b),195.829,-48.366,Centarui,W-108 Centarui
+2941,Centaurus,WASP-41,,W-41,,,,,,12h 42m 28.50s,-30° 38′ 24.00″,11.6,,587,G8V,has two transiting planets (b & c),190.617,-29.366,Centarui,W-41 Centarui
+2942,Centaurus,1A 1118-61,, ,,,,,,11h 20m 57.18s,-61° 55′ 00.2″,12.12,,,O9.5III/Ve,high-mass X-ray binary,170.238,-60.083,Centarui,  Centarui
+2943,Centaurus,WASP-129,,W-129,,,,,,11h 45m 12.00s,-42° 03′ 50.00″,12.3,,802,G1,has a transiting planet (b),176.300,-41.950,Centarui,W-129 Centarui
+2944,Centaurus,WASP-128,,W-128,,,,,,11h 31m 26.10s,-41° 41′ 22.00″,12.5,,1376,G0V,has a transiting planet (b),172.858,-40.316,Centarui,W-128 Centarui
+2945,Centaurus,WASP-184,,W-184,,,,,,13h 58m 04.00s,-30° 20′ 53.00″,12.9,,2087,G0,has a transiting planet (b),209.517,-29.666,Centarui,W-184 Centarui
+2946,Centaurus,WASP-171,,W-171,,,,,,11h 27m 23.00s,-44° 05′ 19.00″,13,,2524,,has a transiting planet (b),171.846,-43.914,Centarui,W-171 Centarui
+2947,Centaurus,Krzeminski's Star,,V779,,,V779,,,11h 21m 15.78s,-60° 37′ 22.7″,13.25,,26000,O6.5II,"V779 Cen; optical component of X-ray binary star Centaurus X-3; eclipsing binary, Vmax = 13.25m, Vmin = 13.46m, P = 2.08726 d",170.313,-59.377,Centarui,V779 Centarui
+2948,Centaurus,BPM 37093,,V886,,,V886,,,12h 38m 49.93s,-49° 48′ 01.2″,13.96,13.02,50,DA,"V886 Cen; nicknamed Lucy;[5] white dwarf; ZZ Cet variable, ΔV = 0.02m",189.704,-48.200,Centarui,V886 Centarui
+2949,Centaurus,2M1207,, ,,,,,,12h 07m 33.47s,-39° 32′ 54.0″,20.15,,192,M8V,2MASSW J1207334-393254; brown dwarf; has a planet 2M1207b,181.888,-38.452,Centarui,  Centarui

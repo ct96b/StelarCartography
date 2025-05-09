@@ -7533,8 +7533,7 @@ USID,Constellation,Name,B,B->F->VAR->G,F,G.,Var,HD,HIP,RA,Dec,"vis. mag.","abs. 
 7532,Octans,HD 142022,,HD 142022,,,,142022,79242,16h 10m 15.03s,-84° 13′ 53.8″,7.7,5.01,112,K0V,"binary star, component A has a planet (b)",242.563,-83.769,Octanis,HD 142022 Octanis
 7533,Octans,HD 212301,,HD 212301,,,,212301,110852,22h 27m 30.92s,-77° 43′ 04.5″,7.77,4.07,179,F8V,has a planet (b),336.875,-76.282,Octanis,HD 212301 Octanis
 7534,Octans,CF Oct,,CF,,,CF,196818,102803,20h 49m 37.26s,-80° 08′ 01.0″,7.93,,683,K0IIIp,slow irregular variable,312.404,-79.866,Octanis,CF Octanis
-7535,Octans,HD 188136,,CC,,,CC,"188136
-188137",98757,20h 03m 31.75s,-78° 49′ 50.7″,8.01,,620,ApSrYZrBa,"δ Sct variable, ΔV = 0.1m, P = 0.1249 d",300.879,-77.169,Octanis,CC Octanis
+7535,Octans,HD 188136,,CC,,,CC,"188136 188137",98757,20h 03m 31.75s,-78° 49′ 50.7″,8.01,,620,ApSrYZrBa,"δ Sct variable, ΔV = 0.1m, P = 0.1249 d",300.879,-77.169,Octanis,CC Octanis
 7536,Octans,X Oct,,X,,,X,91620,51084,10h 26m 14.25s,-84° 20′ 53.9″,8.7,,997,M5/M6e,"Mira variable, Vmax = 6.8m, Vmin = 10.9m, P = 200 d",156.558,-83.652,Octanis,X Octanis
 7537,Octans,HD 89499,,DR,,,DR,89499,49616,10h 07m 29.54s,-85° 04′ 33.0″,8.7,,373,G3V,"RS CVn variable, Vmax = 8.7m, Vmin = 8.73m, P = 5.532 d",151.871,-84.924,Octanis,DR Octanis
 7538,Octans,UV Oct,,UV,,,UV,156008,80990,16h 32m 59.53s,-83° 14′ 10.5″,9.44,,1340,A9:Ia/Iabw,"RR Lyr variable, Vmax = 8.7m, Vmin = 9.97m, P = 0.54258 d",248.246,-82.764,Octanis,UV Octanis
@@ -7867,10 +7866,7 @@ USID,Constellation,Name,B,B->F->VAR->G,F,G.,Var,HD,HIP,RA,Dec,"vis. mag.","abs. 
 7865,Orion,HD 37171,,HD 37171,,,,37171,26386,05h 37m 04.35s,+11° 02′ 06.2″,5.97,−1.04,821,K4II SB,"variable star, ΔV = 0.013m, P = 1.56 d",84.267,11.035,Orionis,HD 37171 Orionis
 7866,Orion,HD 38089,,HD 38089,,,,38089,26926,05h 42m 53.91s,-06° 47′ 46.7″,5.97,2.47,163,F3V,,85.721,-5.204,Orionis,HD 38089 Orionis
 7867,Orion,HD 38858,,HD 38858,,,,38858,27435,05h 48m 34.90s,-04° 05′ 38.7″,5.97,5.01,51,G4V,has a planet; suspected variable,87.142,-3.906,Orionis,HD 38858 Orionis
-7868,Orion,HD 39118,,"HD 39118
-39119",,,,"39118
-39119",27588,05h 50m 30.03s,+02° 01′ 29.0″,5.97,−1.73,1128,G8III+...,suspected variable,87.625,2.025,Orionis,"HD 39118
-39119 Orionis"
+7868,Orion,HD 39118,,"HD 39118 39119",,,,"39118 39119",27588,05h 50m 30.03s,+02° 01′ 29.0″,5.97,−1.73,1128,G8III+...,suspected variable,87.625,2.025,Orionis,"HD 39118 39119 Orionis"
 7869,Orion,HD 39885,,HD 39985,,,,39985,28110,05h 56m 28.04s,+09° 30′ 33.9″,5.97,−0.68,697,A0IV,,89.117,9.509,Orionis,HD 39985 Orionis
 7870,Orion,HD 31331,,HD 31331,,,,31331,22840,04h 54m 50.71s,+00° 28′ 01.8″,5.98,−1.38,964,B5V,,73.708,0.467,Orionis,HD 31331 Orionis
 7871,Orion,HD 35281,,HD 35281,,,,35281,25187,05h 23m 18.51s,-08° 24′ 56.1″,5.99,0.09,493,B8+...,,80.825,-7.584,Orionis,HD 35281 Orionis
@@ -8150,8 +8146,7 @@ USID,Constellation,Name,B,B->F->VAR->G,F,G.,Var,HD,HIP,RA,Dec,"vis. mag.","abs. 
 8145,Pavo,HD 175607,,HD 175607,,,,175607,93373,19h 01m 05.00s,-66° 11′ 34.00″,8.6,,148,G6V,has two planets (b &c),285.271,-65.816,Pavonis,HD 175607 Pavonis
 8146,Pavo,HD 190984,,HD 190984,,,,190984,99496,20h 11m 30.72s,-64° 37′ 13.7″,8.73,2.34,618,F8V,has a planet (b),302.875,-63.380,Pavonis,HD 190984 Pavonis
 8147,Pavo,MW Pav,,MW,,,MW,197070,102508,20h 46m 27.75s,-71° 56′ 58.5″,8.79,,682,F3IV/V,"W UMa variable, Vmax = 8.51m, Vmin = 8.95m, P = 0.794994 d",311.613,-70.051,Pavonis,MW Pavonis
-8148,Pavo,X Pav,,X,,,X,"191155
-191171",99512,20h 11m 45.86s,-59° 56′ 12.8″,9.2,,2190,M6/M7III:p,semiregular variable,302.938,-58.063,Pavonis,X Pavonis
+8148,Pavo,X Pav,,X,,,X,"191155 191171",99512,20h 11m 45.86s,-59° 56′ 12.8″,9.2,,2190,M6/M7III:p,semiregular variable,302.938,-58.063,Pavonis,X Pavonis
 8149,Pavo,Gliese 693,,HIP 86990,,,,,86990,17h 46m 34.23s,-57° 18′ 08.6″,10.78,,19.011,M2.0,suspected variable,266.642,-56.698,Pavonis,HIP 86990 Pavonis
 8150,Pavo,V347 Pav,,V347,,,V347,,,18h 44m 48.25s,-74° 18′ 34.2″,14.85,,,CV,"AM Her variable, Vmax = 14.85m, Vmin = 16.67m, P = 0.062553 d",281.200,-73.691,Pavonis,V347 Pavonis
 8151,Pavo,SCR 1845-6357,, ,,,,,,18h 45m 05.42s,-63° 57′ 47.6″,17.4,,12.565,M8.5,has a planet or brown dwarf companion,281.271,-62.037,Pavonis,  Pavonis
@@ -8865,12 +8860,7 @@ USID,Constellation,Name,B,B->F->VAR->G,F,G.,Var,HD,HIP,RA,Dec,"vis. mag.","abs. 
 8859,Pisces,Van Maanen's star,,HIP 3829,,,,,3829,00h 49m 09.90s,+05° 23′ 19.0″,12.36,14.14,14,DG...,31st closest star system; the nearest single white dwarf,12.288,5.389,Piscium,HIP 3829 Piscium
 8860,Pisces,WASP-151,,W-151,,,,,,23h 16m 15.20s,+00° 18′ 24.00″,12.9,,1566,G1,has a transiting planet (b),349.063,0.301,Piscium,W-151 Piscium
 8861,Pisces,HAT-P-51,, ,,,,,,01h 24m 16.00s,+32° 48′ 39.00″,13.44,,1533,,has a transiting planet (b),21.067,32.803,Piscium,  Piscium
-8862,Piscis Austrinus,Fomalhaut,α,Alpha,24,,,216956,113368,22h 57m 38.83s,-29° 37′ 18.6″,1.17,1.74,25,A3V,"Fom Alhout Algenubi,
-Os Piscis Meridiani,
-Os Piscis Meridionalis,
-Os Piscis Notii,
-Difda al Auwel;
-18th brightest star; has a circumstellar disk and one known planet (b); suspected variable",344.408,-28.378,Piscis Austrini,Alpha Piscis Austrini
+8862,Piscis Austrinus,Fomalhaut,α,Alpha,24,,,216956,113368,22h 57m 38.83s,-29° 37′ 18.6″,1.17,1.74,25,A3V,"Fom Alhout Algenubi:Os Piscis Meridiani:Os Piscis Meridionalis:Os Piscis Notii:Difda al Auwel;18th brightest star; has a circumstellar disk and one known planet (b); suspected variable",344.408,-28.378,Piscis Austrini,Alpha Piscis Austrini
 8863,Piscis Austrinus,ε PsA,ε,Epsilon,18,,,214748,111954,22h 40m 39.33s,-27° 02′ 37.0″,4.18,−2.61,744,B8V,"suspected variable, Vmax = 4.12m, Vmin = 4.24m",340.163,-26.956,Piscis Austrini,Epsilon Piscis Austrini
 8864,Piscis Austrinus,δ PsA,δ,Delta,23,,,216763,113246,22h 55m 56.89s,-32° 32′ 22.9″,4.2,0.61,170,G8III,Tiāngāng (天綱)[1],343.983,-31.461,Piscis Austrini,Delta Piscis Austrini
 8865,Piscis Austrinus,β PsA,β,Beta,17,,,213398,111188,22h 31m 30.29s,-32° 20′ 45.7″,4.29,1,148,A1V,,337.875,-31.654,Piscis Austrini,Beta Piscis Austrini
@@ -9539,15 +9529,12 @@ Difda al Auwel;
 9528,Sagittarius,WASP-67,,W-67,,,,,,19h 42m 59.00s,"-19° 56′ 58.0""",12.5,,734,K0V,has a transiting planet (b),295.746,-18.051,Sagittarii,W-67 Sagittarii
 9529,Sagittarius,OGLE-TR-10,, ,,,,,,17h 51m 28.25s,-29° 52′ 34.9″,14.93,,5000,G or K,has a transiting planet (b),267.867,-28.124,Sagittarii,  Sagittarii
 9530,Sagittarius,OGLE-TR-56,, ,,,,,,17h 56m 35.31s,-29° 32′ 21.2″,16.56,,5000,G,has a transiting planet (b),269.146,-28.461,Sagittarii,  Sagittarii
-9531,Sagittarius,"SWEEPS
-J175853.92−291120.6",, ,,,,,,17h 58m 53.92s,-29° 11′ 20.6″,18.8,,6500,,has a planet SWEEPS-04,269.721,-28.811,Sagittarii,  Sagittarii
+9531,Sagittarius,"SWEEPS J175853.92−291120.6",, ,,,,,,17h 58m 53.92s,-29° 11′ 20.6″,18.8,,6500,,has a planet SWEEPS-04,269.721,-28.811,Sagittarii,  Sagittarii
 9532,Sagittarius,OGLE-2005-BLG-169L,, ,,,,,,18h 06m 05.00s,"-30° 43′ 57.0""",19.4,,8800,M?,has a planet (b),271.521,-29.268,Sagittarii,  Sagittarii
 9533,Sagittarius,OGLE-2003-BLG-235,, ,,,,,,18h 05m 16.00s,"-28° 53′ 42.0""",19.7,,17000,K,has a planet (b),271.317,-27.105,Sagittarii,  Sagittarii
-9534,Sagittarius,"SWEEPS
-J175902.67−291153.5",, ,,,,,,17h 59m 02.67s,-29° 11′ 53.5″,19.83,,6500,,has a planet (SWEEPS-11),269.758,-28.802,Sagittarii,  Sagittarii
+9534,Sagittarius,"SWEEPS J175902.67−291153.5",, ,,,,,,17h 59m 02.67s,-29° 11′ 53.5″,19.83,,6500,,has a planet (SWEEPS-11),269.758,-28.802,Sagittarii,  Sagittarii
 9535,Sagittarius,MOA-2007-BLG-400L,, ,,,,,,18h 09m 42.00s,"-29° 13′ 27.0""",,,20000,M3V?,has a planet (b),272.425,-28.776,Sagittarii,  Sagittarii
-9536,Sagittarius,"SWEEPS
-J175902.00-291323.7",, ,,,,,,17h 59m 02.00s,-29° 13′ 23.7″,26.23,,6500,,has a possible shortest period planet (SWEEPS-10),269.758,-28.777,Sagittarii,  Sagittarii
+9536,Sagittarius,"SWEEPS J175902.00-291323.7",, ,,,,,,17h 59m 02.00s,-29° 13′ 23.7″,26.23,,6500,,has a possible shortest period planet (SWEEPS-10),269.758,-28.777,Sagittarii,  Sagittarii
 9537,Sagittarius,MOA-2007-BLG-192L,, ,,,,,,18h 08m 04.00s,"-27° 09′ 00.0""",,,,,has a planet (b),272.017,-26.850,Sagittarii,  Sagittarii
 9538,Sagittarius,Pistol Star,, ,,,,,,17h 46m 15.30s,"-28° 50′ 04.0""",,,25000,LBV,hypergiant; member of the Quintuplet star cluster,266.563,-27.166,Sagittarii,  Sagittarii
 9539,Sagittarius,WR 102ea,, ,,,,,,17h 46m 15.13s,-28° 49′ 37.0″,,,26000,,Wolf–Rayet star; member of the Quintuplet star cluster,266.563,-27.173,Sagittarii,  Sagittarii
@@ -9735,8 +9722,7 @@ J175902.00-291323.7",, ,,,,,,17h 59m 02.00s,-29° 13′ 23.7″,26.23,,6500,,has
 9721,Scorpius,RV Sco,,RV,,,RV,153004,83059,16h 58m 19.75s,-33° 36′ 32.8″,6.61,,1440,G0Ib,"classical Cepheid, Vmax = 6.61m, Vmin = 7.49m, P = 6.06 d",254.579,-32.391,Scorpii,RV Scorpii
 9722,Scorpius,HD 160529,,V905,,,V905,160529,86624,17h 41m 59.03s,-33° 30′ 13.7″,6.66,−8.9,8150,A3Iae,"luminous blue variable, Vmax = 6.21m, Vmin = 6.97m, P = 57 d",265.496,-32.496,Scorpii,V905 Scorpii
 9723,Scorpius,25 Sco,,25,25,,,151179,82140,16h 46m 51.35s,-25° 31′ 42.7″,6.72,−0.10,755,K0II,,251.713,-24.472,Scorpii,25 Scorpii
-9724,Scorpius,V636 Sco,,V636,,,V636,156979,85035,17h 22m 46.48s,-45° 36′ 51.4″,6.74,,,"F7/F8Ib/II
-+ B9.5V","classical Cepheid, Vmax = 6.4m, Vmin = 6.92m, P = 6.80 d",260.692,-44.386,Scorpii,V636 Scorpii
+9724,Scorpius,V636 Sco,,V636,,,V636,156979,85035,17h 22m 46.48s,-45° 36′ 51.4″,6.74,,,"F7/F8Ib/II + B9.5V","classical Cepheid, Vmax = 6.4m, Vmin = 6.92m, P = 6.80 d",260.692,-44.386,Scorpii,V636 Scorpii
 9725,Scorpius,V760 Sco,,V760,,,V760,147683,80405,16h 24m 43.72s,-34° 53′ 37.5″,7.05,,1280,B4V,Algol variable,246.179,-33.106,Scorpii,V760 Scorpii
 9726,Scorpius,HR 5999,,V856,,,V856,144668,79080,16h 08m 34.29s,-39° 06′ 18.3″,7.05,,531,A7IVe,"UX Ori star, Vmax = 6.77m, Vmin = 8.0m",242.142,-38.895,Scorpii,V856 Scorpii
 9727,Scorpius,HD 143567,,HD 143567,,,,143567,78530,16h 01m 55.00s,"-21° 58′ 49.0""",7.18,,511,B9V,has a planet (b),240.479,-20.020,Scorpii,HD 143567 Scorpii

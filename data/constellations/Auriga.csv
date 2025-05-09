@@ -1,0 +1,181 @@
+USID,Constellation,Name,B,B->F->VAR->G,F,G.,Var,HD,HIP,RA,Dec,"vis. mag.","abs. mag.",Dist. (ly),Sp. class,Notes https://en.wikipedia.org/wiki/Lists_of_stars_by_constellation,RA angle,Dec Angle,Latin Constellation,Full Designation
+857,Auriga,Capella,α,Alpha,13,,,34029,24608,05h 16m 41.30s,+45° 59′ 56.5″,0.08,−0.48,42,G8III / G0III,"Alhajoth, Alhaior, Althaiot, Alhaiset, Alhatod, Alhojet, Alanac, Alanat, Alioc; quadruple star, spectroscopic binary; 11th and 14th brightest stars",79.171,45.999,Aurigae,Alpha Aurigae
+858,Auriga,β Aur,β,Beta,34,,,40183,28360,05h 59m 31.77s,+44° 56′ 50.8″,1.9,−0.10,82,A2V,"Menkalinan, Menkalina; eclipsing spectroscopic binary; Algol variable, Vmax = 1.89m, Vmin = 1.98m, P = 3.96004 d",89.879,44.947,Aurigae,Beta Aurigae
+859,Auriga,θ Aur,θ,Theta,37,,,40312,28380,05h 59m 43.24s,+37° 12′ 46.0″,2.62,−0.98,173,A0p Si,"Mahasim, Maha-Sim, Manus; α² CVn variable, Vmax = 2.62m, Vmin = 2.70m, P = 3.6186 d",89.929,37.213,Aurigae,Theta Aurigae
+860,Auriga,ι Aur,ι,Iota,3,,,31398,23015,04h 56m 59.62s,+33° 09′ 58.1″,2.69,−3.29,512,K3IIvar,"Kabdhilinan, Hassaleh",74.246,33.166,Aurigae,Iota Aurigae
+861,Auriga,ε Aur,ε,Epsilon,7,,,31964,23416,05h 01m 58.13s,+43° 49′ 23.9″,3.03,−5.95,2037,F0Ia,"Almaaz, Maaz, Al Maz, Al Anz; long period eclipsing binary; Algol variable, Vmax = 2.92m, Vmin = 3.88m, P = 9884 d",75.492,43.823,Aurigae,Epsilon Aurigae
+862,Auriga,η Aur,η,Eta,10,,,32630,23767,05h 06m 30.87s,+41° 14′ 04.7″,3.18,−0.96,219,B3V,"Haedus II, Hoedus II, Haedus, Maha-Sim",76.625,41.234,Aurigae,Eta Aurigae
+863,Auriga,ζ Aur,ζ,Zeta,8,,,32068,23453,05h 02m 28.68s,+41° 04′ 33.2″,3.69,−3.22,787,K4II comp,"Sadatoni, Saclateni, Haedus I, Hoedus I; eclipsing binary; Algol variable, ΔV = 0.27m, P = 972.151 d",75.617,41.076,Aurigae,Zeta Aurigae
+864,Auriga,δ Aur,δ,Delta,33,,,40035,28358,05h 59m 31.55s,+54° 17′ 05.9″,3.72,0.55,140,K0III,"Prajapati, Praja",89.879,54.285,Aurigae,Delta Aurigae
+865,Auriga,ν Aur,ν,Nu,32,,,39003,27673,05h 51m 29.39s,+39° 08′ 54.5″,3.97,−0.13,215,K0III,,87.871,39.148,Aurigae,Nu Aurigae
+866,Auriga,π Aur,π,Pi,35,,,40239,28404,05h 59m 56.10s,+45° 56′ 12.3″,4.3,−2.76,840,M3IIvar,,89.983,45.937,Aurigae,Pi Aurigae
+867,Auriga,κ Aur,κ,Kappa,44,,,43039,29696,06h 15m 22.74s,+29° 29′ 55.4″,4.32,0.75,169,G8IIIvar,,93.842,29.499,Aurigae,Kappa Aurigae
+868,Auriga,τ Aur,τ,Tau,29,,,38656,27483,05h 49m 10.46s,+39° 10′ 52.1″,4.51,0.44,213,G8III,,87.292,39.181,Aurigae,Tau Aurigae
+869,Auriga,16 Aur,,16,16,,,34334,24727,05h 18m 10.55s,+33° 22′ 19.2″,4.54,0.26,234,K3III...,,79.542,33.372,Aurigae,16 Aurigae
+870,Auriga,λ Aur,λ,Lambda,15,,,34411,24813,05h 19m 08.08s,+40° 06′ 02.4″,4.69,4.18,41,G0V,"Al Hurr[1], Al Hiba I",79.783,40.101,Aurigae,Lambda Aurigae
+871,Auriga,χ Aur,χ,Chi,25,,,36371,25984,05h 32m 43.67s,+32° 11′ 31.3″,4.71,−5.77,4075,B5Iab,,83.179,32.192,Aurigae,Chi Aurigae
+872,Auriga,υ Aur,υ,Upsilon,31,,,38944,27639,05h 51m 02.41s,+37° 18′ 20.5″,4.72,−1.10,475,M1III,,87.758,37.306,Aurigae,Upsilon Aurigae
+873,Auriga,2 Aur,,2,2,,,30834,22678,04h 52m 38.00s,+36° 42′ 11.5″,4.79,−1.39,561,K3III,,73.158,36.703,Aurigae,2 Aurigae
+874,Auriga,ψ2 Aur,ψ2,Psi 2,50,,,47174,31832,06h 39m 19.83s,+42° 29′ 20.4″,4.8,−0.81,432,K3III,part of Dolones (ψ Aur)[1],99.829,42.489,Aurigae,Psi 2 Aurigae
+875,Auriga,μ Aur,μ,Mu,11,,,33641,24340,05h 13m 25.73s,+38° 29′ 04.8″,4.82,1.33,162,A4m,Al Hiba II,78.354,38.484,Aurigae,Mu Aurigae
+876,Auriga,63 Aur,,63,63,,,54716,34752,07h 11m 39.29s,+39° 19′ 14.0″,4.91,−0.86,464,K4II-III,,107.913,39.321,Aurigae,63 Aurigae
+877,Auriga,ψ1 Aur,ψ1,Psi 1,46,,,44537,30520,06h 24m 53.90s,+49° 17′ 16.4″,4.92,−5.43,3835,K5Iabvar,part of Dolones (ψ Aur)[1],96.221,49.288,Aurigae,Psi 1 Aurigae
+878,Auriga,ω Aur,ω,Omega,4,,,31647,23179,04h 59m 15.38s,+37° 53′ 25.7″,4.93,1.49,159,A1V,"Binary, associated to EUVE J0459+37.8 is UV-emission source",74.813,37.890,Aurigae,Omega Aurigae
+879,Auriga,ξ Aur,ξ,Xi,30,,,39283,27949,05h 54m 50.79s,+55° 42′ 24.9″,4.96,0.62,241,A2V,,88.708,55.707,Aurigae,Xi Aurigae
+880,Auriga,9 Aur,,9,9,,V398,32537,23783,05h 06m 40.66s,+51° 35′ 53.3″,4.98,2.89,85,F0V,"V398 Aurigae, Gamma Doradus variable, Vmax = 4.93m, Vmin = 5.03m, P = 1.25804 d",76.667,51.598,Aurigae,9 Aurigae
+881,Auriga,ψ7 Aur,ψ7,Psi 7,58,,,49520,32844,06h 50m 45.96s,+41° 46′ 53.6″,4.99,−0.25,364,K3III,part of Dolones (ψ Aur)[1],102.688,41.781,Aurigae,Psi 7 Aurigae
+882,Auriga,KW Aur,,14,14,,,33959,24504,05h 15m 24.41s,+32° 41′ 15.3″,5.01,0.43,269,A9IV,"δ Sct variable, Vmax = 4.95m, Vmin = 5.08m, P = 0.088088 d; multiple star system",78.850,32.688,Aurigae,14 Aurigae
+883,Auriga,σ Aur,σ,Sigma,21,,,35186,25292,05h 24m 39.14s,+37° 23′ 07.4″,5.02,−0.97,513,K4III,Al Hiba III,81.163,37.385,Aurigae,Sigma Aurigae
+884,Auriga,ψ4 Aur,ψ4,Psi 4,55,,,47914,32173,06h 43m 05.01s,+44° 31′ 28.3″,5.04,0.18,306,K5III,part of Dolones (ψ Aur)[1],100.771,44.524,Aurigae,Psi 4 Aurigae
+885,Auriga,19 Aur,,19,19,,,34578,24879,05h 20m 00.92s,+33° 57′ 29.0″,5.05,−4.82,3075,A5IIvar,,80.000,33.958,Aurigae,19 Aurigae
+886,Auriga,φ Aur,φ,Phi,24,,,35620,25541,05h 27m 38.89s,+34° 28′ 33.6″,5.08,−0.37,400,K4IIIp,,81.908,34.476,Aurigae,Phi Aurigae
+887,Auriga,65 Aur,,65,65,,,57264,35710,07h 22m 02.69s,+36° 45′ 38.3″,5.12,0.84,235,K0III,,110.508,36.761,Aurigae,65 Aurigae
+888,Auriga,ρ Aur,ρ,Rho,20,,,34759,25048,05h 21m 48.41s,+41° 48′ 16.8″,5.22,−1.25,642,B5V,,80.450,41.804,Aurigae,Rho Aurigae
+889,Auriga,ψ6 Aur,ψ6,Psi 6,57,,,48781,32562,06h 47m 39.58s,+48° 47′ 22.1″,5.22,−0.35,424,K1III,part of Dolones (ψ Aur)[1],101.913,48.789,Aurigae,Psi 6 Aurigae
+890,Auriga,66 Aur,,66,66,,,57669,35907,07h 24m 08.47s,+40° 40′ 20.8″,5.23,−1.51,728,K0III,,111.033,40.672,Aurigae,66 Aurigae
+891,Auriga,ψ5 Aur,ψ5,Psi 5,56,,,48682,32480,06h 46m 44.34s,+43° 34′ 37.3″,5.24,4.15,54,G0V,part of Dolones (ψ Aur)[1],101.683,43.577,Aurigae,Psi 5 Aurigae
+892,Auriga,49 Aur,,49,49,,,46553,31434,06h 35m 12.06s,+28° 01′ 20.4″,5.26,−0.42,447,A0Vnn,,98.800,28.022,Aurigae,49 Aurigae
+893,Auriga,45 Aur,,45,45,,,43905,30247,06h 21m 46.11s,+53° 27′ 08.6″,5.34,1.56,186,F5III...,,95.442,53.452,Aurigae,45 Aurigae
+894,Auriga,ψ3 Aur,ψ3,Psi 3,52,,,47100,31789,06h 38m 49.19s,+39° 54′ 09.3″,5.34,−1.49,758,B8III,part of Dolones (ψ Aur)[1],99.704,39.903,Aurigae,Psi 3 Aurigae
+895,Auriga,40 Aur,,40,40,,,41357,28946,06h 06m 35.09s,+38° 28′ 58.0″,5.36,0.01,380,A4m,,91.646,38.483,Aurigae,40 Aurigae
+896,Auriga,IQ Aur,,IQ,,,IQ,34452,24799,05h 19m 00.02s,+33° 44′ 54.5″,5.38,−0.31,448,A0p...,"α² CVn variable, Vmax = 5.35m, Vmin = 5.43m, P = 2.466 d",79.750,33.748,Aurigae,IQ Aurigae
+897,Auriga,26 Aur,,26,26,,,37269,26536,05h 38m 38.10s,+30° 29′ 32.8″,5.4,−0.29,447,A2V + GIII,,84.658,30.492,Aurigae,26 Aurigae
+898,Auriga,UU Aur,,UU,,,UU,46687,31579,06h 36m 32.84s,+38° 26′ 44.0″,5.4,−3.32,1811,C5II,"semiregular variable, Vmax = 4.9m, Vmin = 7.0m, P = 441 d",99.133,38.446,Aurigae,UU Aurigae
+899,Auriga,,,HD 34557,,,,34557,24902,05h 20m 14.68s,+41° 05′ 10.8″,5.46,0.6,306,A3V,,80.058,41.086,Aurigae,HD 34557 Aurigae
+900,Auriga,ο Aur,ο,Omicron,27,,,38104,27196,05h 45m 54.05s,+49° 49′ 34.6″,5.46,−0.39,482,A0p...,,86.475,49.826,Aurigae,Omicron Aurigae
+901,Auriga,,,HD 34904,,,,34904,25143,05h 22m 50.32s,+41° 01′ 45.3″,5.54,0.72,300,A3V,,80.708,41.029,Aurigae,HD 34904 Aurigae
+902,Auriga,PU Aur,,PU,,,PU,34269,24738,05h 18m 15.68s,+42° 47′ 31.9″,5.55,−1.09,694,M4III,"irregular variable, Vmax = 5.55m, Vmin = 5.78m",79.563,42.792,Aurigae,PU Aurigae
+903,Auriga,,,HD 30454,,,,30454,22393,04h 49m 12.84s,+31° 26′ 15.4″,5.57,1.29,235,K2III,,72.300,31.438,Aurigae,HD 30454 Aurigae
+904,Auriga,,,HD 30557,,,,30557,22545,04h 51m 09.36s,+48° 44′ 26.7″,5.64,0.67,321,G9III,,72.788,48.741,Aurigae,HD 30557 Aurigae
+905,Auriga,HD 34790,,HD 34790,,,,34790,25001,05h 21m 12.69s,+29° 34′ 11.6″,5.66,1,278,A1Vs,,80.300,29.570,Aurigae,HD 34790 Aurigae
+906,Auriga,,,HD 33167,,,,33167,24109,05h 10m 42.87s,+46° 57′ 44.8″,5.67,2.35,151,F5V,,77.675,46.962,Aurigae,HD 33167 Aurigae
+907,Auriga,,,HD 30823,,,,30823,22699,04h 52m 47.77s,+42° 35′ 11.9″,5.68,−0.32,517,A3III,,73.196,42.586,Aurigae,HD 30823 Aurigae
+908,Auriga,,,HD 35600,,,,35600,25492,05h 27m 08.27s,+30° 12′ 31.0″,5.69,−3.56,2312,B9Ib,,81.783,30.209,Aurigae,HD 35600 Aurigae
+909,Auriga,51 Aur,,51,51,,,47070,31771,06h 38m 39.55s,+39° 23′ 28.0″,5.7,0.76,317,K5III,,99.663,39.391,Aurigae,51 Aurigae
+910,Auriga,36 Aur,,36,36,,V444,40394,28499,06h 00m 58.56s,+47° 54′ 07.1″,5.71,−1.77,1022,B9.5p SiFe,"V444 Aur; α² CVn variable, Vmax = 5.70m, Vmin = 5.74m, P = 14.368 d",90.242,47.902,Aurigae,36 Aurigae
+911,Auriga,,,HD 36678,,,,36678,26344,05h 36m 35.22s,+54° 25′ 43.3″,5.74,−1.06,746,M0III,,84.146,54.429,Aurigae,HD 36678 Aurigae
+912,Auriga,RT Aur,,48,48,,RT,45412,30827,06h 28m 34.09s,+30° 29′ 35.1″,5.75,−2.65,1560,F5.5Ibv,"Cepheid variable, Vmax = 5.00m, Vmin = 5.82m, P = 3.72849 d",97.142,30.493,Aurigae,48 Aurigae
+913,Auriga,53 Aur,,53,53,,,47152,31737,06h 38m 23.02s,+28° 59′ 03.8″,5.76,0.2,421,B9npe...,,99.596,28.984,Aurigae,53 Aurigae
+914,Auriga,41 Aur A,,41,41,,,42126,29388,06h 11m 36.58s,+48° 42′ 40.0″,5.78,0.88,311,A3V+...,binary star,92.900,48.711,Aurigae,41 Aurigae
+915,Auriga,,,HD 42471,,,,42471,29451,06h 12m 20.13s,+32° 41′ 36.2″,5.78,−2.40,1411,M1III,,93.083,32.693,Aurigae,HD 42471 Aurigae
+916,Auriga,WW Aur,,WW,,,WW,46052,31173,06h 32m 27.20s,+32° 27′ 17.8″,5.82,1.19,275,A3m + A3m,"Algol variable, ΔV = 0.68m, P = 2.52502 d",98.113,32.455,Aurigae,WW Aurigae
+917,Auriga,HD 30453,,HD 30453,,,,30453,22407,04h 49m 19.06s,+32° 35′ 17.8″,5.84,0.78,336,A8m,,72.329,32.588,Aurigae,HD 30453 Aurigae
+918,Auriga,ψ9 Aur,ψ9,Psi 9,,,,50658,33377,06h 56m 32.06s,+46° 16′ 26.4″,5.85,−1.17,825,B8III,part of Dolones (ψ Aur)[1],104.133,46.274,Aurigae,Psi 9 Aurigae
+919,Auriga,64 Aur,,64,64,,,56221,35341,07h 18m 02.22s,+40° 53′ 00.1″,5.87,1.3,268,A5Vn,,109.508,40.883,Aurigae,64 Aurigae
+920,Auriga,47 Aur,,47,47,,,45466,30972,06h 30m 02.98s,+46° 41′ 07.9″,5.88,−0.18,530,K4III,,97.508,46.685,Aurigae,47 Aurigae
+921,Auriga,,,HD 50763,,,,50763,33415,06h 56m 56.13s,+46° 42′ 19.9″,5.88,0.83,334,K0III:,,104.233,46.705,Aurigae,HD 50763 Aurigae
+922,Auriga,,,HD 39586,,,,39586,27973,05h 54m 59.02s,+31° 42′ 07.0″,5.9,1.42,256,A5IV,,88.746,31.702,Aurigae,HD 39586 Aurigae
+923,Auriga,,,HD 40084,,,,40084,28343,05h 59m 21.78s,+49° 55′ 28.4″,5.9,−1.79,1124,G5III,,89.838,49.924,Aurigae,HD 40084 Aurigae
+924,Auriga,39 Aur,,39,39,,,41074,28823,06h 05m 03.42s,+42° 58′ 55.1″,5.9,2.34,168,F3V,,91.263,42.982,Aurigae,39 Aurigae
+925,Auriga,,,HD 35520,,,,35520,25471,05h 26m 48.80s,+34° 23′ 30.6″,5.92,−2.06,1289,A1p,,81.700,34.392,Aurigae,HD 35520 Aurigae
+926,Auriga,,,HD 35239,,,,35239,25291,05h 24m 38.53s,+31° 08′ 35.4″,5.94,−1.07,821,B9III,,81.158,31.143,Aurigae,HD 35239 Aurigae
+927,Auriga,5 Aur,,5,5,,,31761,23261,05h 00m 18.35s,+39° 23′ 40.9″,5.95,2.33,173,F5V,,75.075,39.394,Aurigae,5 Aurigae
+928,Auriga,V433 Aur,,V433,,,V433,37367,26606,05h 39m 18.31s,+29° 12′ 54.8″,5.98,−1.81,1177,B2IV-V,"long-period pulsating variable, ΔV = 0.04m, P = 4.6382 d",84.825,29.215,Aurigae,V433 Aurigae
+929,Auriga,,,HD 40486,,,,40486,28562,06h 01m 43.05s,+48° 57′ 34.1″,5.98,−0.64,686,K0,,90.429,48.959,Aurigae,HD 40486 Aurigae
+930,Auriga,AE Aur,,AE,,,AE,34078,24575,05h 16m 18.15s,+34° 18′ 44.0″,5.99,−2.26,1455,O9.5Vvar,"runaway star; Orion variable, Vmax = 5.78m, Vmin = 6.08m",79.075,34.312,Aurigae,AE Aurigae
+931,Auriga,,,HD 36040,,,,36040,25816,05h 30m 48.65s,+41° 27′ 43.5″,5.99,0.62,386,K0IIIp,,82.700,41.462,Aurigae,HD 36040 Aurigae
+932,Auriga,V394 Aur,,V394,,,V394,41429,28930,06h 06m 22.44s,+29° 30′ 44.7″,6.01,−1.18,893,M3II comp,"semiregular variable, Vmax = 6.01m, Vmin = 6.11m, P = 32.896 d",91.592,29.512,Aurigae,V394 Aurigae
+933,Auriga,,,HD 33203,,,,33203,24072,05h 10m 18.81s,+37° 18′ 06.7″,6.02,−2.97,2050,B2II: comp,,77.575,37.302,Aurigae,HD 33203 Aurigae
+934,Auriga,54 Aur,,54,54,,,47395,31852,06h 39m 33.12s,+28° 15′ 47.4″,6.02,−0.67,709,B7III,,99.888,28.263,Aurigae,54 Aurigae
+935,Auriga,62 Aur,,62,62,,,51440,33614,06h 59m 02.88s,+38° 03′ 09.4″,6.02,−0.31,603,K2III,,104.758,38.053,Aurigae,62 Aurigae
+936,Auriga,,,HD 50056,,,,50056,33044,06h 53m 03.54s,+35° 47′ 16.8″,6.03,−0.62,698,K3III:,,103.263,35.788,Aurigae,HD 50056 Aurigae
+937,Auriga,HIP 26712,,HD 37519,,,,37519,26712,05h 40m 35.91s,+31° 21′ 29.6″,6.04,0.1,502,B9.5III-IVp,Andrew's Star,85.146,31.358,Aurigae,HD 37519 Aurigae
+938,Auriga,,,HD 39225,,,,39225,27778,05h 52m 40.08s,+33° 55′ 02.8″,6.04,−0.75,744,M2II:,,88.167,33.917,Aurigae,HD 39225 Aurigae
+939,Auriga,,,HD 40626,,,,40626,28637,06h 02m 48.59s,+49° 54′ 20.8″,6.04,0.54,410,B9.5IV,,90.700,49.906,Aurigae,HD 40626 Aurigae
+940,Auriga,,,HD 31069,,,,31069,22842,04h 54m 51.22s,+44° 03′ 39.6″,6.06,0.97,340,A0V,,73.713,44.061,Aurigae,HD 31069 Aurigae
+941,Auriga,,,HD 42466,,,,42466,29569,06h 13m 45.34s,+51° 10′ 21.4″,6.07,0.61,403,K1III,,93.438,51.173,Aurigae,HD 42466 Aurigae
+942,Auriga,,,HD 36891,,,,36891,26363,05h 36m 52.42s,+40° 10′ 56.6″,6.08,−3.38,2547,G3Ib,,84.217,40.182,Aurigae,HD 36891 Aurigae
+943,Auriga,38 Aur,,38,38,,,40801,28677,06h 03m 17.87s,+42° 54′ 42.8″,6.08,1.56,261,K0III,,90.821,42.912,Aurigae,38 Aurigae
+944,Auriga,41 Aur B,,41,41,,,42127,,06h 11m 36.60s,+48° 42′ 40.0″,6.09,,,,component of the 41 Aur system,92.900,48.711,Aurigae,41 Aurigae
+945,Auriga,,,HD 31327,,,,31327,22955,04h 56m 20.09s,+36° 10′ 06.8″,6.1,−6.66,11643,B2Ib,,74.083,36.168,Aurigae,HD 31327 Aurigae
+946,Auriga,,,HD 36719,,,,36719,26315,05h 36m 15.95s,+47° 42′ 55.2″,6.1,1.05,333,F0V:,,84.063,47.715,Aurigae,HD 36719 Aurigae
+947,Auriga,59 Aur,,59,59,,OX,50018,33041,06h 53m 01.41s,+38° 52′ 08.9″,6.1,0.04,530,F2V,"OX Aur; δ Sct variable, Vmax = 5.94m, Vmin = 6.14m, P = 0.154412 d",103.254,38.869,Aurigae,59 Aurigae
+948,Auriga,,,HD 32188,,,,32188,23511,05h 03m 18.64s,+41° 26′ 30.0″,6.11,−2.87,2037,A2sh,,75.825,41.442,Aurigae,HD 32188 Aurigae
+949,Auriga,,,HD 41330,,,,41330,28908,06h 06m 08.62s,+35° 23′ 18.4″,6.12,4.01,86,G0V,,91.533,35.388,Aurigae,HD 41330 Aurigae
+950,Auriga,,,HD 32406,,,,32406,23583,05h 04m 14.56s,+30° 29′ 40.6″,6.14,−0.12,581,K0II-III,,76.058,30.494,Aurigae,HD 32406 Aurigae
+951,Auriga,,,HD 40083,,,,40083,28390,05h 59m 47.95s,+54° 32′ 49.6″,6.14,1.04,341,K2III,,89.946,54.547,Aurigae,HD 40083 Aurigae
+952,Auriga,AR Aur,,17,17,,AR,34364,24740,05h 18m 18.89s,+33° 46′ 02.7″,6.15,0.72,398,B9.5V,"Algol variable, Vmax = 6.15m, Vmin = 6.82m, P = 4.13465 d",79.575,33.767,Aurigae,17 Aurigae
+953,Auriga,,,HD 41467,,,,41467,29025,06h 07m 26.76s,+41° 51′ 15.6″,6.15,−0.89,834,K0III,,91.858,41.854,Aurigae,HD 41467 Aurigae
+954,Auriga,,,HD 33654,,,,33654,24451,05h 14m 44.27s,+53° 12′ 50.2″,6.16,−2.45,1716,A0V,,78.683,53.214,Aurigae,HD 33654 Aurigae
+955,Auriga,V352 Aur,,V352,,,V352,50420,33269,06h 55m 14.66s,+43° 54′ 36.2″,6.16,−0.97,869,A9III,"δ Sct variable, Vmax = 6.13m, Vmin = 6.18m, P = 0.17 d",103.808,43.910,Aurigae,V352 Aurigae
+956,Auriga,HD 35519,,HD 35519,,,,35519,25476,05h 26m 54.33s,+35° 27′ 26.3″,6.17,−0.31,644,K2,Star in Cluster NGC 1912 and NGC 1907,81.725,35.457,Aurigae,HD 35519 Aurigae
+957,Auriga,,,HD 35521,,,,35521,25475,05h 26m 51.28s,+33° 15′ 44.2″,6.18,1.06,344,K0,,81.713,33.262,Aurigae,HD 35521 Aurigae
+958,Auriga,,,HD 40588,,,,40588,28517,06h 01m 10.06s,+31° 02′ 04.3″,6.18,1.7,256,A2V,,90.292,31.034,Aurigae,HD 40588 Aurigae
+959,Auriga,,,HD 53925,,,,53925,34462,07h 08m 36.25s,+37° 26′ 42.5″,6.19,−0.45,695,K1III,,107.150,37.445,Aurigae,HD 53925 Aurigae
+960,Auriga,,,HD 32655,,,,32655,23799,05h 06m 49.56s,+43° 10′ 29.0″,6.2,−0.91,860,F2IIp...,,76.704,43.175,Aurigae,HD 32655 Aurigae
+961,Auriga,,,HD 35984,,,,35984,25730,05h 29m 40.63s,+29° 11′ 11.7″,6.2,1.45,290,F6III,,82.417,29.186,Aurigae,HD 35984 Aurigae
+962,Auriga,V538 Aur,,V538,,,V538,37394,26779,05h 41m 20.33s,+53° 28′ 56.4″,6.21,5.77,40,K1V,"BY Draconis variable, ΔV = 0.04m, P = 10.86 d",85.333,53.482,Aurigae,V538 Aurigae
+963,Auriga,,,HD 40325,,,,40325,28438,06h 00m 18.92s,+44° 35′ 31.6″,6.21,0.97,365,K2III...,,90.075,44.592,Aurigae,HD 40325 Aurigae
+964,Auriga,,,HD 48073,,,,48073,32190,06h 43m 13.72s,+37° 08′ 50.7″,6.21,0.38,478,K0,,100.804,37.147,Aurigae,HD 48073 Aurigae
+965,Auriga,,,HD 34332,,,,34332,24771,05h 18m 40.32s,+40° 27′ 54.6″,6.22,−0.36,676,K0,,79.667,40.465,Aurigae,HD 34332 Aurigae
+966,Auriga,NO Aur,,NO,,,NO,37536,26718,05h 40m 42.05s,+31° 55′ 14.2″,6.23,−1.89,1370,M2SIab,"S star type; irregular variable, Vmax = 6.06m, Vmin = 6.44m",85.175,31.921,Aurigae,NO Aurigae
+967,Auriga,,,HD 40832,,,,40832,28644,06h 02m 55.12s,+32° 38′ 10.4″,6.23,2.74,163,F4V,,90.729,32.636,Aurigae,HD 40832 Aurigae
+968,Auriga,,,HD 41269,,,,41269,28861,06h 05m 33.90s,+33° 35′ 56.7″,6.23,−1.06,937,B9sp...,,91.388,33.599,Aurigae,HD 41269 Aurigae
+969,Auriga,,,HD 49949,,,,49949,33056,06h 53m 07.57s,+44° 50′ 24.3″,6.24,1.03,359,A8Vn,,103.279,44.840,Aurigae,HD 49949 Aurigae
+970,Auriga,,,HD 36499,,,,36499,26071,05h 33m 38.23s,+34° 43′ 32.2″,6.27,0.78,408,A3IV,,83.408,34.726,Aurigae,HD 36499 Aurigae
+971,Auriga,V440 Aur,,V440,,,V440,39045,27661,05h 51m 25.74s,+32° 07′ 28.9″,6.28,0.03,580,M3III,"irregular variable, Vmax = 6.24m, Vmin = 6.37m",87.854,32.124,Aurigae,V440 Aurigae
+972,Auriga,,,HD 42083,,,,42083,29404,06h 11m 45.91s,+52° 38′ 50.5″,6.28,1.27,327,A5m,,92.938,52.647,Aurigae,HD 42083 Aurigae
+973,Auriga,,,HD 38765,,,,38765,27625,05h 50m 56.22s,+51° 30′ 52.9″,6.29,1.62,281,K1III,,87.733,51.514,Aurigae,HD 38765 Aurigae
+974,Auriga,,,HD 35238,,,,35238,25290,05h 24m 38.44s,+31° 13′ 26.2″,6.3,−0.49,744,K1III...,,81.158,31.224,Aurigae,HD 35238 Aurigae
+975,Auriga,,,HD 38358,,,,38358,27319,05h 47m 14.68s,+42° 31′ 37.1″,6.3,−0.42,720,K0,,86.808,42.527,Aurigae,HD 38358 Aurigae
+976,Auriga,,,HD 50384,,,,50384,33271,06h 55m 15.21s,+45° 49′ 35.7″,6.31,0.96,383,K0III-IV,,103.813,45.826,Aurigae,HD 50384 Aurigae
+977,Auriga,,,HD 41162,,,,41162,28820,06h 05m 02.58s,+37° 57′ 51.4″,6.32,−0.50,755,K0III+...,,91.258,37.964,Aurigae,HD 41162 Aurigae
+978,Auriga,60 Aur,,60,60,,,50037,33064,06h 53m 13.37s,+38° 26′ 18.4″,6.32,2.23,214,F5V:,,103.304,38.438,Aurigae,60 Aurigae
+979,Auriga,43 Aur,,43,43,,,43380,29949,06h 18m 16.86s,+46° 21′ 38.7″,6.33,1.2,346,K2III,,94.567,46.361,Aurigae,43 Aurigae
+980,Auriga,,,HD 56941,,,,56941,35623,07h 21m 03.11s,+42° 39′ 21.6″,6.33,−0.63,805,K0,,110.263,42.656,Aurigae,HD 56941 Aurigae
+981,Auriga,,,HD 41636,,,,41636,29114,06h 08m 23.14s,+41° 03′ 21.0″,6.34,0.99,384,G9III,,92.096,41.056,Aurigae,HD 41636 Aurigae
+982,Auriga,,,HD 39866,,,,39866,28117,05h 56m 33.77s,+28° 56′ 32.2″,6.35,−3.88,3622,A2II,,89.138,28.942,Aurigae,HD 39866 Aurigae
+983,Auriga,,,HD 47270,,,,47270,31889,06h 39m 57.87s,+44° 00′ 50.8″,6.35,−0.19,663,K1III,,99.988,44.014,Aurigae,HD 47270 Aurigae
+984,Auriga,,,HD 37138,,,,37138,26463,05h 37m 45.80s,+33° 33′ 33.0″,6.36,0.44,498,K0,,84.438,33.559,Aurigae,HD 37138 Aurigae
+985,Auriga,,,HD 48272,,,,48272,32268,06h 44m 12.52s,+36° 06′ 33.3″,6.37,−0.85,908,A2V,,101.050,36.109,Aurigae,HD 48272 Aurigae
+986,Auriga,HD 36041,,HD 36041,,,,36041,25810,05h 30m 45.07s,+39° 49′ 33.6″,6.38,0.63,460,G9III,,82.688,39.826,Aurigae,HD 36041 Aurigae
+987,Auriga,,,HD 40722,,,,40722,28642,06h 02m 53.49s,+43° 22′ 42.3″,6.38,0.88,410,K0,,90.721,43.378,Aurigae,HD 40722 Aurigae
+988,Auriga,35 Cam,,35,-35,,,40873,28765,06h 04m 29.11s,+51° 34′ 24.6″,6.39,0.98,394,A7III,,91.121,51.573,Aurigae,35 Aurigae
+989,Auriga,,,HD 37646,,,,37646,26781,05h 41m 20.97s,+29° 29′ 14.9″,6.4,0.46,502,B8IV,,85.333,29.487,Aurigae,HD 37646 Aurigae
+990,Auriga,,,HD 39182,,,,39182,27777,05h 52m 39.67s,+39° 34′ 29.0″,6.4,−0.14,661,A2V,,88.163,39.575,Aurigae,HD 39182 Aurigae
+991,Auriga,,,HD 57263,,,,57263,35725,07h 22m 13.41s,+38° 59′ 45.7″,6.4,0.33,533,K0,,110.554,38.996,Aurigae,HD 57263 Aurigae
+992,Auriga,,,HD 35681,,,,35681,25580,05h 28m 00.92s,+33° 45′ 51.2″,6.41,3.76,110,F5,,82.000,33.764,Aurigae,HD 35681 Aurigae
+993,Auriga,,,HD 44092,,,,44092,30200,06h 21m 11.91s,+29° 32′ 27.3″,6.41,1.33,338,A1Vs,,95.296,29.541,Aurigae,HD 44092 Aurigae
+994,Auriga,HD 33463,,HD 33463,,,,33463,24193,05h 11m 38.31s,+29° 54′ 13.1″,6.42,−1.31,1144,M2III,,77.908,29.904,Aurigae,HD 33463 Aurigae
+995,Auriga,34 Cam,,34,-34,,,40062,28385,05h 59m 45.83s,+55° 19′ 15.9″,6.42,1.32,342,A5m,,89.938,55.321,Aurigae,34 Aurigae
+996,Auriga,,,HD 45192,,,,45192,30741,06h 27m 35.52s,+32° 33′ 47.2″,6.43,0.8,435,K0,,96.896,32.563,Aurigae,HD 45192 Aurigae
+997,Auriga,,,HD 37250,,,,37250,26592,05h 39m 08.72s,+41° 21′ 31.9″,6.44,2.02,250,K0,,84.783,41.359,Aurigae,HD 37250 Aurigae
+998,Auriga,22 Aur,,22,22,,,35076,25192,05h 23m 22.86s,+28° 56′ 12.6″,6.45,0.15,593,B9Vs,,80.842,28.937,Aurigae,22 Aurigae
+999,Auriga,6 Aur,,6,6,,,31780,23268,05h 00m 23.21s,+39° 39′ 16.8″,6.46,−1.45,1244,K5III,,75.096,39.654,Aurigae,6 Aurigae
+1000,Auriga,ψ8 Aur,ψ8,Psi 8,61,,,50204,33133,06h 53m 57.07s,+38° 30′ 18.3″,6.46,−0.56,825,B9.5sp...,part of Dolones (ψ Aur)[1],103.488,38.505,Aurigae,Psi 8 Aurigae
+1001,Auriga,,,HD 38229,,,,38229,27293,05h 47m 00.06s,+51° 31′ 15.5″,6.47,0.63,481,G5,,86.750,51.521,Aurigae,HD 38229 Aurigae
+1002,Auriga,V403 Aur,,V403,,,V403,39743,28162,05h 57m 04.90s,+49° 01′ 46.0″,6.47,0.21,583,G8III,"RS CVn variable, ΔV = 0.19m, P = 73.1 d",89.267,49.029,Aurigae,V403 Aurigae
+1003,Auriga,,,HD 33632,,,,33632,24332,05h 13m 17.55s,+37° 20′ 15.5″,6.48,4.41,85,F8,,78.321,37.338,Aurigae,HD 33632 Aurigae
+1004,Auriga,,,HD 47703,,,,47703,32040,06h 41m 37.77s,+35° 55′ 55.2″,6.48,2,256,F8III,,100.404,35.932,Aurigae,HD 47703 Aurigae
+1005,Auriga,,,HD 51021,,,,51021,33453,06h 57m 18.50s,+37° 23′ 41.0″,6.48,−0.94,994,M3,,104.325,37.395,Aurigae,HD 51021 Aurigae
+1006,Auriga,,,HD 56171,,,,56171,35317,07h 17m 42.65s,+38° 52′ 34.8″,6.48,0.45,524,K0,,109.425,38.876,Aurigae,HD 56171 Aurigae
+1007,Auriga,,,HD 29867,,,,29867,22003,04h 43m 48.27s,+32° 51′ 56.0″,6.49,2.2,235,A8V,,70.950,32.866,Aurigae,HD 29867 Aurigae
+1008,Auriga,,,HD 32608,,,,32608,23724,05h 06m 00.93s,+35° 56′ 11.1″,6.49,1.91,269,A5V,,76.500,35.936,Aurigae,HD 32608 Aurigae
+1009,Auriga,18 Aur,,18,18,,,34499,24832,05h 19m 23.72s,+33° 59′ 07.6″,6.49,2.2,235,A7V,,79.846,33.985,Aurigae,18 Aurigae
+1010,Auriga,,,HD 34498,,,,34498,24881,05h 20m 02.32s,+44° 25′ 31.5″,6.49,−0.83,948,K0,,80.008,44.425,Aurigae,HD 34498 Aurigae
+1011,Auriga,,,HD 35202,,,,35202,25301,05h 24m 44.80s,+36° 11′ 59.9″,6.49,−1.82,1495,K2,,81.183,36.200,Aurigae,HD 35202 Aurigae
+1012,Auriga,,,HD 40650,,,,40650,28634,06h 02m 45.11s,+47° 48′ 33.5″,6.49,4.22,93,F5,,90.688,47.809,Aurigae,HD 40650 Aurigae
+1013,Auriga,,,HD 49364,,,,49364,32746,06h 49m 44.30s,+37° 30′ 45.8″,6.49,−0.33,753,K5,,102.433,37.513,Aurigae,HD 49364 Aurigae
+1014,Auriga,,,HD 36484,,,,36484,26054,05h 33m 27.41s,+32° 48′ 04.7″,6.5,1.7,297,A2m,,83.363,32.801,Aurigae,HD 36484 Aurigae
+1015,Auriga,,,HD 38200,,,,38200,27164,05h 45m 29.59s,+31° 19′ 29.5″,6.5,−0.94,1003,K0,,86.371,31.325,Aurigae,HD 38200 Aurigae
+1016,Auriga,42 Aur,,42,42,,,43244,29884,06h 17m 34.68s,+46° 25′ 26.1″,6.53,2.24,235,F0V,,94.392,46.424,Aurigae,42 Aurigae
+1017,Auriga,HD 40979,,HD 40979,,,,40979,28767,06h 04m 29.94s,+44° 15′ 37.6″,6.74,4.13,109,F8V,has a planet (b),91.121,44.260,Aurigae,HD 40979 Aurigae
+1018,Auriga,LY Aur,,LY,,,LY,35921,25733,05h 29m 42.65s,+35° 22′ 30.09″,6.85,-2.09,2000,O9.5+O9.5eaII-III,"Beta Lyrae variable, Vmax = 6.66m, Vmin = 7.35m, P = 4.00249 d",82.425,35.367,Aurigae,LY Aurigae
+1019,Auriga,12 Aur,,12,12,,,33988,,05h 16m 27.10s,+46° 24′ 56.0″,6.9,,,B5,,79.113,46.416,Aurigae,12 Aurigae
+1020,Auriga,25 Cam,,25,-25,,,37735,27027,05h 43m 58.59s,+54° 51′ 53.4″,6.94,0.25,709,A0,,85.992,54.865,Aurigae,25 Aurigae
+1021,Auriga,AB Aur,,AB,,,AB,31293,22910,04h 55m 45.84s,+30° 33′ 04.29″,7.06,1.27,469,A0Vpe,"Orion variable, Vmax = 6.3m, Vmin = 8.4m; has a dust disk in which planets or brown dwarves may be forming",73.938,30.551,Aurigae,AB Aurigae
+1022,Auriga,33 Cam,,33,-33,,,39724,28214,05h 57m 40.57s,+55° 39′ 24.1″,7.15,0.39,734,A0,,89.417,55.657,Aurigae,33 Aurigae
+1023,Auriga,V420 Aur,,V420,,,V420,34921,25114,05h 22m 35.23s,+37° 40′ 33.63″,7.45,-4.5,8000,B0IVpe,"high mass X-ray Binary; Be star; variable, Vmax = 7.42m, Vmin = 7.53m",80.646,37.668,Aurigae,V420 Aurigae
+1024,Auriga,EO Aur,,EO,,,EO,34333,24744,05h 18m 21.06s,+36° 37′ 55.34″,7.83,0.001,1200,B5,"Algol variable, Vmax = 7.56m, Vmin = 8.13m, P = 4.06565 d",79.588,36.618,Aurigae,EO Aurigae
+1025,Auriga,HD 45350,,HD 45350,,,,45350,30860,06h 28m 45.71s,+38° 57′ 46.7″,7.88,4.43,160,G5IV,Lucilinburhuc; has a planet (b),97.188,38.963,Aurigae,HD 45350 Aurigae
+1026,Auriga,HD 43691,,HD 43691,,,,43691,30057,06h 19m 34.68s,+41° 05′ 32.3″,8.03,3.18,304,G0IV-V,has a planet (b),94.892,41.092,Aurigae,HD 43691 Aurigae
+1027,Auriga,HD 49674,,HD 49674,,,,49674,32916,06h 51m 30.52s,+40° 52′ 03.9″,8.1,5.05,133,G5V,"Nervia[2], has a planet (b)",102.875,40.868,Aurigae,HD 49674 Aurigae
+1028,Auriga,MZ Aur,,MZ,,,MZ,34626,24938,05h 20m 33.04s,+36° 37′ 56.03″,8.16,-2.28,4000,B1.5IVnp,"Be star; variable, Vmax = 8.14m, Vmin = 8.30m",80.138,36.618,Aurigae,MZ Aurigae
+1029,Auriga,IU Aur,,IU,,,IU,35652,25565,05h 27m 52.40s,+34° 46′ 58.25″,8.39,1.73,700,B3Vnne,"spectroscopic binary; Beta Lyrae variable, Vmax = 8.19m, Vmin = 8.89m, P = 1.81147 d",81.967,34.769,Aurigae,IU Aurigae
+1030,Auriga,HD 42012,,HD 42012,,,,42012,29242,05h 27m 52.40s,+34° 46′ 58.25″,8.44,,121,K0,has a planet (b),81.967,34.769,Aurigae,HD 42012 Aurigae
+1031,Auriga,V423 Aur,,V423,,,V423,34986,25178,05h 23m 10.07s,+35° 42′ 32.27″,8.68,-3.85,9000,B8,"semi-regular pulsating star, Vmax = 8.63m, Vmin = 8.79m",80.792,35.701,Aurigae,V423 Aurigae
+1032,Auriga,KELT-2A,,HD 42176A,,,,42176A,29301A,06h 10m 39.00s,+30° 57′ 25.00″,8.77,3.23,419,F7V,has a transiting planet KELT-2Ab,92.663,30.951,Aurigae,HD 42176A Aurigae
+1033,Auriga,WASP-12,,W-12,,,,,,06h 30m 33.00s,+29° 40′ 20.00″,11.69,3.54,1393,G0,has two transiting planet (b & c),97.638,29.667,Aurigae,W-12 Aurigae
+1034,Auriga,HAT-P-9,, ,,,,,,07h 20m 40.48s,+37° 08′ 26.17″,12.34,3.93,1564.8,F,Tevel; has a transiting planet HAT-P-9b,110.167,37.135,Aurigae,  Aurigae
+1035,Auriga,NX Aur,,NX,,,NX,,,05h 23m 04.26s,+33° 28′ 46.43″,14.1,1.1,13000,B4Ve,PMS star in NGC 1893,80.767,33.468,Aurigae,NX Aurigae
+1036,Auriga,GD 66,, ,,,,,,05h 20m 38.31s,+30° 48′ 24.1″,15.56,12.02,166,DA,"white dwarf, has a possible planet",80.158,30.807,Aurigae,  Aurigae

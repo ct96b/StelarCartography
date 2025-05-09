@@ -1,0 +1,107 @@
+USID,Constellation,Name,B,B->F->VAR->G,F,G.,Var,HD,HIP,RA,Dec,"vis. mag.","abs. mag.",Dist. (ly),Sp. class,Notes https://en.wikipedia.org/wiki/Lists_of_stars_by_constellation,RA angle,Dec Angle,Latin Constellation,Full Designation
+1892,Capricornus,δ Cap,δ,Delta,49,,,207098,107556,21h 47m 02.29s,-16° 07′ 35.6″,2.85,2.49,39,A5mF2 (IV),"Deneb Algedi, Scheddi; Algol variable, Vmax = 2.81m, Vmin = 3.05m, P = 1.0227688 d",326.758,-15.874,Capricorni,Delta Capricorni
+1893,Capricornus,β1 Cap,β1,Beta 1,9,,,193495,100345,20h 21m 00.65s,-14° 46′ 53.0″,3.05,−2.07,328,A5:n,"Dabih; multiple star system; variable star, ΔV = 0.003m, P = 1.40657 d",305.250,-13.219,Capricorni,Beta 1 Capricorni
+1894,Capricornus,α2 Cap,α2,Alpha 2,6,,,192947,100064,20h 18m 03.22s,-12° 32′ 41.5″,3.58,0.97,109,G6/G8III,"Algedi Secunda, Secunda Giedi; suspected variable",304.513,-11.455,Capricorni,Alpha 2 Capricorni
+1895,Capricornus,γ Cap,γ,Gamma,40,,,206088,106985,21h 40m 05.34s,-16° 39′ 44.1″,3.69,0.54,139,A7III:mp...,Nashira; α 2 CVn variable,325.021,-15.338,Capricorni,Gamma Capricorni
+1896,Capricornus,ζ Cap,ζ,Zeta,34,,,204075,105881,21h 26m 40.03s,-22° 24′ 41.0″,3.77,−1.66,398,G4Ibp...,"Yan (燕), Yen;[1] suspected eclipsing binary",321.667,-21.589,Capricorni,Zeta Capricorni
+1897,Capricornus,θ Cap,θ,Theta,23,,,200761,104139,21h 05m 56.78s,-17° 13′ 57.8″,4.08,0.65,158,A1V,"Qin (秦), Tsin,[1] Dorsum",316.483,-16.768,Capricorni,Theta Capricorni
+1898,Capricornus,ω Cap,ω,Omega,18,,,198542,102978,20h 51m 49.30s,-26° 55′ 08.9″,4.12,−2.30,628,K4III,suspected variable,312.954,-25.081,Capricorni,Omega Capricorni
+1899,Capricornus,ψ Cap,ψ,Psi,16,,,197692,102485,20h 46m 05.77s,-25° 16′ 13.9″,4.13,3.3,48,F5V,"Yue;[1] rotating variable, Vmax = 4.13m, Vmin = 4.14m, P = 4.932 d",311.521,-24.730,Capricorni,Psi Capricorni
+1900,Capricornus,ι Cap,ι,Iota,32,,,203387,105515,21h 22m 14.78s,-16° 50′ 04.4″,4.27,0.18,215,G8III,"Dai (代), Tae;[1] BY Dra variable, ΔV = 0.06m",320.558,-15.166,Capricorni,Iota Capricorni
+1901,Capricornus,α1 Cap,α1,Alpha 1,5,,,192876,100027,20h 17m 38.86s,-12° 30′ 29.6″,4.3,−2.32,686,G3Ib,"Algedi Prima, Prima Giedi; suspected variable",304.408,-11.492,Capricorni,Alpha 1 Capricorni
+1902,Capricornus,24 Cap,A,A,24,,,200914,104234,21h 07m 07.69s,-25° 00′ 20.7″,4.49,−1.53,522,K5/M0III,,316.779,-24.994,Capricorni,A Capricorni
+1903,Capricornus,36 Cap,b,B,36,,,204381,106039,21h 28m 43.32s,-21° 48′ 25.8″,4.5,0.8,179,K0III,"Jin (晉)[2], Tsin[1]",322.179,-20.193,Capricorni,B Capricorni
+1904,Capricornus,ε Cap,ε,Epsilon,39,,,205637,106723,21h 37m 04.82s,-19° 27′ 57.6″,4.51,−2.03,"1,060",B2.5Vpe,"Castra, Kastra; binary star system; γ Cas variable, Vmax = 4.48m, Vmin = 4.72m",324.267,-18.534,Capricorni,Epsilon Capricorni
+1905,Capricornus,κ Cap,κ,Kappa,43,,,206453,107188,21h 42m 39.42s,-18° 51′ 58.7″,4.72,−0.03,291,G8III,,325.663,-17.134,Capricorni,Kappa Capricorni
+1906,Capricornus,ν Cap,ν,Nu,8,,,193432,100310,20h 20m 39.81s,-12° 45′ 32.6″,4.77,0.16,272,B9IV,Alshat,305.163,-11.241,Capricorni,Nu Capricorni
+1907,Capricornus,ρ Cap,ρ,Rho,11,,,194943,101027,20h 28m 51.62s,-17° 48′ 49.2″,4.77,2.37,99,F3V,Bos,307.213,-16.186,Capricorni,Rho Capricorni
+1908,Capricornus,η Cap,η,Eta,22,,,200499,104019,21h 04m 24.32s,-19° 51′ 17.8″,4.82,1.39,158,A5V,"Armus, Zhou (周), Chow[1]",316.100,-18.145,Capricorni,Eta Capricorni
+1909,Capricornus,μ Cap,μ,Mu,51,,,207958,108036,21h 53m 17.58s,-13° 33′ 06.5″,5.07,2.87,90,F3IV,"Kuh;[1] suspected variable, ΔV = 0.03m",328.321,-12.448,Capricorni,Mu Capricorni
+1910,Capricornus,π Cap,π,Pi,10,,,194636,100881,20h 27m 19.20s,-18° 12′ 42.1″,5.08,−1.47,665,B4V,Okul,306.829,-17.788,Capricorni,Pi Capricorni
+1911,Capricornus,46 Cap,c,C,46,,,206834,107382,21h 45m 00.25s,-09° 04′ 56.7″,5.1,−1.85,799,G8II-III,part of Saʽd al Suʽud[3][4],326.250,-8.918,Capricorni,C Capricorni
+1912,Capricornus,υ Cap,υ,Upsilon,15,,,196777,101984,20h 40m 02.96s,-18° 08′ 19.0″,5.15,−1.67,755,M1III,suspected variable,310.008,-17.861,Capricorni,Upsilon Capricorni
+1913,Capricornus,42 Cap,,42,42,,BY,206301,107095,21h 41m 32.93s,-14° 02′ 48.7″,5.16,2.6,106,G2V,"RS CVn variable, Vmax = 5.13m, Vmin = 5.18m",325.383,-13.953,Capricorni,42 Capricorni
+1914,Capricornus,φ Cap,φ,Phi,28,,,202320,104963,21h 15m 37.89s,-20° 39′ 06.1″,5.17,−1.46,691,K0II/III,,318.904,-19.348,Capricorni,Phi Capricorni
+1915,Capricornus,τ2 Cap,τ2,Tau 2,14,,,196662,101923,20h 39m 16.32s,-14° 57′ 17.0″,5.24,−3.41,1753,B7III,,309.817,-13.045,Capricorni,Tau 2 Capricorni
+1916,Capricornus,41 Cap,,41,41,,,206356,107128,21h 42m 00.64s,-23° 15′ 45.5″,5.24,0.84,247,K0III,,325.500,-22.738,Capricorni,41 Capricorni
+1917,Capricornus,σ Cap,σ,Sigma,7,,,193150,100195,20h 19m 23.60s,-19° 07′ 06.6″,5.28,−1.37,697,K2III,,304.846,-18.882,Capricorni,Sigma Capricorni
+1918,Capricornus,χ Cap,χ,Chi,25,,,201184,104365,21h 08m 33.61s,-21° 11′ 36.7″,5.3,1.46,191,A0V,,317.138,-20.807,Capricorni,Chi Capricorni
+1919,Capricornus,29 Cap,,29,29,,,202369,104974,21h 15m 44.83s,-15° 10′ 17.4″,5.31,−1.11,628,M2III,semiregular variable,318.933,-14.829,Capricorni,29 Capricorni
+1920,Capricornus,33 Cap,,33,33,,,203638,105665,21h 24m 09.60s,-20° 51′ 05.6″,5.38,1.16,228,K0III,"suspected variable, Vmax = 5.35m, Vmin = 5.77m",321.038,-19.149,Capricorni,33 Capricorni
+1921,Capricornus,30 Cap,,30,30,,,202671,105143,21h 17m 57.28s,-17° 59′ 06.5″,5.4,−0.85,579,B5II/III,α2 CVn variable,319.488,-16.015,Capricorni,30 Capricorni
+1922,Capricornus,λ Cap,λ,Lambda,48,,,207052,107517,21h 46m 32.08s,-11° 21′ 57.4″,5.57,0.8,294,A1V,,326.633,-10.634,Capricorni,Lambda Capricorni
+1923,Capricornus,HD 203475,,HD 203475,,,,203475,105576,21h 23m 00.47s,-22° 40′ 08.6″,5.63,−0.92,667,M0III,"variable star, ΔV = 0.018m, P = 4.95221 d",320.750,-21.331,Capricorni,HD 203475 Capricorni
+1924,Capricornus,HD 195564,,HD 195564,,,,195564,101345,20h 32m 23.51s,-09° 51′ 13.1″,5.66,3.74,79,G3V,,308.096,-8.146,Capricorni,HD 195564 Capricorni
+1925,Capricornus,HD 199260,,HD 199260,,,,199260,103389,20h 56m 47.27s,-26° 17′ 46.4″,5.7,4.09,68,F7V,"suspected variable, Vmax = 5.68m, Vmin = 5.74m",314.196,-25.704,Capricorni,HD 199260 Capricorni
+1926,Capricornus,37 Cap,,37,37,,,205289,106559,21h 34m 51.07s,-20° 05′ 03.8″,5.7,3.53,88,F5V,,323.713,-19.916,Capricorni,37 Capricorni
+1927,Capricornus,HD 192310,,HD 192310,,,,192310,99825,20h 15m 16.58s,-27° 01′ 57.1″,5.73,6,29,K3V,"suspected variable, Vmax = 5.72m, Vmin = 5.76m; has two planets (b) and (c)",303.817,-26.968,Capricorni,HD 192310 Capricorni
+1928,Capricornus,19 Cap,,19,19,,,199012,103226,20h 54m 47.85s,-17° 55′ 22.3″,5.78,0.36,395,K0III,,313.696,-16.077,Capricorni,19 Capricorni
+1929,Capricornus,35 Cap,,35,35,,,204139,105928,21h 27m 14.83s,-21° 11′ 46.1″,5.78,0.02,462,K3III,,321.808,-20.804,Capricorni,35 Capricorni
+1930,Capricornus,HD 196857,,HD 196857,,,,196857,102026,20h 40m 32.56s,-16° 07′ 27.7″,5.79,0.77,329,K0III,,310.133,-15.876,Capricorni,HD 196857 Capricorni
+1931,Capricornus,ξ2 Cap,ξ2,Xi2,2,,,191862,99572,20h 12m 25.76s,-12° 37′ 01.3″,5.84,3.6,91,F5V,,303.104,-11.383,Capricorni,Xi2 Capricorni
+1932,Capricornus,4 Cap,,4,4,,,192879,100062,20h 18m 01.38s,-21° 48′ 35.6″,5.86,0.76,341,G8III,,304.504,-20.190,Capricorni,4 Capricorni
+1933,Capricornus,HD 198174,,HD 198174,,,,198174,102772,20h 49m 17.61s,-25° 46′ 52.3″,5.86,−1.37,911,B8II,α2 CVn variable,312.321,-24.219,Capricorni,HD 198174 Capricorni
+1934,Capricornus,44 Cap,,44,44,,,206561,107232,21h 43m 04.40s,-14° 23′ 59.1″,5.88,0.39,409,A9/F0V,,325.767,-13.600,Capricorni,44 Capricorni
+1935,Capricornus,HD 199443,,HD 199443,,,,199443,103460,20h 57m 40.61s,-16° 01′ 53.6″,5.89,2.12,185,A2/A3III,α2 CVn variable,314.417,-15.969,Capricorni,HD 199443 Capricorni
+1936,Capricornus,17 Cap,,17,17,,,197725,102487,20h 46m 09.97s,-21° 30′ 50.4″,5.91,1.32,270,A1V,,311.538,-20.486,Capricorni,17 Capricorni
+1937,Capricornus,ο Cap A,ο,Omicron,12,,,195094,101123,20h 29m 53.89s,-18° 34′ 58.7″,5.94,1.62,239,A1V,binary star,307.471,-17.417,Capricorni,Omicron Capricorni
+1938,Capricornus,45 Cap,,45,45,,,206677,107302,21h 44m 00.98s,-14° 44′ 57.8″,5.96,2.36,171,A7IV/V,,326.000,-13.251,Capricorni,45 Capricorni
+1939,Capricornus,47 Cap,,47,47,,AG,207005,107487,21h 46m 16.26s,-09° 16′ 33.4″,6,−1.89,1235,M3III,"semiregular variable, Vmax = 5.9m, Vmin = 6.14m, P = 25 d",326.567,-8.724,Capricorni,47 Capricorni
+1940,Capricornus,HD 200052,,HD 200052,,,,200052,103777,21h 01m 45.27s,-26° 52′ 51.4″,6.04,1.24,298,A3V,,315.438,-25.119,Capricorni,HD 200052 Capricorni
+1941,Capricornus,HD 202261,,HD 202261,,,,202261,104914,21h 15m 06.62s,-17° 20′ 42.3″,6.05,0.78,368,K0III,suspected variable,318.775,-16.655,Capricorni,HD 202261 Capricorni
+1942,Capricornus,BW Cap,,BW,,,BW,208735,108494,21h 58m 43.78s,-21° 10′ 58.5″,6.06,−3.64,2835,M2III,slow irregular variable,329.679,-20.817,Capricorni,BW Capricorni
+1943,Capricornus,21 Cap,,21,21,,,199947,103703,21h 00m 51.78s,-17° 31′ 51.1″,6.07,−0.05,545,K3III,,315.213,-16.469,Capricorni,21 Capricorni
+1944,Capricornus,HD 206005,,HD 206005,,,,206005,106938,21h 39m 28.09s,-10° 34′ 36.4″,6.07,1.12,319,K0,,324.867,-9.423,Capricorni,HD 206005 Capricorni
+1945,Capricornus,β2 Cap,β2,Beta 2,,,,193452,100325,20h 20m 46.52s,-14° 47′ 05.6″,6.09,1.18,328,B9.5III/IV,component of the β Cap system,305.192,-13.215,Capricorni,Beta 2 Capricorni
+1946,Capricornus,HD 195330,,HD 195330,,,,195330,101221,20h 31m 04.33s,-15° 03′ 21.8″,6.1,1.15,318,K1/K2III+..,,307.767,-14.944,Capricorni,HD 195330 Capricorni
+1947,Capricornus,HD 195838,,HD 195838,,,,195838,101507,20h 34m 11.66s,-13° 43′ 16.5″,6.11,3.53,107,G0V,,308.546,-12.279,Capricorni,HD 195838 Capricorni
+1948,Capricornus,HD 195006,,HD 195006,,,,195006,101090,20h 29m 31.34s,-22° 23′ 29.4″,6.13,0.07,531,K5III,,307.379,-21.609,Capricorni,HD 195006 Capricorni
+1949,Capricornus,HD 191110,,AV,,,AV,191110,99221,20h 08m 31.27s,-10° 03′ 45.0″,6.18,0.15,524,B9.5III,α2 CVn variable,302.129,-9.938,Capricorni,AV Capricorni
+1950,Capricornus,HD 201057,,HD 201057,,,,201057,104297,21h 07m 44.68s,-17° 27′ 20.8″,6.18,0.57,432,B9.5V,,316.933,-16.544,Capricorni,HD 201057 Capricorni
+1951,Capricornus,HD 196078,,HD 196078,,,,196078,101608,20h 35m 32.21s,-16° 31′ 32.9″,6.19,1.91,235,A5II/III,,308.883,-15.474,Capricorni,HD 196078 Capricorni
+1952,Capricornus,HD 207760,,HD 207760,,,,207760,107901,21h 51m 41.66s,-18° 37′ 21.9″,6.19,2.15,210,F0V,,327.921,-17.378,Capricorni,HD 207760 Capricorni
+1953,Capricornus,HD 198208,,HD 198208,,,,198208,102780,20h 49m 20.54s,-18° 02′ 08.8″,6.2,−1.49,1124,K3III,,312.333,-17.964,Capricorni,HD 198208 Capricorni
+1954,Capricornus,HD 206546,,HD 206546,,,,206546,107238,21h 43m 13.48s,-19° 37′ 15.4″,6.23,1.02,360,A0m...,,325.804,-18.379,Capricorni,HD 206546 Capricorni
+1955,Capricornus,27 Cap,,27,27,,,201352,104452,21h 09m 32.93s,-20° 33′ 22.8″,6.25,2.59,176,F2IV/V,,317.383,-19.444,Capricorni,27 Capricorni
+1956,Capricornus,20 Cap,,20,20,,AO,199728,103616,20h 59m 36.13s,-19° 02′ 06.8″,6.26,0.66,430,Ap Si,"α2 CVn variable, Vmax = 6.25m, Vmin = 6.30m, P = 2.2411 d",314.900,-18.965,Capricorni,20 Capricorni
+1957,Capricornus,HD 193896,,HD 193896,,,,193896,100524,20h 23m 00.78s,-09° 39′ 16.8″,6.29,0.66,435,G5II-III,,305.750,-8.346,Capricorni,HD 193896 Capricorni
+1958,Capricornus,HD 196947,,HD 196947,,,,196947,102094,20h 41m 24.26s,-25° 59′ 59.5″,6.29,−0.19,644,K2III,,310.350,-24.000,Capricorni,HD 196947 Capricorni
+1959,Capricornus,3 Cap,,3,3,,,192666,99918,20h 16m 22.80s,-12° 20′ 13.5″,6.3,0.26,527,B9IV,,304.092,-11.663,Capricorni,3 Capricorni
+1960,Capricornus,HD 207503,,HD 207503,,,,207503,107750,21h 49m 41.02s,-12° 43′ 22.5″,6.31,0.35,506,A1/A2III,,327.421,-11.277,Capricorni,HD 207503 Capricorni
+1961,Capricornus,HD 198732,,HD 198732,,,,198732,103071,20h 53m 01.10s,-23° 46′ 59.0″,6.32,1.94,245,K0III,,313.254,-22.217,Capricorni,HD 198732 Capricorni
+1962,Capricornus,ξ1 Cap,ξ1,Xi1,1,,,191753,99529,20h 11m 57.90s,-12° 23′ 32.5″,6.34,0.49,483,K0III,,302.988,-11.608,Capricorni,Xi1 Capricorni
+1963,Capricornus,HD 195549,,HD 195549,,,,195549,101384,20h 32m 52.35s,-24° 56′ 37.4″,6.35,1.19,350,A0V,,308.217,-23.056,Capricorni,HD 195549 Capricorni
+1964,Capricornus,HD 196761,,HD 196761,,,,196761,101997,20h 40m 11.44s,-23° 46′ 30.0″,6.36,5.53,48,G8/K0V,,310.046,-22.225,Capricorni,HD 196761 Capricorni
+1965,Capricornus,HD 196385,,HD 196385,,,,196385,101808,20h 37m 52.18s,-25° 06′ 33.1″,6.38,2.87,164,A9V,,309.467,-24.891,Capricorni,HD 196385 Capricorni
+1966,Capricornus,HD 203639,,HD 203639,,,,203639,105662,21h 24m 07.94s,-22° 44′ 49.5″,6.38,0.56,476,K0III,,321.029,-21.253,Capricorni,HD 203639 Capricorni
+1967,Capricornus,HD 207552,,HD 207552,,,,207552,107797,21h 50m 12.97s,-16° 50′ 41.6″,6.38,−0.40,739,K3III,,327.550,-15.155,Capricorni,HD 207552 Capricorni
+1968,Capricornus,BE Cap,,BE,,,BE,191639,99457,20h 11m 10.08s,-08° 50′ 32.4″,6.39,,2330,B1V,"γ Cas variable, Vmax = 6.16m, Vmin = 6.49m",302.792,-7.158,Capricorni,BE Capricorni
+1969,Capricornus,HD 205342,,HD 205342,,,,205342,106590,21h 35m 15.91s,-23° 27′ 15.4″,6.39,1.03,385,K1III,,323.813,-22.546,Capricorni,HD 205342 Capricorni
+1970,Capricornus,HD 194918,,HD 194918,,,,194918,101011,20h 28m 43.58s,-15° 44′ 29.4″,6.41,0.02,617,G8III,,307.179,-14.259,Capricorni,HD 194918 Capricorni
+1971,Capricornus,HD 204943,,HD 204943,,,,204943,106363,21h 32m 33.22s,-24° 35′ 25.6″,6.43,2.22,226,A7V,,323.138,-23.410,Capricorni,HD 204943 Capricorni
+1972,Capricornus,HD 203607,,HD 203607,,,,203607,105646,21h 23m 55.86s,-25° 12′ 08.7″,6.47,−0.71,888,K1III,,320.979,-24.798,Capricorni,HD 203607 Capricorni
+1973,Capricornus,HD 197540,,HD 197540,,,,197540,102414,20h 45m 13.12s,-27° 14′ 50.3″,6.5,0.7,470,G8III,,311.304,-26.753,Capricorni,HD 197540 Capricorni
+1974,Capricornus,HD 206893,,HD 206893,,,,206893,107412,21h 45m 22.00s,-12° 47′ 00.00″,6.67,,125,F5V,has a planets (b),326.342,-11.217,Capricorni,HD 206893 Capricorni
+1975,Capricornus,ο Cap B,ο,Omicron,12,,,195093,101120,20h 29m 52.58s,-18° 35′ 10.2″,6.74,3.63,136,A7/A8V,component of the ο Cap system,307.467,-17.414,Capricorni,Omicron Capricorni
+1976,Capricornus,τ1 Cap,τ1,Tau 1,13,,,196348,101751,20h 37m 21.16s,-15° 08′ 50.0″,6.76,−0.40,883,K1III,,309.338,-14.853,Capricorni,Tau 1 Capricorni
+1977,Capricornus,50 Cap,,50,50,,,207061,107527,21h 46m 42.09s,-11° 41′ 52.2″,7.01,3.04,203,F6V,,326.675,-10.302,Capricorni,50 Capricorni
+1978,Capricornus,31 Cap,,31,31,,,202723,105168,21h 18m 15.64s,-17° 27′ 44.2″,7.07,1.99,338,F0V,,319.563,-16.538,Capricorni,31 Capricorni
+1979,Capricornus,HD 205249,,AS,,,AS,205249,106497,21h 34m 16.57s,-13° 29′ 01.5″,7.69,,610,K0IIIp,"RS CVn variable, Vmax = 7.53m, Vmin = 7.80m, P = 60.64 d",323.567,-12.516,Capricorni,AS Capricorni
+1980,Capricornus,HD 204313,,HD 204313,,,,204313,106006,21h 28m 12.21s,-21° 43′ 34.5″,7.99,4.61,154,G5V,"has three planets (b, c & d)",322.050,-20.274,Capricorni,HD 204313 Capricorni
+1981,Capricornus,HD 202206,,HD 202206,,,,202206,104903,21h 14m 57.77s,-20° 47′ 21.15″,8.08,4.75,151,G6V,has a brown dwarf (b) and a planet (c),318.738,-19.216,Capricorni,HD 202206 Capricorni
+1982,Capricornus,HD 202772 A,,HD 202772,,,,202772,,21h 18m 48.0s,-26° 36′ 59.00″,8.32,,480,,has a planet (b),319.700,-25.398,Capricorni,HD 202772 Capricorni
+1983,Capricornus,RS Cap,,RS,,,RS,200994,104252,21h 07m 15.43s,-16° 25′ 21.5″,8.36,,2590,M6/M7III,semiregular variable,316.813,-15.578,Capricorni,RS Capricorni
+1984,Capricornus,HD 204941,,HD 204941,,,,204941,106353,21h 32m 24.00s,-20° 57′ 27.00″,8.45,,88,K2V,has a planet (b),323.100,-19.048,Capricorni,HD 204941 Capricorni
+1985,Capricornus,AT Cap,,AT,,,AT,195040,101098,20h 29m 36.86s,-21° 07′ 34.7″,8.87,,4500,G6III/IV,"RS CVn variable, Vmax = 8.87m, Vmin = 9.18m",307.400,-20.874,Capricorni,AT Capricorni
+1986,Capricornus,HD 197027,,HD 197027,,,,197027,102152,20h 41m 54.63s,-27° 12′ 57.4″,9.15,,253.9,G3V,solar twin,310.475,-26.784,Capricorni,HD 197027 Capricorni
+1987,Capricornus,AD Cap,,AD,,,AD,206046,106961,21h 39m 48.92s,-16° 00′ 21.0″,9.77,,1010,K0IV/V,"RS CVn variable, ΔV = 0.262m, P = 2.9592 d",324.950,-15.994,Capricorni,AD Capricorni
+1988,Capricornus,WASP-111,,W-111,,,,,,21h 55m 04.00s,-22° 36′ 45.00″,10.3,,685,F5,has a transiting planet (b),328.767,-21.399,Capricorni,W-111 Capricorni
+1989,Capricornus,HD 358623,,AZ,,,AZ,358623,,20h 56m 02.74s,-17° 10′ 53.7″,10.48,,,K6Ve+M2,"T Tau star, ΔV = 0.098m, P = 3.403 d",314.008,-16.819,Capricorni,AZ Capricorni
+1990,Capricornus,HD 193334,,HD 193334,,,,193334,,20h 20m 23.00s,-19° 18′ 53.00″,10.68,,,G2,"WASP-68, has a transiting planet (b)",305.096,-18.699,Capricorni,HD 193334 Capricorni
+1991,Capricornus,TW Cap,,TW,,,TW,,99765,20h 14m 28.42s,-13° 50′ 07.9″,10.7,,,A5Ib...,"W Vir variable, Vmax = 9.95m, Vmin = 11.4m, P = 28.585 d",303.617,-12.165,Capricorni,TW Capricorni
+1992,Capricornus,RV Cap,,RV,,,RV,,103755,21h 01m 28.87s,-15° 13′ 46.1″,10.97,,,A8,"RR Lyr variable, Vmax = 10.22m, Vmin = 11.57m, P = 0.44774401 d",315.367,-14.771,Capricorni,RV Capricorni
+1993,Capricornus,YZ Cap,,YZ,,,YZ,358431,105285,21h 19m 32.41s,-15° 07′ 01.2″,11.09,,793,F5,"RR Lyr variable, Vmax = 11.02m, Vmin = 11.6m, P = 0.2734563 d",319.883,-14.883,Capricorni,YZ Capricorni
+1994,Capricornus,HATS-3,, ,,,,,,20h 49m 50.00s,-24° 25′ 44.00″,11.44,,1477,F,has a planet (b),312.458,-23.582,Capricorni,  Capricorni
+1995,Capricornus,Wolf 922,,BB,,,BB,,106255,21h 31m 18.61s,-09° 47′ 26.5″,11.99,,27.049,M4.5e,"BY Dra variable, Vmax = 11.96m, Vmin = 11.99m",322.825,-8.209,Capricorni,BB Capricorni
+1996,Capricornus,WASP-89,,W-89,,,,,,20h 55m 36.00s,-18° 58′ 16.00″,13.1,,,K3,has a transiting planet (b),313.900,-17.032,Capricorni,W-89 Capricorni
+1997,Capricornus,PSR B2045-16,, ,,,,,,20h 48m 35.45s,-16° 16′ 43.0″,,,,,pulsar,312.146,-15.721,Capricorni,  Capricorni

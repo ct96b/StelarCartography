@@ -1,0 +1,41 @@
+USID,Constellation,Name,B,B->F->VAR->G,F,G.,Var,HD,HIP,RA,Dec,"vis. mag.","abs. mag.",Dist. (ly),Sp. class,Notes https://en.wikipedia.org/wiki/Lists_of_stars_by_constellation,RA angle,Dec Angle,Latin Constellation,Full Designation
+6989,Mensa,α Men,α,Alpha,,,,43834,29271,06h 10m 14.20s,-74° 45′ 09.1″,5.08,5.05,33,G5V,,92.558,-73.248,Mensae,Alpha Mensae
+6990,Mensa,γ Men,γ,Gamma,,,,37763,25918,05h 31m 52.66s,-76° 20′ 30.0″,5.18,2.73,101,K4III,double star,82.967,-75.658,Mensae,Gamma Mensae
+6991,Mensa,β Men,β,Beta,,,,33285,23467,05h 02m 43.00s,-71° 18′ 51.6″,5.3,−1.17,642,G8III,,75.679,-70.686,Mensae,Beta Mensae
+6992,Mensa,θ Men,θ,Theta,,,,54239,33384,06h 56m 34.48s,-79° 25′ 12.7″,5.45,0.26,356,B9.5V,,104.142,-78.580,Mensae,Theta Mensae
+6993,Mensa,κ Men,κ,Kappa,,,,40953,27566,05h 50m 16.80s,-79° 21′ 41.5″,5.46,0.87,270,B9.5V,,87.567,-78.639,Mensae,Kappa Mensae
+6994,Mensa,η Men,η,Eta,,,,32440,22871,04h 55m 11.14s,-74° 56′ 13.2″,5.47,−1.23,712,K6III,suspected variable,73.796,-73.063,Mensae,Eta Mensae
+6995,Mensa,μ Men,μ,Mu,,,,30612,21949,04h 43m 03.95s,-70° 55′ 52.0″,5.53,−0.32,483,B9IV,,70.763,-69.069,Mensae,Mu Mensae
+6996,Mensa,ε Men,ε,Epsilon,,,,60816,36039,07h 25m 38.19s,-79° 05′ 39.1″,5.54,−0.24,466,K2/K3III,,111.408,-78.906,Mensae,Epsilon Mensae
+6997,Mensa,ζ Men,ζ,Zeta,,,,50506,31897,06h 40m 02.91s,-80° 48′ 49.4″,5.61,0.14,404,A5III,,100.008,-79.186,Mensae,Zeta Mensae
+6998,Mensa,π Men,π,Pi,,,,39091,26394,05h 37m 08.79s,-80° 28′ 18.0″,5.65,4.35,59,G3IV,has two planet (b & c),84.283,-79.528,Mensae,Pi Mensae
+6999,Mensa,δ Men,δ,Delta,,,,28525,20049,04h 17m 59.18s,-80° 12′ 51.1″,5.67,0.19,408,K2/K3III+..,double star,64.496,-79.786,Mensae,Delta Mensae
+7000,Mensa,HD 22676,,HD 22676,,,,22676,16290,03h 29m 58.93s,-78° 21′ 06.4″,5.68,0.81,307,G8III,,52.492,-77.648,Mensae,HD 22676 Mensae
+7001,Mensa,ν Men,ν,Nu,,,,29116,20297,04h 20m 58.03s,-81° 34′ 48.8″,5.78,2.13,175,F0/F2III,,65.242,-80.420,Mensae,Nu Mensae
+7002,Mensa,WX Men,,WX,,,WX,37993,26169,05h 34m 44.78s,-73° 44′ 28.9″,5.79,−1.74,1045,M2/M3III,"semiregular variable, ΔV = 0.15m",83.683,-72.259,Mensae,WX Mensae
+7003,Mensa,ξ Men,ξ,Xi,,,,34172,23148,04h 58m 50.99s,-82° 28′ 13.9″,5.84,0.69,349,G8III,"variable star, ΔV = 0.005m, P = 148.14815 d",74.708,-81.530,Mensae,Xi Mensae
+7004,Mensa,ι Men,ι,Iota,,,,38602,26264,05h 35m 36.13s,-78° 49′ 15.2″,6.04,−0.90,795,B8III,"rotating ellipsoidal variable, Vmax = 6.00m, Vmin = 6.05m, P = 5.288 d",83.900,-77.179,Mensae,Iota Mensae
+7005,Mensa,HD 30479,,HD 30479,,,,30479,21611,04h 38m 21.74s,-77° 39′ 21.5″,6.05,−0.46,655,K2III,,69.588,-76.344,Mensae,HD 30479 Mensae
+7006,Mensa,TZ Men,,TZ,,,TZ,39780,25776,05h 30m 13.93s,-84° 47′ 06.8″,6.18,1.03,349,A1III + B9V:,"Algol variable, Vmax = 6.19m, Vmin = 6.87m, P = 8.56898 d",82.554,-83.215,Mensae,TZ Mensae
+7007,Mensa,HD 33875,,HD 33875,,,,33875,23737,05h 06m 09.26s,-73° 02′ 16.2″,6.26,0.69,423,A0V,,76.538,-72.962,Mensae,HD 33875 Mensae
+7008,Mensa,HD 31975,,HD 31975,,,,31975,22717,04h 53m 05.73s,-72° 24′ 30.0″,6.28,3.72,106,F8V,,73.271,-71.592,Mensae,HD 31975 Mensae
+7009,Mensa,HD 23474,,HD 23474,,,,23474,16827,03h 36m 30.18s,-78° 19′ 23.1″,6.29,−0.65,795,K2III,,54.125,-77.677,Mensae,HD 23474 Mensae
+7010,Mensa,HD 33519,,HD 33519,,,,33519,23251,05h 00m 13.29s,-78° 18′ 00.0″,6.29,−1.30,1072,K5/M0III,optical double,75.054,-77.700,Mensae,HD 33519 Mensae
+7011,Mensa,HD 35184,,HD 35184,,,,35184,24507,05h 15m 24.88s,-73° 35′ 18.6″,6.49,1.28,359,A6V,,78.850,-72.412,Mensae,HD 35184 Mensae
+7012,Mensa,λ Men,λ,Lambda,,,,39810,27369,05h 47m 48.15s,-72° 42′ 08.3″,6.54,1.17,386,K0III,,86.950,-71.298,Mensae,Lambda Mensae
+7013,Mensa,HD 38283,,HD 38283,,,,38283,26380,05h 37m 02.00s,-73° 41′ 58 ″,6.7,,123,F9.5V,"Bubup,[1] has a planet (b)",84.258,-72.301,Mensae,HD 38283 Mensae
+7014,Mensa,YY Men,,YY,,,YY,32918,23106,04h 58m 17.94s,-75° 16′ 38.0″,8.05,,942,K2III,"FK Com Variable, Vmax = 7.91m, Vmin = 8.40m, P = 9.603 d",74.571,-74.723,Mensae,YY Mensae
+7015,Mensa,HD 39194,,HD 39194,,,,39194,27080,05h 44m 32.00s,-70° 08′ 37.00″,8.08,,84,K0V,"has three planets (b, c and d)",86.133,-69.865,Mensae,HD 39194 Mensae
+7016,Mensa,UX Men,,UX,,,UX,37513,25760,05h 30m 03.18s,-76° 14′ 55.4″,8.24,,332,F8V,"Algol variable, ΔV = 0.380m, P = 8.287 d",82.513,-75.751,Mensae,UX Mensae
+7017,Mensa,TY Men,,TY,,,TY,37909,25472,05h 26m 49.73s,-81° 35′ 07.2″,8.26,,569,A3/A4V,"W UMa Variable, Vmax = 8.08m, Vmin = 8.56m, P = 0.46166701 d",81.704,-80.415,Mensae,TY Mensae
+7018,Mensa,HD 42936,,HD 42936,,,,42936,28941,06h 06m 30.00s,-72° 30′ 46.00″,9.1,,159,KOIV,has a planet (b),91.625,-71.498,Mensae,HD 42936 Mensae
+7019,Mensa,R71,,HD 269006,,,,269006,23428,05h 02m 07.39s,-71° 20′ 13.11″,10.55,,160000,OB,"in LMC, luminous blue variable",75.529,-70.666,Mensae,HD 269006 Mensae
+7020,Mensa,HDE 268835,,HD 268835,,,,268835,22989,04h 56m 47.08s,-69° 50′ 24.79″,10.66,,160000,B8Ie,in LMC; blue hypergiant,74.196,-68.166,Mensae,HD 268835 Mensae
+7021,Mensa,TU Men,,TU,,,TU,,,04h 41m 40.70s,-76° 36′ 45.8″,11.6,,,,"SU UMa Variable, Vmax = 11.6m, Vmin = 18.5m, P = 0.1172 d",70.417,-75.388,Mensae,TU Mensae
+7022,Mensa,HV 2257,, ,,,,,,04h 58m 10.80s,-69° 56′ 59.0″,12.5,,160000,K5-M3,"in LMC, Cepheid variable",74.542,-68.050,Mensae,  Mensae
+7023,Mensa,AH Men,,AH,,,AH,,,06h 11m 43.95s,-81° 49′ 22.7″,13.15,,,,"Nova-like star, Vmax = 13.15m, Vmin = 13.9m, P = 0.12721 d",92.929,-80.177,Mensae,AH Mensae
+7024,Mensa,W Men,,W,,,W,,,05h 26m 24.52s,-71° 11′ 11.8″,13.8,,160000,F8:Iab:p,in LMC; R CrB variable,81.600,-70.814,Mensae,W Mensae
+7025,Mensa,RX J0513.9-6952,, ,,,,,,05h 13m 50.81s,-69° 51′ 46.7″,17,,160000,Ss,"in LMC, X-ray binary",78.458,-68.137,Mensae,  Mensae
+7026,Mensa,LMC X-2,, ,,,,,,05h 20m 28.04s,-71° 57′ 53.3″,18,,160000,,"in LMC, Low-mass X-ray binary",80.117,-70.035,Mensae,  Mensae
+7027,Mensa,MACHO-LMC-5,, ,,,,,,05h 16m 41.10s,-70° 29′ 18.00″,21.15,,160000,,microlensing event; source in LMC lensed by red dwarf,79.171,-69.514,Mensae,  Mensae
+7028,Mensa,CAL-87,, ,,,,,,05h 46m 46.39s,-71° 08′ 53.9″,,,160000,,"in LMC, X-ray binary",86.692,-70.852,Mensae,  Mensae

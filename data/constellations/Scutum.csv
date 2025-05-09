@@ -1,0 +1,73 @@
+USID,Constellation,Name,B,B->F->VAR->G,F,G.,Var,HD,HIP,RA,Dec,"vis. mag.","abs. mag.",Dist. (ly),Sp. class,Notes https://en.wikipedia.org/wiki/Lists_of_stars_by_constellation,RA angle,Dec Angle,Latin Constellation,Full Designation
+9894,Scutum,α Sct,α,Alpha,,,,171443,91117,18h 35m 12.44s,-08° 14′ 35.9″,3.85,0.21,174,K2III,"suspected variable, Vmax = 3.81m, Vmin = 3.87m",278.800,-7.757,Scuti,Alpha Scuti
+9895,Scutum,β Sct,β,Beta,,,,173764,92175,18h 47m 10.48s,-04° 44′ 52.2″,4.22,−2.41,689,G5II...,,281.792,-3.252,Scuti,Beta Scuti
+9896,Scutum,ζ Sct,ζ,Zeta,,,,169156,90135,18h 23m 39.55s,-08° 56′ 04.2″,4.66,0.82,191,K0III,,275.913,-7.066,Scuti,Zeta Scuti
+9897,Scutum,γ Sct,γ,Gamma,,,,170296,90595,18h 29m 11.85s,-14° 33′ 56.9″,4.67,−0.09,291,A1IV/V,,277.296,-13.434,Scuti,Gamma Scuti
+9898,Scutum,δ Sct,δ,Delta,,,,172748,91726,18h 42m 16.42s,-09° 03′ 09.2″,4.7,0.91,187,F2IIIp d Del,"triple star; prototype Delta Scuti variable, Vmax = 4.6m, Vmin = 4.79m, P = 0.1937697 d",280.567,-8.948,Scuti,Delta Scuti
+9899,Scutum,η Sct,η,Eta,,,,175751,93026,18h 57m 03.63s,-05° 50′ 46.4″,4.83,0.82,207,K1III,,284.263,-4.154,Scuti,Eta Scuti
+9900,Scutum,ε Sct,ε,Epsilon,,,,173009,91845,18h 43m 31.24s,-08° 16′ 30.9″,4.88,−1.14,522,G8II,,280.879,-7.725,Scuti,Epsilon Scuti
+9901,Scutum,HD 175156,,HD 175156,,,,175156,92814,18h 54m 43.12s,-15° 36′ 10.9″,5.08,−3.46,1663,B3II,,283.679,-14.397,Scuti,HD 175156 Scuti
+9902,Scutum,HD 171391,,HD 171391,,,,171391,91105,18h 35m 02.36s,-10° 58′ 37.9″,5.12,0.38,290,G8III,suspected variable,278.758,-9.023,Scuti,HD 171391 Scuti
+9903,Scutum,R Sct,,R,,,R,173819,92202,18h 47m 28.98s,-05° 42′ 18.3″,5.38,−2.79,1405,K0Ibpvar,"RV Tauri variable, Vmax = 4.2m, Vmin = 8.6m, P = 146.5 d",281.867,-4.295,Scuti,R Scuti
+9904,Scutum,V450 Sct,,V450,,,V450,170975,90913,18h 32m 43.32s,-14° 51′ 56.4″,5.47,−2.48,1268,K3Iab,semiregular variable,278.179,-13.134,Scuti,V450 Scuti
+9905,Scutum,HD 173638,,HD 173638,,,,173638,92136,18h 46m 43.32s,-10° 07′ 30.1″,5.69,,,F2Ib-II,"suspected irregular variable, Vmax = 5.64m, Vmin = 5.81m",281.679,-9.875,Scuti,HD 173638 Scuti
+9906,Scutum,HD 169033,,HD 169033,,,,169033,90096,18h 23m 12.17s,-12° 00′ 52.9″,5.71,−0.66,612,B5V,,275.800,-11.986,Scuti,HD 169033 Scuti
+9907,Scutum,HD 171130,,HD 171130,,,,171130,90991,18h 33m 39.00s,-14° 51′ 12.9″,5.74,1.68,211,A0/A1V,,278.413,-13.147,Scuti,HD 171130 Scuti
+9908,Scutum,HD 170740,,HD 170740,,,,170740,90804,18h 31m 25.69s,-10° 47′ 44.9″,5.77,−0.87,694,B2V,double star; suspected variable,277.854,-9.204,Scuti,HD 170740 Scuti
+9909,Scutum,HD 172348,,HD 172348,,,,172348,91532,18h 40m 00.40s,-07° 47′ 26.5″,5.82,−0.22,527,K4III,,280.000,-6.209,Scuti,HD 172348 Scuti
+9910,Scutum,HD 174464,,HD 174464,,,,174464,92488,18h 50m 58.51s,-09° 46′ 26.8″,5.82,−2.51,1509,F2Ib,,282.742,-8.226,Scuti,HD 174464 Scuti
+9911,Scutum,HD 174208,,HD 174208,,,,174208,92391,18h 49m 40.96s,-05° 54′ 46.2″,5.99,−2.31,1489,K2Ib,,282.417,-4.087,Scuti,HD 174208 Scuti
+9912,Scutum,V432 Sct,,V432,,,V432,170397,90651,18h 29m 46.75s,-14° 34′ 55.3″,6.02,1.32,284,Ap,"α² CVn variable, ΔV = 0.012m, P = 2.1912 d",277.442,-13.418,Scuti,V432 Scuti
+9913,Scutum,HD 172831,,HD 172831,,,,172831,91751,18h 42m 36.12s,-07° 04′ 25.1″,6.13,1.77,243,K0.5III,,280.650,-6.926,Scuti,HD 172831 Scuti
+9914,Scutum,HD 170547,,HD 170547,,,,170547,90692,18h 30m 14.30s,-05° 43′ 26.9″,6.27,0.02,579,G8II-III,,277.558,-4.276,Scuti,HD 170547 Scuti
+9915,Scutum,HD 174866,,HD 174866,,,,174866,92674,18h 53m 01.80s,-09° 34′ 32.0″,6.27,1.23,332,A7Vn,,283.254,-8.424,Scuti,HD 174866 Scuti
+9916,Scutum,HD 169370,,HD 169370,,,,169370,90238,18h 24m 42.05s,-07° 04′ 33.1″,6.28,1.61,281,K0,,276.175,-6.924,Scuti,HD 169370 Scuti
+9917,Scutum,HD 173093,,HD 173093,,,,173093,91880,18h 43m 51.22s,-06° 49′ 04.8″,6.3,2.09,227,F7V,,280.963,-5.182,Scuti,HD 173093 Scuti
+9918,Scutum,HD 169009,,HD 169009,,,,169009,90083,18h 23m 02.10s,-10° 13′ 08.1″,6.32,1.21,343,B9.5V,suspected variable,275.758,-9.781,Scuti,HD 169009 Scuti
+9919,Scutum,HD 170902,,HD 170902,,,,170902,90884,18h 32m 20.66s,-14° 38′ 39.2″,6.36,2.01,241,A4/A5IV/V,,278.083,-13.356,Scuti,HD 170902 Scuti
+9920,Scutum,HD 171149,,HD 171149,,,,171149,90967,18h 33m 22.71s,-05° 54′ 41.9″,6.36,1.07,373,A0Vn,,278.342,-4.089,Scuti,HD 171149 Scuti
+9921,Scutum,HD 172594,,HD 172594,,,,172594,91677,18h 41m 42.46s,-14° 33′ 51.3″,6.4,−4.34,4592,F2/F3Ib/II,,280.425,-13.436,Scuti,HD 172594 Scuti
+9922,Scutum,HD 174328,,HD 174328,,,,174328,92456,18h 50m 31.17s,-13° 34′ 20.1″,6.48,−2.03,1638,K1II/III,,282.629,-12.428,Scuti,HD 174328 Scuti
+9923,Scutum,HD 171957,,HD 171957,,,,171957,91369,18h 38m 04.48s,-14° 00′ 17.1″,6.49,−0.15,694,B8II/III,,279.517,-13.995,Scuti,HD 171957 Scuti
+9924,Scutum,HD 174005,,HD 174005,,,,174005,92296,18h 48m 39.49s,-06° 00′ 15.8″,6.49,0.45,527,A2,,282.163,-5.996,Scuti,HD 174005 Scuti
+9925,Scutum,HD 169913,,HD 169913,,,,169913,90437,18h 27m 08.86s,-08° 02′ 25.6″,6.5,1.51,325,K0,,276.783,-7.960,Scuti,HD 169913 Scuti
+9926,Scutum,HD 169454,,V430,,,V430,169454,90281,18h 25m 15.19s,-13° 58′ 42.3″,6.64,,,B1Ia,"α Cyg variable, Vmax = 6.5m, Vmin = 6.64m",276.313,-12.022,Scuti,V430 Scuti
+9927,Scutum,S Sct,,S,,,S,174325,92442,18h 50m 20.04s,-07° 54′ 27.4″,6.8,,1260,C,"semiregular variable, Vmax = 6.6m, Vmin = 7.3m, P = 149.7 d",282.583,-6.093,Scuti,S Scuti
+9928,Scutum,V496 Sct,,V496,,,V496,,,18h 43m 45.57s,-07° 36′ 42.0″,7.1,,,,"nova, Vmax = 7.10m, Vmin = <19m",280.938,-6.388,Scuti,V496 Scuti
+9929,Scutum,RZ Sct,,RZ,,,RZ,169753,90382,18h 26m 33.52s,-09° 12′ 06.0″,7.53,,2260,B3Ib,"Algol variable, Vmax = 7.34m, Vmin = 8.84m, P = 15.1902079 d",276.638,-8.798,Scuti,RZ Scuti
+9930,Scutum,HD 173219,,V447,,,V447,173219,91946,18h 44m 33.34s,-07° 06′ 38.2″,7.88,,,B1:V:npe,"Be star, ΔV = 0.12m",281.138,-6.889,Scuti,V447 Scuti
+9931,Scutum,SS Sct,,SS,,,SS,173058,91867,18h 43m 43.51s,-07° 43′ 51.9″,7.9,,,F8,"Cepheid variable, Vmax = 7.9m, Vmin = 8.43m, P = 3.671253 d",280.929,-6.269,Scuti,SS Scuti
+9932,Scutum,EW Sct,,EW,,,EW,171955,91342,18h 37m 51.11s,-06° 47′ 48.5″,7.96,,1450,G5,"double-mode Cepheid variable, Vmax = 7.6m, Vmin = 8.2m, P = 5.82363 d",279.463,-5.203,Scuti,EW Scuti
+9933,Scutum,V475 Sct,,V475,,,V475,,,18h 49m 37.60s,-09° 33′ 15.9″,,,,,"nova, Vmax = 8.4m, Vmin = <16m",282.404,-8.446,Scuti,V475 Scuti
+9934,Scutum,RU Sct,,RU,,,RU,172730,91697,18h 41m 56.38s,-04° 06′ 38.4″,8.84,,801,G5,"Cepheid variable, Vmax = 8.84m, Vmin = 9.96m, P = 19.7035 d",280.483,-3.889,Scuti,RU Scuti
+9935,Scutum,RY Sct,,RY,,,RY,169515,90303,18h 25m 31.48s,-12° 41′ 24.2″,9.12,,,B1IIIpe,"Beta Lyrae variable, Vmax = 9.12m, Vmin = 9.72m, P = 11.12471 d",276.379,-11.310,Scuti,RY Scuti
+9936,Scutum,HD 173637,,V455,,,V455,173637,92128,18h 46m 38.08s,-07° 55′ 55.1″,9.29,,,B1IV,γ Cas variable,281.658,-6.068,Scuti,V455 Scuti
+9937,Scutum,EV Sct,,EV,,,EV,,91239,18h 36m 39.60s,-08° 11′ 05.4″,9.9,,,G0II,"Cepheid variable, Vmax = 9.9m, Vmin = 10.32m, P = 3.09099 d",279.163,-7.815,Scuti,EV Scuti
+9938,Scutum,RS Sct,,RS,,,RS,,92340,18h 49m 11.25s,-10° 14′ 27.8″,9.95,,860,G0,"Beta Lyrae variable, Vmax = 9.78m, Vmin = 10.91m, P = 0.6642384 d",282.296,-9.759,Scuti,RS Scuti
+9939,Scutum,AS 314,,V452,,,V452,,91477,18h 39m 26.11s,-13° 50′ 47.2″,10.01,,32600,A3:Ia,α Cyg variable; candidate luminous blue variable,279.858,-12.154,Scuti,V452 Scuti
+9940,Scutum,X Sct,,X,,,X,,90791,18h 31m 19.75s,-13° 06′ 29.5″,10.07,,1330,F5...,"Cepheid variable, Vmax = 9.5m, Vmin = 10.42m, P = 4.19807 d",277.829,-12.892,Scuti,X Scuti
+9941,Scutum,V443 Sct,,V443,,,V443,,,18h 49m 38.95s,-06° 11′ 15.9″,10.48,,,,"nova, Vmax = 8.5m, Vmin = <13.2m",282.408,-5.813,Scuti,V443 Scuti
+9942,Scutum,UY Sct,,UY,,,UY,,,18h 27m 36.53s,-12° 27′ 58.9″,10.56,,,M2-4Ia-Iab,One of the largest known stars; semiregular variable,276.900,-11.534,Scuti,UY Scuti
+9943,Scutum,UZ Sct,,UZ,,,UZ,,,18h 31m 22.37s,-22° 55′ 43.34″,,10.91,176.35275,G0 D,Yellow giant.,277.842,-21.083,Scuti,UZ Scuti
+9944,Scutum,CM Sct,,CM,,,CM,,91738,18h 42m 26.82s,-05° 20′ 27.0″,10.93,,,,"Cepheid variable, Vmax = 10.79m, Vmin = 11.49m, P = 3.916997 d",280.608,-4.659,Scuti,CM Scuti
+9945,Scutum,TY Sct,,TY,,,TY,,91706,18h 42m 07.92s,-04° 17′ 36.5″,11,,733,F8,"Cepheid variable, Vmax = 10.31m, Vmin = 11.25m, P = 11.05302 d",280.529,-3.707,Scuti,TY Scuti
+9946,Scutum,V476 Sct,,V476,,,V476,,,18h 32m 04.75s,-06° 43′ 34.3″,11.1,,,,"nova, Vmax = 11.1m, Vmin = <17m",278.017,-5.274,Scuti,V476 Scuti
+9947,Scutum,LS 5039,,V479,,,V479,,,18h 26m 15.06s,-14° 50′ 54.3″,11.23,,,O(f)N6.5V,"High-mass X-ray binary; microquasar; gamma-ray emitter; Vmax = 11.22m, Vmin = 11.35m, P = 3.906 d",276.563,-13.152,Scuti,V479 Scuti
+9948,Scutum,V367 Sct,,V367,,,V367,,,18h 33m 35.24s,-10° 25′ 38.0″,11.58,,,F5II,"double-mode Cepheid variable, Vmax = 11.21m, Vmin = 11.91m, P = 6.29307 d",278.396,-9.573,Scuti,V367 Scuti
+9949,Scutum,FR Sct,,FR,,,FR,,90115,18h 23m 22.79s,-12° 40′ 51.8″,11.6,,,M1:II,slow irregular variable; Algol variable,275.842,-11.319,Scuti,FR Scuti
+9950,Scutum,MWC 300,,V431,,,V431,,90617,18h 29m 25.69s,-06° 04′ 37.3″,11.6,,,Bpe,"α2 CVn variable, Vmax = 11.6m, Vmin = 12.1m, P = 2.1510141 d",277.354,-5.923,Scuti,V431 Scuti
+9951,Scutum,BX Sct,,BX,,,BX,,,18h 50m 09.24s,-04° 22′ 05.2″,11.7,,,F6,"Cepheid variable, Vmax = 11.7m, Vmin = 12.62m, P = 6.41133 d",282.538,-3.632,Scuti,BX Scuti
+9952,Scutum,COROT-17,, ,,,,,,18h 34m 47.00s,-06° 36′ 44.00″,15.46,,3001,G2V,has a transiting planet (b),278.696,-5.399,Scuti,  Scuti
+9953,Scutum,4U 1850-087,, ,,,,,,18h 53m 04.89s,-08° 42′ 19.7″,21,,22500,,Low-mass X-ray binary,283.267,-7.295,Scuti,  Scuti
+9954,Scutum,CRL 2136,, ,,,,,,18h 22m 26.59s,-13° 30′ 15.7″,,,,,massive young star,275.608,-12.496,Scuti,  Scuti
+9955,Scutum,OH 17.7-2.0,,V445,,,V445,,,18h 30m 30.62s,-14° 28′ 55.8″,,,,K2/K3:II/III:,semiregular variable,277.625,-13.518,Scuti,V445 Scuti
+9956,Scutum,OH 26.5+0.6,,V437,,,V437,,,18h 37m 32.51s,-05° 23′ 59.2″,,,,M,Mira variable,279.383,-4.600,Scuti,V437 Scuti
+9957,Scutum,PSR B1829-10,, ,,,,,,18h 32m 40.90s,-10° 21′ 34.00″,,,,n/a,pulsar,278.167,-9.649,Scuti,  Scuti
+9958,Scutum,PSR B1822-09,, ,,,,,,18h 25m 30.55s,-09° 35′ 22.1″,,,,,pulsar,276.375,-8.411,Scuti,  Scuti
+9959,Scutum,PSR B1823-13,, ,,,,,,18h 26m 13.18s,-13° 34′ 46.8″,,,,,pulsar,276.554,-12.421,Scuti,  Scuti
+9960,Scutum,PSR B1828-10,, ,,,,,,18h 30m 47.57s,-10° 59′ 27.9″,,,,,pulsar; possible planetary companion,277.696,-9.009,Scuti,  Scuti
+9961,Scutum,PSR J1833-1034,, ,,,,,,18h 33m 33.57s,-10° 34′ 07.5″,,,,,pulsar,278.388,-9.431,Scuti,  Scuti
+9962,Scutum,1E 1841-045,, ,,,,,,18h 41m 19.34s,-04° 56′ 11.16″,,,,,magnetar in supernova remnant,280.329,-3.066,Scuti,  Scuti
+9963,Scutum,EU Sct,,EU,,,EU,,,18h 56m 13.12s,-04° 12′ 32.3″,,,,,nova,284.054,-3.791,Scuti,EU Scuti
+9964,Scutum,V368 Sct,,V368,,,V368,,,18h 45m 43.53s,-08° 33′ 00.9″,,,,,nova,281.429,-7.450,Scuti,V368 Scuti
+9965,Scutum,V373 Sct,,V373,,,V373,,,18h 55m 26.71s,-07° 43′ 05.5″,,,,,nova,283.858,-6.282,Scuti,V373 Scuti

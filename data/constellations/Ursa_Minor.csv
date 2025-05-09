@@ -1,0 +1,60 @@
+USID,Constellation,Name,B,B->F->VAR->G,F,G.,Var,HD,HIP,RA,Dec,"vis. mag.","abs. mag.",Dist. (ly),Sp. class,Notes https://en.wikipedia.org/wiki/Lists_of_stars_by_constellation,RA angle,Dec Angle,Latin Constellation,Full Designation
+10892,Ursa Minor,Polaris,α,Alpha,1,,,8890,11767,02h 31m 47.08s,+89° 15′ 50.9″,1.97,−3.64,431,F7:Ib-IIv SB,"Pole Star, Lodestar, Alruccabah, Cynosura, Phoenice, Tramontana, Angel Stern, Navigatoria, Star of Arcady, Yilduz, Mismar, Polyarnaya, Dhruva; classical Cepheid, Vmax = 1.97m, Vmin = 2.00m, P = 3.9696 d",37.946,89.264,Ursae Minoris,Alpha Ursae Minoris
+10893,Ursa Minor,β UMi,β,Beta,7,,,131873,72607,14h 50m 42.40s,+74° 09′ 19.7″,2.07,−0.87,126,K4IIIvar,"Kochab, Kokab, Kochah; suspected variable, Vmax = 2.02m, Vmin = 2.08m, has a planet (b)",222.675,74.155,Ursae Minoris,Beta Ursae Minoris
+10894,Ursa Minor,γ UMi,γ,Gamma,13,,,137422,75097,15h 20m 43.75s,+71° 50′ 02.3″,3.04,−2.84,480,A3II-III,"Pherkad, Pherkad Major; δ Sct variable, ΔV = 0.05m, P = 0.143009 d",230.179,71.834,Ursae Minoris,Gamma Ursae Minoris
+10895,Ursa Minor,ε UMi,ε,Epsilon,22,,,153751,82080,16h 45m 58.16s,+82° 02′ 14.1″,4.21,−0.92,346,G5IIIvar,"RS CVn variable, Vmax = 4.19m, Vmin = 4.23m, P = 39.4809 d",251.492,82.037,Ursae Minoris,Epsilon Ursae Minoris
+10896,Ursa Minor,5 UMi,,5,5,,,127700,70692,14h 27m 31.52s,+75° 41′ 45.4″,4.25,−0.87,345,K4III,,216.879,75.696,Ursae Minoris,5 Ursae Minoris
+10897,Ursa Minor,ζ UMi,ζ,Zeta,16,,,142105,77055,15h 44m 03.46s,+77° 47′ 40.2″,4.29,−1.02,376,A3Vn,Ahfa al Farkadain,236.013,77.794,Ursae Minoris,Zeta Ursae Minoris
+10898,Ursa Minor,δ UMi,δ,Delta,23,,,166205,85822,17h 32m 12.90s,+86° 35′ 10.8″,4.35,0.61,183,A1Vn,"Yildun, Gildun, Vildiur, Yilduz, Pherkard",263.050,86.586,Ursae Minoris,Delta Ursae Minoris
+10899,Ursa Minor,RR UMi,,RR,,,RR,132813,73199,14h 57m 35.12s,+65° 55′ 56.6″,4.63,−0.80,398,M5III,"semiregular variable, Vmax = 4.44m, Vmin = 4.85m, P = 43.3 d",224.396,65.932,Ursae Minoris,RR Ursae Minoris
+10900,Ursa Minor,4 UMi,,4,4,,,124547,69112,14h 08m 51.01s,+77° 32′ 50.8″,4.8,−1.13,500,K3III,,212.213,77.547,Ursae Minoris,4 Ursae Minoris
+10901,Ursa Minor,η UMi,η,Eta,21,,,148048,79822,16h 17m 30.50s,+75° 45′ 16.9″,4.95,2.58,97,F5V,"Anwar al Farkadain, Alasco & Marlethias",244.375,75.754,Ursae Minoris,Eta Ursae Minoris
+10902,Ursa Minor,θ UMi,θ,Theta,15,,,139669,76008,15h 31m 25.05s,+77° 20′ 57.6″,5,−2.03,832,K5III,suspected variable,232.854,77.349,Ursae Minoris,Theta Ursae Minoris
+10903,Ursa Minor,11 UMi,,11,11,,,136726,74793,15h 17m 05.88s,+71° 49′ 26.0″,5.02,−0.37,389,K4III,Pherkad Minor; has a planet (b),229.271,71.824,Ursae Minoris,11 Ursae Minoris
+10904,Ursa Minor,HD 136064,,HD 136064,,,,136064,74605,15h 14m 38.00s,+67° 20′ 51.6″,5.15,3.13,83,F9IV,,228.658,67.348,Ursae Minoris,HD 136064 Ursae Minoris
+10905,Ursa Minor,HD 124730,,HD 124730,,,,124730,69373,14h 12m 04.05s,+69° 25′ 57.6″,5.18,−0.50,445,M2III,"variable star, ΔV = 0.010m, P = 4.43184 d",213.017,69.433,Ursae Minoris,HD 124730 Ursae Minoris
+10906,Ursa Minor,19 UMi,,19,19,,,146926,79280,16h 10m 49.53s,+75° 52′ 39.1″,5.48,−1.07,665,B8V,,242.704,75.878,Ursae Minoris,19 Ursae Minoris
+10907,Ursa Minor,HD 118904,,HD 118904,,,,118904,66435,13h 37m 11.05s,+71° 14′ 32.2″,5.5,0.05,400,K2III,has a planet (b),204.296,71.242,Ursae Minoris,HD 118904 Ursae Minoris
+10908,Ursa Minor,HD 149681,,HD 149681,,,,149681,80480,16h 25m 43.53s,+78° 57′ 49.0″,5.55,2.42,138,F0V,,246.429,78.964,Ursae Minoris,HD 149681 Ursae Minoris
+10909,Ursa Minor,HD 133002,,HD 133002,,,,133002,72573,14h 50m 19.63s,+82° 30′ 45.0″,5.63,2.45,141,F9V,,222.579,82.513,Ursae Minoris,HD 133002 Ursae Minoris
+10910,Ursa Minor,HD 140227,,HD 140227,,,,140227,76519,15h 37m 39.21s,+69° 16′ 59.6″,5.65,−1.51,881,M0III,,234.413,69.283,Ursae Minoris,HD 140227 Ursae Minoris
+10911,Ursa Minor,HD 145622,,HD 145622,,,,145622,78661,16h 03m 31.40s,+76° 47′ 38.0″,5.73,−0.53,581,A3V,,240.879,76.794,Ursae Minoris,HD 145622 Ursae Minoris
+10912,Ursa Minor,HD 158996,,HD 158996,,,,158996,84769,17h 19m 37.05s,+80° 08′ 11.0″,5.74,−1.67,991,K5III,has a planet (b),259.904,80.136,Ursae Minoris,HD 158996 Ursae Minoris
+10913,Ursa Minor,24 UMi,,24,24,,,166926,85699,17h 30m 46.97s,+86° 58′ 04.9″,5.78,2.38,156,A2m,,262.692,86.968,Ursae Minoris,24 Ursae Minoris
+10914,Ursa Minor,HD 117187,,HD 117187,,,,117187,65536,13h 26m 08.02s,+72° 23′ 29.4″,5.82,−1.63,1009,M1III,,201.533,72.391,Ursae Minoris,HD 117187 Ursae Minoris
+10915,Ursa Minor,HD 120084,,HD 120084,,,,120084,66903,13h 42m 39.38s,+78° 03′ 51.6″,5.91,0.96,318,G7III:,has a planet (b),205.663,78.064,Ursae Minoris,HD 120084 Ursae Minoris
+10916,Ursa Minor,HD 152303,,HD 152303,,,,152303,81854,16h 43m 06.14s,+77° 30′ 48.5″,5.99,3.21,117,F4V,,250.775,77.513,Ursae Minoris,HD 152303 Ursae Minoris
+10917,Ursa Minor,HD 147321,,HD 147321,,,,147321,79601,16h 14m 33.47s,+73° 23′ 41.3″,6.02,−0.78,748,A3V,,243.638,73.395,Ursae Minoris,HD 147321 Ursae Minoris
+10918,Ursa Minor,VX UMi,,VX,,,VX,155154,83317,17h 01m 40.08s,+75° 17′ 51.6″,6.17,2.91,146,F0IVn,γ Dor variable,255.417,75.298,Ursae Minoris,VX Ursae Minoris
+10919,Ursa Minor,HD 135384,,HD 135384,,,,135384,74272,15h 10m 44.40s,+67° 46′ 51.8″,6.18,0.23,504,A8Vn,,227.683,67.781,Ursae Minoris,HD 135384 Ursae Minoris
+10920,Ursa Minor,HD 133994,,HD 133994,,,,133994,73706,15h 03m 57.73s,+65° 55′ 11.0″,6.22,0.45,464,A2Vs,,225.988,65.920,Ursae Minoris,HD 133994 Ursae Minoris
+10921,Ursa Minor,UY UMi,,UY,,,UY,107192,59767,12h 15m 20.67s,+87° 42′ 00.0″,6.27,2.93,152,F2V,γ Dor variable,183.833,87.700,Ursae Minoris,UY Ursae Minoris
+10922,Ursa Minor,HD 129245,,HD 129245,,,,129245,71196,14h 33m 38.62s,+79° 39′ 36.8″,6.27,0.52,461,K3III,,218.408,79.660,Ursae Minoris,HD 129245 Ursae Minoris
+10923,Ursa Minor,λ UMi,λ,Lambda,,,,183030,84535,17h 16m 57.26s,+89° 02′ 15.8″,6.31,−0.84,876,M1III,semiregular variable,259.238,89.038,Ursae Minoris,Lambda Ursae Minoris
+10924,Ursa Minor,HD 107113,,HD 107113,,,,107113,59879,12h 16m 49.35s,+86° 26′ 09.0″,6.33,3.34,129,F4V,,184.204,86.436,Ursae Minoris,HD 107113 Ursae Minoris
+10925,Ursa Minor,HD 151623,,HD 151623,,,,151623,81428,16h 37m 52.81s,+78° 55′ 06.8″,6.33,0.81,414,G9III,,249.467,78.918,Ursae Minoris,HD 151623 Ursae Minoris
+10926,Ursa Minor,HD 150275,,HD 150275,,,,150275,80850,16h 30m 39.08s,+77° 26′ 45.1″,6.35,0.87,408,K1III,,247.663,77.446,Ursae Minoris,HD 150275 Ursae Minoris
+10927,Ursa Minor,20 UMi,,20,20,,,147142,79420,16h 12m 32.20s,+75° 12′ 38.1″,6.36,−0.49,765,K2IV,,243.133,75.211,Ursae Minoris,20 Ursae Minoris
+10928,Ursa Minor,HD 113889,,HD 113889,,,,113889,63822,13h 04m 49.78s,+73° 01′ 29.8″,6.43,1.01,396,F0V,,196.204,73.025,Ursae Minoris,HD 113889 Ursae Minoris
+10929,Ursa Minor,3 UMi,,3,3,,,124063,68956,14h 06m 56.48s,+74° 35′ 37.5″,6.43,0.79,438,A7V,,211.733,74.594,Ursae Minoris,3 Ursae Minoris
+10930,Ursa Minor,HD 5914,,HD 5914,,,,5914,7283,01h 33m 48.52s,+89° 00′ 56.6″,6.46,1.49,321,A3V,,23.450,89.016,Ursae Minoris,HD 5914 Ursae Minoris
+10931,Ursa Minor,π1 UMi A,π1,Pi 1,,,,139777,75809,15h 29m 11.97s,+80° 26′ 54.0″,6.57,4.85,72,G8IV-V+...,,232.296,80.448,Ursae Minoris,Pi 1 Ursae Minoris
+10932,Ursa Minor,9 UMi,,9,9,,,133621,73440,15h 00m 27.71s,+71° 45′ 54.9″,6.64,4,110,G0,,225.113,71.765,Ursae Minoris,9 Ursae Minoris
+10933,Ursa Minor,8 UMi,,8,8,,,133086,73136,14h 56m 48.32s,+74° 54′ 03.3″,6.83,0.95,489,K0,Baekdu; has a planet (b),224.200,74.901,Ursae Minoris,8 Ursae Minoris
+10934,Ursa Minor,π2 UMi,π2,Pi 2,18,,,141652,76695,15h 39m 38.72s,+79° 58′ 59.2″,6.89,1.54,384,F2,,234.908,79.983,Ursae Minoris,Pi 2 Ursae Minoris
+10935,Ursa Minor,HD 150706,,HD 150706,,,,150706,80902,16h 31m 17.59s,+79° 47′ 23.2″,7.03,4.85,89,G0,has an unconfirmed planet,247.821,79.790,Ursae Minoris,HD 150706 Ursae Minoris
+10936,Ursa Minor,U UMi,,U,,,U,125556,69816,14h 17m 19.90s,+66° 47′ 39.2″,7.1,,858,M6-8e,"Mira variable, Vmax = 7.1m, Vmin = 13m, P = 330.92 d",214.329,66.794,Ursae Minoris,U Ursae Minoris
+10937,Ursa Minor,π1 UMi B,π1,Pi 1,,,,139813,75829,15h 29m 24.36s,+80° 27′ 00.0″,7.3,5.62,71,G5,,232.350,80.450,Ursae Minoris,Pi 1 Ursae Minoris
+10938,Ursa Minor,14 UMi,,14,14,,,137686,75152,15h 21m 30.52s,+73° 28′ 35.1″,7.38,3.51,194,F5,,230.375,73.476,Ursae Minoris,14 Ursae Minoris
+10939,Ursa Minor,S UMi,,S,,,S,139492,75847,15h 29m 34.57s,+78° 38′ 00.3″,7.5,,2450,M6.5-7.5e,"Mira variable, Vmax = 7.5m, Vmin = <13.2m, P = 331 d",232.392,78.633,Ursae Minoris,S Ursae Minoris
+10940,Ursa Minor,V UMi,,V,,,V,119227,66562,13h 38m 41.07s,+74° 18′ 36.3″,7.81,,1280,M...,"semiregular variable, Vmax = 7.06m, Vmin = 8.7m, P = 73 d",204.671,74.310,Ursae Minoris,V Ursae Minoris
+10941,Ursa Minor,W UMi,,W,,,W,150265,79069,16h 08m 27.28s,+86° 11′ 59.6″,8.65,,1600,A2V,"Algol variable, Vmax = 8.51m, Vmin = 9.59m, P = 1.7011576 d",242.113,86.200,Ursae Minoris,W Ursae Minoris
+10942,Ursa Minor,RU UMi,,RU,,,RU,,,13h 38m 56.81s,+69° 48′ 11.2″,10.24,,,A2,"β Lyr variable, Vmax = 10m, Vmin = 10.66m, P = 0.52492618 d",204.733,69.803,Ursae Minoris,RU Ursae Minoris
+10943,Ursa Minor,Z UMi,,Z,,,Z,,,15h 02m 01.48s,+83° 03′ 48.7″,11.4,,,C,"R CrB variable, Vmax = 10.8m, Vmin = 19.0m, P = 130 d",225.504,83.063,Ursae Minoris,Z Ursae Minoris
+10944,Ursa Minor,T UMi,,T,,,T,118556,,13h 34m 41.12s,+73° 25′ 53.0″,11.46,,,M6e,"Mira variable, Vmax = 7.8m, Vmin = 15m, P = 301 d",203.671,73.431,Ursae Minoris,T Ursae Minoris
+10945,Ursa Minor,SS UMi,,SS,,,SS,,,15h 51m 22.34s,+71° 45′ 11.9″,12.6,,,CV,"SU UMa variable, Vmax = 12.6m, Vmin = 17.6m, P = 0.06778 d",237.842,71.753,Ursae Minoris,SS Ursae Minoris
+10946,Ursa Minor,WD 1337+705,,HIP 66578,,,,,66578,13h 38m 50.48s,+70° 17′ 07.7″,12.77,,85.14,DA2.4,white dwarf,204.708,70.285,Ursae Minoris,HIP 66578 Ursae Minoris
+10947,Ursa Minor,H1504+65,, ,,,,,,15h 02m 09.62s,+66° 12′ 18.6″,15.9,,,DZ...,possible pre-white-dwarf star,225.538,66.205,Ursae Minoris,  Ursae Minoris
+10948,Ursa Minor,Calvera,, ,,,,,,14h 12m 56.00s,"+79° 22′ 04.0""",,,625,,pulsar,213.233,79.368,Ursae Minoris,  Ursae Minoris
+10949,Ursa Minor,RW UMi,,RW,,,RW,,,16h 47m 54.75s,+77° 02′ 12.2″,,,,,DQ Her variable,251.975,77.037,Ursae Minoris,RW Ursae Minoris
+10950,Ursa Minor,WISE 1506+7027,, ,,,,,,15h 06m 49.89s,+70° 27′ 36.2″,,,11.1,T6,brown dwarf,226.704,70.460,Ursae Minoris,  Ursae Minoris

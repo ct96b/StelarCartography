@@ -1,0 +1,96 @@
+USID,Constellation,Name,B,B->F->VAR->G,F,G.,Var,HD,HIP,RA,Dec,"vis. mag.","abs. mag.",Dist. (ly),Sp. class,Notes https://en.wikipedia.org/wiki/Lists_of_stars_by_constellation,RA angle,Dec Angle,Latin Constellation,Full Designation
+8528,Phoenix,α Phe,α,Alpha,,,48,2261,2081,00h 26m 16.87s,-42° 18′ 18.4″,2.4,0.52,77,K0III...,"Ankaa, Nair al Zaurak, Cymbae, Lucida Cymbae",6.567,-41.695,Phoenicis,Alpha Phoenicis
+8529,Phoenix,β Phe,β,Beta,,,85,6595,5165,01h 06m 05.11s,-46° 43′ 06.6″,3.32,−0.60,198,G8IIIvar,,16.521,-45.282,Phoenicis,Beta Phoenicis
+8530,Phoenix,γ Phe,γ,Gamma,,,106,9053,6867,01h 28m 21.94s,-43° 19′ 03.8″,3.41,−0.87,234,K5II-III,,22.088,-42.683,Phoenicis,Gamma Phoenicis
+8531,Phoenix,ε Phe,ε,Epsilon,,,39,496,765,00h 09m 24.54s,-45° 44′ 49.2″,3.88,0.71,140,K0III,,2.350,-44.253,Phoenicis,Epsilon Phoenicis
+8532,Phoenix,κ Phe,κ,Kappa,,,46,2262,2072,00h 26m 12.12s,-43° 40′ 47.7″,3.93,2.07,77,A7V,,6.550,-42.320,Phoenicis,Kappa Phoenicis
+8533,Phoenix,δ Phe,δ,Delta,,,109,9362,7083,01h 31m 14.98s,-49° 04′ 23.1″,3.93,0.66,147,K0III-IV,,22.808,-48.927,Phoenicis,Delta Phoenicis
+8534,Phoenix,ζ Phe,ζ,Zeta,,,89,6882,5348,01h 08m 23.06s,-55° 14′ 45.0″,3.94,−0.73,280,B6V + B0V,Wurren,17.096,-54.754,Phoenicis,Zeta Phoenicis
+8535,Phoenix,η Phe,η,Eta,,,68,4150,3405,00h 43m 21.24s,-57° 27′ 47.2″,4.36,0.02,240,A0IV,,10.838,-56.537,Phoenicis,Eta Phoenicis
+8536,Phoenix,ψ Phe,ψ,Psi,,,126,11695,8837,01h 53m 38.82s,-46° 18′ 08.8″,4.39,−0.58,321,M4III SB,"semiregular variable, Vmax = 4.3m, Vmin = 4.5m, P = 30 d",28.408,-45.698,Phoenicis,Psi Phoenicis
+8537,Phoenix,μ Phe,μ,Mu,,,64,3919,3245,00h 41m 19.58s,-46° 05′ 06.0″,4.59,0.19,247,G8III,,10.329,-45.915,Phoenicis,Mu Phoenicis
+8538,Phoenix,ι Phe,ι,Iota,,,9,221760,116389,23h 35m 04.53s,-42° 36′ 54.4″,4.69,0.07,273,A2V,Alpha2 Canum Venaticorum variable,353.767,-41.385,Phoenicis,Iota Phoenicis
+8539,Phoenix,HD 222095,,11,,,11,222095,116602,23h 37m 50.94s,-45° 29′ 32.4″,4.74,0.8,200,A2V,,354.458,-44.508,Phoenicis,11 Phoenicis
+8540,Phoenix,λ1 Phe,λ1,Lambda 1,,,54,2834,2472,00h 31m 24.86s,-48° 48′ 12.8″,4.76,1.15,172,A0V,,7.850,-47.197,Phoenicis,Lambda 1 Phoenicis
+8541,Phoenix,,,128,,,128,12055,9095,01h 57m 09.99s,-47° 23′ 07.1″,4.82,0.26,267,G8III,,29.288,-46.615,Phoenicis,128 Phoenicis
+8542,Phoenix,ν Phe,ν,Nu,,,,7570,5862,01h 15m 10.57s,-45° 31′ 55.5″,4.97,4.08,49,F8V,may have a protoplanetary disk,18.792,-44.468,Phoenicis,Nu Phoenicis
+8543,Phoenix,φ Phe,φ,Phi,,,,11753,8882,01h 54m 22.06s,-42° 29′ 48.8″,5.12,0.24,309,A3V,,28.592,-41.503,Phoenicis,Phi Phoenicis
+8544,Phoenix,π Phe,π,Pi,,,,224554,118234,23h 58m 55.72s,-52° 44′ 45.4″,5.13,0.65,257,K1III,,359.729,-51.254,Phoenicis,Pi Phoenicis
+8545,Phoenix,χ Phe,χ,Chi,,,,12524,9459,02h 01m 42.40s,-44° 42′ 48.2″,5.15,−0.14,372,K5III,suspected variable,30.425,-43.287,Phoenicis,Chi Phoenicis
+8546,Phoenix,σ Phe,σ,Sigma,,,,223145,117315,23h 47m 15.99s,-50° 13′ 35.1″,5.18,−1.11,592,B3V,"variable star, ΔV = 0.004m, P = 2.97 d",356.813,-49.774,Phoenicis,Sigma Phoenicis
+8547,Phoenix,υ Phe,υ,Upsilon,,,,6767,5300,01h 07m 47.83s,-41° 29′ 13.0″,5.21,1.29,198,A3V,,16.946,-40.513,Phoenicis,Upsilon Phoenicis
+8548,Phoenix,ρ Phe,ρ,Rho,,,,4919,3949,00h 50m 41.13s,-50° 59′ 12.9″,5.24,0.82,250,F2III,"δ Sct variable, Vmax = 5.20m, Vmin = 5.26m, P = 0.12 d",12.671,-49.013,Phoenicis,Rho Phoenicis
+8549,Phoenix,HD 6245,,HD 6245,,,,6245,4890,01h 02m 49.19s,-46° 23′ 50.4″,5.39,1.1,235,G8III,,15.704,-45.603,Phoenicis,HD 6245 Phoenicis
+8550,Phoenix,HD 2490,,HD 2490,,,,2490,2240,00h 28m 26.42s,-39° 54′ 53.6″,5.42,−0.10,415,M0III,,7.108,-38.085,Phoenicis,HD 2490 Phoenicis
+8551,Phoenix,HD 8651,,HD 8651,,,,8651,6592,01h 24m 40.77s,-41° 29′ 32.9″,5.42,1.03,247,K0III,,21.167,-40.508,Phoenicis,HD 8651 Phoenicis
+8552,Phoenix,HD 10934,,HD 10934,,,,10934,8240,01h 46m 05.93s,-50° 48′ 58.4″,5.49,−1.10,679,M3III,semiregular variable,26.521,-49.184,Phoenicis,HD 10934 Phoenicis
+8553,Phoenix,λ2 Phe,λ2,Lambda 2,,,,3302,2802,00h 35m 41.13s,-48° 00′ 02.4″,5.51,2.72,118,F6V,,8.921,-47.999,Phoenicis,Lambda 2 Phoenicis
+8554,Phoenix,HD 224865,,HD 224865,,,,224865,107,00h 01m 20.11s,-50° 20′ 14.6″,5.53,−0.64,558,M2III,suspected variable,0.333,-49.663,Phoenicis,HD 224865 Phoenicis
+8555,Phoenix,HD 3158,,HD 3158,,,,3158,2711,00h 34m 27.62s,-52° 22′ 23.5″,5.57,3.53,84,F3IV-V,,8.613,-51.627,Phoenicis,HD 3158 Phoenicis
+8556,Phoenix,HD 12296,,HD 12296,,,,12296,9313,01h 59m 38.85s,-42° 01′ 49.0″,5.57,1.06,260,K1III,,29.908,-41.970,Phoenicis,HD 12296 Phoenicis
+8557,Phoenix,HD 2726,,HD 2726,,,,2726,2383,00h 30m 25.97s,-48° 12′ 52.9″,5.67,2.4,147,F2V,,7.604,-47.786,Phoenicis,HD 2726 Phoenicis
+8558,Phoenix,HD 142,,HD 142,,,,142,522,00h 06m 19.00s,-49° 04′ 30.00″,5.7,3.66,67,G1 IV,"has three planets (b, c & d)",1.579,-48.933,Phoenicis,HD 142 Phoenicis
+8559,Phoenix,τ Phe,τ,Tau,,,,224834,88,00h 01m 04.60s,-48° 48′ 35.5″,5.71,−0.41,546,G8III,,0.267,-47.190,Phoenicis,Tau Phoenicis
+8560,Phoenix,ξ Phe,ξ,Xi,,,,3980,3277,00h 41m 46.30s,-56° 30′ 05.2″,5.72,1.64,213,Ap,"α² CVn variable, Vmax = 5.68m, Vmin = 5.78m, P = 3.95 d",10.442,-55.499,Phoenicis,Xi Phoenicis
+8561,Phoenix,HD 4391,,HD 4391,,,,4391,3583,00h 45m 45.43s,-47° 33′ 07.8″,5.8,4.93,49,G5IV,,11.438,-46.448,Phoenicis,HD 4391 Phoenicis
+8562,Phoenix,HD 13336,,HD 13336,,,,13336,10035,02h 09m 09.33s,-43° 30′ 59.3″,5.84,−0.39,574,K1III,,32.288,-42.484,Phoenicis,HD 13336 Phoenicis
+8563,Phoenix,HD 13940,,HD 13940,,,,13940,10440,02h 14m 31.96s,-41° 10′ 00.1″,5.91,0.86,334,G9III,,33.629,-40.833,Phoenicis,HD 13940 Phoenicis
+8564,Phoenix,HD 4293,,HD 4293,,,,4293,3521,00h 44m 57.12s,-42° 40′ 34.8″,5.94,1.82,217,A7V,,11.238,-41.324,Phoenicis,HD 4293 Phoenicis
+8565,Phoenix,BD Phe,,BD,,,BD,11413,8593,01h 50m 54.48s,-50° 12′ 22.1″,5.94,1.57,244,A1V,"δ Sct variable, Vmax = 5.9m, Vmin = 5.94m",27.725,-49.794,Phoenicis,BD Phoenicis
+8566,Phoenix,HD 3750,,HD 3750,,,,3750,3137,00h 39m 51.91s,-44° 47′ 46.8″,6,1.16,303,K1IIICN...,,9.963,-43.204,Phoenicis,HD 3750 Phoenicis
+8567,Phoenix,HD 221323,,HD 221323,,,,221323,116097,23h 31m 26.92s,-44° 50′ 36.7″,6.02,0.74,371,K0III,,352.858,-43.157,Phoenicis,HD 221323 Phoenicis
+8568,Phoenix,HD 224022,,HD 224022,,,,224022,117880,23h 54m 38.34s,-40° 18′ 00.5″,6.03,3.8,91,F8IV,,358.658,-39.700,Phoenicis,HD 224022 Phoenicis
+8569,Phoenix,HD 3303,,HD 3303,,,,3303,2789,00h 35m 33.32s,-54° 49′ 18.3″,6.04,1.59,253,K0IV,,8.888,-53.178,Phoenicis,HD 3303 Phoenicis
+8570,Phoenix,θ Phe,θ,Theta,,,,222287,116737,23h 39m 27.92s,-46° 38′ 16.4″,6.07,1.42,278,A+...,,354.863,-45.362,Phoenicis,Theta Phoenicis
+8571,Phoenix,HD 222803,,HD 222803,,,,222803,117075,23h 44m 01.05s,-45° 04′ 59.3″,6.08,1.76,238,G8IV,,356.004,-44.917,Phoenicis,HD 222803 Phoenicis
+8572,Phoenix,ω Phe,ω,Omega,,,,6192,4829,01h 02m 01.81s,-57° 00′ 08.7″,6.12,0.86,368,G8III,,15.504,-56.998,Phoenicis,Omega Phoenicis
+8573,Phoenix,HD 11332,,HD 11332,,,,11332,8552,01h 50m 20.08s,-47° 48′ 59.4″,6.14,0.25,490,K1IV,,27.583,-46.184,Phoenicis,HD 11332 Phoenicis
+8574,Phoenix,HD 4304,,HD 4304,,,,4304,3527,00h 44m 59.72s,-53° 42′ 53.6″,6.15,2.87,148,F7III,,11.246,-52.285,Phoenicis,HD 4304 Phoenicis
+8575,Phoenix,HD 9414,,HD 9414,,,,9414,7115,01h 31m 39.02s,-45° 34′ 32.6″,6.17,1.22,319,A2V,,22.913,-44.424,Phoenicis,HD 9414 Phoenicis
+8576,Phoenix,HD 15064,,HD 15064,,,,15064,11231,02h 24m 33.71s,-40° 50′ 26.6″,6.17,3.7,102,G5IV,,36.138,-39.159,Phoenicis,HD 15064 Phoenicis
+8577,Phoenix,HD 2724,,BB,,,BB,2724,2388,00h 30m 27.83s,-40° 56′ 22.7″,6.18,0.63,420,F2III,"δ Sct variable, ΔV = 0.04m, P = 0.14 d",7.613,-39.061,Phoenicis,BB Phoenicis
+8578,Phoenix,HD 11022,,HD 11022,,,,11022,8320,01h 47m 16.69s,-41° 45′ 36.2″,6.18,−0.01,563,K5/M0III,,26.817,-40.240,Phoenicis,HD 11022 Phoenicis
+8579,Phoenix,HD 220802,,HD 220802,,,,220802,115759,23h 27m 09.08s,-50° 09′ 26.2″,6.22,0.26,507,B9V,,351.788,-49.843,Phoenicis,HD 220802 Phoenicis
+8580,Phoenix,AW Phe,,AW,,,AW,9184,6952,01h 29m 30.54s,-46° 45′ 23.3″,6.22,−1.14,982,M3III,"semiregular variable, ΔV = 0.15m, P = 30.87 d",22.375,-45.244,Phoenicis,AW Phoenicis
+8581,Phoenix,HD 2529,,HD 2529,,,,2529,2256,00h 28m 42.98s,-50° 31′ 58.2″,6.26,0.93,380,K0III,,7.175,-49.467,Phoenicis,HD 2529 Phoenicis
+8582,Phoenix,HD 8681,,HD 8681,,,,8681,6595,01h 24m 41.92s,-44° 31′ 42.7″,6.26,−0.11,613,K1II,,21.171,-43.472,Phoenicis,HD 8681 Phoenicis
+8583,Phoenix,HD 9544,,HD 9544,,,,9544,7189,01h 32m 36.39s,-49° 43′ 39.1″,6.27,1.74,263,F4V,,23.150,-48.273,Phoenicis,HD 9544 Phoenicis
+8584,Phoenix,HD 224750,,HD 224750,,,,224750,25,00h 00m 19.05s,-44° 17′ 25.1″,6.28,1.97,237,G3IV,,0.079,-43.710,Phoenicis,HD 224750 Phoenicis
+8585,Phoenix,HD 4737,,HD 4737,,,,4737,3807,00h 48m 56.74s,-46° 41′ 51.7″,6.28,0.9,388,G8III,,12.233,-45.303,Phoenicis,HD 4737 Phoenicis
+8586,Phoenix,HD 14832,,HD 14832,,,,14832,11043,02h 22m 11.70s,-43° 11′ 59.7″,6.3,0.64,441,K0III,,35.546,-42.800,Phoenicis,HD 14832 Phoenicis
+8587,Phoenix,HD 469,,HD 469,,,,469,730,00h 09m 02.35s,-54° 00′ 07.1″,6.32,0.55,466,G4IV...,,2.258,-53.998,Phoenicis,HD 469 Phoenicis
+8588,Phoenix,HD 13423,,HD 13423,,,,13423,10111,02h 10m 04.77s,-43° 48′ 56.0″,6.32,0.92,392,G8III,,32.517,-42.184,Phoenicis,HD 13423 Phoenicis
+8589,Phoenix,HD 223011,,HD 223011,,,,223011,117219,23h 46m 01.18s,-40° 10′ 56.9″,6.32,2.25,213,A7V,,356.504,-39.818,Phoenicis,HD 223011 Phoenicis
+8590,Phoenix,HD 1483,,HD 1483,,,,1483,1502,00h 18m 42.52s,-43° 14′ 08.1″,6.33,0.99,381,K2III,,4.675,-42.764,Phoenicis,HD 1483 Phoenicis
+8591,Phoenix,HD 14509,,HD 14509,,,,14509,10832,02h 19m 24.76s,-41° 50′ 54.4″,6.36,0.29,534,K2III,,34.850,-40.152,Phoenicis,HD 14509 Phoenicis
+8592,Phoenix,HD 3488,,HD 3488,,,,3488,2937,00h 37m 18.18s,-54° 23′ 37.7″,6.4,0.58,476,K0II/IIICN,,9.325,-53.606,Phoenicis,HD 3488 Phoenicis
+8593,Phoenix,HD 7082,,HD 7082,,,,7082,5477,01h 10m 07.38s,-57° 41′ 38.9″,6.41,0.9,413,G6II/III,,17.529,-56.306,Phoenicis,HD 7082 Phoenicis
+8594,Phoenix,HD 9895,,HD 9895,,,,9895,7443,01h 35m 50.60s,-39° 56′ 49.2″,6.43,3.55,123,F3/F5V,,23.958,-38.053,Phoenicis,HD 9895 Phoenicis
+8595,Phoenix,HD 221051,,HD 221051,,,,221051,115907,23h 29m 00.80s,-44° 29′ 52.9″,6.43,0.36,533,K2III,,352.250,-43.502,Phoenicis,HD 221051 Phoenicis
+8596,Phoenix,HD 11421,,HD 11421,,,,11421,8641,01h 51m 26.35s,-39° 50′ 09.2″,6.44,0.74,450,K1IIICN...,,27.858,-38.164,Phoenicis,HD 11421 Phoenicis
+8597,Phoenix,HR 239,,AZ,,,AZ,4849,3903,00h 50m 03.76s,-43° 23′ 41.8″,6.47,1.56,316,A9/F0III,"δ Sct variable, ΔV = 0.015m, P = 0.049 d",12.513,-42.605,Phoenicis,AZ Phoenicis
+8598,Phoenix,HD 224782,,HD 224782,,,,224782,50,00h 00m 34.29s,-53° 05′ 51.6″,6.49,2.63,193,G1IV,,0.142,-52.903,Phoenicis,HD 224782 Phoenicis
+8599,Phoenix,HD 13387,,HD 13387,,,,13387,10096,02h 09m 48.43s,-40° 51′ 59.2″,6.49,2.32,222,F3V,,32.450,-39.134,Phoenicis,HD 13387 Phoenicis
+8600,Phoenix,HD 223549,,HD 223549,,,,223549,117571,23h 50m 35.63s,-47° 22′ 37.3″,6.49,0.87,434,G8III,,357.646,-46.623,Phoenicis,HD 223549 Phoenicis
+8601,Phoenix,HD 13218,,HD 13218,,,,13218,9951,02h 08m 05.70s,-41° 52′ 49.4″,6.5,1.8,284,A4V,,32.021,-40.120,Phoenicis,HD 13218 Phoenicis
+8602,Phoenix,HD 5388,,HD 5388,,,,5388,4311,00h 55m 11.89s,-47° 24′ 21.5″,6.8,3.2,174,F6V,has a planet (b),13.796,-46.594,Phoenicis,HD 5388 Phoenicis
+8603,Phoenix,SX Phe,,SX,,,SX,223065,117254,23h 46m 32.89s,-41° 34′ 54.8″,7.12,,254.7,A2V,"prototype SX Phe variable (double-mode), Vmax = 6.76m, Vmin = 7.53m, P = 0.055 d",356.633,-40.418,Phoenicis,SX Phoenicis
+8604,Phoenix,HD 6434,,HD 6434,,,,6434,5054,01h 04m 40.15s,-39° 29′ 17.6″,7.72,4.69,131,G2/G3V,Nenque; has a planet (b),16.167,-38.512,Phoenicis,HD 6434 Phoenicis
+8605,Phoenix,HD 8535,,HD 8535,,,,8535,6511,01h 23m 37.24s,-41° 16′ 11.3″,7.72,3.97,184,G0V,has a planet (b),20.904,-40.730,Phoenicis,HD 8535 Phoenicis
+8606,Phoenix,HD 13724,,HD 13724,,,,13724,10278,02h 12m 21.00s,-46° 48′ 59.00″,7.9,,142,G3/5V,has a planet (b),33.088,-45.198,Phoenicis,HD 13724 Phoenicis
+8607,Phoenix,AE Phe,,AE,,,AE,9528,7183,01h 32m 32.93s,-49° 31′ 41.3″,8.15,,165.1,G4V,"W UMa variable, Vmax = 7.56m, Vmin = 8.25m, P = 0.36 d",23.133,-48.472,Phoenicis,AE Phoenicis
+8608,Phoenix,AI Phe,,AI,,,AI,6980,5438,01h 09m 34.19s,-46° 15′ 56.1″,8.6,,931,G3V,"Algol variable, Vmax = 8.58m, Vmin = 9.35m, P = 24.59 d",17.392,-45.734,Phoenicis,AI Phoenicis
+8609,Phoenix,HD 2039,,HD 2039,,,,2039,1931,00h 24m 20.28s,-56° 39′ 00.2″,9.01,4.24,293,G2/G3IV/V,has a planet (b),6.083,-55.350,Phoenicis,HD 2039 Phoenicis
+8610,Phoenix,WASP-18,,HD 10069,,,,10069,7562,01h 37m 25.03s,-45° 40′ 40.389″,9.3,4.18,344,F9,has a transiting planet (b),24.354,-44.333,Phoenicis,HD 10069 Phoenicis
+8611,Phoenix,AD Phe,,AD,,,AD,,5955,01h 16m 38.07s,-39° 42′ 31.3″,10.47,,475,,"W UMa variable, Vmax = 10.27m, Vmin = 10.8m, P = 0.38 d",19.158,-38.291,Phoenicis,AD Phoenicis
+8612,Phoenix,HIP 65A,,HIP 65,,,,,65,00h 00m 45.00s,-54° 49′ 51.00″,11.1,,202,K4V,has a planet (b),0.188,-53.183,Phoenicis,HIP 65 Phoenicis
+8613,Phoenix,WASP-29,,W-29,,,,,,23h 51m 31.00s,-39° 54′ 24.00″,11.3,,261,K4V,has a transiting planet (b),357.879,-38.099,Phoenicis,W-29 Phoenicis
+8614,Phoenix,WASP-105,,W-105,,,,,,01h 36m 40.00s,-50° 39′ 32.00″,12.1,,,K2,has a transiting planet (b),24.167,-49.349,Phoenicis,W-105 Phoenicis
+8615,Phoenix,RV Phe,,RV,,,RV,,115870,23h 28m 31.45s,-47° 27′ 13.1″,12.16,,14000,F6:,"RR Lyr variable, Vmax = 11.551m, Vmin = 12.244m, P = 0.60 d",352.129,-46.546,Phoenicis,RV Phoenicis
+8616,Phoenix,WASP-96,,W-96,,,,,,00h 04m 11.00s,-47° 21′ 38.00″,12.2,,,G8,has a transiting planet (b),1.046,-46.648,Phoenicis,W-96 Phoenicis
+8617,Phoenix,WASP-5,,W-5,,,,,,23h 57m 23.76s,-41° 16′ 37.7″,12.26,4.9,968,G4V,has a transiting planet (b),359.346,-40.723,Phoenicis,W-5 Phoenicis
+8618,Phoenix,WASP-4,,W-4,,,,,,23h 34m 15.06s,-42° 03′ 41.1″,12.6,5.21,979,G7V,has a transiting planet (b),353.563,-41.939,Phoenicis,W-4 Phoenicis
+8619,Phoenix,YZ Phe,,YZ,,,YZ,,,01h 42m 25.85s,-45° 57′ 03.9″,12.7,,,K3V,"W UMa variable, Vmax = 12.70m, Vmin = 13.20m, P = 0.23 d",25.604,-44.049,Phoenicis,YZ Phoenicis
+8620,Phoenix,WD 239-434,, ,,,,,,00h 02m 10.77s,-43° 09′ 56.02″,13.05,,26.662,DAP5.8,white dwarf,0.542,-42.848,Phoenicis,  Phoenicis
+8621,Phoenix,HE0107-5240,, ,,,,,,01h 09m 29.10s,-52° 24′ 34.0″,15.17,,,,one of the most metal-poor and oldest stars known,17.371,-51.591,Phoenicis,  Phoenicis
+8622,Phoenix,BPM 30551,,AX,,,AX,,,01h 06m 53.64s,-46° 08′ 53.7″,15.42,,,DA4.4,"ZZ Cet variable, Vmax = 15.26m, Vmin = 15.42m",16.721,-45.852,Phoenicis,AX Phoenicis

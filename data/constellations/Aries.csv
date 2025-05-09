@@ -1,0 +1,120 @@
+USID,Constellation,Name,B,B->F->VAR->G,F,G.,Var,HD,HIP,RA,Dec,"vis. mag.","abs. mag.",Dist. (ly),Sp. class,Notes https://en.wikipedia.org/wiki/Lists_of_stars_by_constellation,RA angle,Dec Angle,Latin Constellation,Full Designation
+738,Aries,α Ari,α,Alpha,13,,,12929,9884,02h 07m 10.29s,+23° 27′ 46.0″,2.01,0.48,66,K2III,"Hamal, Hemal, Hamul, Ras Hammel, El Nath; suspected variable, Vmax = 1.98m, Vmin = 2.04m; has a planet (b)",31.792,23.463,Arietis,Alpha Arietis
+739,Aries,β Ari,β,Beta,6,,,11636,8903,01h 54m 38.35s,+20° 48′ 29.9″,2.64,1.33,60,A5V...,"Sheratan, Sharatan, Al Sharatain; suspected variable, Vmax = 2.56m, Vmin = 2.70m",28.658,20.808,Arietis,Beta Arietis
+740,Aries,41 Ari,c,C,41,,,17573,13209,02h 49m 58.99s,+27° 15′ 38.8″,3.61,0.16,159,B8Vn,"Bharani; suspected variable, Vmax = 3.60m, Vmin = 3.64m",42.492,27.261,Arietis,C Arietis
+741,Aries,δ Ari,δ,Delta,57,,,19787,14838,03h 11m 37.67s,+19° 43′ 36.1″,4.35,0.79,168,K2IIIvar,"Botein, Nir al Botain, Lucida Ventris,[1] part of Al Buṭain;[2][3] suspected variable, Vmax = 4.33m, Vmin = 4.37m",47.904,19.727,Arietis,Delta Arietis
+742,Aries,HD 20644,,HD 20644,,,,20644,15549,03h 20m 20.37s,+29° 02′ 54.6″,4.47,−2.00,640,K2II-III,,50.083,29.048,Arietis,HD 20644 Arietis
+743,Aries,39 Ari,,39,39,,,17361,13061,02h 47m 54.44s,+29° 14′ 50.7″,4.52,0.8,181,K1III,Lilii Borea,41.975,29.247,Arietis,39 Arietis
+744,Aries,γ2 Ari,γ2,Gamma 2,5,,,11503,,01h 53m 31.80s,+19° 17′ 45.0″,4.62,1.11,164,kA0hA3(IV)SiSr,"Mesarthim, Mesartim; binary star; α2 CVn variable, ΔV = 0.04m, P = 1.6092 d",28.379,19.296,Arietis,Gamma 2 Arietis
+745,Aries,35 Ari,,35,35,,,16908,12719,02h 43m 27.11s,+27° 42′ 25.8″,4.65,−0.62,370,B3V,,40.863,27.707,Arietis,35 Arietis
+746,Aries,γ1 Ari,γ1,Gamma 1,5,,,11502,8832,01h 53m 31.77s,+19° 17′ 38.7″,4.7,1.19,164,B9.5IV,component of the γ Ari system,28.379,19.294,Arietis,Gamma 1 Arietis
+747,Aries,λ Ari,λ,Lambda,9,,,11973,9153,01h 57m 55.78s,+23° 35′ 45.9″,4.79,1.73,133,F0V,binary star,29.479,23.596,Arietis,Lambda Arietis
+748,Aries,ζ Ari,ζ,Zeta,58,,,20150,15110,03h 14m 54.11s,+21° 02′ 40.7″,4.87,−0.22,340,A1V,part of Al Buṭain[2][3],48.725,21.044,Arietis,Zeta Arietis
+749,Aries,14 Ari,,14,14,,,13174,10053,02h 09m 25.29s,+25° 56′ 23.9″,4.98,0.02,320,F2III,,32.354,25.940,Arietis,14 Arietis
+750,Aries,κ Ari,κ,Kappa,12,,,12869,9836,02h 06m 33.91s,+22° 38′ 54.3″,5.03,1.23,187,A2m,spectroscopic binary,31.638,22.648,Arietis,Kappa Arietis
+751,Aries,ι Ari,ι,Iota,8,,,11909,9110,01h 57m 21.03s,+17° 49′ 03.3″,5.09,−1.44,659,K1p...,spectroscopic binary,29.338,17.818,Arietis,Iota Arietis
+752,Aries,τ2 Ari,τ2,Tau 2,63,,,20893,15737,03h 22m 45.27s,+20° 44′ 31.6″,5.1,0.15,319,K3III,,50.688,20.742,Arietis,Tau 2 Arietis
+753,Aries,38 Ari,,38,38,,UV,17093,12832,02h 44m 57.51s,+12° 26′ 45.5″,5.18,2.26,125,A7III-IV,"δ Sct variable, Vmax = 5.18m, Vmin = 5.22m, P = 0.0355 d",41.238,12.446,Arietis,38 Arietis
+754,Aries,ε Ari A,ε,Epsilon,48,,,18519,,02h 59m 12.70s,+21° 20′ 25.0″,5.2,0.16,332,A2Vs,part of Al Buṭain;[2][3] binary star,44.800,21.340,Arietis,Epsilon Arietis
+755,Aries,η Ari,η,Eta,17,,,13555,10306,02h 12m 47.98s,+21° 12′ 39.5″,5.23,2.84,98,F5V,,33.196,21.211,Arietis,Eta Arietis
+756,Aries,π Ari,π,Pi,42,,,17543,13165,02h 49m 17.56s,+17° 27′ 51.6″,5.26,−1.07,603,B6V,part of Al Buṭain;[2][3] spectroscopic binary,42.321,17.464,Arietis,Pi Arietis
+757,Aries,τ1 Ari,τ1,Tau 1,61,,,20756,15627,03h 21m 13.61s,+21° 08′ 49.7″,5.27,−0.49,462,B5IV,triple star system; Beta Lyrae variable,50.304,21.147,Arietis,Tau 1 Arietis
+758,Aries,33 Ari,,33,33,,,16628,12489,02h 40m 41.03s,+27° 03′ 39.6″,5.3,1.03,233,A3V,,40.171,27.061,Arietis,33 Arietis
+759,Aries,ν Ari,ν,Nu,32,,,16432,12332,02h 38m 49.00s,+21° 57′ 41.2″,5.45,0.32,346,A7V,,39.704,21.961,Arietis,Nu Arietis
+760,Aries,52 Ari A,,52,52,,,19134,14376,03h 05m 26.69s,+25° 15′ 18.7″,5.45,0,402,B7Vn,binary star,46.358,25.255,Arietis,52 Arietis
+761,Aries,ξ Ari,ξ,Xi,24,,,14951,11249,02h 24m 49.04s,+10° 36′ 38.2″,5.48,−0.85,603,B7IV,"variable star, ΔV = 0.007m, P = 1.73515 d",36.204,10.611,Arietis,Xi Arietis
+762,Aries,ε Ari B,ε,Epsilon,48,,,18519,13914,02h 59m 12.73s,+21° 20′ 25.6″,5.5,0.46,332,A2Vs,component of the ε Ari system,44.800,21.340,Arietis,Epsilon Arietis
+763,Aries,64 Ari,,64,64,,,21017,15861,03h 24m 18.46s,+24° 43′ 27.1″,5.5,1.26,230,K4III,,51.075,24.724,Arietis,64 Arietis
+764,Aries,σ Ari,σ,Sigma,43,,,17769,13327,02h 51m 29.57s,+15° 04′ 55.7″,5.52,−0.32,479,B7V,,42.871,15.082,Arietis,Sigma Arietis
+765,Aries,62 Ari,,62,62,,,20825,15696,03h 22m 11.89s,+27° 36′ 27.3″,5.55,−1.82,973,G5III,,50.546,27.608,Arietis,62 Arietis
+766,Aries,21 Ari,,21,21,,,13872,10535,02h 15m 42.83s,+25° 02′ 35.7″,5.57,2.16,157,F6V,,33.925,25.043,Arietis,21 Arietis
+767,Aries,θ Ari,θ,Theta,22,,,14191,10732,02h 18m 07.55s,+19° 54′ 04.2″,5.58,0.21,387,A1Vn,,34.529,19.901,Arietis,Theta Arietis
+768,Aries,ρ3 Ari,ρ3,Rho 3,46,,,18256,13702,02h 56m 25.98s,+18° 01′ 25.1″,5.58,2.83,115,F6V,part of Al Buṭain;[2][3] suspected BY Dra variable,44.104,18.024,Arietis,Rho 3 Arietis
+769,Aries,HD 20149,,HD 20149,,,,20149,15154,03h 15m 20.45s,+30° 33′ 24.0″,5.61,−0.01,434,A1Vs,,48.833,30.557,Arietis,HD 20149 Arietis
+770,Aries,10 Ari,,10,10,,,12558,9621,02h 03m 39.26s,+25° 56′ 07.6″,5.64,2.02,172,F8IV,,30.913,25.935,Arietis,10 Arietis
+771,Aries,31 Ari,,31,31,,,16234,12153,02h 36m 37.75s,+12° 26′ 52.2″,5.64,2.91,115,F7V,,39.154,12.448,Arietis,31 Arietis
+772,Aries,HD 19270,,HD 19270,,,,19270,14439,03h 06m 23.69s,+13° 11′ 14.6″,5.64,0.69,319,K3III,,46.596,13.187,Arietis,HD 19270 Arietis
+773,Aries,15 Ari,,15,15,,AV,13325,10155,02h 10m 37.54s,+19° 30′ 01.5″,5.68,−0.87,665,M3III,"semiregular variable, Vmax = 5.67m, Vmin = 5.74m, P = 5.0320 d",32.654,19.500,Arietis,15 Arietis
+774,Aries,19 Ari,,19,19,,,13596,10328,02h 13m 03.25s,+15° 16′ 47.7″,5.72,−0.38,541,M0III,"suspected variable, Vmax = 5.68m, Vmin = 5.76m",33.263,15.280,Arietis,19 Arietis
+775,Aries,μ Ari,μ,Mu,34,,,16811,12640,02h 42m 21.92s,+20° 00′ 41.7″,5.74,0.66,338,A0V,,40.588,20.011,Arietis,Mu Arietis
+776,Aries,55 Ari,,55,55,,,19548,14677,03h 09m 36.73s,+29° 04′ 37.6″,5.74,−1.96,1128,B8III,,47.400,29.077,Arietis,55 Arietis
+777,Aries,7 Ari,,7,7,,RR,11763,8993,01h 55m 51.03s,+23° 34′ 38.4″,5.76,−0.26,522,K1III,not variable,28.963,23.577,Arietis,7 Arietis
+778,Aries,ρ2 Ari,ρ2,Rho 2,45,,RZ,18191,13654,02h 55m 48.50s,+18° 19′ 54.0″,5.76,0.3,403,M6IIIvar,"semiregular variable, Vmax = 5.45m, Vmin = 6.01m",43.950,18.332,Arietis,Rho 2 Arietis
+779,Aries,ο Ari,ο,Omicron,37,,,17036,12803,02h 44m 32.97s,+15° 18′ 42.8″,5.78,−0.07,482,B9Vn,,41.133,15.312,Arietis,Omicron Arietis
+780,Aries,56 Ari,,56,56,,SX,19832,14893,03h 12m 14.24s,+27° 15′ 25.2″,5.78,0.5,371,B9p Si,"prototype SX Ari variable, Vmax = 5.75m, Vmin = 5.81m, P = 0.727902 d",48.058,27.257,Arietis,56 Arietis
+781,Aries,20 Ari,,20,20,,,13871,10540,02h 15m 45.94s,+25° 46′ 59.2″,5.79,2.77,131,F6IV-V,,33.938,25.783,Arietis,20 Arietis
+782,Aries,47 Ari,,47,47,,,18404,13834,02h 58m 05.08s,+20° 40′ 07.7″,5.8,3.29,104,F5IV,suspected variable,44.521,20.669,Arietis,47 Arietis
+783,Aries,1 Ari A,,1,1,,,11154,8544,01h 50m 08.58s,+22° 16′ 31.3″,5.83,−0.40,574,K1III+...,binary star,27.533,22.275,Arietis,1 Arietis
+784,Aries,40 Ari,,40,40,,,17459,13108,02h 48m 32.06s,+18° 17′ 01.9″,5.83,−0.11,502,K1III,,42.133,18.284,Arietis,40 Arietis
+785,Aries,4 Ari,,4,4,,,10982,8387,01h 48m 10.90s,+16° 57′ 20.3″,5.86,1.14,287,B9.5V,,27.042,16.956,Arietis,4 Arietis
+786,Aries,HD 15524,,HD 15524,,,,15524,11670,02h 30m 32.31s,+25° 14′ 06.8″,5.88,2.34,166,F6IV,,37.633,25.235,Arietis,HD 15524 Arietis
+787,Aries,HD 12139,,HD 12139,,,,12139,9307,01h 59m 35.60s,+21° 03′ 31.0″,5.89,0.45,399,K0III-IV,,29.896,21.059,Arietis,HD 12139 Arietis
+788,Aries,HR 830,,16,-16,,VZ,17471,13121,02h 48m 45.87s,+25° 11′ 17.1″,5.89,0.14,460,A0V,"16 Trianguli; Alpha² CVn variable, Vmax = 5.82m, Vmin = 5.89m",42.188,25.188,Arietis,16 Arietis
+789,Aries,1 Ari B,,1,1,,,11155,,01h 50m 08.50s,+22° 16′ 33.0″,5.9,,,,component of the 1 Ari system,27.533,22.276,Arietis,1 Arietis
+790,Aries,49 Ari,,49,49,,,18769,14109,03h 01m 54.15s,+26° 27′ 44.4″,5.91,1.82,214,A3m,"suspected variable, Vmax = 5.90m, Vmin = 5.94m",45.475,26.462,Arietis,49 Arietis
+791,Aries,59 Ari,,59,59,,,20618,15514,03h 19m 55.81s,+27° 04′ 16.7″,5.91,1.91,205,G8IV,,49.979,27.071,Arietis,59 Arietis
+792,Aries,54 Cet,,54,-54,,,11257,8588,01h 50m 52.01s,+11° 02′ 36.4″,5.93,2.77,139,F2Vw,"suspected variable, Vmax = 5.93m, Vmin = 5.97m",27.717,11.043,Arietis,54 Arietis
+793,Aries,HD 18700,,HD 18700,,,,18700,14036,03h 00m 44.09s,+10° 52′ 13.7″,5.93,0.27,441,K6,,45.183,10.870,Arietis,HD 18700 Arietis
+794,Aries,HD 13522,,HD 13522,,,,13522,10296,02h 12m 37.51s,+24° 10′ 04.1″,5.96,−0.23,565,K0,,33.154,24.168,Arietis,HD 13522 Arietis
+795,Aries,HD 12479,,HD 12479,,,,12479,9533,02h 02m 35.08s,+13° 28′ 36.2″,5.97,−1.10,845,M2III,suspected variable,30.646,13.477,Arietis,HD 12479 Arietis
+796,Aries,HD 19698,,HD 19698,,,,19698,14764,03h 10m 38.78s,+11° 52′ 21.7″,5.97,−0.05,522,B8V,,47.658,11.873,Arietis,HD 19698 Arietis
+797,Aries,29 Ari,,29,29,,,15814,11843,02h 32m 54.15s,+15° 02′ 04.1″,6,3.71,94,F8V,,38.225,15.034,Arietis,29 Arietis
+798,Aries,11 Ari,,11,11,,,12885,9859,02h 06m 49.22s,+25° 42′ 16.5″,6.01,−1.75,1160,B9IV-Vn,,31.704,25.704,Arietis,11 Arietis
+799,Aries,16 Ari,,16,16,,,13363,10203,02h 11m 12.06s,+25° 56′ 13.0″,6.01,−0.94,801,K4III,,32.800,25.937,Arietis,16 Arietis
+800,Aries,HD 19637,,HD 19637,,,,19637,14748,03h 10m 27.04s,+26° 53′ 45.9″,6.02,0.54,406,K3III,,47.613,26.896,Arietis,HD 19637 Arietis
+801,Aries,66 Ari,,66,66,,,21467,16181,03h 28m 26.57s,+22° 48′ 15.4″,6.03,1.83,226,K0IV,,52.108,22.804,Arietis,66 Arietis
+802,Aries,65 Ari,,65,65,,,21050,15870,03h 24m 26.11s,+20° 48′ 12.6″,6.07,1.23,303,A1V,,51.108,20.803,Arietis,65 Arietis
+803,Aries,HD 12140,,HD 12140,,,,12140,9295,01h 59m 25.88s,+12° 17′ 41.8″,6.09,1.51,269,A6V,,29.854,12.295,Arietis,HD 12140 Arietis
+804,Aries,HD 19789,,HD 19789,,,,19789,14821,03h 11m 21.93s,+13° 02′ 52.1″,6.11,0.99,344,K0IIIp,,47.838,13.048,Arietis,HD 19789 Arietis
+805,Aries,53 Ari,,53,53,,UW,19374,14514,03h 07m 25.69s,+17° 52′ 47.9″,6.13,−0.69,755,B1.5V,not variable; runaway star,46.854,17.880,Arietis,53 Arietis
+806,Aries,HD 15152,,HD 15152,,,,15152,11415,02h 27m 07.26s,+27° 00′ 45.3″,6.14,0.37,464,K5III,suspected variable,36.779,27.013,Arietis,HD 15152 Arietis
+807,Aries,26 Ari,,26,26,,UU,15550,11678,02h 30m 38.37s,+19° 51′ 19.4″,6.14,1.94,226,A9V,"δ Sct variable, Vmax = 6.10m, Vmin = 6.15m, P = 0.0676 d",37.658,19.855,Arietis,26 Arietis
+808,Aries,60 Ari,,60,60,,,20663,15557,03h 20m 25.57s,+25° 39′ 46.7″,6.14,1.4,289,K3III:,,50.104,25.663,Arietis,60 Arietis
+809,Aries,HD 15385,,HD 15385,,,,15385,11578,02h 29m 13.63s,+23° 28′ 08.7″,6.2,1.65,264,A5m,,37.304,23.469,Arietis,HD 15385 Arietis
+810,Aries,27 Ari,,27,27,,,15596,11698,02h 30m 54.38s,+17° 42′ 14.6″,6.21,1.3,313,G5III-IV,,37.725,17.704,Arietis,27 Arietis
+811,Aries,HD 12594,,HD 12594,,,,12594,9627,02h 03m 42.61s,+18° 15′ 11.8″,6.24,−1.83,1342,K4III,,30.925,18.253,Arietis,HD 12594 Arietis
+812,Aries,54 Ari,,54,54,,,19460,14586,03h 08m 21.09s,+18° 47′ 42.3″,6.25,0.03,570,M0III,"semiregular variable, Vmax = 6.25m, Vmin = 6.28m",47.088,18.795,Arietis,54 Arietis
+813,Aries,HD 17918,,HD 17918,,,,17918,13448,02h 53m 11.66s,+16° 29′ 01.0″,6.3,1.14,352,F5III,,43.296,16.484,Arietis,HD 17918 Arietis
+814,Aries,85 Cet,,85,-85,,,16861,12647,02h 42m 28.95s,+10° 44′ 30.4″,6.32,0.74,426,A2V,"suspected variable, Vmax = 6.28m, Vmin = 6.34m",40.617,10.742,Arietis,85 Arietis
+815,Aries,HD 16955,,HD 16955,,,,16955,12744,02h 43m 51.25s,+25° 38′ 18.0″,6.35,1.19,352,A3V,,40.963,25.638,Arietis,HD 16955 Arietis
+816,Aries,HD 19080,,HD 19080,,,,19080,14318,03h 04m 40.65s,+15° 51′ 22.5″,6.37,−0.06,631,K3III,,46.167,15.856,Arietis,HD 19080 Arietis
+817,Aries,HD 18928,,HD 18928,,,,18928,14232,03h 03m 30.11s,+28° 16′ 11.8″,6.38,2.89,163,F0V,,45.875,28.270,Arietis,HD 18928 Arietis
+818,Aries,HD 13201,,HD 13201,,,,13201,10050,02h 09m 23.03s,+17° 13′ 28.7″,6.4,3.43,128,F5V,,32.346,17.224,Arietis,HD 13201 Arietis
+819,Aries,HD 20367,,HD 20367,,,,20367,15323,03h 17m 40.12s,+31° 07′ 37.9″,6.4,4.23,88,G0V,has a planet (b),49.417,31.127,Arietis,HD 20367 Arietis
+820,Aries,HD 19549,,HD 19549,,,,19549,14649,03h 09m 20.10s,+20° 45′ 40.1″,6.41,0.45,506,K2,,47.333,20.761,Arietis,HD 19549 Arietis
+821,Aries,HD 19600,,HD 19600,,,,19600,14719,03h 10m 08.83s,+27° 49′ 11.6″,6.42,0.09,601,A0V,,47.533,27.820,Arietis,HD 19600 Arietis
+822,Aries,HD 14262,,HD 14262,,,,14262,10795,02h 18m 57.96s,+23° 10′ 04.2″,6.45,1.34,343,A7V,,34.738,23.168,Arietis,HD 14262 Arietis
+823,Aries,36 Ari,,36,36,,,17017,12784,02h 44m 19.09s,+17° 45′ 50.5″,6.46,0.89,413,K2III,"suspected variable, ΔV = 0.07m",41.079,17.764,Arietis,36 Arietis
+824,Aries,UX Ari,,UX,,,UX,21242,16042,03h 26m 35.36s,+28° 42′ 55.2″,6.47,2.97,164,G5IV,"RS CVn variable, Vmax = 6.35m, Vmin = 6.71m, P = 6.388 d",51.646,28.715,Arietis,UX Arietis
+825,Aries,30 Ari A,,30,30,,,16246,12189,02h 37m 00.44s,+24° 38′ 50.1″,6.48,3.46,131,F6III,binary star,39.250,24.647,Arietis,30 Arietis
+826,Aries,HD 14067,,HD 14067,,,,14067,10657,02h 17m 10.40s,+23° 46′ 04.00″,6.51,0.44,533,G9 III,has a planet (b),34.292,23.768,Arietis,HD 14067 Arietis
+827,Aries,51 Ari,,51,51,,,18803,14150,03h 02m 25.87s,+26° 36′ 34.7″,6.62,4.99,69,G8V,,45.604,26.609,Arietis,51 Arietis
+828,Aries,VW Ari,,VW,,,VW,15165,11390,02h 26m 45.65s,+10° 33′ 55.1″,6.69,1.16,416,F0IV,"δ Sct variable, Vmax = 6.64m, Vmin = 6.76m, P = 0.1606 d",36.688,10.565,Arietis,VW Arietis
+829,Aries,AF Ari,,AF,,,AF,14595,11035,02h 22m 06.62s,+22° 52′ 24.9″,6.71,0.5,615,G3III,"Algol type variable, Vmax = 6.30m, Vmin = 7.10m, P = 153 d",35.525,22.873,Arietis,AF Arietis
+830,Aries,VY Ari,,VY,,,VY,17433,13118,02h 48m 43.72s,+31° 06′ 54.7″,6.76,3.65,136.5,K0,"RS CVn variable, Vmax = 6.68m, Vmin = 7.15m, P = 16.1996 d",42.179,31.115,Arietis,VY Arietis
+831,Aries,52 Ari B,,52,52,,,19135,,03h 05m 26.70s,+25° 15′ 19.0″,7,,,,component of the 52 Ari system,46.358,25.255,Arietis,52 Arietis
+832,Aries,ρ1 Ari,ρ1,Rho 1,44,,,18091,13579,02h 54m 55.17s,+17° 44′ 05.3″,7.01,2.1,313,A3,,43.729,17.735,Arietis,Rho 1 Arietis
+833,Aries,30 Ari B,,30,30,,,16232,12184,02h 36m 57.64s,+24° 38′ 53.1″,7.09,4.11,129,F6V,component of the 30 Ari system; has a planet (b),39.238,24.648,Arietis,30 Arietis
+834,Aries,R Ari,,R,,,R,13913,10576,02h 16m 07.11s,+25° 03′ 23.7″,7.4,-2.99,3900,M3-6e,"Mira variable, Vmax = 7.1m, Vmin = 14.3m, P = 185.67 d",34.029,25.056,Arietis,R Arietis
+835,Aries,HD 12661,,HD 12661,,,,12661,9683,02h 04m 34.29s,+25° 24′ 51.5″,7.44,4.59,121,K0V,has two planets (b & c),31.142,25.414,Arietis,HD 12661 Arietis
+836,Aries,HD 17674,,HD 17674,,,,17674,13291,02h 51m 04.30s,+30° 17′ 12.0″,7.56,,145,G0V,has two planets (b),42.767,30.287,Arietis,HD 17674 Arietis
+837,Aries,HD 14787,,HD 14787,,,,14787,11130,02h 50m 53.00s,+29° 01′ 21.0″,7.63,,390,G5,has a planet (b),42.721,29.023,Arietis,HD 14787 Arietis
+838,Aries,HIP 14810,,HIP 14810,,,,,14810,03h 11m 14.23s,+21° 05′ 50.5″,8.52,4.9,172,G5V,"has three planets (b, c & d)",47.808,21.097,Arietis,HIP 14810 Arietis
+839,Aries,BD +20°307,,HIP 8920,,,,,8920,01h 54m 50.79s,+21° 18′ 22.5″,9.01,4.19,300,G0V,has a circumstellar disk,28.708,21.306,Arietis,HIP 8920 Arietis
+840,Aries,X Ari,,X,,,X,19510,14601,03h 08m 30.89s,+10° 26′ 45.2″,9.04,-1.23,3700,F0.5,"RR Lyr variable, Vmax = 9.036m, Vmin = 9.966m, P = 0.6511796 d",47.125,10.446,Arietis,X Arietis
+841,Aries,RX Ari,,RX,,,RX,,,02h 15m 20.78s,+22° 34′ 11.1″,9.41,,,F2V,"Algol variable, Vmax = 9.40m, Vmin = 10.1m, P = 1.029626 d",33.833,22.570,Arietis,RX Arietis
+842,Aries,HAT-P-47,, ,,,,,,02h 33m 14.00s,+30° 21′ 38.0″,10.6,,874,,has a transiting planet (b),38.308,30.361,Arietis,  Arietis
+843,Aries,SS Ari,,SS,,,SS,,,02h 04m 18.41s,+24° 00′ 02.2″,10.15,3.52,692,G0,"W UMa variable, Vmax = 10.10m, Vmin = 10.63m, P = 0.40598257 d",31.075,24.001,Arietis,SS Arietis
+844,Aries,TT Ari,,TT,,,TT,,,02h 06m 53.08s,+15° 17′ 41.8″,10.2,,,Bep:,"VY Scl star, Vmax = 10.2m, Vmin = 16.5m, P = 0.137551 d",31.721,15.295,Arietis,TT Arietis
+845,Aries,RV Ari,,RV,,,RV,,,02h 15m 07.50s,+18° 04′ 27.9″,11.61,,,A0,"double-mode δ Sct variable, Vmax = 11.61m, Vmin = 12.30m, P = 0.0931281 d",33.779,18.074,Arietis,RV Arietis
+846,Aries,WASP-11/HAT-P-10,,W-11/HAT-P-10,,,,,,03h 09m 28.55s,+30° 40′ 24.9″,11.89,6.41,408,K3V,has a transiting planet (b),47.367,30.673,Arietis,W-11/HAT-P-10 Arietis
+847,Aries,HAT-P-48,, ,,,,,,02h 57m 53.00s,+30° 37′ 33.0″,12.16,,995,,has a transiting planet (b),44.471,30.626,Arietis,  Arietis
+848,Aries,L 1159-16,,TZ,,,TZ,,,02h 00m 12.79s,+13° 03′ 11.2″,12.26,13.99,14.5,M4.5,flare star and BY Dra variable,30.050,13.053,Arietis,TZ Arietis
+849,Aries,LkHα 264,,WY,,,WY,,,02h 56m 37.56s,+20° 05′ 37.1″,12.46,,,K5/6e,"T Tau star, Vmax = 12.25m, Vmin = 12.88m",44.154,20.094,Arietis,WY Arietis
+850,Aries,RW Ari,,RW,,,RW,,,02h 16m 03.72s,+17° 31′ 59.0″,12.51,,,B8,"RR Lyr variable, Vmax = 12.12m, Vmin = 12.60m, P = 0.3543006 d",34.013,17.533,Arietis,RW Arietis
+851,Aries,HAT-P-25,, ,,,,,,03h 13m 45.00s,+25° 11′ 51.0″,13.19,5.83,969,G5,has a transiting planet (b),48.438,25.198,Arietis,  Arietis
+852,Aries,HAT-P-52,, ,,,,,,02h 50m 53.00s,+29° 01′ 21.0″,14.07,6.14,1256,,has a transiting planet (b),42.721,29.023,Arietis,  Arietis
+853,Aries,WX Ari,,WX,,,WX,,,02h 47m 36.22s,+10° 35′ 37.7″,15.3,,,CV,"VY Scl star and eclipsing binary, Vmax = 14.5m, Vmin = <16.7m, P = 0.1393512 d",41.900,10.594,Arietis,WX Arietis
+854,Aries,Teegarden's star,, ,,,,,,02h 53m 00.89s,+16° 52′ 52.7″,15.4,17.47,12.6,M7.5,brown dwarf,43.250,16.881,Arietis,  Arietis
+855,Aries,XY Ari,,XY,,,XY,,,02h 56m 08.19s,+19° 26′ 34.1″,,,,WD+M0V,DQ Her variable and eclipsing binary,44.033,19.443,Arietis,XY Arietis
+856,Aries,PSR B0301+19,, ,,,,,,03h 04m 33.12s,+19° 32′ 51.4″,,,,,pulsar,46.138,19.548,Arietis,  Arietis

@@ -1,0 +1,92 @@
+USID,Constellation,Name,B,B->F->VAR->G,F,G.,Var,HD,HIP,RA,Dec,"vis. mag.","abs. mag.",Dist. (ly),Sp. class,Notes https://en.wikipedia.org/wiki/Lists_of_stars_by_constellation,RA angle,Dec Angle,Latin Constellation,Full Designation
+10481,Triangulum,β Tri,β,Beta,4,,,13161,10064,02h 09m 32.52s,+34° 59′ 14.6″,3,0.09,124,A5III,"Deltotum, Deltoton; suspected variable",32.383,34.987,Trianguli,Beta Trianguli
+10482,Triangulum,α Tri,α,Alpha,2,,,11443,8796,01h 53m 04.90s,+29° 34′ 45.8″,3.42,1.95,64,F6IV,"Mothallah, Metallah, Ras al Mothallah, Elmuthalleth, Caput Trianguli; rotating ellipsoidal variable",28.267,29.579,Trianguli,Alpha Trianguli
+10483,Triangulum,γ Tri,γ,Gamma,9,,,14055,10670,02h 17m 18.84s,+33° 50′ 50.4″,4.03,1.24,118,A1Vnn,,34.325,33.847,Trianguli,Gamma Trianguli
+10484,Triangulum,δ Tri,δ,Delta,8,,,13974,10644,02h 17m 02.42s,+34° 13′ 29.4″,4.84,4.66,35,G0V,,34.258,34.225,Trianguli,Delta Trianguli
+10485,Triangulum,ι Tri,ι,Iota,6,,TZ,13480,10280,02h 12m 22.32s,+30° 18′ 11.6″,4.94,0.08,305,F5V comp SB,"RS CVn variable, ΔV = 0.09m, P = 14.732 d",33.092,30.303,Trianguli,Iota Trianguli
+10486,Triangulum,14 Tri,,14,14,,,15656,11784,02h 32m 06.14s,+36° 08′ 50.0″,5.15,−0.25,391,K5III,"variable star, ΔV = 0.006m, P = 0.08576 d",38.025,36.147,Trianguli,14 Trianguli
+10487,Triangulum,7 Tri,,7,7,,,13869,10559,02h 15m 56.30s,+33° 21′ 32.3″,5.25,0.48,293,A0V,,33.983,33.359,Trianguli,7 Trianguli
+10488,Triangulum,10 Tri,,10,10,,,14252,10793,02h 18m 56.99s,+28° 38′ 33.6″,5.29,0.13,350,A2V,,34.733,28.643,Trianguli,10 Trianguli
+10489,Triangulum,12 Tri,,12,12,,,15257,11486,02h 28m 09.99s,+29° 40′ 10.3″,5.29,1.9,155,F0III,,37.038,29.669,Trianguli,12 Trianguli
+10490,Triangulum,15 Tri,,15,15,,,16058,12086,02h 35m 46.80s,+34° 41′ 15.7″,5.38,,,M3III,"suspected slow irregular variable, ΔV = 0.14m",38.942,34.688,Trianguli,15 Trianguli
+10491,Triangulum,R Tri,,R,,,R,16210,12193,02h 37m 02.50s,+34° 15′ 50.0″,5.4,,1299,M4IIIe,"Mira variable, Vmax = 5.4m, Vmin = 12.6m, P = 266.9 d",39.258,34.264,Trianguli,R Trianguli
+10492,Triangulum,ε Tri,ε,Epsilon,3,,,12471,9570,02h 02m 57.97s,+33° 17′ 02.9″,5.5,0.22,370,A2V,binary star,30.738,33.284,Trianguli,Epsilon Trianguli
+10493,Triangulum,11 Tri,,11,11,,,15176,11432,02h 27m 27.79s,+31° 48′ 04.9″,5.55,0.83,286,K1III:,,36.863,31.801,Trianguli,11 Trianguli
+10494,Triangulum,HD 10390,,HD 10390,,,,10390,7943,01h 42m 03.45s,+35° 14′ 44.8″,5.63,1.13,259,B9IV-V,,25.513,35.246,Trianguli,HD 10390 Trianguli
+10495,Triangulum,HD 11007,,HD 11007,,,,11007,8433,01h 48m 41.68s,+32° 41′ 22.2″,5.78,3.6,89,F8V,,27.171,32.689,Trianguli,HD 11007 Trianguli
+10496,Triangulum,HD 11928,,HD 11928,,,,11928,9132,01h 57m 43.74s,+27° 48′ 16.3″,5.84,0.02,476,M2III,"variable star, ΔV = 0.013m, P = 50.65856 d",29.429,27.804,Trianguli,HD 11928 Trianguli
+10497,Triangulum,HD 15755,,HD 15755,,,,15755,11840,02h 32m 52.66s,+34° 32′ 32.8″,5.84,1.33,260,K0III,,38.217,34.542,Trianguli,HD 15755 Trianguli
+10498,Triangulum,13 Tri,,13,13,,,15335,11548,02h 28m 48.54s,+29° 55′ 53.7″,5.89,3.45,100,G0V,,37.200,29.931,Trianguli,13 Trianguli
+10499,Triangulum,HD 10348,,HD 10348,,,,10348,7906,01h 41m 39.24s,+30° 02′ 49.7″,5.97,−0.06,523,K0III,,25.413,30.047,Trianguli,HD 10348 Trianguli
+10500,Triangulum,HD 16187,,HD 16187,,,,16187,12160,02h 36m 43.05s,+31° 36′ 27.6″,6.07,0.36,452,K0,,39.179,31.608,Trianguli,HD 16187 Trianguli
+10501,Triangulum,HD 16220,,HD 16220,,,,16220,12200,02h 37m 06.51s,+32° 53′ 27.7″,6.23,2.52,180,F8V,,39.275,32.891,Trianguli,HD 16220 Trianguli
+10502,Triangulum,5 Tri,,5,5,,,13372,10220,02h 11m 25.00s,+31° 31′ 35.1″,6.24,0.39,482,A1m,,32.854,31.526,Trianguli,5 Trianguli
+10503,Triangulum,HD 15464,,HD 15464,,,,15464,11651,02h 30m 16.56s,+33° 50′ 01.8″,6.26,0.98,371,K1III,"variable star, ΔV = 0.005m, P = 0.26973 d",37.567,33.834,Trianguli,HD 15464 Trianguli
+10504,Triangulum,HD 10588,,HD 10588,,,,10588,8086,01h 43m 50.15s,+32° 11′ 31.2″,6.32,0.57,460,G8III-IV SB,,25.958,32.192,Trianguli,HD 10588 Trianguli
+10505,Triangulum,HD 13747,,HD 13747,,,,13747,10446,02h 14m 37.88s,+28° 41′ 29.1″,6.35,2.48,194,K1III,,33.654,28.691,Trianguli,HD 13747 Trianguli
+10506,Triangulum,HD 9298,,HD 9298,,,,9298,7147,01h 32m 07.58s,+34° 47′ 59.9″,6.39,−0.90,937,B7IIIMNp...,,23.029,34.800,Trianguli,HD 9298 Trianguli
+10507,Triangulum,HD 13189,,HD 13189,,,,13189,10085,02h 09m 40.17s,+32° 18′ 59.2″,7.57,1.23,602,K3II,has a planet or a brown dwarf companion (b),32.417,32.316,Trianguli,HD 13189 Trianguli
+10508,Triangulum,HD 9446,,HD 9446,,,,9446,7245,01h 33m 20.18s,+29° 15′ 54.5″,8.35,4.74,172,G5V,has two planets (b & c),23.333,29.265,Trianguli,HD 9446 Trianguli
+10509,Triangulum,HD 12545,,XX,,,XX,12545,9630,02h 03m 47.11s,+35° 35′ 28.7″,8.42,,522,K0III,"RS CVn variable, Vmax = 8.1m, Vmin = 8.7m, P = 24.26007 d",30.946,35.591,Trianguli,XX Trianguli
+10510,Triangulum,X Tri,,X,,,X,12211,9383,02h 00m 33.72s,+27° 53′ 19.3″,8.86,2.76,541,A7V,"Algol variable, Vmax = 8.55m, Vmin = 11.27m, P = 0.9715352 d",30.138,27.889,Trianguli,X Trianguli
+10511,Triangulum,V Tri,,V,,,V,,,01h 31m 47.10s,+30° 22′ 01.6″,10.96,,,A3,"β Lyr variable, Vmax = 10.7m, Vmin = 11.8m, P = 0.5852057 d",22.946,30.367,Trianguli,V Trianguli
+10512,Triangulum,RV Tri,,RV,,,RV,,,02h 13m 18.16s,+31° 01′ 01.6″,11.21,,,A2:,Algol variable,33.325,31.017,Trianguli,RV Trianguli
+10513,Triangulum,WASP-56,,W-56,,,,,,01h 44m 19.59s,+31° 41′ 22.5″,11.46,,,G6,has a planet,26.079,31.689,Trianguli,W-56 Trianguli
+10514,Triangulum,RW Tri,,RW,,,RW,,,02h 25m 36.15s,+28° 05′ 50.9″,12.5,,,M0V,"Algol variable and nova-like star, Vmax = 12.5m, Vmin = 15.61m, P = 0.231883392 d",36.400,28.097,Trianguli,RW Trianguli
+10515,Triangulum,AI Tri,,AI,,,AI,,,02h 03m 48.61s,+29° 59′ 25.8″,15.3,,,M2.5,"AM Her variable, Vmax = 14.7m, Vmin = 18.2m, P = 0.19174566 d",30.950,29.990,Trianguli,AI Trianguli
+10516,Triangulum,Var 83,, ,,,,,,01h 34m 10.91s,+30° 34′ 37.4″,15.4,,3000000,,"in Triangulum Galaxy; luminous blue variable, Vmax = 15.4m, Vmin = 16.6m; one of the most luminous stars known",23.542,30.577,Trianguli,  Trianguli
+10517,Triangulum,Var B,, ,,,,,,01h 33m 49.20s,+30° 38′ 09.1″,16.21,,3000000,A,in Triangulum Galaxy; luminous blue variable; one of the most luminous stars known,23.454,30.636,Trianguli,  Trianguli
+10518,Triangulum,HAT-P-38,, ,,,,,,02h 21m 31.90s,"+32° 14′ 47.0""",5.6,,812,G,Horna; has a planet (b),35.379,32.246,Trianguli,  Trianguli
+10519,Triangulum,Var C,, ,,,,,,01h 33m 35.14s,+30° 36′ 00.4″,16.43,,3000000,B,"in Triangulum Galaxy; luminous blue variable, Vmax = 15.2m, Vmin = 17.2m; one of the most luminous stars known",23.396,30.600,Trianguli,  Trianguli
+10520,Triangulum,Var 19,, ,,,,,,01h 33m 57.10s,"+30° 45′ 12.0""",18.2,,3000000,,in Triangulum Galaxy; formerly thought to be a Cepheid variable,23.488,30.753,Trianguli,  Trianguli
+10521,Triangulum,M33 X-7,, ,,,,,,01h 33m 34.13s,+30° 32′ 11.3″,18.7,,3000000,O6III,in Triangulum Galaxy; High-mass X-ray binary; contains largest known stellar black hole,23.392,30.536,Trianguli,  Trianguli
+10522,Triangulum,Var A,, ,,,,,,01h 32m 32.52s,+30° 30′ 22.4″,,,3000000,F8Ia,in Triangulum Galaxy; luminous blue variable; one of the most luminous stars known,23.133,30.506,Trianguli,  Trianguli
+10523,Triangulum,Var 2,,Y,,,Y,,,01h 34m 18.40s,"+30° 38′ 27.0""",,,3000000,Ofpe/WN9,in Triangulum Galaxy; luminous blue variable; one of the most luminous stars known,23.575,30.641,Trianguli,Y Trianguli
+10524,Triangulum,LSPM J0207+3331,, ,,,,,,02h 07m 33.81s,+33° 31′ 29.53″,,,145,DA,oldest white dwarf to host a circumstellar disk,31.888,33.519,Trianguli,  Trianguli
+10525,Triangulum Australe,α TrA,α,Alpha,,,,150798,82273,16h 48m 39.87s,-69° 01′ 39.5″,1.91,−3.62,415,K2IIb-IIIa,Atria,252.163,-68.973,Trianguli Australis,Alpha Trianguli Australis
+10526,Triangulum Australe,β TrA,β,Beta,,,,141891,77952,15h 55m 08.81s,-63° 25′ 47.1″,2.83,2.38,40,F2III,Betria,238.783,-62.570,Trianguli Australis,Beta Trianguli Australis
+10527,Triangulum Australe,γ TrA,γ,Gamma,,,,135382,74946,15h 18m 54.69s,-68° 40′ 46.1″,2.87,−0.87,183,A1V,Gatria,229.725,-67.321,Trianguli Australis,Gamma Trianguli Australis
+10528,Triangulum Australe,δ TrA,δ,Delta,,,,145544,79664,16h 15m 26.27s,-63° 41′ 08.3″,3.86,−2.54,621,G5II,,243.858,-62.314,Trianguli Australis,Delta Trianguli Australis
+10529,Triangulum Australe,ε TrA,ε,Epsilon,,,,138538,76440,15h 36m 43.19s,-66° 19′ 00.9″,4.11,0,216,K0III,,234.179,-65.683,Trianguli Australis,Epsilon Trianguli Australis
+10530,Triangulum Australe,ζ TrA,ζ,Zeta,,,,147584,80686,16h 28m 27.80s,-70° 05′ 04.8″,4.9,4.49,39,F9V,,247.113,-69.916,Trianguli Australis,Zeta Trianguli Australis
+10531,Triangulum Australe,LP TrA,,LP,,,LP,150549,82129,16h 46m 40.01s,-67° 06′ 34.8″,5.1,−1.32,626,Ap,"α² CVn variable, ΔV = 0.033m, P = 3.76 d",251.667,-66.891,Trianguli Australis,LP Trianguli Australis
+10532,Triangulum Australe,κ TrA,κ,Kappa,,,,141767,77982,15h 55m 29.61s,-68° 36′ 10.8″,5.11,−4.70,2991,G6IIa,"semiregular variable, Vmax = 5.08m, Vmin = 5.11m, P = 600 d",238.871,-67.397,Trianguli Australis,Kappa Trianguli Australis
+10533,Triangulum Australe,HD 148291,,HD 148291,,,,148291,80874,16h 30m 49.37s,-61° 38′ 00.5″,5.19,−1.37,669,K0II/IIICN.,,247.704,-60.367,Trianguli Australis,HD 148291 Trianguli Australis
+10534,Triangulum Australe,ι TrA,ι,Iota,,,,147787,80645,16h 27m 57.27s,-64° 03′ 28.8″,5.28,2.25,132,F4IV,"γ Dor variable, triple star",246.988,-63.942,Trianguli Australis,Iota Trianguli Australis
+10535,Triangulum Australe,θ TrA,θ,Theta,,,,148890,81252,16h 35m 44.77s,-65° 29′ 43.2″,5.5,0.49,328,G8/K0III,,248.933,-64.505,Trianguli Australis,Theta Trianguli Australis
+10536,Triangulum Australe,HD 140483,,HD 140483,,,,140483,77390,15h 47m 53.10s,-65° 26′ 31.9″,5.54,0.06,406,A5,,236.971,-64.558,Trianguli Australis,HD 140483 Trianguli Australis
+10537,Triangulum Australe,LX TrA,,LX,,,LX,137066,75665,15h 27m 33.10s,-64° 31′ 53.2″,5.71,−0.88,679,K5/M0III,semiregular variable,231.888,-63.469,Trianguli Australis,LX Trianguli Australis
+10538,Triangulum Australe,HD 142514,,HD 142514,,,,142514,78279,15h 58m 58.16s,-65° 02′ 15.2″,5.74,−1.08,753,B7III,,239.742,-64.963,Trianguli Australis,HD 142514 Trianguli Australis
+10539,Triangulum Australe,X TrA,,X,,,X,134453,74582,15h 14m 19.17s,-70° 04′ 46.0″,5.75,−2.56,1495,N0v,"semiregular variable, Vmax = 5.03m, Vmin = 6.05m, P = 361.1 d",228.579,-69.921,Trianguli Australis,X Trianguli Australis
+10540,Triangulum Australe,HD 133683,,HD 133683,,,,133683,74184,15h 09m 29.92s,-67° 05′ 02.9″,5.76,−5.58,6037,F8Iab-Ib,,227.371,-66.916,Trianguli Australis,HD 133683 Trianguli Australis
+10541,Triangulum Australe,HD 142139,,HD 142139,,,,142139,78045,15h 56m 05.96s,-60° 28′ 56.3″,5.76,1.66,215,A3V,,239.021,-59.518,Trianguli Australis,HD 142139 Trianguli Australis
+10542,Triangulum Australe,MX TrA,,MX,,,MX,152564,83150,16h 59m 33.98s,-69° 16′ 05.3″,5.79,−1.60,982,Ap Si,α² CVn variable,254.888,-68.732,Trianguli Australis,MX Trianguli Australis
+10543,Triangulum Australe,HD 136672,,HD 136672,,,,136672,75565,15h 26m 14.53s,-68° 18′ 33.1″,5.89,0.84,334,K0III,,231.558,-67.691,Trianguli Australis,HD 136672 Trianguli Australis
+10544,Triangulum Australe,η1 TrA,η1,Eta 1,,,,149671,81710,16h 41m 23.13s,-68° 17′ 45.9″,5.89,−0.73,688,B7IV,,250.346,-67.704,Trianguli Australis,Eta 1 Trianguli Australis
+10545,Triangulum Australe,HD 145689,,HD 145689,,,,145689,79797,16h 17m 05.48s,-67° 56′ 27.9″,5.95,2.24,180,A4V,suspected variable,244.271,-66.059,Trianguli Australis,HD 145689 Trianguli Australis
+10546,Triangulum Australe,HD 150026,,HD 150026,,,,150026,81873,16h 43m 22.11s,-67° 25′ 56.3″,6.02,1.17,305,A0Vn,suspected variable,250.842,-66.568,Trianguli Australis,HD 150026 Trianguli Australis
+10547,Triangulum Australe,HD 151441,,HD 151441,,,,151441,82517,16h 51m 53.88s,-65° 22′ 31.5″,6.12,−1.20,948,B8II/III,,252.971,-64.625,Trianguli Australis,HD 151441 Trianguli Australis
+10548,Triangulum Australe,HD 141913,,HD 141913,,,,141913,77927,15h 54m 52.64s,-60° 44′ 37.1″,6.14,−2.45,1707,B9II,"suspected variable, Vmax = 6.11m, Vmin = 6.15m",238.717,-59.256,Trianguli Australis,HD 141913 Trianguli Australis
+10549,Triangulum Australe,HD 147349,,HD 147349,,,,147349,80455,16h 25m 22.15s,-63° 07′ 30.9″,6.14,0.55,428,A1V,,246.342,-62.875,Trianguli Australis,HD 147349 Trianguli Australis
+10550,Triangulum Australe,HD 133456,,HD 133456,,,,133456,74047,15h 07m 56.75s,-65° 16′ 31.6″,6.18,−0.75,793,K3III,34 G. Cir,226.983,-64.725,Trianguli Australis,HD 133456 Trianguli Australis
+10551,Triangulum Australe,HD 141585,,HD 141585,,,,141585,77817,15h 53m 22.94s,-62° 36′ 23.6″,6.22,−0.19,623,K3III,"suspected variable, Vmax = 6.18m, Vmin = 6.21m",238.342,-61.394,Trianguli Australis,HD 141585 Trianguli Australis
+10552,Triangulum Australe,HD 150097,,HD 150097,,,,150097,81823,16h 42m 48.42s,-62° 33′ 14.1″,6.23,−2.04,1468,K3III,,250.700,-61.446,Trianguli Australis,HD 150097 Trianguli Australis
+10553,Triangulum Australe,HD 143238,,HD 143238,,,,143238,78603,16h 02m 52.53s,-62° 32′ 29.5″,6.25,1.17,339,B9.5V,,240.717,-61.459,Trianguli Australis,HD 143238 Trianguli Australis
+10554,Triangulum Australe,HD 135737,,HD 135737,,,,135737,75091,15h 20m 40.56s,-67° 28′ 53.4″,6.27,−1.66,1254,B3V,suspected variable,230.167,-66.519,Trianguli Australis,HD 135737 Trianguli Australis
+10555,Triangulum Australe,HD 151404,,HD 151404,,,,151404,82539,16h 52m 17.78s,-67° 40′ 53.4″,6.33,1.01,377,K2III,,253.071,-66.319,Trianguli Australis,HD 151404 Trianguli Australis
+10556,Triangulum Australe,R TrA,,R,,,R,135592,75018,15h 19m 45.71s,-66° 29′ 45.7″,6.39,,3500,F7Ib/II,"Cepheid variable, Vmax = 6.33m, Vmin = 7m, P = 3.389287 d",229.938,-65.504,Trianguli Australis,R Trianguli Australis
+10557,Triangulum Australe,S TrA,,S,,,S,142941,78476,16h 01m 10.72s,-63° 46′ 35.5″,6.42,−2.57,2050,F8II,"Cepheid variable, Vmax = 5.95m, Vmin = 6.81m, P = 6.32344 d",240.292,-62.224,Trianguli Australis,S Trianguli Australis
+10558,Triangulum Australe,HD 138965,,HD 138965,,,,138965,76736,15h 40m 11.63s,-70° 13′ 39.9″,6.45,2.01,252,A5V,,235.046,-69.773,Trianguli Australis,HD 138965 Trianguli Australis
+10559,Triangulum Australe,HD 153389,,HD 153389,,,,153389,83556,17h 04m 33.70s,-68° 16′ 43.1″,6.47,−1.46,1254,M3/M4III,suspected irregular variable,256.138,-67.721,Trianguli Australis,HD 153389 Trianguli Australis
+10560,Triangulum Australe,HD 144481,,HD 144481,,,,144481,79208,16h 09m 59.19s,-62° 58′ 01.2″,6.5,1.41,340,A3m...,,242.496,-61.033,Trianguli Australis,HD 144481 Trianguli Australis
+10561,Triangulum Australe,U TrA,,U,,,U,143999,78978,16h 07m 09.01s,-62° 54′ 38.0″,7.89,,3130,F8Ib/II,"Cepheid variable, Vmax = 7.3m, Vmin = 8.29m, P = 2.568423 d",241.788,-61.089,Trianguli Australis,U Trianguli Australis
+10562,Triangulum Australe,HD 147018,,HD 147018,,,,147018,80250,16h 23m 00.15s,-61° 41′ 19.5″,8.37,5.22,139,G9V,has two planets (b & c),245.750,-60.311,Trianguli Australis,HD 147018 Trianguli Australis
+10563,Triangulum Australe,RT TrA,,RT,,,RT,,81157,16h 34m 30.89s,-63° 08′ 00.8″,9.7,,2590,G2Ib-II:,"W Virginis variable, Vmax = 9.43m, Vmin = 10.18m, P = 1.9461124 d",248.625,-62.867,Trianguli Australis,RT Trianguli Australis
+10564,Triangulum Australe,HD 143414,,LT,,,LT,143414,78689,16h 03m 49.34s,-62° 41′ 36.0″,10.1,,2940,WN+...,"Wolf–Rayet star, ΔV = 0.13m",240.954,-61.307,Trianguli Australis,LT Trianguli Australis
+10565,Triangulum Australe,EK TrA,,EK,,,EK,,,15h 14m 01.47s,-65° 05′ 32.1″,10.4,,,,"SU Ursae Majoris variable, Vmax = 10.4m, Vmin = <15.0m, P = 0.06288 d",228.504,-64.908,Trianguli Australis,EK Trianguli Australis
+10566,Triangulum Australe,HD 141969,,MM,,,MM,141969,78034,15h 56m 01.69s,-66° 09′ 09.2″,11,,3500,BC0Ibe,central star of planetary nebula He 2-138,239.004,-65.848,Trianguli Australis,MM Trianguli Australis
+10567,Triangulum Australe,KX TrA,,KX,,,KX,,,16h 44m 35.47s,-62° 37′ 14.08″,11.38,,,M6,Z Andromedae variable,251.146,-61.382,Trianguli Australis,KX Trianguli Australis
+10568,Triangulum Australe,4U 1626-67,,KZ,,,KZ,,,16h 32m 16.80s,"-67° 27′ 43.0""",18.5,,,,"Low-mass X-ray binary, Vmax = 18.23m, Vmin = 19m",248.067,-66.538,Trianguli Australis,KZ Trianguli Australis
+10569,Triangulum Australe,X1556-605,,LU,,,LU,,,16h 01m 02.30s,"-60° 44′ 18.0""",18.6,,,,"Low-mass X-ray binary, Vmax = 18.6m, Vmin = 19.2m, P = 0.46229 d",240.258,-59.262,Trianguli Australis,LU Trianguli Australis
+10570,Triangulum Australe,TrA X-1,,KY,,,KY,,,15h 28m 17.20s,"-61° 52′ 58.0""",,,,,Low-mass X-ray binary,232.071,-60.117,Trianguli Australis,KY Trianguli Australis
+10571,Triangulum Australe,WISE 1639-6847,, ,,,,,,16h 39m 40.83s,-68° 47′ 38.6″,,,16,Y,brown dwarf,249.917,-67.206,Trianguli Australis,  Trianguli Australis

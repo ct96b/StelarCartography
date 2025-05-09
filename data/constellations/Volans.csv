@@ -1,0 +1,39 @@
+USID,Constellation,Name,B,B->F->VAR->G,F,G.,Var,HD,HIP,RA,Dec,"vis. mag.","abs. mag.",Dist. (ly),Sp. class,Notes https://en.wikipedia.org/wiki/Lists_of_stars_by_constellation,RA angle,Dec Angle,Latin Constellation,Full Designation
+11424,Volans,γ2 Vol,γ2,Gamma 2,,,,55865,34481,07h 08m 44.82s,-70° 29′ 57.1″,3.62,0.59,142,G8IIIvar,"double star with γ1 Vol; suspected variable, Vmax = 3.56m, Vmin = 3.62m",107.183,-69.501,Volantis,Gamma 2 Volantis
+11425,Volans,β Vol,β,Beta,,,,71878,41312,08h 25m 44.25s,-66° 08′ 11.5″,3.77,1.17,108,K2IIIvar,"suspected variable, Vmax = 3.76m, Vmin = 3.79m",126.433,-65.864,Volantis,Beta Volantis
+11426,Volans,ζ Vol,ζ,Zeta,,,,63295,37504,07h 41m 49.20s,-72° 36′ 22.1″,3.93,0.86,134,K0III,,115.454,-71.394,Volantis,Zeta Volantis
+11427,Volans,δ Vol,δ,Delta,,,,57623,35228,07h 16m 49.83s,-67° 57′ 25.8″,3.97,−2.56,660,F6II,,109.204,-66.043,Volantis,Delta Volantis
+11428,Volans,α Vol,α,Alpha,,,,78045,44382,09h 02m 26.80s,-66° 23′ 45.0″,4,1.09,124,Am,,135.608,-65.604,Volantis,Alpha Volantis
+11429,Volans,ε Vol,ε,Epsilon,,,,68520,39794,08h 07m 55.84s,-68° 37′ 01.7″,4.35,−2.12,560,B6IV,,121.979,-67.383,Volantis,Epsilon Volantis
+11430,Volans,HD 70514,,HD 70514,,,,70514,40680,08h 18m 18.78s,-65° 36′ 47.7″,5.06,0.27,296,K1III,,124.575,-64.387,Volantis,HD 70514 Volantis
+11431,Volans,HD 53501,,HD 53501,,,,53501,33682,06h 59m 50.58s,-67° 55′ 01.2″,5.18,0.44,290,K3III,,104.958,-66.083,Volantis,HD 53501 Volantis
+11432,Volans,θ Vol,θ,Theta,,,,74405,42425,08h 39m 05.13s,-70° 23′ 11.9″,5.19,0.86,239,A0V,,129.771,-69.614,Volantis,Theta Volantis
+11433,Volans,η Vol,η,Eta,,,,71576,41003,08h 22m 04.52s,-73° 24′ 00.2″,5.28,0.09,356,A0/A1IV/V,,125.517,-72.600,Volantis,Eta Volantis
+11434,Volans,κ1 Vol,κ1,Kappa 1,,,,71046,40817,08h 19m 49.00s,-71° 30′ 54.0″,5.33,−0.06,390,B9III/IV,part of the κ Vol triple star system,124.954,-70.485,Volantis,Kappa 1 Volantis
+11435,Volans,HD 76143,,HD 76143,,,,76143,43414,08h 50m 34.68s,-66° 47′ 35.6″,5.34,1.74,171,F5IV,,132.642,-65.207,Volantis,HD 76143 Volantis
+11436,Volans,ι Vol,ι,Iota,,,,51557,32912,06h 51m 26.98s,-70° 57′ 48.5″,5.41,−0.76,558,B7IV,,102.858,-69.037,Volantis,Iota Volantis
+11437,Volans,HD 72337,,HD 72337,,,,72337,41451,08h 27m 16.79s,-70° 05′ 36.9″,5.51,0.8,285,A0V,,126.817,-69.907,Volantis,HD 72337 Volantis
+11438,Volans,κ2 Vol,κ2,Kappa 2,,,,71066,40834,08h 20m 00.56s,-71° 30′ 19.7″,5.63,0.21,395,A0p,"part of the κ Vol triple star system; suspected variable, ΔV = 0.03m",125.000,-70.495,Volantis,Kappa 2 Volantis
+11439,Volans,γ1 Vol,γ1,Gamma 1,,,,55864,34473,07h 08m 42.34s,-70° 29′ 50.4″,5.68,2.41,147,F2,double star with γ2 Vol,107.175,-69.503,Volantis,Gamma 1 Volantis
+11440,Volans,HD 64484,,HD 64484,,,,64484,38210,07h 49m 41.00s,-66° 11′ 45.5″,5.78,0.04,458,B9V,,117.421,-65.804,Volantis,HD 64484 Volantis
+11441,Volans,HD 77887,,HD 77887,,,,77887,44283,09h 01m 08.49s,-68° 41′ 02.1″,5.89,−0.95,762,M1III,"variable star, ΔV = 0.012m, P = 4.46488 d",135.283,-67.316,Volantis,HD 77887 Volantis
+11442,Volans,HD 71863,,HD 71863,,,,71863,41321,08h 25m 51.62s,-64° 36′ 02.4″,5.95,0.75,358,G8/K0III,,126.463,-63.399,Volantis,HD 71863 Volantis
+11443,Volans,HD 75171,,HD 75171,,,,75171,42895,08h 44m 30.05s,-65° 49′ 32.5″,6.03,2.12,198,A9V,,131.125,-64.174,Volantis,HD 75171 Volantis
+11444,Volans,HD 50002,,HD 50002,,,,50002,32332,06h 44m 55.67s,-70° 26′ 01.6″,6.1,−0.33,629,K3III,,101.229,-69.566,Volantis,HD 50002 Volantis
+11445,Volans,HD 76270,,HD 76270,,,,76270,43351,08h 49m 50.14s,-72° 33′ 04.5″,6.1,−3.84,3165,A3m...,suspected variable,132.458,-71.449,Volantis,HD 76270 Volantis
+11446,Volans,HD 73468,,HD 73468,,,,73468,41907,08h 32m 41.88s,-73° 21′ 25.1″,6.11,0.77,381,G8III,,128.171,-72.643,Volantis,HD 73468 Volantis
+11447,Volans,HD 63584,,HD 63584,,,,63584,37720,07h 44m 13.10s,-69° 49′ 17.8″,6.16,0.7,403,A0IV/V,,116.054,-68.179,Volantis,HD 63584 Volantis
+11448,Volans,HD 62153,,HD 62153,,,,62153,36914,07h 35m 21.66s,-74° 16′ 30.0″,6.33,−1.01,959,B9,,113.838,-73.725,Volantis,HD 62153 Volantis
+11449,Volans,HD 66920,,HD 66920,,,,66920,39041,07h 59m 15.78s,-73° 14′ 38.8″,6.33,0.84,409,A3III,,119.813,-72.756,Volantis,HD 66920 Volantis
+11450,Volans,HD 75116,,HD 75116,,,,75116,42850,08h 43m 54.33s,-68° 12′ 41.9″,6.33,−1.21,1052,K3III:,,130.975,-67.789,Volantis,HD 75116 Volantis
+11451,Volans,HD 49947,,HD 49947,,,,49947,32222,06h 43m 36.73s,-73° 07′ 04.7″,6.36,0.81,420,G8III,,100.900,-72.882,Volantis,HD 49947 Volantis
+11452,Volans,HD 63513,,HD 63513,,,,63513,37773,07h 44m 43.88s,-66° 04′ 19.4″,6.37,−0.12,648,G6/G8III,,116.179,-65.928,Volantis,HD 63513 Volantis
+11453,Volans,HD 60150,,HD 60150,,,,60150,36346,07h 28m 51.40s,-64° 30′ 35.2″,6.38,−0.22,681,K5III,,112.213,-63.490,Volantis,HD 60150 Volantis
+11454,Volans,HD 55151,,HD 55151,,,,55151,34270,07h 06m 14.30s,-68° 50′ 15.3″,6.47,0.54,501,K0III,,106.558,-67.163,Volantis,HD 55151 Volantis
+11455,Volans,HD 59640,,HD 59640,,,,59640,35946,07h 24m 37.11s,-71° 28′ 14.7″,6.49,2.04,253,A3V,,111.154,-70.529,Volantis,HD 59640 Volantis
+11456,Volans,HD 49268,,HD 49268,,,,49268,31977,06h 40m 57.56s,-71° 46′ 30.3″,6.5,0.88,433,K1IIICN...,,100.238,-70.225,Volantis,HD 49268 Volantis
+11457,Volans,HD 76920,,HD 76920,,,,76920,43803,08h 55m 17.00s,"-67° 15′ 56.0""",7.8,,603,K1III,has a planet (b),133.821,-66.734,Volantis,HD 76920 Volantis
+11458,Volans,HD 76700,,HD 76700,,,,76700,43686,08h 53m 55.52s,-66° 48′ 03.6″,8.13,4.25,195,G6V,has a planet (b),133.479,-65.199,Volantis,HD 76700 Volantis
+11459,Volans,HD 68402,,HD 68402,,,,68402,39589,08h 05m 24.00s,"-74° 24′ 38.0""",9.11,,254,G5IV/V,has a planet (b),121.350,-73.589,Volantis,HD 68402 Volantis
+11460,Volans,L 97-12,, ,,,,,,07h 53m 08.15s,-67° 47′ 31.4″,14.09,,25.822,DA9.0,one of the closest known white dwarfs,118.283,-66.208,Volantis,  Volantis
+11461,Volans,EXO 0748-676,,UY,,,UY,,,07h 48m 33.30s,-67° 45′ 00.0″,16.9,,,,"X-ray burster and eclipsing binary, Vmax = 16.9m, Vmin = <23.0m, P = 0.159 d",117.138,-66.250,Volantis,UY Volantis

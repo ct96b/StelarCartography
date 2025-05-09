@@ -1,0 +1,153 @@
+USID,Constellation,Name,B,B->F->VAR->G,F,G.,Var,HD,HIP,RA,Dec,"vis. mag.","abs. mag.",Dist. (ly),Sp. class,Notes https://en.wikipedia.org/wiki/Lists_of_stars_by_constellation,RA angle,Dec Angle,Latin Constellation,Full Designation
+485,Aquila,Altair,α,Alpha,53,86,,187642,97649,19h 50m 46.68s,+08° 52′ 02.6″,0.76,2.2,17,A7IV-V,"Atair, Al Nesr Al Tair, Vulture Volans;[1] 12th brightest star; nearby; has two optical components; δ Sct variable, ΔV = 0.004m, P = 0.06342 d",297.692,8.867,Aquilae,Alpha Aquilae
+486,Aquila,γ Aql,γ,Gamma,50,,,186791,97278,19h 46m 15.57s,+10° 36′ 47.8″,2.72,−3.03,460,K3II,"Tarazed, Tarazad, Reda, Menkib al Nesr, Humerus Vulturis;[1] double star; suspected variable",296.563,10.613,Aquilae,Gamma Aquilae
+487,Aquila,ζ Aql,ζ,Zeta,17,,,177724,93747,19h 05m 24.61s,+13° 51′ 49.4″,2.99,0.96,83,A0Vn,"Okab, Deneb el Okab, Denebokab Australis, Woo, Yuë (吳越), Dzeneb al Tair, Cauda (Vulturis) Volantis;[1] triple star",286.350,13.864,Aquilae,Zeta Aquilae
+488,Aquila,θ Aql,θ,Theta,65,117,,191692,99473,20h 11m 18.26s,-00° 49′ 17.3″,3.24,−1.48,287,B9.5III,"Tseen Foo, Al Mizan III, Thanih Ras al Akab, Secunda Capitis Vulturis;[1] spectroscopic binary; suspected variable",302.825,0.821,Aquilae,Theta Aquilae
+489,Aquila,δ Aql,δ,Delta,30,46,,182640,95501,19h 25m 29.75s,+03° 06′ 52.5″,3.36,2.43,50,F0IV,"Denebokab, Al Mizan I, Song, Sung, Djenubi Menkib al Nesr, Australior Humerus Vulturis;[1] binary star; suspected variable",291.371,3.114,Aquilae,Delta Aquilae
+490,Aquila,λ Aql,λ,Lambda,16,19,,177756,93805,19h 06m 14.95s,-04° 52′ 56.4″,3.43,0.51,125,B9Vn,Al Thalimain,286.558,-3.118,Aquilae,Lambda Aquilae
+491,Aquila,β Aql,β,Beta,60,98,,188512,98036,19h 55m 18.77s,+06° 24′ 28.6″,3.71,3.03,45,G8IVvar,"Alshain, Alschain, Alschairn, Unuk al Ghyrab, Collum Corvi;[1] binary star; suspected variable; triple star; suspected variable",298.825,6.408,Aquilae,Beta Aquilae
+492,Aquila,η Aql,η,Eta,55,89,,187929,97804,19h 52m 28.36s,+01° 00′ 20.4″,3.87,−3.91,1173,F6Ib-G4Ib,"Al Mizan II; Cepheid variable, Vmax = 3.48m, Vmin = 4.39m, P = 7.17664 d",298.117,1.006,Aquilae,Eta Aquilae
+493,Aquila,ε Aql,ε,Epsilon,13,,,176411,93244,18h 59m 37.39s,+15° 04′ 06.5″,4.02,0.65,154,K2III,"Deneb el Okab, Denebokab Borealis, Woo, Yuë (吳越); triple star",284.904,15.068,Aquilae,Epsilon Aquilae
+494,Aquila,12 Aql,i,I,12,9,,176678,93429,19h 01m 40.84s,-05° 44′ 20.5″,4.02,0.73,149,K1IIIvar,suspected variable,285.417,-4.261,Aquilae,I Aquilae
+495,Aquila,71 Aql,l,L,71,146,,196574,101847,20h 38m 20.27s,-01° 06′ 18.3″,4.31,−1.04,384,G8III SB,spectroscopic binary,309.583,-0.895,Aquilae,L Aquilae
+496,Aquila,ι Aql,ι,Iota,41,64,,184930,96468,19h 36m 43.28s,-01° 17′ 11.6″,4.36,−0.51,307,B5III,Al Thalimain; double star,294.179,-0.714,Aquilae,Iota Aquilae
+497,Aquila,μ Aql,μ,Mu,38,58,,184406,96229,19h 34m 05.23s,+07° 22′ 45.5″,4.45,1.8,111,K3III,multiple star; suspected variable,293.521,7.379,Aquilae,Mu Aquilae
+498,Aquila,ν Aql,ν,Nu,32,47,,182835,95585,19h 26m 31.09s,+00° 20′ 18.9″,4.64,−8.12,11643,F2Ib,double star; suspected variable,291.629,0.338,Aquilae,Nu Aquilae
+499,Aquila,ξ Aql,ξ,Xi,59,94,,188310,97938,19h 54m 14.882s,+08° 27′ 41.23″,4.722,0.74,204,G9IIIb,"Libertas,[2] has a planet (b)",298.517,8.450,Aquilae,Xi Aquilae
+500,Aquila,69 Aql,,69,69,141,,195135,101101,20h 29m 38.96s,-02° 53′ 07.7″,4.91,1.07,191,K2III,,307.408,-1.115,Aquilae,69 Aquilae
+501,Aquila,70 Aql,,70,70,144,,196321,101692,20h 36m 43.63s,-02° 32′ 59.7″,4.91,−4.24,2203,K5II,,309.179,-1.450,Aquilae,70 Aquilae
+502,Aquila,κ Aql,κ,Kappa,39,63,,184915,96483,19h 36m 53.45s,-07° 01′ 38.9″,4.93,−3.32,1455,B0.5III,,294.221,-6.973,Aquilae,Kappa Aquilae
+503,Aquila,26 Aql,f,F,26,38,,181391,95066,19h 20m 32.84s,-05° 24′ 57.1″,4.98,1.61,154,G8III-IV...,spectroscopic binary,290.133,-4.584,Aquilae,F Aquilae
+504,Aquila,4 Aql,,4,4,2,,173370,91975,18h 44m 49.93s,+02° 03′ 36.3″,5.02,−0.78,472,B9V,,281.204,2.060,Aquilae,4 Aquilae
+505,Aquila,36 Aql,e,E,36,54,,183630,95937,19h 30m 39.82s,-02° 47′ 19.9″,5.03,−0.91,502,M1IIIvar,suspected variable,292.663,-1.211,Aquilae,E Aquilae
+506,Aquila,18 Aql,,18,18,,Y,178125,93867,19h 06m 58.60s,+11° 04′ 16.7″,5.07,−0.89,507,B8III,Y Aql; double star; eclipsing binary,286.742,11.071,Aquilae,18 Aquilae
+507,Aquila,23 Aql,,23,23,35,,180972,94885,19h 18m 32.49s,+01° 05′ 06.3″,5.1,−0.24,381,K2II-IIIvar,triple star,289.633,1.085,Aquilae,23 Aquilae
+508,Aquila,37 Aql,,37,37,59,,184492,96327,19h 35m 07.25s,-10° 33′ 37.6″,5.12,−0.55,444,G8III,,293.779,-9.440,Aquilae,37 Aquilae
+509,Aquila,ο Aql,ο,Omicron,54,,,187691,97675,19h 51m 01.50s,+10° 24′ 57.8″,5.12,3.68,63,F8V,multiple star system,297.754,10.416,Aquilae,Omicron Aquilae
+510,Aquila,21 Aql,,21,21,29,V1288,179761,94477,19h 13m 42.70s,+02° 17′ 37.4″,5.14,−1.33,640,B8II-IIIp(Hg:),"V1288 Aql; double star; α2 CVn variable, Vmax = 5.06m, Vmin = 5.16m, P = 1.73 d",288.425,2.294,Aquilae,21 Aquilae
+511,Aquila,31 Aql,b,B,31,,,182572,95447,19h 24m 57.77s,+11° 56′ 34.3″,5.17,4.27,49,G8IVvar,triple star; suspected variable,291.238,11.943,Aquilae,B Aquilae
+512,Aquila,σ Aql,σ,Sigma,44,68,,185507,96665,19h 39m 11.64s,+05° 23′ 52.0″,5.18,−1.42,682,B3V + B3V,"β Lyr variable, ΔV = 0.2m, P = 1.95026 d",294.796,5.398,Aquilae,Sigma Aquilae
+513,Aquila,19 Aql,,19,19,24,,178596,94068,19h 08m 59.92s,+06° 04′ 24.2″,5.23,2.03,142,F0III-IV,,287.246,6.073,Aquilae,19 Aquilae
+514,Aquila,11 Aql,,11,11,,,176303,93203,18h 59m 05.73s,+13° 37′ 21.2″,5.27,1.88,155,F8V,triple star; suspected variable,284.771,13.623,Aquilae,11 Aquilae
+515,Aquila,ω1 Aql,ω1,Omega 1,25,,,180868,94834,19h 17m 49.00s,+11° 35′ 43.4″,5.28,−0.28,422,F0IV,,289.454,11.595,Aquilae,Omega 1 Aquilae
+516,Aquila,χ Aql A,χ,Chi,47,,,186203,96957,19h 42m 34.01s,+11° 49′ 35.8″,5.28,−1.53,751,F3V:+...,multiple star system,295.642,11.826,Aquilae,Chi Aquilae
+517,Aquila,φ Aql,φ,Phi,61,,,188728,98103,19h 56m 14.23s,+11° 25′ 25.4″,5.28,1.28,206,A1IV,spectroscopic binary; suspected variable,299.058,11.424,Aquilae,Phi Aquilae
+518,Aquila,132 G. Aql,,132 G,,132,,194013,100541,20h 23m 10.71s,+05° 20′ 35.1″,5.3,0.91,246,G8III-IV,,305.792,5.343,Aquilae,132 G Aquilae
+519,Aquila,FF Aql,,FF,,,FF,176155,93124,18h 58m 14.75s,+17° 21′ 39.4″,5.33,−4.07,2470,F5Ia-F8Ia,"double star; Cepheid variable, Vmax = 5.18m, Vmin = 5.68m, P = 4.47092 d",284.558,17.361,Aquilae,FF Aquilae
+520,Aquila,20 Aql,,20,20,28,,179406,94385,19h 12m 40.70s,-07° 56′ 22.2″,5.35,−2.51,1216,B3V,,288.167,-6.061,Aquilae,20 Aquilae
+521,Aquila,51 Aql,,51,51,82,,187532,97650,19h 50m 46.80s,-10° 45′ 48.9″,5.38,3.27,86,F0V,binary star,297.692,-9.237,Aquilae,51 Aquilae
+522,Aquila,14 Aql,g,G,14,11,,176984,93526,19h 02m 54.49s,-03° 41′ 56.4″,5.4,−0.53,499,A1V,double star,285.725,-2.301,Aquilae,G Aquilae
+523,Aquila,15 Aql,h,H,15,15,,177463,93717,19h 04m 57.66s,-04° 01′ 52.9″,5.4,0.41,325,K1III,double star; suspected variable,286.238,-3.969,Aquilae,H Aquilae
+524,Aquila,66 Aql,,66,66,123,,192107,99631,20h 13m 13.87s,-01° 00′ 33.4″,5.44,−1.74,888,K5III,,303.304,-0.991,Aquilae,66 Aquilae
+525,Aquila,42 Aql,,42,42,65,,185124,96556,19h 37m 47.26s,-04° 38′ 51.0″,5.45,2.92,105,F3IV,,294.446,-3.353,Aquilae,42 Aquilae
+526,Aquila,27 Aql,d,D,27,40,,181440,95073,19h 20m 35.68s,-00° 53′ 31.8″,5.46,−0.51,509,B9III,,290.146,0.892,Aquilae,D Aquilae
+527,Aquila,τ Aql,τ,Tau,63,107,,190327,98823,20h 04m 08.31s,+07° 16′ 40.6″,5.51,−0.53,527,K0III,,301.033,7.278,Aquilae,Tau Aquilae
+528,Aquila,28 Aql,A,A,28,,V1208,181333,94982,19h 19m 39.35s,+12° 22′ 28.7″,5.53,0.39,347,F0III,"V1208 Aql; triple star; δ Sct variable, Vmax = 5.51m, Vmin = 5.56m, P = 0.149663 d",289.913,12.374,Aquilae,A Aquilae
+529,Aquila,,,HD 183492,,,,183492,95822,19h 29m 22.12s,+14° 35′ 45.9″,5.57,0.85,286,K0III,,292.342,14.596,Aquilae,HD 183492 Aquilae
+530,Aquila,62 Ser,,62,-62,69,,175515,92872,18h 55m 27.44s,+06° 36′ 55.8″,5.58,0.81,293,G9III,"69 G. Aquilae, suspected variable",283.863,6.615,Aquilae,62 Aquilae
+531,Aquila,HD 180262,,HD 180262,,,,180262,94624,19h 15m 20.09s,+15° 05′ 01.2″,5.58,−0.79,613,G8II-III,double star,288.833,15.084,Aquilae,HD 180262 Aquilae
+532,Aquila,22 Aql,,22,22,32,,180482,94727,19h 16m 31.02s,+04° 50′ 05.4″,5.59,−0.53,546,A3IV,,289.129,4.835,Aquilae,22 Aquilae
+533,Aquila,58 Aql,,58,58,95,,188350,97980,19h 54m 44.77s,+00° 16′ 25.2″,5.6,0.48,345,A0III,,298.683,0.274,Aquilae,58 Aquilae
+534,Aquila,V1291 Aql,,V1291,,90,V1291,188041,97871,19h 53m 18.72s,-03° 06′ 52.2″,5.63,0.99,277,A5p(Sr-Cr-Eu),"α2 CVn variable, Vmax = 5.61m, Vmin = 5.67m, P = 224.5 d",298.325,-2.886,Aquilae,V1291 Aquilae
+535,Aquila,45 Aql,,45,45,70,,185762,96807,19h 40m 43.31s,-00° 37′ 16.7″,5.64,0.93,285,A3IV,double star,295.179,0.621,Aquilae,45 Aquilae
+536,Aquila,HD 180555,,HD 180555,,,,180555,94720,19h 16m 26.78s,+14° 32′ 40.6″,5.65,0.36,372,B9.5V,binary star,289.108,14.544,Aquilae,HD 180555 Aquilae
+537,Aquila,62 Aql,,62,62,106,,190299,98844,20h 04m 23.15s,-00° 42′ 32.5″,5.67,−0.59,582,K4III,,301.096,0.709,Aquilae,62 Aquilae
+538,Aquila,π Aql B,π,Pi,52,,,187260,,19h 48m 42.10s,+11° 48′ 55.0″,5.7,,510,,component of the π Aql system,297.175,11.815,Aquilae,Pi Aquilae
+539,Aquila,57 Aql A,,57,57,93,,188293,97966,19h 54m 37.65s,-08° 13′ 38.0″,5.7,0.64,335,B7Vn,double star,298.654,-7.773,Aquilae,57 Aquilae
+540,Aquila,14 Sge,,14,-14,,,190229,98754,20h 03m 30.01s,+16° 01′ 52.6″,5.73,−0.72,637,B9MNp...,,300.875,16.031,Aquilae,14 Aquilae
+541,Aquila,π Aql,π,Pi,52,,,187259,97473,19h 48m 42.05s,+11° 48′ 57.3″,5.75,−0.46,570,F2V:+...,component of the π Aql system,297.175,11.816,Aquilae,Pi Aquilae
+542,Aquila,,,HD 182900,,,,182900,95572,19h 26m 24.13s,+13° 01′ 25.2″,5.76,2.03,182,F6III,,291.600,13.024,Aquilae,HD 182900 Aquilae
+543,Aquila,56 Aql,,56,56,92,,188154,97928,19h 54m 08.27s,-08° 34′ 27.0″,5.76,0.35,394,K5III,double star,298.533,-7.426,Aquilae,56 Aquilae
+544,Aquila,35 Aql,c,C,35,51,V1431,183324,95793,19h 29m 00.99s,+01° 57′ 01.9″,5.79,1.94,192,A0V,"V1431 Aql; rapidly oscillating α2 CVn variable, ΔV = 0.04m",292.250,1.950,Aquilae,C Aquilae
+545,Aquila,42 G. Aql,,42 G,,42,,181907,95222,19h 22m 21.51s,-00° 15′ 08.2″,5.81,0.58,363,G8III:,,290.588,0.252,Aquilae,42 G Aquilae
+546,Aquila,13 G. Aql,,13 G,,13,,177178,93580,19h 03m 32.24s,+01° 49′ 08.2″,5.82,2.11,180,A4V,,285.883,1.819,Aquilae,13 G Aquilae
+547,Aquila,49 G. Aql,,49 G,,49,,183227,95732,19h 28m 20.80s,+02° 55′ 48.2″,5.84,−1.65,1025,B6III,,292.083,2.930,Aquilae,49 G Aquilae
+548,Aquila,100 G. Aql,,100 G,,100,,189340,98416,19h 59m 47.49s,-09° 57′ 26.2″,5.87,3.92,80,F8V,,299.946,-8.043,Aquilae,100 G Aquilae
+549,Aquila,5 Aql,,5,5,3,,173654,92117,18h 46m 28.58s,-00° 57′ 41.9″,5.89,1.4,258,A2m,binary star,281.617,0.961,Aquilae,5 Aquilae
+550,Aquila,υ Aql,υ,Upsilon,49,78,,186689,97229,19h 45m 39.92s,+07° 36′ 47.4″,5.89,2.22,176,A3IV,,296.413,7.613,Aquilae,Upsilon Aquilae
+551,Aquila,103 G. Aql,,103 G,,103,,189695,98526,20h 00m 58.97s,+08° 33′ 28.0″,5.9,−1.30,898,K5III,,300.242,8.558,Aquilae,103 G Aquilae
+552,Aquila,10 Aql,,10,10,,V1286,176232,93179,18h 58m 46.92s,+13° 54′ 24.4″,5.91,1.55,242,A4p(Eu-Cr-Sr),"V1286 Aql; α2 CVn variable, Vmax = 5.83m, Vmin = 5.93m, P = 6.05 d",284.692,13.907,Aquilae,10 Aquilae
+553,Aquila,64 Aql,,64,64,113,,191067,99171,20h 08m 01.75s,-00° 40′ 40.9″,5.97,2.57,156,K1IV,,302.004,0.678,Aquilae,64 Aquilae
+554,Aquila,HD 185018,,HD 185018,,,,185018,96481,19h 36m 52.45s,+11° 16′ 23.5″,5.98,−1.74,1140,G0Ib,multiple star,294.217,11.273,Aquilae,HD 185018 Aquilae
+555,Aquila,QS Aql,,QS,,,QS,185936,96840,19h 41m 05.53s,+13° 48′ 56.5″,5.98,−2.54,1646,B5V,"double star; Algol variable, Vmax = 5.93m, Vmin = 6.06m, P = 2.51329 d",295.271,13.816,Aquilae,QS Aquilae
+556,Aquila,80 G. Aql,,80 G,,80,,187195,97499,19h 49m 02.19s,-10° 52′ 14.6″,6,1.29,285,K5III,,297.258,-9.129,Aquilae,80 G Aquilae
+557,Aquila,HD 181234,,HD 181234,,,,181234,95015,19h 20m 00.0s,-09° 19′ 25.00″,6,,156,G5,has a planet (b),290.000,-8.682,Aquilae,HD 181234 Aquilae
+558,Aquila,ω2 Aql,ω2,Omega 2,29,,,181383,95002,19h 19m 53.04s,+11° 32′ 05.7″,6.03,1.37,278,A2V,,289.971,11.535,Aquilae,Omega 2 Aquilae
+559,Aquila,131 G. Aql,,131 G,,131,,193329,100232,20h 19m 43.24s,-01° 04′ 42.9″,6.05,0.58,405,K0,,304.929,-0.922,Aquilae,131 G Aquilae
+560,Aquila,8 Aql,,8,8,5,V1729,174589,92524,18h 51m 22.16s,-03° 19′ 04.1″,6.08,1.44,276,F2III,V1729 Aql; Delta Scuti variable,282.842,-2.682,Aquilae,8 Aquilae
+561,Aquila,HD 183589,,53 G,,53,,183589,95898,19h 30m 10.53s,+02° 54′ 14.7″,6.08,−2.46,1663,K5Ib,multiple star; suspected variable,292.542,2.904,Aquilae,53 G Aquilae
+562,Aquila,V923 Aql,,V923,,55,V923,183656,95929,19h 30m 33.11s,+03° 26′ 39.8″,6.09,−1.26,962,B5.5IIIpe-B8V,"γ Cas variable, ΔV = 0.12m",292.638,3.444,Aquilae,V923 Aquilae
+563,Aquila,R Aql,,R,,22,R,177940,93820,19h 06m 22.25s,+08° 13′ 48.0″,6.09,−2.04,1400,M6.5-9e,"Mira variable, Vmax = 5.5m, Vmin = 12.0m, P = 270.5 d",286.592,8.230,Aquilae,R Aquilae
+564,Aquila,137 G. Aql,,137 G,,137,,194454,100758,20h 25m 42.53s,-02° 48′ 01.0″,6.1,−0.60,713,K1III:,,306.425,-1.200,Aquilae,137 G Aquilae
+565,Aquila,V500 Aql,,V500,,,V500,,,19h 52m 27.98s,+08° 28′ 41.6″,6.1,,,pec(NOVA) – e+cont,"Nova Aquilae; Vmax = 6.1m, Vmin = 17.8m",298.113,8.478,Aquilae,V500 Aquilae
+566,Aquila,85 G. Aql,,85 G,,85,,187660,97687,19h 51m 11.10s,-02° 27′ 39.2″,6.12,−0.09,570,K5III,,297.796,-1.539,Aquilae,85 G Aquilae
+567,Aquila,68 Aql,,68,68,139,,194939,100977,20h 28m 24.89s,-03° 21′ 27.9″,6.12,−0.04,557,B9V,double star,307.100,-2.643,Aquilae,68 Aquilae
+568,Aquila,HD 188385,,96 G,,96,,188385,97970,19h 54m 40.18s,+07° 08′ 25.3″,6.14,1.6,263,A2V,double star,298.667,7.140,Aquilae,96 G Aquilae
+569,Aquila,HD 194244,,135 G,,135,,194244,100664,20h 24m 37.49s,+01° 04′ 06.2″,6.14,−0.92,840,B9V,triple star; suspected variable,306.154,1.068,Aquilae,135 G Aquilae
+570,Aquila,HD 187923,,HD 187923,,,,187923,97767,19h 52m 03.64s,+11° 37′ 44.9″,6.16,3.95,90,G0V,double star; suspected variable,298.013,11.629,Aquilae,HD 187923 Aquilae
+571,Aquila,101 G. Aql,,101 G,,101,,189322,98385,19h 59m 22.63s,+01° 22′ 39.1″,6.17,−0.69,769,G8III,,299.842,1.378,Aquilae,101 G Aquilae
+572,Aquila,34 G. Aql,,34 G,,34,,180782,94833,19h 17m 48.18s,+02° 01′ 54.5″,6.19,1.56,275,A1Vn,,289.450,2.032,Aquilae,34 G Aquilae
+573,Aquila,6 G. Aql,,6 G,,6,,175640,92963,18h 56m 22.66s,-01° 47′ 59.3″,6.2,0.17,525,B9III,,284.092,-0.200,Aquilae,6 G Aquilae
+574,Aquila,145 G. Aql,,145 G,,145,,196426,101746,20h 37m 18.38s,+00° 05′ 49.2″,6.21,−0.26,643,B8IIIp,,309.325,0.097,Aquilae,145 G Aquilae
+575,Aquila,7 G. Aql,,7 G,,7,,176095,93138,18h 58m 23.71s,+06° 14′ 24.7″,6.22,2.45,185,F5IV,,284.596,6.240,Aquilae,7 G Aquilae
+576,Aquila,4 G. Aql,,4 G,,4,,174240,92386,18h 49m 37.18s,+00° 50′ 10.4″,6.24,0.01,575,A1V,,282.404,0.836,Aquilae,4 G Aquilae
+577,Aquila,12 G. Aql,,12 G,,12,,176981,93488,19h 02m 21.56s,+08° 22′ 24.7″,6.25,−0.83,849,K2III,,285.588,8.373,Aquilae,12 G Aquilae
+578,Aquila,52 G. Aql,,52 G,,52,,183387,95812,19h 29m 18.02s,+00° 14′ 46.0″,6.25,−0.08,603,K2,,292.325,0.246,Aquilae,52 G Aquilae
+579,Aquila,ψ Aql,ψ,Psi,48,,,186547,97139,19h 44m 34.19s,+13° 18′ 10.1″,6.25,−0.72,809,B9III-IV,,296.142,13.303,Aquilae,Psi Aquilae
+580,Aquila,88 G. Aql,,88 G,,88,,187753,97697,19h 51m 17.73s,+09° 37′ 47.8″,6.25,0.92,380,A1m,,297.821,9.630,Aquilae,88 G Aquilae
+581,Aquila,HD 191984,,120 G,,120,,191984,99585,20h 12m 35.12s,+00° 52′ 01.6″,6.25,−0.08,603,A0,double star,303.146,0.867,Aquilae,120 G Aquilae
+582,Aquila,37 G. Aql,,37 G,,37,,181122,94916,19h 18m 52.75s,+09° 37′ 05.4″,6.31,0.31,517,G9III,Les Grey,289.717,9.618,Aquilae,37 G Aquilae
+583,Aquila,43 G. Aql,,43 G,,43,,182038,95281,19h 23m 04.44s,-07° 24′ 02.0″,6.31,0.41,493,K0,,290.767,-6.599,Aquilae,43 G Aquilae
+584,Aquila,HD 183144,,HD 183144,,,,183144,95664,19h 27m 33.90s,+14° 16′ 57.0″,6.31,−0.73,834,B4III,suspected variable,291.888,14.283,Aquilae,HD 183144 Aquilae
+585,Aquila,71 G. Aql,,71 G,,71,,185966,96917,19h 42m 02.90s,-09° 11′ 36.4″,6.31,1.26,334,K2,,295.508,-8.807,Aquilae,71 G Aquilae
+586,Aquila,60 G. Aql,,60 G,,60,,184573,96356,19h 35m 29.79s,-07° 27′ 36.7″,6.32,1.13,355,K0,,293.871,-6.540,Aquilae,60 G Aquilae
+587,Aquila,46 Aql,,46,46,,,186122,96931,19h 42m 12.81s,+12° 11′ 35.8″,6.33,−0.39,720,B9III,,295.550,12.193,Aquilae,46 Aquilae
+588,Aquila,25 G. Aql,,25 G,,25,,178744,94149,19h 09m 51.59s,-00° 25′ 41.2″,6.34,−0.80,874,B5Vn,,287.463,0.428,Aquilae,25 G Aquilae
+589,Aquila,44 G. Aql,,44 G,,44,,182101,95253,19h 22m 48.35s,+09° 54′ 46.4″,6.34,3.58,116,F6V,,290.700,9.913,Aquilae,44 G Aquilae
+590,Aquila,,,HD 191263,,,,191263,99234,20h 08m 38.28s,+10° 43′ 33.1″,6.34,−2.42,1842,B3IV,,302.158,10.726,Aquilae,HD 191263 Aquilae
+591,Aquila,V450 Aql,,V450,,,V450,184313,96204,19h 33m 46.03s,+05° 27′ 56.8″,6.35,−0.75,858,M5III-M8III,"semiregular variable, Vmax = 6.30m, Vmin = 6.65m, P = 64.20 d",293.442,5.466,Aquilae,V450 Aquilae
+592,Aquila,67 G. Aql,,67 G,,67,,185423,96630,19h 38m 48.99s,+03° 22′ 53.5″,6.36,,,B3III,,294.700,3.381,Aquilae,67 G Aquilae
+593,Aquila,HD 174569,,HD 174569,,,,174569,92475,18h 50m 45.55s,+10° 58′ 35.0″,6.37,−2.41,1863,K5III+...,double star,282.688,10.976,Aquilae,HD 174569 Aquilae
+594,Aquila,U Aql,,U,,50,U,183344,95820,19h 29m 21.36s,-07° 02′ 38.6″,6.37,−2.07,1590,F5-G1I-II,"Cepheid variable, Vmax = 6.08m, Vmin = 6.86m, P = 7.02393 d",292.338,-6.956,Aquilae,U Aquilae
+595,Aquila,61 G. Aql,,61 G,,61,,184663,96351,19h 35m 25.13s,+02° 54′ 48.5″,6.37,3.25,137,F6IV,,293.854,2.913,Aquilae,61 G Aquilae
+596,Aquila,,,HD 184944,,,,184944,96428,19h 36m 15.68s,+14° 23′ 28.2″,6.37,1.19,354,K0II-III,,294.063,14.391,Aquilae,HD 184944 Aquilae
+597,Aquila,V1472 Aql,,V1472,,,V1472,190658,98954,20h 05m 26.53s,+15° 30′ 01.3″,6.37,−0.44,749,M2 comp,"eclipsing variable, ΔV = ~0.16m",301.358,15.500,Aquilae,V1472 Aquilae
+598,Aquila,V1401 Aql,,64,-64,108,V1401,190390,98910,20h 05m 05.42s,-11° 35′ 57.8″,6.38,−1.58,1273,F1III,"64 Sagittarii; semiregular variable, Vmax = 6.18m, Vmin = 6.55m",301.271,-10.401,Aquilae,64 Aquilae
+599,Aquila,24 Aql,,24,24,36,,181053,94913,19h 18m 50.93s,+00° 20′ 20.4″,6.4,0.52,488,K0II-III:..,multiple star,289.708,0.339,Aquilae,24 Aquilae
+600,Aquila,136 G. Aql,,136 G,,136,,194263,100672,20h 24m 41.75s,+01° 22′ 07.0″,6.41,−0.71,865,K5,,306.171,1.369,Aquilae,136 G Aquilae
+601,Aquila,75 G. Aql,,75 G,,75,,186535,97144,19h 44m 41.27s,+08° 43′ 35.7″,6.43,1,398,K0,,296.171,8.726,Aquilae,75 G Aquilae
+602,Aquila,HD 191104,,114 G,,114,,191104,99158,20h 07m 50.34s,+09° 23′ 59.1″,6.43,3.25,141,F3V,double star,301.958,9.400,Aquilae,114 G Aquilae
+603,Aquila,,,HD 187203,,,,187203,97454,19h 48m 30.51s,+10° 41′ 38.8″,6.44,−2.22,1762,F8Ib-II,,297.125,10.694,Aquilae,HD 187203 Aquilae
+604,Aquila,HD 192699,,128 G,,128,,192699,99894,20h 16m 06.03s,+04° 34′ 51.3″,6.44,2.3,220,G8IV,"Chechia[3], has a planet (b)",304.025,4.581,Aquilae,128 G Aquilae
+605,Aquila,HD 179791,,30 G,,30,,179791,94478,19h 13m 44.02s,+05° 30′ 56.3″,6.47,0.15,598,A3V,suspected variable,288.433,5.516,Aquilae,30 G Aquilae
+606,Aquila,77 G. Aql,,77 G,,77,,186660,97244,19h 45m 52.23s,-02° 53′ 00.4″,6.47,−1.14,1087,B3III,,296.467,-1.117,Aquilae,77 G Aquilae
+607,Aquila,87 G. Aql,,87 G,,87,,187734,97709,19h 51m 26.84s,+04° 05′ 19.1″,6.47,,,K0...,double star,297.858,4.089,Aquilae,87 G Aquilae
+608,Aquila,110 G. Aql,,110 G,,110,,190664,99024,20h 06m 12.19s,-04° 04′ 41.2″,6.47,1.37,341,K0,,301.550,-3.922,Aquilae,110 G Aquilae
+609,Aquila,122 G. Aql,,122 G,,122,,192086,99624,20h 13m 04.43s,-00° 19′ 50.9″,6.47,−1.94,1567,K5,,303.267,0.331,Aquilae,122 G Aquilae
+610,Aquila,142 G. Aql,,142 G,,142,,195617,101339,20h 32m 20.40s,+02° 07′ 58.1″,6.47,−1.23,1132,K2,,308.083,2.133,Aquilae,142 G Aquilae
+611,Aquila,V1339 Aql,,V1339,,84,V1339,187567,97607,19h 50m 17.48s,+07° 54′ 08.7″,6.49,−1.90,1552,B2.5IVe,"Be star; γ Cas variable, Vmax = 6.33m, Vmin = 6.52m",297.571,7.902,Aquilae,V1339 Aquilae
+612,Aquila,57 Aql B,,57,57,,,188294,97967,19h 54m 38.06s,-08° 14′ 13.1″,6.49,1.27,361,B8V,component of the 57 Aql system,298.658,-7.763,Aquilae,57 Aquilae
+613,Aquila,HD 188405,,97 G,,97,,188405,98038,19h 55m 19.49s,-06° 44′ 04.7″,6.49,1.83,279,F2V,double star,298.829,-5.266,Aquilae,97 G Aquilae
+614,Aquila,V1691 Aql,,V1691,,45,V1691,182475,95453,19h 25m 01.51s,-04° 53′ 04.4″,6.5,1.48,329,A9V,"δ Sct variable, ΔV = 0.04m, P = 0.0781 d",291.254,-3.116,Aquilae,V1691 Aquilae
+615,Aquila,V Aql,,V,,,V,177336,93666,19h 04m 24.15s,-05° 41′ 05.4″,6.78,−1.36,1207,"C5,4 – C6,4(N6)","carbon star; semiregular variable, Vmax = 6.6m, Vmin = 8.4m, P = 353 d",286.100,-4.315,Aquilae,V Aquilae
+616,Aquila,TT Aql,,TT,,,TT,178359,93990,19h 08m 13.75s,+01° 17′ 55.2″,7.1,−4.84,7951,F6-G5,"Cepheid variable, Vmax = 6.46m, Vmin = 7.70m, P = 13.7546 d",287.054,1.299,Aquilae,TT Aquilae
+617,Aquila,HD 186641,,HD 186641,,,,186641,97233,19h 45m 41.00s,-00° 41′ 48.00″,7.34,2.2,347,K0,has a planet (b),296.421,0.686,Aquilae,HD 186641 Aquilae
+618,Aquila,V604 Aql,,V604,,,V604,,,19h 02m 06.33s,-04° 26′ 43.2″,7.6,,,pec(NOVA) – e+cont,"Nova Aquilae; Vmax = 7.6m, Vmin = 18.0m",285.525,-3.555,Aquilae,V604 Aquilae
+619,Aquila,HD 183263,,HD 183263,,,,183263,95740,19h 28m 24.57s,+08° 21′ 29.0″,7.86,4.25,172,G2IV,has two planets (b & c),292.100,8.358,Aquilae,HD 183263 Aquilae
+620,Aquila,HD 179079,,HD 179079,,,,179079,94256,19h 11m 09.83s,-02° 38′ 18.2″,7.96,3.94,208,G5IV,has a planet (b),287.788,-1.362,Aquilae,HD 179079 Aquilae
+621,Aquila,V1703 Aql,,V1703,,,V1703,192263,99711,20h 13m 59.85s,-00° 52′ 00.8″,8.1,6.61,65,K2V,"Phoenicia[4], double star; has a planet (b); BY Draconis variable, ΔV = 0.03m, P = 23.98 d",303.496,0.867,Aquilae,V1703 Aquilae
+622,Aquila,HD 176986l,,HD 176986,,,,176986,93540,19h 03m 06.00s,-11° 02′ 38.00″,8.45,,86,K2.5V,has two planets (b & c),285.775,-10.964,Aquilae,HD 176986 Aquilae
+623,Aquila,Gliese 726,,HD 173818,,,,173818,92200,18h 47m 27.00s,-03° 38′ 23.00″,8.7,8.17,46.07,K5V,,281.863,-2.366,Aquilae,HD 173818 Aquilae
+624,Aquila,V1494 Aql,,V1494,,,V1494,,,19h 23m 05.38s,+04° 57′ 20.1″,8.8,,,pec(NOVA) – e+cont,"Nova Aquilae; Vmax = 5.03m, Vmin = 16.0m",290.771,4.956,Aquilae,V1494 Aquilae
+625,Aquila,WASP-74,,W-74,,,,,,20h 18m 10.00s,-01° 04′ 33.00″,9.7,4.31,391,F9,has a transiting planet (b),304.542,-0.933,Aquilae,W-74 Aquilae
+626,Aquila,HAT-P-41,, ,,,,,,19h 49m 17.00s,+04° 40′ 21.00″,11.09,3.63,1014,,has a transiting planet (b),297.321,4.667,Aquilae,  Aquilae
+627,Aquila,V603 Aql,,V603,,,V603,174107,92316,18h 48m 54.64s,+00° 35′ 02.9″,11.64,4.76,776,pec(NOVA) – e+cont,"Nova Aquilae 1918; Vmax = −1.4m, Vmin = 12.03m",282.225,0.584,Aquilae,V603 Aquilae
+628,Aquila,WASP-80,,W-80,,,,,,20h 12m 40.00s,-02° 08′ 44.00″,11.88,7.99,196,,"Petra[5], has a transiting planet (b)",303.167,-1.866,Aquilae,W-80 Aquilae
+629,Aquila,χ Aql B,χ,Chi,47,,,186204,,19h 42m 37.90s,+11° 50′ 31.0″,12.3,5.35,800,G0:+A3V,component of the χ Aql system,295.654,11.842,Aquilae,Chi Aquilae
+630,Aquila,COROT-2,, ,,,,,,19h 27m 07.00s,+01° 23′ 02.00″,12.57,5.29,930,G7V,has a transiting planet (b),291.779,1.384,Aquilae,  Aquilae
+631,Aquila,COROT-3,, ,,,,,,19h 28m 13.27s,+00° 07′ 18.6″,13.3,4.16,2200,F3V,has a transiting brown dwarf (b),292.054,0.122,Aquilae,  Aquilae
+632,Aquila,COROT-8,, ,,,,,,19h 26m 21.24s,+01° 25′ 35.2″,14.8,6.89,1250,K1V,has a transiting planet (b),291.588,1.426,Aquilae,  Aquilae
+633,Aquila,COROT-10,, ,,,,,,19h 24m 15.30s,+00° 44′ 46.0″,15.22,7.53,1130,K1V,has a transiting planet (b),291.063,0.746,Aquilae,  Aquilae
+634,Aquila,VB 10,, ,,,,,,19h 16m 57.62s,+05° 09′ 02.2″,17.3,18.47,19,M8V,van Biesbroeck's Star; has a planet (b),289.238,5.151,Aquilae,  Aquilae
+635,Aquila,V606 Aql,,V606,,,V606,,,19h 20m 24.30s,-00° 08′ 7.0″,,,700,pec(NOVA) – e+cont,"Nova Aquilae; Vmax = 5.5m, Vmin = 17.3m",290.100,0.135,Aquilae,V606 Aquilae
+636,Aquila,W50 (nebula),, ,,,,,,19h 11m 49.00s,-04° 59′ 12.0″,,,16000,,Supernova remnant,287.954,-3.013,Aquilae,  Aquilae

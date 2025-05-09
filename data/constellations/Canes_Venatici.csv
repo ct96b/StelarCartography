@@ -1,0 +1,87 @@
+USID,Constellation,Name,B,B->F->VAR->G,F,G.,Var,HD,HIP,RA,Dec,"vis. mag.","abs. mag.",Dist. (ly),Sp. class,Notes https://en.wikipedia.org/wiki/Lists_of_stars_by_constellation,RA angle,Dec Angle,Latin Constellation,Full Designation
+1577,Canes Venatici,Cor Caroli,α2,Alpha 2,12,,,112413,63125,12h 56m 01.84s,+38° 19′ 05.7″,2.89,0.25,114,A0spe...,"prototype α² CVn variable, Vmax = 2.86m, Vmin = 2.93m, P = 5.46939 d; binary star with α1 CVn",194.004,38.318,Cancri,Alpha 2 Cancri
+1578,Canes Venatici,β CVn,β,Beta,8,,,109358,61317,12h 33m 45.09s,+41° 21′ 24.4″,4.24,4.63,27,G0V,"Chara, Asterion; solar analog; suspected variable, Vmax = 4.24m, Vmin = 4.29m",188.438,41.357,Canum Venaticorum,Beta Canum Venaticorum
+1579,Canes Venatici,24 CVn,,24,24,,,118232,66234,13h 34m 27.37s,+49° 00′ 57.3″,4.68,0.85,190,A5V,"suspected variable, Vmax = 4.60m, Vmin = 4.70m",203.613,49.016,Canum Venaticorum,24 Canum Venaticorum
+1580,Canes Venatici,20 CVn,,20,20,,AO,115604,64844,13h 17m 32.64s,+40° 34′ 21.2″,4.72,0,286,F3III,"δ Sct variable, Vmax = 4.7m, Vmin = 4.75m, P = 0.12168 d",199.383,40.573,Canum Venaticorum,20 Canum Venaticorum
+1581,Canes Venatici,AW CVn,,AW,,,AW,120933,67665,13h 51m 47.49s,+34° 26′ 39.5″,4.76,−1.58,604,K5III,"semiregular variable, Vmax = 4.72m, Vmin = 4.81m",207.946,34.444,Canum Venaticorum,AW Canum Venaticorum
+1582,Canes Venatici,5 CVn,,5,5,,,107950,60485,12h 24m 01.48s,+51° 33′ 44.0″,4.77,−0.64,393,G7III,"Xiāng (相)[1]; suspected eclipsing binary, ΔV = 0.07m",186.004,51.562,Canum Venaticorum,5 Canum Venaticorum
+1583,Canes Venatici,25 CVn,,25,25,,,118623,66458,13h 37m 27.70s,+36° 17′ 41.4″,4.82,0.97,192,A7III,binary star,204.363,36.295,Canum Venaticorum,25 Canum Venaticorum
+1584,Canes Venatici,HR 5110,,BH,,,BH,118216,66257,13h 34m 47.75s,+37° 10′ 56.8″,4.91,1.67,145,F2IV SB,"RS CVn variable, ΔV = 0.07m, P = 2.61317 d",203.696,37.182,Canum Venaticorum,BH Canum Venaticorum
+1585,Canes Venatici,HD 115004,,HD 115004,,,,115004,64540,13h 13m 42.98s,+40° 09′ 10.3″,4.94,−1.08,522,K0III,,198.425,40.153,Canum Venaticorum,HD 115004 Canum Venaticorum
+1586,Canes Venatici,6 CVn,,6,6,,,108225,60646,12h 25m 51.00s,+39° 01′ 07.3″,5.01,0.79,227,G8III-IV,"variable star, ΔV = 0.006m, P = 157.23270 d",186.463,39.019,Canum Venaticorum,6 Canum Venaticorum
+1587,Canes Venatici,21 CVn,,21,21,,BK,115735,64906,13h 18m 14.54s,+49° 40′ 55.3″,5.13,0.51,275,A0V,"α² CVn variable, ΔV = 0.04m",199.558,49.682,Canum Venaticorum,21 Canum Venaticorum
+1588,Canes Venatici,14 CVn,,14,14,,,113797,63901,13h 05m 44.46s,+35° 47′ 55.9″,5.2,0.51,282,B9V,"suspected variable, Vmax = 5.10m, Vmin = 5.29m",196.433,35.799,Canum Venaticorum,14 Canum Venaticorum
+1589,Canes Venatici,3 CVn,,3,3,,,107274,60122,12h 19m 48.72s,+48° 59′ 02.9″,5.28,−0.72,517,M0III,suspected variable,184.950,48.984,Canum Venaticorum,3 Canum Venaticorum
+1590,Canes Venatici,HD 109317,,HD 109317,,,,109317,61309,12h 33m 38.90s,+33° 14′ 51.6″,5.42,0.86,266,K0IIICN...,,188.408,33.248,Canum Venaticorum,HD 109317 Canum Venaticorum
+1591,Canes Venatici,La Superba,,Y,,,Y,110914,62223,12h 45m 07.83s,+45° 26′ 24.8″,5.42,−1.27,710,C7Iab,"semiregular variable, Vmax = 4.86m, Vmin = 5.88m, P = 267.8 d",191.279,45.440,Canum Venaticorum,Y Canum Venaticorum
+1592,Canes Venatici,HD 120164,,HD 120164,,,,120164,67250,13h 46m 59.87s,+38° 32′ 33.9″,5.51,0.67,304,K0III+...,,206.746,38.543,Canum Venaticorum,HD 120164 Canum Venaticorum
+1593,Canes Venatici,23 CVn,,23,23,,,116010,65072,13h 20m 19.00s,+40° 09′ 02.0″,5.6,−0.91,655,K1III,,200.079,40.151,Canum Venaticorum,23 Canum Venaticorum
+1594,Canes Venatici,α1 CVn,α1,Alpha 1,12,,,112412,63121,12h 56m 00.60s,+38° 18′ 52.9″,5.61,2.78,120.2,F0V,component of the Cor Caroli system,194.000,38.314,Canum Venaticorum,Alpha 1 Canum Venaticorum
+1595,Canes Venatici,HD 120420,,HD 120420,,,,120420,67384,13h 48m 38.74s,+31° 11′ 24.4″,5.61,0.71,311,K0III,,207.158,31.190,Canum Venaticorum,HD 120420 Canum Venaticorum
+1596,Canes Venatici,HD 113847,,HD 113847,,,,113847,63916,13h 05m 52.28s,+45° 16′ 06.6″,5.64,−0.21,483,K1III,"suspected variable, Vmax = 5.64m, Vmin = 5.84m",196.467,45.268,Canum Venaticorum,HD 113847 Canum Venaticorum
+1597,Canes Venatici,2 CVn,,2,2,,,106690,59831,12h 16m 07.54s,+40° 39′ 36.9″,5.69,−1.35,834,M1III,,184.029,40.660,Canum Venaticorum,2 Canum Venaticorum
+1598,Canes Venatici,TU CVn,,TU,,,TU,112264,63024,12h 54m 56.54s,+47° 11′ 48.3″,5.75,−0.92,704,M5III,"semiregular variable, Vmax = 5.50m, Vmin = 6.2m, P = 44.2 d",193.733,47.197,Canum Venaticorum,TU Canum Venaticorum
+1599,Canes Venatici,19 CVn,,19,19,,,115271,64692,13h 15m 32.05s,+40° 51′ 18.6″,5.77,1.39,245,A7V,,198.883,40.855,Canum Venaticorum,19 Canum Venaticorum
+1600,Canes Venatici,HD 115723,,HD 115723,,,,115723,64927,13h 18m 27.71s,+34° 05′ 53.9″,5.81,−0.14,504,K4.5III,,199.613,34.098,Canum Venaticorum,HD 115723 Canum Venaticorum
+1601,Canes Venatici,HD 111604,,DT,,,DT,111604,62641,12h 50m 10.81s,+37° 31′ 00.8″,5.87,0.5,387,A3V,δ Sct variable,192.542,37.517,Canum Venaticorum,DT Canum Venaticorum
+1602,Canes Venatici,HD 116957,,HD 116957,,,,116957,65550,13h 26m 16.58s,+46° 01′ 41.2″,5.88,0.68,357,K0III:,,201.567,46.028,Canum Venaticorum,HD 116957 Canum Venaticorum
+1603,Canes Venatici,HD 120047,,HD 120047,,,,120047,67194,13h 46m 13.63s,+41° 05′ 19.9″,5.88,2.33,167,A5V,,206.554,41.089,Canum Venaticorum,HD 120047 Canum Venaticorum
+1604,Canes Venatici,HD 120819,,HD 120819,,,,120819,67605,13h 51m 09.21s,+34° 39′ 52.3″,5.89,−0.69,676,M2III,"variable star, ΔV = 0.010m, P = 7.94786 d",207.788,34.664,Canum Venaticorum,HD 120819 Canum Venaticorum
+1605,Canes Venatici,17 CVn,,17,17,,,114447,64246,13h 10m 03.27s,+38° 29′ 55.9″,5.91,1.95,202,A9III-IV,"γ Dor variable, ΔV = 0.008m, P = 0.69004 d",197.513,38.499,Canum Venaticorum,17 Canum Venaticorum
+1606,Canes Venatici,HD 121164,,HD 121164,,,,121164,67782,13h 53m 10.36s,+28° 38′ 53.0″,5.91,1.86,211,A7V,,208.292,28.648,Canum Venaticorum,HD 121164 Canum Venaticorum
+1607,Canes Venatici,HD 120048,,HD 120048,,,,120048,67210,13h 46m 19.10s,+38° 30′ 13.2″,5.92,0.46,403,G9III,,206.579,38.504,Canum Venaticorum,HD 120048 Canum Venaticorum
+1608,Canes Venatici,10 CVn,,10,10,,,110897,62207,12h 44m 59.68s,+39° 16′ 42.9″,5.95,4.75,57,G0V,,191.246,39.278,Canum Venaticorum,10 Canum Venaticorum
+1609,Canes Venatici,HD 119458,,HD 119458,,,,119458,66907,13h 42m 43.42s,+34° 59′ 20.4″,5.98,0.11,486,G5III,,205.679,34.989,Canum Venaticorum,HD 119458 Canum Venaticorum
+1610,Canes Venatici,HD 114357,,HD 114357,,,,114357,64212,13h 09m 38.72s,+37° 25′ 23.3″,6.01,1.2,299,K3III,,197.408,37.423,Canum Venaticorum,HD 114357 Canum Venaticorum
+1611,Canes Venatici,HD 115810,,HD 115810,,,,115810,64979,13h 19m 04.27s,+35° 07′ 40.6″,6.01,1.94,213,F0IV,,199.767,35.128,Canum Venaticorum,HD 115810 Canum Venaticorum
+1612,Canes Venatici,4 CVn,,4,4,,AI,107904,60467,12h 23m 47.08s,+42° 32′ 33.8″,6.03,0.98,334,F3IV,"δ Sct variable, Vmax = 5.89m, Vmin = 6.15m, P = 0.2085 d",185.946,42.543,Canum Venaticorum,4 Canum Venaticorum
+1613,Canes Venatici,HD 117710,,HD 117710,,,,117710,65951,13h 31m 15.84s,+42° 06′ 21.9″,6.07,1.53,263,K2III,,202.813,42.106,Canum Venaticorum,HD 117710 Canum Venaticorum
+1614,Canes Venatici,CL CVn,,CL,,,CL,116581,65376,13h 23m 53.92s,+37° 02′ 02.2″,6.1,−1.74,1207,M3III,"slow irregular variable, ΔV = ~0.10m",200.971,37.034,Canum Venaticorum,CL Canum Venaticorum
+1615,Canes Venatici,HD 112570,,HD 112570,,,,112570,63211,12h 57m 07.80s,+46° 10′ 36.9″,6.12,0.99,344,K0III-IV,"suspected variable, Vmax = 6.12m, Vmin = 6.5m",194.279,46.177,Canum Venaticorum,HD 112570 Canum Venaticorum
+1616,Canes Venatici,7 CVn,,7,7,,,108845,60988,12h 30m 03.10s,+51° 32′ 08.1″,6.21,2.94,147,F7V,,187.513,51.536,Canum Venaticorum,7 Canum Venaticorum
+1617,Canes Venatici,HD 119035,,HD 119035,,,,119035,66690,13h 40m 15.63s,+31° 00′ 42.5″,6.21,0.12,540,G5II:,,205.063,31.012,Canum Venaticorum,HD 119035 Canum Venaticorum
+1618,Canes Venatici,HD 119081,,HD 119081,,,,119081,66725,13h 40m 39.12s,+28° 03′ 54.5″,6.22,0.88,382,K3III,,205.163,28.065,Canum Venaticorum,HD 119081 Canum Venaticorum
+1619,Canes Venatici,HD 109345,,HD 109345,,,,109345,61320,12h 33m 47.41s,+33° 23′ 04.9″,6.24,0.94,374,K0III,,188.446,33.384,Canum Venaticorum,HD 109345 Canum Venaticorum
+1620,Canes Venatici,11 CVn,,11,11,,,111421,62516,12h 48m 41.86s,+48° 28′ 00.5″,6.25,0.49,463,A6m,,192.171,48.467,Canum Venaticorum,11 Canum Venaticorum
+1621,Canes Venatici,HD 112171,,HD 112171,,,,112171,62972,12h 54m 13.15s,+33° 32′ 03.9″,6.25,1.89,243,A7IV,,193.554,33.534,Canum Venaticorum,HD 112171 Canum Venaticorum
+1622,Canes Venatici,15 CVn,,15,15,,,114376,64217,13h 09m 42.04s,+38° 32′ 01.9″,6.25,−1.48,1144,B7III,,197.425,38.534,Canum Venaticorum,15 Canum Venaticorum
+1623,Canes Venatici,HD 122675,,HD 122675,,,,122675,68567,14h 02m 12.17s,+45° 45′ 13.1″,6.28,0.17,544,K2III,,210.550,45.754,Canum Venaticorum,HD 122675 Canum Venaticorum
+1624,Canes Venatici,HD 119445,,HD 119445,,,,119445,66892,13h 42m 28.87s,+41° 40′ 27.3″,6.3,−1.00,942,G6III,,205.617,41.674,Canum Venaticorum,HD 119445 Canum Venaticorum
+1625,Canes Venatici,HD 121682,,HD 121682,,,,121682,68065,13h 56m 10.54s,+32° 01′ 56.9″,6.31,2.01,236,F4IV-V,,209.042,32.032,Canum Venaticorum,HD 121682 Canum Venaticorum
+1626,Canes Venatici,HD 107610,,HD 107610,,,,107610,60305,12h 21m 56.30s,+47° 10′ 56.1″,6.33,1.46,307,K2III,,185.483,47.182,Canum Venaticorum,HD 107610 Canum Venaticorum
+1627,Canes Venatici,HD 110834,,HD 110834,,,,110834,62172,12h 44m 27.12s,+44° 06′ 10.8″,6.34,1.54,298,F6IV,,191.113,44.103,Canum Venaticorum,HD 110834 Canum Venaticorum
+1628,Canes Venatici,HD 116303,,HD 116303,,,,116303,65230,13h 22m 03.97s,+43° 54′ 12.0″,6.34,0.6,458,A7m,"suspected variable, Vmax = 6.34m, Vmin = 6.37m",200.513,43.903,Canum Venaticorum,HD 116303 Canum Venaticorum
+1629,Canes Venatici,9 CVn,,9,9,,,109980,61692,12h 38m 46.30s,+40° 52′ 28.9″,6.35,2.27,213,A7Vn,suspected variable,189.692,40.874,Canum Venaticorum,9 Canum Venaticorum
+1630,Canes Venatici,HD 118156,,HD 118156,,,,118156,66223,13h 34m 21.85s,+38° 47′ 21.2″,6.37,2.2,223,F0IV,,203.588,38.789,Canum Venaticorum,HD 118156 Canum Venaticorum
+1631,Canes Venatici,HD 110066,,AX,,,AX,110066,61748,12h 39m 16.85s,+35° 57′ 07.1″,6.39,0.44,505,A0p SrCrEu,"α² CVn variable, Vmax = 6.32m, Vmin = 6.55m, P = 4900 d",189.817,35.952,Canum Venaticorum,AX Canum Venaticorum
+1632,Canes Venatici,HD 117361,,HD 117361,,,,117361,65754,13h 28m 45.80s,+50° 43′ 07.5″,6.42,1.97,253,F0IV,,202.188,50.719,Canum Venaticorum,HD 117361 Canum Venaticorum
+1633,Canes Venatici,HD 120600,,HD 120600,,,,120600,67483,13h 49m 44.98s,+36° 37′ 58.0″,6.43,2.37,212,A7IV-V,,207.433,36.633,Canum Venaticorum,HD 120600 Canum Venaticorum
+1634,Canes Venatici,HD 121197,,HD 121197,,,,121197,67778,13h 53m 08.44s,+40° 20′ 16.8″,6.48,−1.64,1370,K5,,208.283,40.338,Canum Venaticorum,HD 121197 Canum Venaticorum
+1635,Canes Venatici,HD 117261,,HD 117261,,,,117261,65723,13h 28m 26.23s,+40° 43′ 47.2″,6.49,0.88,432,G8III,,202.108,40.730,Canum Venaticorum,HD 117261 Canum Venaticorum
+1636,Canes Venatici,HD 111572,,HD 111572,,,,111572,62600,12h 49m 38.05s,+48° 44′ 24.2″,6.5,0.58,497,K1III,"suspected variable, Vmax = 6.47m, Vmin = 6.53m",192.408,48.740,Canum Venaticorum,HD 111572 Canum Venaticorum
+1637,Canes Venatici,HD 114975,,HD 114975,,,,114975,64530,13h 13m 35.94s,+36° 53′ 15.3″,6.5,−1.58,1347,M0,,198.396,36.888,Canum Venaticorum,HD 114975 Canum Venaticorum
+1638,Canes Venatici,V CVn,,V,,,V,115898,65006,13h 19m 27.77s,+45° 31′ 37.7″,6.74,-2.46,2260,M6IIIa,"semiregular variable, Vmax = 6.52m, Vmin = 8.56m, P = 191.89 d",199.863,45.527,Canum Venaticorum,V Canum Venaticorum
+1639,Canes Venatici,HD 108100,,DD,,,DD,108100,60571,12h 24m 13.93s,+42° 51′ 17.0″,7.15,2.58,267.4,F2V,"γ Dor variable, ΔV = 0.04m, P = 0.754307 d",186.054,42.855,Canum Venaticorum,DD Canum Venaticorum
+1640,Canes Venatici,BM CVn,,BM,,,BM,116204,65187,13h 21m 32.26s,+38° 52′ 49.5″,7.21,1.94,368,K2III,"RS CVn variable, ΔV = 0.06m, P = 21.7 d",200.383,38.880,Canum Venaticorum,BM Canum Venaticorum
+1641,Canes Venatici,R CVn,,R,,,R,120499,67410,13h 48m 57.20s,+39° 32′ 34.0″,7.4,-2.51,3130,M6IIIe,"Mira variable, Vmax = 6.5m, Vmin = 12.9m, P = 328.53 d",207.238,39.543,Canum Venaticorum,R Canum Venaticorum
+1642,Canes Venatici,HD 109995,,HD 109995,,,,109995,61696,12h 38m 47.60s,+39° 18′ 31.6″,7.64,0.46,891,A0p,horizontal-branch star,189.696,39.309,Canum Venaticorum,HD 109995 Canum Venaticorum
+1643,Canes Venatici,HD 115781,,BL,,,BL,115781,64956,13h 18m 51.94s,+33° 26′ 19.3″,8.13,1.5,691,K1III,"rotating ellipsoidal variable, ΔV = 0.24m, P = 18.692 d",199.713,33.439,Canum Venaticorum,BL Canum Venaticorum
+1644,Canes Venatici,RS CVn,,RS,,,RS,114519,64293,13h 10m 36.91s,+35° 56′ 05.6″,8.23,3.06,352,F4V+...,"prototype RS CVn variable, Vmax = 7.93m, Vmin = 9.14m, P = 4.797887 d",197.650,35.935,Canum Venaticorum,RS Canum Venaticorum
+1645,Canes Venatici,TT CVn,,TT,,,TT,112869,63389,12h 59m 22.64s,+37° 49′ 03.7″,8.91,,,Rp...,semiregular variable,194.842,37.818,Canum Venaticorum,TT Canum Venaticorum
+1646,Canes Venatici,HD 115444,,HD 115444,,,,115444,64786,13h 16m 42.46s,+36° 22′ 52.7″,8.97,1.72,918,G9V,barium star,199.175,36.381,Canum Venaticorum,HD 115444 Canum Venaticorum
+1647,Canes Venatici,TX CVn,,TX,,,TX,,,12h 44m 22.07s,+36° 45′ 50.7″,9.34,,,B1-B9Veq + K0III-M4,"Z And and rotating ellipsoidal variable, Vmax = 9.34m, Vmin = 10.28m, P = 199.75 d",191.092,36.764,Canum Venaticorum,TX Canum Venaticorum
+1648,Canes Venatici,VZ CVn,,VZ,,,VZ,117777,66017,13h 32m 03.39s,+28° 35′ 04.9″,9.35,1.1,1460,F3V + F6V,"Algol and γ Dor variable, Vmax = 9.17m, Vmin = 9.72m, P = 0.84246163 d",203.013,28.584,Canum Venaticorum,VZ Canum Venaticorum
+1649,Canes Venatici,HIP 65407,,HIP 65407,,,,,65407,13h 24m 21.00s,+48° 53′ 06.00″,9.42,8.29,55,K0,has two planets (b & c),201.088,48.885,Canum Venaticorum,HIP 65407 Canum Venaticorum
+1650,Canes Venatici,Gliese 521,,HIP 66625,,,,,66625,13h 39m 24.10s,+46° 11′ 11.4″,10.26,9.69,42.41,M2.0V,possibly has a planet,204.850,46.186,Canum Venaticorum,HIP 66625 Canum Venaticorum
+1651,Canes Venatici,BI CVn,,BI,,,BI,,63701,13h 03m 16.41s,+36° 37′ 00.6″,10.31,3.41,782,F9V,"W UMa variable, Vmax = 10.26m, Vmin = 10.71m, P = 0.38416 d",195.817,36.617,Canum Venaticorum,BI Canum Venaticorum
+1652,Canes Venatici,W CVn,,W,,,W,,68908,14h 06m 27.98s,+37° 49′ 41.5″,10.49,-0.39,4900,F2III,"RR Lyr variable, Vmax = 10.03m, Vmin = 10.96m, P = 0.5517588 d",211.613,37.828,Canum Venaticorum,W Canum Venaticorum
+1653,Canes Venatici,Gliese 490,,BF,,,BF,,63253,12h 57m 40.26s,+35° 13′ 30.0″,10.52,9.1,62.78,M0.0V,"binary star; BY Dra variable and flare star, Vmax = 10.5m, Vmin = 10.6m, P = 3.17 d",194.417,35.225,Canum Venaticorum,BF Canum Venaticorum
+1654,Canes Venatici,ST CVn,,ST,,,ST,,68188,13h 57m 34.06s,+29° 51′ 28.7″,11.21,,,A1,"RR Lyr variable, Vmax = 11.04m, Vmin = 11.6m, P = 0.329045 d",209.392,29.858,Canum Venaticorum,ST Canum Venaticorum
+1655,Canes Venatici,UZ CVn,,UZ,,,UZ,,61029,12h 30m 27.70s,+40° 30′ 32.0″,12.11,4.76,964,A8,RR Lyr variable,187.613,40.509,Canum Venaticorum,UZ Canum Venaticorum
+1656,Canes Venatici,Z CVn,,Z,,,Z,,,12h 49m 45.37s,+43° 46′ 25.1″,12.12,,,A5,"RR Lyr variable, Vmax = 11.46m, Vmin = 12.36m, P = 0.653819 d",192.438,43.774,Canum Venaticorum,Z Canum Venaticorum
+1657,Canes Venatici,DG CVn,,DG,,,DG,,,13h 31m 46.62s,+29° 16′ 36.7″,12.19,12.69,25.9,M4.0V,flare star and BY Dra variable,202.942,29.277,Canum Venaticorum,DG Canum Venaticorum
+1658,Canes Venatici,HAT-P-36,, ,,,,,,12h 33m 03.00s,+44° 54′ 55.00″,12.26,4.75,1034,,Tuiren; has a transiting planet (b),188.263,44.901,Canum Venaticorum,  Canum Venaticorum
+1659,Canes Venatici,UX CVn,,UX,,,UX,,,12h 14m 48.54s,+36° 38′ 49.3″,,,,B2,rotating ellipsoidal variable and eclipsing binary,183.700,36.647,Canum Venaticorum,UX Canum Venaticorum
+1660,Canes Venatici,HAT-P-12,, ,,,,,,13h 57m 33.48s,+43° 29′ 36.7″,12.84,,,K5,has a transiting planet,209.388,43.493,Canum Venaticorum,  Canum Venaticorum
+1661,Canes Venatici,AM CVn,,AM,,,AM,,,12h 34m 54.60s,+37° 37′ 44.1″,14.18,9.15,330,DBp,prototype AM CVn star,188.725,37.629,Canum Venaticorum,AM Canum Venaticorum
+1662,Canes Venatici,GD 154,,BG,,,BG,,,13h 09m 57.69s,+35° 09′ 47.1″,15.33,,,DA4.4,"ZZ Cet variable, ΔV = 0.09m, P = 0.013727 d",197.488,35.163,Canum Venaticorum,BG Canum Venaticorum

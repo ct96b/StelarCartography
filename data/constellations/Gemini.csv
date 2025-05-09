@@ -1,0 +1,183 @@
+USID,Constellation,Name,B,B->F->VAR->G,F,G.,Var,HD,HIP,RA,Dec,"vis. mag.","abs. mag.",Dist. (ly),Sp. class,Notes https://en.wikipedia.org/wiki/Lists_of_stars_by_constellation,RA angle,Dec Angle,Latin Constellation,Full Designation
+5055,Gemini,Pollux,β,Beta,78,,,62509,37826,07h 45m 19.36s,+28° 01′ 34.7″,1.16,1.09,34,K0III,"Al-Ras al-Taum al-Mu'ahar, Muekher al Dzira, Posterior Brachii;[1] suspected variable, Vmax = 1.10m, Vmin = 1.17m; has a planet (b)",116.329,28.026,Geminorum,Beta Geminorum
+5056,Gemini,Castor A,α,Alpha,66,,,60179A,36850,07h 34m 36.00s,+31° 53′ 19.1″,1.9,1.05,52,A2Vm,"Al-Ras al-Taum al-Muqadim, Aoul al Dzira, Prima Brachii[1]",113.650,31.889,Geminorum,Alpha Geminorum
+5057,Gemini,γ Gem,γ,Gamma,24,,,47105,31681,06h 37m 42.70s,+16° 23′ 57.9″,1.93,−0.60,105,A0IV,"Alhena, Almeisan, Nir al Henat, Prima του al Henat[1]",99.425,16.399,Geminorum,Gamma Geminorum
+5058,Gemini,μ Gem,μ,Mu,13,,,44478,30343,06h 22m 57.59s,+22° 30′ 49.9″,2.87,−1.39,232,M3.0III,"Tejat Posterior, Tejat, Calx, Pish Pai; semiregular variable, Vmax = 2.75m, Vmin = 3.02m",95.738,22.514,Geminorum,Mu Geminorum
+5059,Gemini,Castor B,α,Alpha,66,,,60178,,07h 34m 36.00s,+31° 53′ 19.0″,2.88,,51,,,113.650,31.889,Geminorum,Alpha Geminorum
+5060,Gemini,ε Gem,ε,Epsilon,27,,,48329,32246,06h 43m 55.93s,+25° 07′ 52.2″,3.06,−4.15,903,G8Ib,"Mebsuta; variable star, Vmax = 2.97m, Vmin = 3.09m",100.979,25.131,Geminorum,Epsilon Geminorum
+5061,Gemini,η Gem,η,Eta,7,,,42995,29655,06h 14m 52.70s,+22° 30′ 24.6″,3.31,−1.84,349,M3III,"Propus, Praepes, Tejat Prior; semiregular and Algol variable, Vmax = 3.15m, Vmin = 3.9m, P = 232.9 d",93.717,22.507,Geminorum,Eta Geminorum
+5062,Gemini,ξ Gem,ξ,Xi,31,,,48737,32362,06h 45m 17.43s,+12° 53′ 45.8″,3.35,2.13,57,F5IV,"Alzir; suspected variable, Vmax = 3.33m, Vmin = 3.42m",101.321,12.896,Geminorum,Xi Geminorum
+5063,Gemini,δ Gem,δ,Delta,55,,,56986,35550,07h 20m 07.39s,+21° 58′ 56.4″,3.5,2.22,59,F0IV...,Wasat,110.029,21.982,Geminorum,Delta Geminorum
+5064,Gemini,κ Gem,κ,Kappa,77,,,62345,37740,07h 44m 26.87s,+24° 23′ 53.3″,3.57,0.35,143,G8III,"Jīxīn (積薪),[2] 隆博星 (Takahiro-boshi)",116.108,24.398,Geminorum,Kappa Geminorum
+5065,Gemini,λ Gem,λ,Lambda,54,,,56537,35350,07h 18m 05.61s,+16° 32′ 25.7″,3.58,1.27,94,A3V...,"suspected variable, Vmax = 3.52m, Vmin = 3.62m",109.521,16.540,Geminorum,Lambda Geminorum
+5066,Gemini,θ Gem,θ,Theta,34,,,50019,33018,06h 52m 47.34s,+33° 57′ 40.9″,3.6,−0.30,197,A3III,,103.196,33.961,Geminorum,Theta Geminorum
+5067,Gemini,ι Gem,ι,Iota,60,,,58207,36046,07h 25m 43.68s,+27° 47′ 53.8″,3.78,0.85,126,G9III+...,Propus,111.429,27.798,Geminorum,Iota Geminorum
+5068,Gemini,ζ Gem,ζ,Zeta,43,,,52973,34088,07h 04m 06.54s,+20° 34′ 13.1″,4.01,−3.76,1168,G1Ib,"Mekbuda; classical Cepheid, Vmax = 3.62m, Vmin = 4.18m, P = 10.15 d",106.025,20.570,Geminorum,Zeta Geminorum
+5069,Gemini,υ Gem,υ,Upsilon,69,,,60522,36962,07h 35m 55.37s,+26° 53′ 45.6″,4.06,−0.28,240,K5III,"suspected variable, Vmax = 4.04m, Vmin = 4.08m",113.979,26.896,Geminorum,Upsilon Geminorum
+5070,Gemini,ν Gem A,ν,Nu,18,,,45542,30883,06h 28m 57.79s,+20° 12′ 43.8″,4.13,−1.81,502,B6III,Nucatai,97.238,20.212,Geminorum,Nu Geminorum
+5071,Gemini,1 Gem,,1,1,,,41116,28734,06h 04m 07.22s,+23° 15′ 49.1″,4.16,0.84,151,G7III,Propus,91.029,23.264,Geminorum,1 Geminorum
+5072,Gemini,ρ Gem,ρ,Rho,62,,,58946,36366,07h 29m 06.61s,+31° 47′ 02.7″,4.16,2.82,60,F0V...,suspected variable,112.275,31.784,Geminorum,Rho Geminorum
+5073,Gemini,σ Gem,σ,Sigma,75,,,62044,37629,07h 43m 18.69s,+28° 53′ 02.7″,4.23,1.36,122,K1III SB,"RS CVn variable, Vmax = 4.13m, Vmin = 4.29m, P = 19.42 d",115.825,28.884,Geminorum,Sigma Geminorum
+5074,Gemini,τ Gem,τ,Tau,46,,,54719,34693,07h 11m 08.39s,+30° 14′ 43.0″,4.41,−0.42,302,K2III,"suspected variable, Vmax = 4.37m, Vmin = 4.42m; has a brown dwarf companion",107.783,30.245,Geminorum,Tau Geminorum
+5075,Gemini,30 Gem,,30,30,,,48433,32249,06h 43m 59.29s,+13° 13′ 41.3″,4.49,−0.15,276,K1III,,100.996,13.228,Geminorum,30 Geminorum
+5076,Gemini,38 Gem,e,E,38,,,50635,33202,06h 54m 38.59s,+13° 10′ 40.9″,4.71,2.48,91,F0Vp,,103.658,13.178,Geminorum,E Geminorum
+5077,Gemini,ο Gem,ο,Omicron,71,,,61110,37265,07h 39m 09.96s,+34° 35′ 04.7″,4.89,1.46,158,F3III,Jishui,114.788,34.584,Geminorum,Omicron Geminorum
+5078,Gemini,81 Gem,g,G,81,,,62721,37908,07h 46m 07.49s,+18° 30′ 36.6″,4.89,−0.21,341,K5III,,116.529,18.510,Geminorum,G Geminorum
+5079,Gemini,χ Gem,χ,Chi,,,,66216,39424,08h 03m 31.10s,+27° 47′ 39.9″,4.94,0.45,258,K2III,,120.879,27.794,Geminorum,Chi Geminorum
+5080,Gemini,φ Gem,φ,Phi,83,,,64145,38538,07h 53m 29.84s,+26° 45′ 57.1″,4.97,0.51,254,A3V,,118.371,26.766,Geminorum,Phi Geminorum
+5081,Gemini,65 Gem,b,B,65,,,59148,36429,07h 29m 48.78s,+27° 54′ 58.3″,5.01,−0.34,383,K2III,,112.450,27.916,Geminorum,B Geminorum
+5082,Gemini,57 Gem,A,A,57,,,57727,35846,07h 23m 28.55s,+25° 03′ 02.2″,5.04,1.67,154,G8III,,110.867,25.051,Geminorum,A Geminorum
+5083,Gemini,74 Gem,f,F,74,,,61338,37300,07h 39m 28.59s,+17° 40′ 28.3″,5.04,−1.02,532,M0III,"suspected variable, ΔV = 0.08m",114.867,17.674,Geminorum,F Geminorum
+5084,Gemini,51 Gem,,51,51,,BQ,55383,34909,07h 13m 22.27s,+16° 09′ 32.6″,5.07,−1.59,700,K3V,semiregular variable,108.342,16.159,Geminorum,51 Geminorum
+5085,Gemini,64 Gem,,64,64,,,59037,36393,07h 29m 20.46s,+28° 07′ 06.3″,5.07,1.58,163,A4V,,112.333,28.118,Geminorum,64 Geminorum
+5086,Gemini,56 Gem,,56,56,,,57423,35699,07h 21m 56.90s,+20° 26′ 37.4″,5.09,−0.50,428,M0III,"suspected variable, ΔV = 0.06m",110.483,20.444,Geminorum,56 Geminorum
+5087,Gemini,HD 52960,,HD 52960,,,,52960,34033,07h 03m 38.07s,+10° 57′ 06.6″,5.14,−1.65,743,K3III,,105.908,10.952,Geminorum,HD 52960 Geminorum
+5088,Gemini,π Gem,π,Pi,80,,,62898,38016,07h 47m 30.34s,+33° 24′ 56.8″,5.14,−1.04,562,M0III,"suspected variable, ΔV = 0.08m",116.875,33.416,Geminorum,Pi Geminorum
+5089,Gemini,26 Gem,,26,26,,,48097,32104,06h 42m 24.32s,+17° 38′ 43.9″,5.2,2.05,139,A2V,,100.600,17.645,Geminorum,26 Geminorum
+5090,Gemini,ω Gem,ω,Omega,42,,,52497,33927,07h 02m 24.78s,+24° 12′ 55.6″,5.2,−3.33,1655,G5II,"slow irregular variable, Vmax = 5.18m, Vmin = 5.20m",105.600,24.215,Geminorum,Omega Geminorum
+5091,Gemini,63 Gem,,63,63,,,58728,36238,07h 27m 44.39s,+21° 26′ 44.0″,5.2,2.54,111,F5IV-V...,,111.933,21.446,Geminorum,63 Geminorum
+5092,Gemini,68 Gem,,68,68,,,60107,36760,07h 33m 36.50s,+15° 49′ 36.1″,5.27,−0.03,375,A1Vn,suspected variable,113.400,15.827,Geminorum,68 Geminorum
+5093,Gemini,36 Gem,d,D,36,,,49908,32921,06h 51m 33.05s,+21° 45′ 40.4″,5.28,−0.77,529,A2V,,102.888,21.761,Geminorum,D Geminorum
+5094,Gemini,76 Gem,c,C,76,,,62285,37704,07h 44m 06.92s,+25° 47′ 03.2″,5.3,−1.01,595,K5III,"suspected variable, Vmax = 5.28m, Vmin = 5.32m",116.025,25.784,Geminorum,C Geminorum
+5095,Gemini,HD 60318,,HD 60318,,,,60318,36896,07h 35m 08.82s,+30° 57′ 39.3″,5.34,0.5,302,K0III,,113.783,30.961,Geminorum,HD 60318 Geminorum
+5096,Gemini,85 Gem,,85,85,,,64648,38722,07h 55m 39.90s,+19° 53′ 02.6″,5.38,0.29,339,A0Vs,,118.913,19.884,Geminorum,85 Geminorum
+5097,Gemini,28 Gem,,28,28,,,48450,32311,06h 44m 45.46s,+28° 58′ 15.6″,5.42,−0.79,570,K4III,,101.188,28.971,Geminorum,28 Geminorum
+5098,Gemini,HD 59686,,HD 59686,,,,59686,36616,07h 31m 48.37s,+17° 05′ 10.4″,5.45,0.62,302,K2III,has a planet (b),112.950,17.086,Geminorum,HD 59686 Geminorum
+5099,Gemini,45 Gem,,45,45,,,54131,34440,07h 08m 22.04s,+15° 55′ 51.3″,5.47,0.61,305,G8III,,107.092,15.931,Geminorum,45 Geminorum
+5100,Gemini,HD 53329,,HD 53329,,,,53329,34267,07h 06m 11.63s,+34° 28′ 26.7″,5.55,0.69,305,G8IV,,106.546,34.474,Geminorum,HD 53329 Geminorum
+5101,Gemini,NZ Gem,,NZ,,,NZ,61913,37521,07h 42m 03.22s,+14° 12′ 30.7″,5.55,−1.93,1022,M3S,"semiregular variable, Vmax = 5.52m, Vmin = 5.72m",115.513,14.208,Geminorum,NZ Geminorum
+5102,Gemini,HD 46374,,HD 46374,,,,46374,31277,06h 33m 36.17s,+14° 09′ 19.3″,5.57,1.1,256,K2III:,,98.400,14.155,Geminorum,HD 46374 Geminorum
+5103,Gemini,70 Gem,,70,70,,,60986,37204,07h 38m 32.84s,+35° 02′ 54.5″,5.58,0.72,306,K0III,,114.633,35.048,Geminorum,70 Geminorum
+5104,Gemini,35 Gem,,35,35,,,49738,32814,06h 50m 25.50s,+13° 24′ 47.5″,5.68,−2.64,1502,K3III,,102.604,13.413,Geminorum,35 Geminorum
+5105,Gemini,HD 49968,,HD 49968,,,,49968,32968,06h 52m 00.01s,+23° 36′ 06.3″,5.68,−0.30,513,K5III,,103.000,23.602,Geminorum,HD 49968 Geminorum
+5106,Gemini,IS Gem,,IS,,,IS,49380,32740,06h 49m 41.34s,+32° 36′ 24.8″,5.72,0.85,307,K3II,semiregular variable,102.421,32.607,Geminorum,IS Geminorum
+5107,Gemini,41 Gem,,41,41,,,52005,33715,07h 00m 15.82s,+16° 04′ 44.4″,5.73,−5.53,5821,K3Ib,suspected variable,105.063,16.079,Geminorum,41 Geminorum
+5108,Gemini,37 Gem,,37,37,,,50692,33277,06h 55m 18.69s,+25° 22′ 32.3″,5.73,4.56,56,G0V,"suspected variable, ΔV = 0.02m",103.825,25.376,Geminorum,37 Geminorum
+5109,Gemini,3 Gem,,3,3,,PU,42087,29225,06h 09m 43.99s,+23° 06′ 48.5″,5.75,,,B2.5Ib,"α Cyg variable, Vmax = 5.71m, Vmin = 5.77m, P = 6.81 d",92.429,23.113,Geminorum,3 Geminorum
+5110,Gemini,47 Gem,,47,47,,,54801,34722,07h 11m 23.08s,+26° 51′ 24.0″,5.75,0.36,390,A4IV,suspected δ Sct variable,107.846,26.857,Geminorum,47 Geminorum
+5111,Gemini,53 Gem,,53,53,,,55870,35152,07h 15m 57.18s,+27° 53′ 50.7″,5.75,−1.85,1079,M1III,"variable star, ΔV = 0.012m, P = 6.22 d",108.988,27.897,Geminorum,53 Geminorum
+5112,Gemini,59 Gem,,59,59,,,57927,35941,07h 24m 33.44s,+27° 38′ 16.1″,5.77,1.73,209,F0:III:,δ Sct variable,111.138,27.638,Geminorum,59 Geminorum
+5113,Gemini,HD 52556,,HD 52556,,,,52556,33914,07h 02m 17.49s,+15° 20′ 09.8″,5.78,−0.70,644,K1III:,,105.571,15.336,Geminorum,HD 52556 Geminorum
+5114,Gemini,HD 61885,,HD 61885,,,,61885,37508,07h 41m 51.87s,+13° 28′ 49.8″,5.79,−1.12,786,M2III,semiregular variable,115.463,13.480,Geminorum,HD 61885 Geminorum
+5115,Gemini,5 Gem,,5,5,,,42398,29379,06h 11m 32.31s,+24° 25′ 13.4″,5.83,−0.99,753,K0III,,92.883,24.420,Geminorum,5 Geminorum
+5116,Gemini,52 Gem,,52,52,,,55621,35025,07h 14m 41.94s,+24° 53′ 06.7″,5.84,0.77,337,M1III,suspected variable,108.671,24.885,Geminorum,52 Geminorum
+5117,Gemini,48 Gem,,48,48,,,55052,34819,07h 12m 26.39s,+24° 07′ 43.3″,5.85,0.7,349,F5IV,,108.108,24.129,Geminorum,48 Geminorum
+5118,Gemini,33 Gem,,33,33,,OV,49606,32753,06h 49m 49.85s,+16° 12′ 10.5″,5.85,−1.38,926,B7III,"α2 CVn variable, ΔV = 0.1m, P = 2.27 d",102.454,16.203,Geminorum,33 Geminorum
+5119,Gemini,HD 52609,,HD 52609,,,,52609,33937,07h 02m 33.29s,+16° 40′ 28.1″,5.86,−2.99,1918,M2III,suspected variable,105.638,16.674,Geminorum,HD 52609 Geminorum
+5120,Gemini,HD 51000,,HD 51000,,,,51000,33421,06h 57m 00.54s,+33° 40′ 51.7″,5.91,0.55,385,G5III,,104.250,33.681,Geminorum,HD 51000 Geminorum
+5121,Gemini,HD 42049,,HD 42049,,,,42049,29196,06h 09m 32.44s,+22° 11′ 25.0″,5.93,−5.45,6151,K4III,"slow irregular variable, Vmax = 5.91m, Vmin = 5.96m",92.383,22.190,Geminorum,HD 42049 Geminorum
+5122,Gemini,HD 52711,,HD 52711,,,,52711,34017,07h 03m 30.35s,+29° 20′ 20.7″,5.93,4.53,62,G4V,,105.875,29.339,Geminorum,HD 52711 Geminorum
+5123,Gemini,HD 61603,,HD 61603,,,,61603,37428,07h 40m 58.52s,+23° 01′ 06.8″,5.93,−2.42,1523,K5,,115.242,23.018,Geminorum,HD 61603 Geminorum
+5124,Gemini,HD 53686,,HD 53686,,,,53686,34358,07h 07m 22.41s,+34° 00′ 33.7″,5.94,−0.66,681,K4III,,106.842,34.009,Geminorum,HD 53686 Geminorum
+5125,Gemini,61 Gem,,61,61,,,58579,36156,07h 26m 56.33s,+20° 15′ 27.3″,5.94,0.47,405,F2Vn,suspected δ Sct variable,111.733,20.258,Geminorum,61 Geminorum
+5126,Gemini,NP Gem,,NP,,,NP,52554,33929,07h 02m 25.52s,+17° 45′ 19.6″,5.96,−2.13,1353,M1.5,"slow irregular variable, Vmax = 5.89m, Vmin = 6.04m",105.604,17.755,Geminorum,NP Geminorum
+5127,Gemini,HD 47575,,HD 47575,,,,47575,31876,06h 39m 47.73s,+12° 58′ 58.1″,5.99,1.25,289,A2V,,99.946,12.983,Geminorum,HD 47575 Geminorum
+5128,Gemini,44 Gem,,44,44,,,53257,34182,07h 05m 18.37s,+22° 38′ 14.9″,6,0.17,478,B8Vn,,106.325,22.637,Geminorum,44 Geminorum
+5129,Gemini,HD 52976,,HD 52976,,,,52976,34055,07h 03m 51.60s,+12° 35′ 39.3″,6.01,−1.93,1264,K5,"variable star, ΔV = 0.008m, P = 3.37 d",105.963,12.594,Geminorum,HD 52976 Geminorum
+5130,Gemini,HD 63889,,HD 63889,,,,63889,38394,07h 51m 56.80s,+19° 19′ 30.6″,6.03,0.5,415,K1III:,,117.983,19.325,Geminorum,HD 63889 Geminorum
+5131,Gemini,HD 40589,,HD 40589,,,,40589,28500,06h 01m 00.45s,+27° 34′ 20.5″,6.04,−4.73,4657,B9Iab,"variable star, ΔV = 0.012m, P = 9.26 d",90.250,27.572,Geminorum,HD 40589 Geminorum
+5132,Gemini,HD 44927,,HD 44927,,,,44927,30570,06h 25m 32.94s,+23° 19′ 38.0″,6.05,−0.19,578,A2Vn,,96.383,23.327,Geminorum,HD 44927 Geminorum
+5133,Gemini,HD 61859,,HD 61859,,,,61859,37580,07h 42m 43.61s,+34° 00′ 00.8″,6.05,2.36,178,F7V,,115.679,34.000,Geminorum,HD 61859 Geminorum
+5134,Gemini,HD 63589,,HD 63589,,,,63589,38319,07h 51m 02.37s,+33° 14′ 01.1″,6.06,2.04,208,A2m,,117.758,33.234,Geminorum,HD 63589 Geminorum
+5135,Gemini,HD 63352,,HD 63352,,,,63352,38147,07h 49m 01.81s,+13° 22′ 18.8″,6.07,−0.46,660,K0,,117.254,13.372,Geminorum,HD 63352 Geminorum
+5136,Gemini,8 Gem,,8,8,,,43261,29789,06h 16m 19.05s,+23° 58′ 12.2″,6.09,0.46,436,G8III,,94.079,23.970,Geminorum,8 Geminorum
+5137,Gemini,HD 47358,,HD 47358,,,,47358,31813,06h 39m 05.29s,+22° 01′ 51.4″,6.09,0.54,419,G9III,,99.771,22.031,Geminorum,HD 47358 Geminorum
+5138,Gemini,HD 61295,,HD 61295,,,,61295,37339,07h 39m 54.10s,+32° 00′ 35.4″,6.16,1.53,275,F6II,,114.975,32.010,Geminorum,HD 61295 Geminorum
+5139,Gemini,58 Gem,,58,58,,,57744,35842,07h 23m 28.15s,+22° 56′ 43.6″,6.17,1.27,312,A1V,,110.867,22.945,Geminorum,58 Geminorum
+5140,Gemini,HD 45951,,HD 45951,,,,45951,31067,06h 31m 10.03s,+16° 56′ 19.1″,6.18,,,K2III...,,97.792,16.939,Geminorum,HD 45951 Geminorum
+5141,Gemini,HD 61219,,HD 61219,,,,61219,37269,07h 39m 12.01s,+24° 13′ 21.1″,6.18,0.56,435,A2V,,114.800,24.223,Geminorum,HD 61219 Geminorum
+5142,Gemini,82 Gem,,82,82,,,63208,38106,07h 48m 33.65s,+23° 08′ 27.5″,6.18,−1.36,1052,G2III+...,suspected variable,117.138,23.141,Geminorum,82 Geminorum
+5143,Gemini,HD 56386,,HD 56386,,,,56386,35345,07h 18m 04.09s,+30° 57′ 21.3″,6.19,−0.18,612,A0Vn,,109.517,30.956,Geminorum,HD 56386 Geminorum
+5144,Gemini,39 Gem,,39,39,,,51530,33595,06h 58m 47.52s,+26° 04′ 51.1″,6.2,2.82,155,F7V,suspected variable,104.696,26.081,Geminorum,39 Geminorum
+5145,Gemini,16 Gem,,16,16,,,45394,30769,06h 27m 56.69s,+20° 29′ 46.6″,6.22,0.13,538,A2Vs,,96.983,20.496,Geminorum,16 Geminorum
+5146,Gemini,HD 59059,,HD 59059,,,,59059,36340,07h 28m 47.26s,+15° 06′ 35.5″,6.23,−0.63,769,B9IV,,112.196,15.110,Geminorum,HD 59059 Geminorum
+5147,Gemini,HD 61630,,HD 61630,,,,61630,37404,07h 40m 47.19s,+13° 46′ 16.6″,6.23,−1.28,1035,K0,,115.196,13.771,Geminorum,HD 61630 Geminorum
+5148,Gemini,9 Gem,,9,9,,PX,43384,29840,06h 16m 58.71s,+23° 44′ 27.3″,6.24,−2.79,2090,B3Ia,"α Cyg variable, Vmax = 6.23m, Vmin = 6.30m, P = 13.70 d",94.242,23.741,Geminorum,9 Geminorum
+5149,Gemini,HD 45506,,HD 45506,,,,45506,30815,06h 28m 28.11s,+16° 14′ 18.6″,6.24,2.19,210,G5,,97.117,16.238,Geminorum,HD 45506 Geminorum
+5150,Gemini,HD 62141,,HD 62141,,,,62141,37636,07h 43m 22.20s,+22° 23′ 58.0″,6.25,1.38,307,K0III,,115.842,22.399,Geminorum,HD 62141 Geminorum
+5151,Gemini,20 Gem,,20,20,,,46136,31158,06h 32m 18.52s,+17° 47′ 03.4″,6.26,1.08,354,F6V...,,98.075,17.784,Geminorum,20 Geminorum
+5152,Gemini,HD 51330,,HD 51330,,,,51330,33465,06h 57m 25.59s,+11° 54′ 27.2″,6.26,,3070,F2Ib-II,,104.354,11.908,Geminorum,HD 51330 Geminorum
+5153,Gemini,HD 47863,,HD 47863,,,,47863,32020,06h 41m 21.94s,+16° 23′ 51.6″,6.28,−0.63,786,A1V,,100.338,16.398,Geminorum,HD 47863 Geminorum
+5154,Gemini,HD 53899,,HD 53899,,,,53899,34428,07h 08m 13.28s,+33° 49′ 56.8″,6.31,−0.75,840,K1,,107.054,33.832,Geminorum,HD 53899 Geminorum
+5155,Gemini,HD 44234,,HD 44234,,,,44234,30218,06h 21m 25.91s,+17° 45′ 49.0″,6.32,0.78,417,G9:III:,,95.354,17.764,Geminorum,HD 44234 Geminorum
+5156,Gemini,HD 44780,,HD 44780,,,,44780,30501,06h 24m 43.75s,+25° 02′ 55.4″,6.35,−0.68,832,K2III,,96.179,25.049,Geminorum,HD 44780 Geminorum
+5157,Gemini,HD 49059,,HD 49059,,,,49059,32539,06h 47m 23.46s,+18° 11′ 36.8″,6.35,0.74,431,A2V,,101.846,18.193,Geminorum,HD 49059 Geminorum
+5158,Gemini,141 Tau,,141,-141,,,40724,28561,06h 01m 41.63s,+22° 24′ 03.8″,6.36,0.09,584,B8V,,90.421,22.401,Geminorum,141 Geminorum
+5159,Gemini,HD 58898,,HD 58898,,,,58898,36325,07h 28m 39.89s,+27° 33′ 10.4″,6.36,1.39,321,K2III,,112.163,27.553,Geminorum,HD 58898 Geminorum
+5160,Gemini,HD 61035,,HD 61035,,,,61035,37165,07h 38m 14.36s,+24° 21′ 37.4″,6.37,3.01,153,F0,,114.558,24.360,Geminorum,HD 61035 Geminorum
+5161,Gemini,19 Gem,,19,19,,,46031,31105,06h 31m 37.44s,+15° 54′ 12.7″,6.38,1.33,334,A8V,,97.904,15.903,Geminorum,19 Geminorum
+5162,Gemini,HD 56176,,HD 56176,,,,56176,35253,07h 17m 03.36s,+26° 41′ 23.3″,6.38,1.59,296,G7IV,,109.263,26.690,Geminorum,HD 56176 Geminorum
+5163,Gemini,40 Gem,,40,40,,,51688,33650,06h 59m 27.94s,+25° 54′ 51.1″,6.4,−1.43,1199,B8III,,104.863,25.914,Geminorum,40 Geminorum
+5164,Gemini,OT Gem,,OT,,,OT,58050,35933,07h 24m 27.65s,+15° 31′ 01.9″,6.41,−3.53,3170,B2Ve,"γ Cas variable, Vmax = 6m, Vmin = 6.44m",111.113,15.517,Geminorum,OT Geminorum
+5165,Gemini,HD 47415,,HD 47415,,,,47415,31850,06h 39m 31.47s,+24° 35′ 59.8″,6.43,3.7,115,F8IV,,99.879,24.600,Geminorum,HD 47415 Geminorum
+5166,Gemini,HD 54563,,HD 54563,,,,54563,34608,07h 10m 06.79s,+21° 14′ 53.3″,6.43,3.11,150,G9V,,107.525,21.248,Geminorum,HD 54563 Geminorum
+5167,Gemini,HD 47020,,HD 47020,,,,47020,31650,06h 37m 27.29s,+24° 35′ 27.0″,6.44,0.33,543,A3V,,99.363,24.591,Geminorum,HD 47020 Geminorum
+5168,Gemini,25 Gem,,25,25,,,47731,32019,06h 41m 20.90s,+28° 11′ 47.9″,6.45,−1.73,1411,G5Ib,,100.333,28.196,Geminorum,25 Geminorum
+5169,Gemini,HD 57049,,HD 57049,,,,57049,35548,07h 20m 06.84s,+15° 08′ 34.7″,6.45,−1.18,1094,A2Vn,,110.025,15.143,Geminorum,HD 57049 Geminorum
+5170,Gemini,50 Gem,,50,50,,,55130,34860,07h 12m 49.08s,+27° 13′ 30.2″,6.46,3.24,144,F8V,"spectroscopic binary; suspected variable, Vmax = 6.43m, Vmin = 6.46m",108.204,27.225,Geminorum,50 Geminorum
+5171,Gemini,32 Gem,,32,32,,,48843,32404,06h 45m 54.20s,+12° 41′ 36.8″,6.47,−1.25,1140,A9III,,101.475,12.693,Geminorum,32 Geminorum
+5172,Gemini,HD 53744,,HD 53744,,,,53744,34367,07h 07m 24.88s,+28° 10′ 36.1″,6.47,0.34,549,B9V,,106.850,28.177,Geminorum,HD 53744 Geminorum
+5173,Gemini,HD 54986,,HD 54986,,,,54986,34763,07h 11m 46.84s,+16° 58′ 35.1″,6.5,−1.14,1098,K5,,107.942,16.976,Geminorum,HD 54986 Geminorum
+5174,Gemini,6 Gem,,6,6,,BU,42543,29450,06h 12m 19.10s,+22° 54′ 30.7″,6.51,−4.09,4289,M1Ia-ab,"semiregular variable, Vmax = 5.74m, Vmin = 7.4m, P = 325 d",93.079,22.908,Geminorum,6 Geminorum
+5175,Gemini,79 Gem,,79,79,,,62510,37811,07h 45m 09.34s,+20° 18′ 57.8″,6.53,0.78,460,A1V,,116.288,20.316,Geminorum,79 Geminorum
+5176,Gemini,15 Gem A,,15,15,,,45352,30757,06h 27m 46.58s,+20° 47′ 22.6″,6.54,0.31,575,K0,,96.942,20.789,Geminorum,15 Geminorum
+5177,Gemini,W Gem,,W,,,W,46595,31404,06h 34m 57.45s,+15° 19′ 49.7″,6.54,,,F5-G1,"classical Cepheid, Vmax = 6.54m, Vmin = 7.38m, P = 7.91 d",98.738,15.330,Geminorum,W Geminorum
+5178,Gemini,TV Gem,,TV,,,TV,42475,29416,06h 11m 51.41s,+21° 52′ 05.6″,6.56,,3100,M1Iab,"semiregular variable, Vmax = 6.27m, Vmin = 7.5m, P = 229 d",92.963,21.868,Geminorum,TV Geminorum
+5179,Gemini,10 Gem,,10,10,,,43740,30003,06h 18m 54.43s,+23° 36′ 11.9″,6.58,−0.34,789,G5,,94.725,23.603,Geminorum,10 Geminorum
+5180,Gemini,HD 45314,,PZ,,,PZ,45314,30722,06h 27m 15.78s,+14° 53′ 21.22″,6.64,,,O9:pe,Be star,96.813,14.884,Geminorum,PZ Geminorum
+5181,Gemini,2 Gem,,2,2,,,41543,28969,06h 06m 48.66s,+23° 38′ 19.0″,6.67,−0.45,867,K0,,91.700,23.639,Geminorum,2 Geminorum
+5182,Gemini,23 Gem,,23,23,,,46781,31525,06h 36m 02.12s,+16° 47′ 49.5″,6.73,2.25,257,F5,,99.008,16.797,Geminorum,23 Geminorum
+5183,Gemini,OU Gem,,OU,,,OU,45088,30630,06h 26m 10.25s,+18° 45′ 24.9″,6.76,,48.02,K3Vk,"BY Dra variable, ΔV = 0.05m",96.542,18.757,Geminorum,OU Geminorum
+5184,Gemini,HD 60848,,BN,,,BN,60848,37074,07h 37m 05.73s,+16° 54′ 15.3″,6.85,,1960,O8V:pev,"γ Cas variable, Vmax = 6.75m, Vmin = 6.85m",114.271,16.904,Geminorum,BN Geminorum
+5185,Gemini,HD 50554,,HD 50554,,,,50554,33212,06h 54m 42.83s,+24° 14′ 44.0″,6.86,4.4,101,F8V,has a planet (b),103.675,24.246,Geminorum,HD 50554 Geminorum
+5186,Gemini,4 Gem,,4,4,,,42216,29288,06h 10m 29.94s,+22° 59′ 52.4″,6.88,−0.21,853,B9,,92.621,22.998,Geminorum,4 Geminorum
+5187,Gemini,11 Gem,,11,11,,LU,43818,30046,06h 19m 19.30s,+23° 28′ 09.9″,6.91,−2.28,2248,B0II,β Cep variable,94.829,23.469,Geminorum,11 Geminorum
+5188,Gemini,12 Gem,,12,12,,,43836,30049,06h 19m 22.52s,+23° 16′ 28.2″,6.95,,2530,A0II,,94.842,23.274,Geminorum,12 Geminorum
+5189,Gemini,HD 63433,,HD 63433,,,,63433,38228,07h 49m 55.0s,+27° 21′ 48.00″,7,,73.12,,has two planets(b & c),117.479,27.352,Geminorum,HD 63433 Geminorum
+5190,Gemini,49 Gem,,49,49,,,55156,34861,07h 12m 49.38s,+25° 44′ 55.3″,7.05,−0.01,842,A0,,108.204,25.749,Geminorum,49 Geminorum
+5191,Gemini,HD 52961,,PS,,,PS,52961,34038,07h 03m 39.63s,+10° 46′ 13.1″,7.37,,,A0,"RV Tau variable, Vmax = 7.24m, Vmin = 7.58m, P = 72 d",105.913,10.770,Geminorum,PS Geminorum
+5192,Gemini,WY Gem,,WY,,,WY,42474,29425,06h 11m 56.25s,+23° 12′ 25.4″,7.38,,,M2Iabep+B,"slow irregular variable and eclipsing binary, Vmax = 7.10m, Vmin = 7.56m, P = 23550 d",92.983,23.207,Geminorum,WY Geminorum
+5193,Gemini,R Gem,,R,,,R,53791,34356,07h 07m 21.40s,+22° 42′ 13.0″,7.68,1.65,525,S3.5-6.5/6e,"technetium star; Mira variable, Vmax = 6.0m, Vmin = 14.0m, P = 369.91 d",106.838,22.704,Geminorum,R Geminorum
+5194,Gemini,ν Gem B,ν,Nu,18,,,257937,,06h 28m 53.70s,+20° 14′ 20.0″,8,,540,,,97.221,20.239,Geminorum,Nu Geminorum
+5195,Gemini,HD 67087,,HD 67087,,,,67087,39767,08h 07m 40.00s,+31° 33′ 05.00″,8.05,,290,F8V,has two planets (b & c),121.917,31.551,Geminorum,HD 67087 Geminorum
+5196,Gemini,HD 59643,,NQ,,,NQ,59643,36623,07h 31m 54.52s,+24° 30′ 12.6″,8.01,,2860,"C6,2eV","Z And and semiregular variable, Vmax = 7.4m, Vmin = 8.18m, P = 58.2 d",112.975,24.503,Geminorum,NQ Geminorum
+5197,Gemini,V345 Gem,,V345,,,V345,60987,37197,07h 38m 30.23s,+33° 42′ 41.5″,8.2,,528,F0,W UMa variable,114.625,33.711,Geminorum,V345 Geminorum
+5198,Gemini,15 Gem B,,15,15,,,257498,30756,06h 27m 45.94s,+20° 46′ 59.6″,8.59,7.31,59,G0,,96.938,20.783,Geminorum,15 Geminorum
+5199,Gemini,SS Gem,,SS,,,SS,41870,,06h 08m 35.11s,+22° 37′ 01.9″,8.67,,,G2/5I,"RV Tau variable, Vmax = 8.48m, Vmin = 9.70m, P = 89.44 d",92.146,22.617,Geminorum,SS Geminorum
+5200,Gemini,CR Gem,,CR,,,CR,,31349,06h 34m 23.92s,+16° 04′ 30.3″,8.67,,1140,Cv+...,semiregular variable,98.596,16.075,Geminorum,CR Geminorum
+5201,Gemini,RY Gem,,RY,,,RY,58713,36209,07h 27m 24.17s,+15° 39′ 34.7″,8.68,,1330,"A2V+ K-03IV-V","Algol variable, Vmax = 8.69m, Vmin = 11.04m, P = 9.30 d",111.850,15.659,Geminorum,RY Geminorum
+5202,Gemini,RX Gem,,RX,,,RX,49521,32791,06h 50m 11.54s,+33° 14′ 20.7″,9.24,,1520,A2,"Algol variable, Vmax = 9.2m, Vmin = 10.81m, P = 12.21 d",102.546,33.239,Geminorum,RX Geminorum
+5203,Gemini,TU Gem,,TU,,,TU,42272,,06h 10m 53.10s,+26° 00′ 53.4″,9.4,,,"C6,4","semiregular variable, Vmax = 6.88m, Vmin = 8.0m, P = 217 d",92.721,26.015,Geminorum,TU Geminorum
+5204,Gemini,Castor C,α,Alpha,66,,YY,60179C,,07h 34m 37.58s,+31° 52′ 11.1″,9.64,8.79,52,dM1e+dM1e,"Algol variable and flare star; Vmax = 8.91m, Vmin = 9.6m, P = 0.81 d",113.654,31.870,Geminorum,Alpha Geminorum
+5205,Gemini,RW Gem,,RW,,,RW,250371,28537,06h 01m 28.06s,+23° 08′ 27.5″,9.79,,438,B6V,"Algol variable, Vmax = 9.53m, Vmin = 11.76m, P = 2.87 d",90.367,23.141,Geminorum,RW Geminorum
+5206,Gemini,AD Gem,,AD,,,AD,262433,32180,06h 43m 07.51s,+20° 56′ 20.8″,9.8,,,F5,"classical Cepheid, Vmax = 9.45m, Vmin = 10.23m, P = 3.79 d",100.779,20.939,Geminorum,AD Geminorum
+5207,Gemini,AL Gem,,AL,,,AL,266913,,06h 57m 38.55s,+20° 53′ 32.5″,9.89,,,F6V,"Algol variable, Vmax = 9.8m, Vmin = 10.39m, P = 1.39 d",104.408,20.892,Geminorum,AL Geminorum
+5208,Gemini,BD+20°1790,,V429,,,V429,,,07h 23m 43.59s,+20° 24′ 58.7″,10,,85,K5Ve,"BY Dra variable, Vmax = 9.86m, Vmin = 10.08m, P = 2.80 d",110.929,20.416,Geminorum,V429 Geminorum
+5209,Gemini,Gliese 251,,HD 265866,,,,265866,33226,06h 54m 48.96s,+33° 16′ 05.4″,10.11,,18.211,M4.0V,"Mira variable, Vmax = 8.3m, Vmin = 11.2m, P = 314.5 d",103.700,33.268,Geminorum,HD 265866 Geminorum
+5210,Gemini,AF Gem,,AF,,,AF,264750,,06h 50m 39.64s,+21° 21′ 55.9″,10.58,,,A0,"Algol variable, Vmax = 10.54m, Vmin = 11.83m, P = 1.24 d",102.663,21.365,Geminorum,AF Geminorum
+5211,Gemini,DX Gem,,DX,,,DX,,31306,06h 33m 54.61s,+14° 28′ 17.0″,10.73,,,,"classical Cepheid, Vmax = 10.53m, Vmin = 10.92m, P = 3.14 d",98.475,14.471,Geminorum,DX Geminorum
+5212,Gemini,HD 262389,,HD 262389,,,,262389,,07h 23m 43.59s,+20° 24′ 58.7″,10.91,,1013,F,"HAT-P-56, has a transiting planet (b)",110.929,20.416,Geminorum,HD 262389 Geminorum
+5213,Gemini,HD 51585,,OY,,,OY,51585,,06h 58m 30.41s,+16° 19′ 26.2″,11.2,,,Bpe,"Be star, Vmax = 11.07m, Vmin = 11.37m",104.625,16.324,Geminorum,OY Geminorum
+5214,Gemini,ZZ Gem,,ZZ,,,ZZ,44653,,06h 24m 01.24s,+25° 01′ 52.9″,11.2,,,Ce,"Mira variable, Vmax = 8.3m, Vmin = 11.2m, P = 314.5 d",96.004,25.031,Geminorum,ZZ Geminorum
+5215,Gemini,HAT-P-20,, ,,,,,,07h 27m 40.00s,+24° 20′ 11.00″,11.34,,228,K7,has a transiting planet (b),111.917,24.334,Geminorum,  Geminorum
+5216,Gemini,HAT-P-39,, ,,,,,,07h 35m 02.0s,+17° 49′ 48.00″,11.42,,2094,,has a transiting planet (b),113.758,17.819,Geminorum,  Geminorum
+5217,Gemini,BM Gem,,BM,,,BM,57160,35617,07h 20m 59.01s,+24° 59′ 58.1″,11.5,,2590,N,semiregular variable,110.246,24.999,Geminorum,BM Geminorum
+5218,Gemini,HAT-P-24,, ,,,,,,07h 15m 18.00s,+14° 15′ 44.00″,11.82,,998,F8,has a transiting planet (b),108.825,14.251,Geminorum,  Geminorum
+5219,Gemini,HAT-P-33,, ,,,,,,07h 32m 44.00s,+33° 50′ 06.00″,11.89,,1367,F,has a transiting planet (b),113.183,33.835,Geminorum,  Geminorum
+5220,Gemini,RR Gem,,RR,,,RR,,35667,07h 21m 33.53s,+30° 52′ 59.5″,11.92,,,A8,"RR Lyr variable, Vmax = 10.62m, Vmin = 11.99m, P = 0.40 d",110.388,30.883,Geminorum,RR Geminorum
+5221,Gemini,HAT-P-54,, ,,,,,,06h 39m 35.5s,+25° 28′ 57.00″,13.51,,443,K,has a transiting planet (b),99.896,25.469,Geminorum,  Geminorum
+5222,Gemini,BG Gem,,BG,,,BG,,,06h 03m 30.81s,+27° 51′ 50.7″,,,,,β Lyr variable,90.875,27.864,Geminorum,BG Geminorum
+5223,Gemini,PQ Gem,,PQ,,,PQ,,,07h 51m 17.32s,+14° 44′ 23.9″,13.7,,,CV,"intermediate polar, Vmax = 13.7m, Vmin = 14.5m, P = 0.22 d",117.821,14.740,Geminorum,PQ Geminorum
+5224,Gemini,U Gem,,U,,,U,64511,,07h 55m 05.24s,+22° 00′ 05.1″,14.9,,413,sd:Be+...,"prototype dwarf nova (SS Cyg) and eclipsing binary, Vmax = 8.2m, Vmin = 14.9m, P = 0.18 d",118.771,22.001,Geminorum,U Geminorum
+5225,Gemini,DN Gem,,DN,,,DN,50480,,06h 54m 54.35s,+32° 08′ 28.0″,15,,,,nova,103.725,32.141,Geminorum,DN Geminorum
+5226,Gemini,DM Gem,,DM,,,DM,48328,,06h 44m 12.05s,+29° 56′ 41.9″,17.4,,,,"nova, Vmax = 4.8m, Vmin = 17.4m, P = 0.12 d",101.050,29.945,Geminorum,DM Geminorum
+5227,Gemini,2MASSW J0746425+200032,, ,,,,,,07h 46m 42.56s,+20° 00′ 32.2″,17.7,,37.8,L0.5,binary brown dwarf,116.675,20.009,Geminorum,  Geminorum
+5228,Gemini,IR Gem,,IR,,,IR,,,06h 47m 34.68s,+28° 06′ 22.3″,18.7,,,,"SU UMa variable, Vmax = 11.2m, Vmin = 18.7m, P = 0.068 d",101.892,28.106,Geminorum,IR Geminorum
+5229,Gemini,WD J0651+2844,, ,,,,,,06h 51m 33.34s,+28° 44′ 23.4″,,,,,binary white dwarf,102.888,28.740,Geminorum,  Geminorum
+5230,Gemini,AW Gem,,AW,,,AW,,,07h 22m 41.0s,+28° 30′ 17.00″,19.4,,,,"SU UMa variable, Vmax = 12.9m, Vmin = 19.4m, P = 0.076 d",110.671,28.502,Geminorum,AW Geminorum
+5231,Gemini,PSR B0656+14,, ,,,,,,06h 59m 48.13s,+14° 14′ 21.5″,24.9,,,,pulsar,104.950,14.239,Geminorum,  Geminorum
+5232,Gemini,PSR J0751+1807,, ,,,,,,07h 51m 09.16s,+18° 07′ 38.6″,,,,,binary pulsar/white dwarf,117.788,18.127,Geminorum,  Geminorum
+5233,Gemini,WISEP J060738.65+242953.4,, ,,,,,,06h 07m 39.08s,+24° 29′ 57.5″,,,25.4,L9,brown dwarf,91.913,24.499,Geminorum,  Geminorum
+5234,Gemini,Geminga,, ,,,,,,06h 33m 54.15s,+17° 46′ 12.9″,,,,,pulsar,98.475,17.770,Geminorum,  Geminorum
+5235,Gemini,CXOU J061705.3+222127,, ,,,,,,06h 17m 05.3s,+22° 21′ 27.00″,,,,,pulsar,94.271,22.352,Geminorum,  Geminorum
+5236,Gemini,PSR B0611+22,, ,,,,,,06h 14m 17.25s,+22° 30′ 37.4″,,,,,pulsar,93.571,22.510,Geminorum,  Geminorum

@@ -1,0 +1,85 @@
+USID,Constellation,Name,B,B->F->VAR->G,F,G.,Var,HD,HIP,RA,Dec,"vis. mag.","abs. mag.",Dist. (ly),Sp. class,Notes https://en.wikipedia.org/wiki/Lists_of_stars_by_constellation,RA angle,Dec Angle,Latin Constellation,Full Designation
+7313,Musca,α Mus,α,Alpha,,,,109668,61585,12h 37m 11.08s,-69° 08′ 07.9″,2.69,−2.17,306,B2IV-V,"β Cep variable, Vmax = 2.68m, Vmin = 2.73m, P = 0.0903 d; Member of the Lower Centaurus Crux subgroup of the Scorpius–Centaurus Association.[1]",189.296,-68.865,Muscae,Alpha Muscae
+7314,Musca,β Mus,β,Beta,,,,110879,62322,12h 46m 16.87s,-68° 06′ 29.1″,3.04,−1.86,311,B2V + B3V,"Binary star, Member of the Lower Centaurus Crux subgroup of the Scorpius–Centaurus Association.[1]",191.567,-67.892,Muscae,Beta Muscae
+7315,Musca,δ Mus,δ,Delta,,,,112985,63613,13h 02m 15.78s,-71° 32′ 55.7″,3.61,1.39,90.8,K2III,Binary star,195.563,-70.451,Muscae,Delta Muscae
+7316,Musca,λ Mus,λ,Lambda,,,,102249,57363,11h 45m 36.57s,-66° 43′ 43.8″,3.68,0.66,128,A7III,,176.400,-65.271,Muscae,Lambda Muscae
+7317,Musca,γ Mus,γ,Gamma,,,,109026,61199,12h 32m 28.11s,-72° 07′ 58.7″,3.84,−1.14,324,B5V,"53 Persei variable, Vmax = 3.84m, Vmin = 3.86m, P = 2.72926 d",188.117,-71.867,Muscae,Gamma Muscae
+7318,Musca,ε Mus,ε,Epsilon,,,,106849,59929,12h 17m 34.64s,-67° 57′ 38.4″,4.06,−0.77,302,M5III,"semiregular variable, Vmax = 3.99m, Vmin = 4.31m, P = 40 d",184.392,-66.039,Muscae,Epsilon Muscae
+7319,Musca,μ Mus,μ,Mu,,,,102584,57581,11h 48m 14.49s,-66° 48′ 53.5″,4.75,−0.86,432,K4III,"slow irregular variable, Vmax = 4.71m, Vmin = 4.76m",177.058,-65.185,Muscae,Mu Muscae
+7320,Musca,η Mus,η,Eta,,,,114911,64661,13h 15m 15.00s,-67° 53′ 40.4″,4.79,−0.68,405,B8V,"Algol variable, Vmax = 4.76m, Vmin = 4.81m, P = 2.3963 d; probable member of the Lower Centaurus Crux subgroup of the Scorpius–Centaurus Association.[1]",198.813,-66.106,Muscae,Eta Muscae
+7321,Musca,HD 115211,,HD 115211,,,,115211,64820,13h 17m 13.03s,-66° 47′ 00.3″,4.86,−2.94,1185,K2Ib/II,suspected variable,199.304,-65.217,Muscae,HD 115211 Muscae
+7322,Musca,HD 103079,,HD 103079,,,,103079,57851,11h 51m 51.27s,-65° 12′ 21.2″,4.89,−0.19,338,B4V,Binary star,177.963,-64.794,Muscae,HD 103079 Muscae
+7323,Musca,HD 102839,,HD 102839,,,,102839,57696,11h 49m 56.63s,-70° 13′ 32.8″,4.98,−3.27,1455,G5Ib,,177.483,-69.774,Muscae,HD 102839 Muscae
+7324,Musca,GT Mus,,GT,,,GT,101379,56862,11h 39m 29.63s,-65° 23′ 51.9″,5.01,−1.17,561,G2III + A,"Algol and RS CVn variable, Vmax = 4.96m, Vmin = 5.23m, P = 2.75459 d",174.871,-64.603,Muscae,GT Muscae
+7325,Musca,ι1 Mus,ι1,Iota 1,,,,116244,65468,13h 25m 07.36s,-74° 53′ 15.0″,5.04,0.85,225,K0III,,201.279,-73.113,Muscae,Iota 1 Muscae
+7326,Musca,HD 99104,,HD 99104,,,,99104,55597,11h 23m 21.43s,-64° 57′ 17.0″,5.09,−0.73,475,B5V,Double system with HD 99103.,170.838,-63.045,Muscae,HD 99104 Muscae
+7327,Musca,ζ2 Mus,ζ2,Zeta 2,,,,107566,60320,12h 22m 07.39s,-67° 31′ 19.5″,5.15,0.09,336,Am,"Double system, Member of the Lower Centaurus Crux subgroup of the Scorpius–Centaurus Association.[1]",185.529,-66.478,Muscae,Zeta 2 Muscae
+7328,Musca,λ Cha,(λ),Gamma,,,,105340,59151,12h 07m 50.09s,-75° 22′ 01.4″,5.17,−0.47,438,K2II/III,,181.958,-74.633,Muscae,Gamma Muscae
+7329,Musca,HD 104878,,HD 104878,,,,104878,58884,12h 04m 38.95s,-68° 19′ 44.0″,5.34,0.25,339,A0V,Member of the Lower Centaurus Crux subgroup of the Scorpius–Centaurus Association.[1],181.158,-67.671,Muscae,HD 104878 Muscae
+7330,Musca,θ Mus,θ,Theta,,,,113904,64094,13h 08m 07.16s,-65° 18′ 21.7″,5.44,−12.17,7000,WC6 + O9.5I,"Eclipsing triple system, one component is a Wolf–Rayet star, Vmax = 5.5m, Vmin = 5.52m, P = 18.341 d",197.029,-64.694,Muscae,Theta Muscae
+7331,Musca,HD 99264,,HD 99264,,,,99264,55657,11h 24m 11.18s,-72° 15′ 23.8″,5.55,−1.61,883,B2IV-V,,171.046,-71.744,Muscae,HD 99264 Muscae
+7332,Musca,HD 111315,,HD 111315,,,,111315,62608,12h 49m 44.95s,-71° 59′ 10.5″,5.55,−0.49,526,G8Ib/II,,192.433,-70.014,Muscae,HD 111315 Muscae
+7333,Musca,HD 116458,,HD 116458,,,,116458,65522,13h 25m 50.40s,-70° 37′ 38.1″,5.65,−0.12,464,Ap,"variable star, ΔV = 0.010m, P = 149.25373 d",201.458,-69.373,Muscae,HD 116458 Muscae
+7334,Musca,ζ1 Mus,ζ1,Zeta 1,,,,107567,60329,12h 22m 12.03s,-68° 18′ 25.9″,5.73,0.31,396,K0III,Double system,185.550,-67.693,Muscae,Zeta 1 Muscae
+7335,Musca,HD 108970,,HD 108970,,,,108970,61181,12h 32m 09.90s,-73° 00′ 03.8″,5.88,0.78,341,K1III,,188.038,-72.999,Muscae,HD 108970 Muscae
+7336,Musca,HD 100382,,HD 100382,,,,100382,56287,11h 32m 20.00s,-66° 57′ 42.6″,5.89,1.09,298,K1IIICN...,,173.083,-65.038,Muscae,HD 100382 Muscae
+7337,Musca,HD 104600,,HD 104600,,,,104600,58720,12h 02m 37.76s,-69° 11′ 32.2″,5.89,1.01,308,B9V,"variable star, ΔV = 0.004m, P = 0.3 d; member of the Lower Centaurus Crux subgroup of the Scorpius–Centaurus Association.[1]",180.654,-68.808,Muscae,HD 104600 Muscae
+7338,Musca,HD 114570,,HD 114570,,,,114570,64466,13h 12m 48.77s,-66° 13′ 36.4″,5.91,1.2,285,A0V(n),,198.200,-65.773,Muscae,HD 114570 Muscae
+7339,Musca,HD 114371,,HD 114371,,,,114371,64390,13h 11m 51.38s,-69° 56′ 31.3″,5.92,2.7,144,F3IV/V,Double system,197.963,-68.058,Muscae,HD 114371 Muscae
+7340,Musca,HD 112219,,HD 112219,,,,112219,63165,12h 56m 31.72s,-72° 11′ 06.7″,5.93,−0.72,698,G8III,,194.129,-71.815,Muscae,HD 112219 Muscae
+7341,Musca,LS Mus,,LS,,,LS,113120,63688,13h 03m 05.36s,-71° 28′ 32.6″,5.93,−2.49,1575,B1.5IIIne,Be star,195.771,-70.524,Muscae,LS Muscae
+7342,Musca,HD 101162,,HD 101162,,,,101162,56727,11h 37m 48.51s,-67° 37′ 13.3″,5.94,0.8,348,K0III,,174.450,-66.380,Muscae,HD 101162 Muscae
+7343,Musca,HD 105151,,HD 105151,,,,105151,59050,12h 06m 23.08s,-65° 42′ 33.9″,5.95,−0.25,566,G8/K0III,Binary star,181.596,-64.291,Muscae,HD 105151 Muscae
+7344,Musca,HD 115439,,HD 115439,,,,115439,64994,13h 19m 18.99s,-72° 02′ 07.7″,6.04,0.37,445,K3III,,199.825,-71.965,Muscae,HD 115439 Muscae
+7345,Musca,S Mus,,S,,,S,106111,59551,12h 12m 47.03s,-70° 09′ 06.4″,6.05,−2.44,1630,F6Ib,"Cepheid variable, Vmax = 5.89m, Vmin = 6.49m, P = 9.66007 d",183.196,-69.848,Muscae,S Muscae
+7346,Musca,HD 106797,,HD 106797,,,,106797,59898,12h 17m 06.36s,-65° 41′ 34.6″,6.06,1,335,A0V,Member of the Lower Centaurus Crux subgroup of the Scorpius–Centaurus Association.[1],184.275,-64.307,Muscae,HD 106797 Muscae
+7347,Musca,HD 115149,,HD 115149,,,,115149,64790,13h 16m 45.05s,-65° 08′ 17.3″,6.06,3.11,127,F5V,,199.188,-64.862,Muscae,HD 115149 Muscae
+7348,Musca,HD 115967,,HD 115967,,,,115967,65289,13h 22m 52.62s,-72° 08′ 48.0″,6.06,−0.74,746,B6V,"Binary star,;suspected variable, Vmax = 6.05m, Vmin = 6.16m",200.717,-71.853,Muscae,HD 115967 Muscae
+7349,Musca,HD 99872,,HD 99872,,,,99872,55979,11h 28m 18.46s,-72° 28′ 26.3″,6.09,−0.74,758,B3V,suspected variable,172.075,-71.526,Muscae,HD 99872 Muscae
+7350,Musca,HD 117025,,HD 117025,,,,117025,65783,13h 29m 07.98s,-64° 40′ 32.8″,6.09,1.36,288,A2m,,202.279,-63.324,Muscae,HD 117025 Muscae
+7351,Musca,BO Mus,,BO,,,BO,109372,61404,12h 34m 54.46s,-67° 45′ 24.8″,6.11,−1.33,1003,M6II/III,"semiregular variable, Vmax = 5.3m, Vmin = 6.56m, P = 132.4 d",188.725,-66.243,Muscae,BO Muscae
+7352,Musca,HD 118344,,HD 118344,,,,118344,66574,13h 38m 45.83s,-70° 26′ 41.1″,6.11,0.47,438,K3III,,204.688,-69.555,Muscae,HD 118344 Muscae
+7353,Musca,HD 110716,,HD 110716,,,,110716,62212,12h 45m 02.07s,-68° 49′ 50.7″,6.16,−2.71,1940,F6Ia,,191.258,-67.169,Muscae,HD 110716 Muscae
+7354,Musca,HD 116890,,EZ,,,EZ,116890,65755,13h 28m 46.82s,-69° 37′ 37.6″,6.17,−0.48,698,B8V,"α² CVn variable, ΔV = 0.09m, P = 4.3127 d",202.192,-68.373,Muscae,EZ Muscae
+7355,Musca,HD 107301,,HD 107301,,,,107301,60183,12h 20m 28.28s,-65° 50′ 33.5″,6.2,1.22,323,B9V,Member of the Lower Centaurus Crux subgroup of the Scorpius–Centaurus Association.[1],185.117,-64.158,Muscae,HD 107301 Muscae
+7356,Musca,HD 106676,,HD 106676,,,,106676,59851,12h 16m 23.87s,-72° 36′ 52.1″,6.21,1.16,333,A0V,,184.096,-71.386,Muscae,HD 106676 Muscae
+7357,Musca,KY Mus,,KY,,,KY,109867,61703,12h 38m 52.37s,-67° 11′ 35.0″,6.22,,,B1Ia,α Cyg variable,189.717,-66.807,Muscae,KY Muscae
+7358,Musca,HD 105138,,HD 105138,,,,105138,59046,12h 06m 19.93s,-68° 39′ 05.0″,6.23,−2.58,1884,G3Ib,,181.579,-67.349,Muscae,HD 105138 Muscae
+7359,Musca,HD 98672,,HD 98672,,,,98672,55308,11h 19m 36.58s,-75° 08′ 32.8″,6.26,0.2,532,B9.5/A0V,,169.900,-74.858,Muscae,HD 98672 Muscae
+7360,Musca,FH Mus,,FH,,,FH,110020,61796,12h 39m 55.90s,-66° 30′ 40.0″,6.26,1.09,353,B8V,"rotating ellipsoidal variable, ΔV = 0.03m, P = 0.58 d; probable (80%) member of the Lower Centaurus Crux subgroup of the Scorpius–Centaurus Association.[1]",189.979,-65.489,Muscae,FH Muscae
+7361,Musca,HD 108054,,HD 108054,,,,108054,60601,12h 25m 17.62s,-65° 46′ 10.6″,6.29,2.89,156,G8/K0IV,,186.321,-64.231,Muscae,HD 108054 Muscae
+7362,Musca,HD 105071,,HD 105071,,,,105071,59003,12h 05m 53.63s,-65° 32′ 48.8″,6.3,,,B8Ia-Iab,"variable star, ΔV = 0.013m, P = 1.45408 d",181.471,-64.453,Muscae,HD 105071 Muscae
+7363,Musca,R Mus,,R,,,R,110311,61981,12h 42m 05.03s,-69° 24′ 27.2″,6.31,−2.55,1929,F7Ib,"Cepheid variable, Vmax = 5.93m, Vmin = 6.73m, P = 7.510211 d",190.521,-68.593,Muscae,R Muscae
+7364,Musca,HD 113919,,HD 113919,,,,113919,64117,13h 08m 27.84s,-67° 47′ 48.3″,6.34,−1.09,1000,M1III,,197.113,-66.203,Muscae,HD 113919 Muscae
+7365,Musca,HD 107773,,HD 107773,,,,107773,60417,12h 23m 15.04s,-67° 37′ 55.8″,6.36,2.83,166,K0IV-V,,185.813,-66.368,Muscae,HD 107773 Muscae
+7366,Musca,HD 117651,,HD 117651,,,,117651,66152,13h 33m 35.92s,-65° 37′ 57.4″,6.36,1.21,349,A0V,,203.396,-64.368,Muscae,HD 117651 Muscae
+7367,Musca,HD 114912,,HD 114912,,,,114912,64682,13h 15m 25.77s,-69° 40′ 45.1″,6.37,1.51,306,K2/K3III,,198.854,-68.321,Muscae,HD 114912 Muscae
+7368,Musca,HD 103482,,HD 103482,,,,103482,58085,11h 54m 44.62s,-66° 22′ 33.7″,6.38,3.2,141,F2IV,,178.683,-65.624,Muscae,HD 103482 Muscae
+7369,Musca,HD 98695,,HD 98695,,,,98695,55350,11h 20m 04.16s,-71° 59′ 39.6″,6.41,−0.42,758,B4V,,170.017,-70.006,Muscae,HD 98695 Muscae
+7370,Musca,HD 104570,,HD 104570,,,,104570,58706,12h 02m 28.59s,-71° 29′ 20.4″,6.41,0.86,421,K1III,,180.617,-70.511,Muscae,HD 104570 Muscae
+7371,Musca,HD 104752,,HD 104752,,,,104752,58810,12h 03m 44.54s,-74° 12′ 50.7″,6.44,−0.81,921,G6III,,180.933,-73.786,Muscae,HD 104752 Muscae
+7372,Musca,HD 98671,,HD 98671,,,,98671,55332,11h 19m 50.84s,-72° 57′ 29.8″,6.46,0.59,486,A0V,,169.958,-71.042,Muscae,HD 98671 Muscae
+7373,Musca,HD 109857,,HD 109857,,,,109857,61738,12h 39m 14.64s,-75° 22′ 14.1″,6.46,−0.40,769,B8Vn,,189.808,-74.629,Muscae,HD 109857 Muscae
+7374,Musca,HD 101805,,HD 101805,,,,101805,57092,11h 42m 14.82s,-75° 13′ 38.3″,6.48,3.8,112,G1V,,175.558,-74.773,Muscae,HD 101805 Muscae
+7375,Musca,HD 105822,,HD 105822,,,,105822,59389,12h 11m 01.22s,-68° 15′ 39.4″,6.48,−0.82,939,K0/K1III,,182.754,-67.739,Muscae,HD 105822 Muscae
+7376,Musca,ι2 Mus,ι2,Iota 2,,,,116579,65628,13h 27m 18.58s,-74° 41′ 30.2″,6.62,0.71,495,B9V,,201.825,-73.308,Muscae,Iota 2 Muscae
+7377,Musca,HD 100546,,HD 100546,,,,100546,56379,11h 33m 25.44s,-70° 11′ 41.2″,6.7,,337,B9Vne,"has an unconfirmed planet (b), Member of the Lower Centaurus Crux subgroup of the Scorpius–Centaurus Association.[1]",173.354,-69.805,Muscae,HD 100546 Muscae
+7378,Musca,HD 112410,,HD 112410,,,,112410,63242,12h 57m 32.00s,-65° 38′ 47.00″,6.86,,440,G8III,has a planet (b),194.383,-64.365,Muscae,HD 112410 Muscae
+7379,Musca,GQ Mus,,GQ,,,GQ,,,11h 52m 02.35s,-67° 12′ 20.2″,7.2,,,,nova and AM Her variable,178.008,-66.794,Muscae,GQ Muscae
+7380,Musca,HD 105056,,GS,,,GS,105056,58998,12h 05m 49.88s,-69° 34′ 23.0″,7.34,,16000,O9.5Ia,"α Cyg variable, Vmax = 7.34m, Vmin = 7.55m, P = 3.85253 d",181.454,-68.427,Muscae,GS Muscae
+7381,Musca,HD 111232,,HD 111232,,,,111232,62534,12h 48m 51.75s,-68° 25′ 30.5″,7.61,5.31,94,G8V,has a planet (b),192.213,-67.575,Muscae,HD 111232 Muscae
+7382,Musca,TU Mus,,TU,,,TU,100213,56196,11h 31m 10.92s,-65° 44′ 32.1″,8.41,,15000,O7.5V + O9.5V,"β Lyr variable, Vmax = 8.17m, Vmin = 8.75m, P = 1.3872833 d",172.792,-64.258,Muscae,TU Muscae
+7383,Musca,RT Mus,,RT,,,RT,310831,57260,11h 44m 32.88s,-67° 18′ 18.9″,8.57,,3500,F8,"Cepheid variable, Vmax = 8.57m, Vmin = 9.32m, P = 3.086131 d",176.133,-66.695,Muscae,RT Muscae
+7384,Musca,T Mus,,T,,,T,115673,65116,13h 21m 13.85s,-74° 26′ 31.0″,8.6,,2040,C+,"seimregular variable, Vmax = 7.6m, Vmin = 8.6m, P = 111.8 d",200.304,-73.558,Muscae,T Muscae
+7385,Musca,KZ Mus,,KZ,,,KZ,109885,61751,12h 39m 19.16s,-71° 37′ 18.5″,9.09,,11000,B2III,β Cep variable,189.829,-70.378,Muscae,KZ Muscae
+7386,Musca,HD 108341,,HD 108341,,,,108341,60788,12h 27m 31.00s,-71° 25′ 23.00″,9.36,,161,K2V,has a planet (b),186.879,-70.583,Muscae,HD 108341 Muscae
+7387,Musca,UU Mus,,UU,,,UU,103137,57884,11h 52m 17.72s,-65° 24′ 15.1″,9.54,,1490,F8:p,"Cepheid variable, Vmax = 9.13m, Vmin = 10.28m, P = 11.63641 d",178.071,-64.596,Muscae,UU Muscae
+7388,Musca,SY Mus,,SY,,,SY,100336,,11h 32m 10.01s,-65° 25′ 11.6″,10.2,,2770,Mpe,"Z Andromedae and semiregular variable, Vmax = 10.2m, Vmin = 12.7m, P = 624.5 d",173.042,-64.580,Muscae,SY Muscae
+7389,Musca,MP Mus,,MP,,,MP,,,13h 22m 07.55s,-69° 38′ 12.2″,10.39,,,K1Ve,"T Tauri star, ΔV = 0.127m, P = 3.714 d",200.529,-68.363,Muscae,MP Muscae
+7390,Musca,Y Mus,,Y,,,Y,,63911,13h 05m 48.20s,-65° 30′ 46.6″,10.5,,698,Fp,R CrB variable,196.450,-64.487,Muscae,Y Muscae
+7391,Musca,TV Mus,,TV,,,TV,310730,,11h 39m 50.76s,-64° 48′ 59.3″,10.75,,755,F2,W UMa variable,174.958,-63.184,Muscae,TV Muscae
+7392,Musca,LP 145-141,,HIP 57367,,,,,57367,11h 45m 42.92s,-64° 70′ 29.5″,11.51,,15.106,DQ6,4th-closest white dwarf,176.425,-62.825,Muscae,HIP 57367 Muscae
+7393,Musca,GRS 1124-683,,GU,,,GU,,,11h 26m 26.60s,-68° 40′ 32.3″,13.3,,,K3V-K7V,X-ray nova,171.608,-67.324,Muscae,GU Muscae
+7394,Musca,2S 1254-690,,GR,,,GR,,,12h 57m 30.15s,-69° 17′ 19.0″,19.1,,,,"Low-mass X-ray binary, Vmax = 18m, Vmin = 19.1m, P = 0.1636 d",194.375,-68.711,Muscae,GR Muscae
+7395,Musca,PSR J1141-6545,, ,,,,,,11h 41m 07.02s,-65° 45′ 19.1″,25.08,,,,pulsar/white dwarf binary,175.279,-64.245,Muscae,  Muscae
+7396,Musca,KN Mus,,KN,,,KN,117622,,13h 33m 32.86s,-65° 58′ 27.1″,,,1780,WC2/WO1,central star of planetary nebula NGC 5189,203.383,-64.026,Muscae,KN Muscae

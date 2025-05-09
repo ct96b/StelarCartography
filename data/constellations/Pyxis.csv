@@ -1,0 +1,55 @@
+USID,Constellation,Name,B,B->F->VAR->G,F,G.,Var,HD,HIP,RA,Dec,"vis. mag.","abs. mag.",Dist. (ly),Sp. class,Notes https://en.wikipedia.org/wiki/Lists_of_stars_by_constellation,RA angle,Dec Angle,Latin Constellation,Full Designation
+9175,Pyxis,α Pyx,α,Alpha,,,,74575,42828,08h 43m 35.55s,-33° 11′ 11.1″,3.68,−3.39,845,B1.5III,"β Cep variable, Vmax = 3.67m, Vmin = 3.70m",130.896,-32.814,Pyxidis,Alpha Pyxidis
+9176,Pyxis,β Pyx,β,Beta,,,,74006,42515,08h 40m 06.14s,-35° 18′ 29.9″,3.97,−1.41,388,G5II/III,,130.025,-34.692,Pyxidis,Beta Pyxidis
+9177,Pyxis,γ Pyx,γ,Gamma,,,,75691,43409,08h 50m 32.01s,-27° 42′ 36.2″,4.02,−0.01,209,K3III,,132.633,-26.290,Pyxidis,Gamma Pyxidis
+9178,Pyxis,κ Pyx,κ,Kappa,,,,78541,44824,09h 08m 02.86s,-25° 51′ 30.7″,4.62,−1.25,487,K4/K5III,"variable star, ΔV = 0.006m, P = 8.50919 d",137.008,-24.142,Pyxidis,Kappa Pyxidis
+9179,Pyxis,θ Pyx,θ,Theta,,,,80874,45902,09h 21m 29.60s,-25° 57′ 55.5″,4.71,−1.31,522,M0III,semiregular variable,140.371,-24.035,Pyxidis,Theta Pyxidis
+9180,Pyxis,λ Pyx,λ,Lambda,,,,81169,46026,09h 23m 12.34s,-28° 50′ 02.1″,4.71,0.98,182,G8III,,140.800,-27.166,Pyxidis,Lambda Pyxidis
+9181,Pyxis,ζ Pyx,ζ,Zeta,,,,73898,42483,08h 39m 42.49s,-29° 33′ 39.1″,4.86,0.56,236,G5III,,129.925,-28.439,Pyxidis,Zeta Pyxidis
+9182,Pyxis,δ Pyx,δ,Delta,,,,76483,43825,08h 55m 31.52s,-27° 40′ 53.9″,4.87,0.66,226,A3IV,,133.879,-26.319,Pyxidis,Delta Pyxidis
+9183,Pyxis,HD 73752,,HD 73752,,,,73752,42430,08h 39m 08.07s,-22° 39′ 46.5″,5.05,3.55,65,G3/G5V,,129.783,-21.337,Pyxidis,HD 73752 Pyxidis
+9184,Pyxis,HD 75605,,HD 75605,,,,75605,43352,08h 49m 51.50s,-32° 46′ 49.5″,5.19,0.96,229,G8III,,132.463,-31.220,Pyxidis,HD 75605 Pyxidis
+9185,Pyxis,η Pyx,η,Eta,,,,73495,42334,08h 37m 52.17s,-26° 15′ 17.9″,5.24,0.89,242,A0V,suspected variable,129.467,-25.745,Pyxidis,Eta Pyxidis
+9186,Pyxis,HD 72310,,HD 72310,,,,72310,41817,08h 31m 30.94s,-19° 34′ 38.8″,5.42,0.08,381,B9.5IV/V,,127.875,-18.423,Pyxidis,HD 72310 Pyxidis
+9187,Pyxis,ε Pyx,ε,Epsilon,,,,78922,45001,09h 09m 56.41s,-30° 21′ 55.0″,5.59,1.52,212,A4IV,"variable star, ΔV = 0.006m, P = 6.15574 d",137.483,-29.635,Pyxidis,Epsilon Pyxidis
+9188,Pyxis,HD 72227,,HD 72227,,,,72227,41723,08h 30m 28.62s,-32° 09′ 33.4″,5.61,−2.21,1194,K3III,,127.617,-31.841,Pyxidis,HD 72227 Pyxidis
+9189,Pyxis,HD 74824,,HD 74824,,,,74824,42923,08h 44m 51.93s,-37° 08′ 50.1″,5.74,−2.47,1430,B2III,"variable star, ΔV = 0.013m, P = 2.72703 d",131.213,-36.853,Pyxidis,HD 74824 Pyxidis
+9190,Pyxis,XY Pyx,,XY,,,XY,71801,41515,08h 27m 59.43s,-35° 06′ 49.6″,5.75,−1.68,1000,B2V,β Lyr variable,126.996,-34.886,Pyxidis,XY Pyxidis
+9191,Pyxis,HD 75629,,HD 75629,,,,75629,43370,08h 50m 02.24s,-29° 27′ 46.8″,5.86,−1.44,939,G8III,,132.508,-28.537,Pyxidis,HD 75629 Pyxidis
+9192,Pyxis,HD 73072,,HD 73072,,,,73072,42147,08h 35m 28.72s,-26° 50′ 36.7″,5.95,−1.10,838,A1V+...,,128.867,-25.157,Pyxidis,HD 73072 Pyxidis
+9193,Pyxis,HD 74879,,HD 74879,,,,74879,43002,08h 45m 49.30s,-25° 23′ 17.2″,6.07,0.87,357,A3IV/V,,131.454,-24.612,Pyxidis,HD 74879 Pyxidis
+9194,Pyxis,HD 74706,,HD 74706,,,,74706,42928,08h 44m 55.16s,-21° 10′ 04.2″,6.1,1.63,255,A5V,,131.229,-20.832,Pyxidis,HD 74706 Pyxidis
+9195,Pyxis,HD 73900,,HD 73900,,,,73900,42455,08h 39m 22.21s,-36° 36′ 24.5″,6.12,3.1,131,F3/F5V,,129.842,-35.393,Pyxidis,HD 73900 Pyxidis
+9196,Pyxis,HD 81753,,HD 81753,,,,81753,46329,09h 26m 44.91s,-28° 47′ 15.7″,6.12,−2.32,1590,B5V,"variable star, ΔV = 0.010m, P = 1.23490 d",141.683,-27.213,Pyxidis,HD 81753 Pyxidis
+9197,Pyxis,HD 78676,,HD 78676,,,,78676,44887,09h 08m 43.56s,-26° 46′ 03.5″,6.15,0.86,373,A4IV,,137.179,-25.233,Pyxidis,HD 78676 Pyxidis
+9198,Pyxis,HD 75649,,HD 75649,,,,75649,43394,08h 50m 21.65s,-28° 37′ 03.4″,6.17,0.91,368,B9V,,132.588,-27.383,Pyxidis,HD 75649 Pyxidis
+9199,Pyxis,HD 72626,,HD 72626,,,,72626,41949,08h 33m 04.85s,-24° 36′ 24.8″,6.19,1.72,255,F2IV/V,,128.267,-23.393,Pyxidis,HD 72626 Pyxidis
+9200,Pyxis,HD 77361,,HD 77361,,,,77361,44290,09h 01m 11.40s,-26° 39′ 48.9″,6.2,0.81,389,K1IIICN...,,135.296,-25.337,Pyxidis,HD 77361 Pyxidis
+9201,Pyxis,HD 77087,,HD 77087,,,,77087,44130,08h 59m 15.85s,-28° 48′ 21.9″,6.24,0.44,472,G8III,,134.813,-27.194,Pyxidis,HD 77087 Pyxidis
+9202,Pyxis,HD 73603,,HD 73603,,,,73603,42394,08h 38m 40.29s,-19° 44′ 12.9″,6.32,−0.90,906,M1III,suspected variable,129.667,-18.263,Pyxidis,HD 73603 Pyxidis
+9203,Pyxis,HD 71622,,HD 71622,,,,71622,41449,08h 27m 16.43s,-31° 40′ 21.8″,6.33,−0.28,685,G8III,,126.817,-30.328,Pyxidis,HD 71622 Pyxidis
+9204,Pyxis,AI Pyx,,AI,,,AI,75112,43114,08h 46m 49.25s,-34° 37′ 22.7″,6.33,−0.86,896,B3V,irregular variable,131.704,-33.377,Pyxidis,AI Pyxidis
+9205,Pyxis,VX Pyx,,VX,,,VX,72688,41939,08h 32m 58.51s,-34° 38′ 02.6″,6.36,0.78,426,G8III,"RS CVn variable, Vmax = 6.32m, Vmin = 6.42m",128.242,-33.366,Pyxidis,VX Pyxidis
+9206,Pyxis,HD 72673,,HD 72673,,,,72673,41926,08h 32m 52.26s,-31° 30′ 09.7″,6.38,5.95,40,K0V,,128.217,-30.498,Pyxidis,HD 72673 Pyxidis
+9207,Pyxis,HD 79456,,HD 79456,,,,79456,45249,09h 13m 21.53s,-29° 39′ 51.9″,6.38,−0.98,964,K5III,,138.338,-28.336,Pyxidis,HD 79456 Pyxidis
+9208,Pyxis,HD 76512,,HD 76512,,,,76512,43853,08h 55m 55.93s,-23° 49′ 06.3″,6.39,2.16,229,A4V,,133.979,-22.182,Pyxidis,HD 76512 Pyxidis
+9209,Pyxis,HD 72913,,HD 72913,,,,72913,42071,08h 34m 29.73s,-27° 05′ 53.5″,6.4,−1.11,1035,K3III,"variable star, ΔV = 0.006m, P = 7.67872 d",128.621,-26.902,Pyxidis,HD 72913 Pyxidis
+9210,Pyxis,HD 80590,,HD 80590,,,,80590,45754,09h 19m 47.94s,-34° 06′ 11.9″,6.4,−0.20,681,B8V,,139.946,-33.897,Pyxidis,HD 80590 Pyxidis
+9211,Pyxis,HD 72954,,HD 72954,,,,72954,42075,08h 34m 31.95s,-32° 35′ 54.2″,6.41,2.42,205,G5V,,128.629,-31.402,Pyxidis,HD 72954 Pyxidis
+9212,Pyxis,HD 76072,,HD 76072,,,,76072,43590,08h 52m 38.70s,-36° 32′ 43.2″,6.41,−1.15,1062,G8III+...,"suspected variable, ΔV = 0.15m",133.158,-35.455,Pyxidis,HD 76072 Pyxidis
+9213,Pyxis,HD 74475,,HD 74475,,,,74475,42775,08h 42m 57.01s,-35° 56′ 36.1″,6.42,0.77,439,A0V,,130.738,-34.057,Pyxidis,HD 74475 Pyxidis
+9214,Pyxis,AK Pyx,,AK,,,AK,75306,43215,08h 48m 14.63s,-28° 38′ 19.6″,6.42,−0.45,771,M5III,semiregular variable,132.058,-27.361,Pyxidis,AK Pyxidis
+9215,Pyxis,HD 75495,,HD 75495,,,,75495,43338,08h 49m 44.94s,-21° 02′ 53.9″,6.48,1.96,261,A6IV,,132.433,-20.952,Pyxidis,HD 75495 Pyxidis
+9216,Pyxis,HD 76001,,HD 76001,,,,76001,43573,08h 52m 26.14s,-32° 30′ 33.5″,6.49,−0.48,807,K2/K3III,,133.108,-31.491,Pyxidis,HD 76001 Pyxidis
+9217,Pyxis,HD 71815,,HD 71815,,,,71815,41572,08h 28m 36.06s,-23° 04′ 15.5″,6.5,0.49,519,A1/A2V,,127.150,-22.929,Pyxidis,HD 71815 Pyxidis
+9218,Pyxis,TY Pyx,,TY,,,TY,77137,44164,08h 59m 42.72s,-27° 48′ 58.7″,6.87,,183.9,G5IV+G5IV,"RS CVn variable, Vmax = 6.85m, Vmin = 7.5m, P = 3.1985787 d",134.925,-26.184,Pyxidis,TY Pyxidis
+9219,Pyxis,HD 73256,,CS,,,CS,73256,42214,08h 36m 23.02s,-30° 02′ 15.5″,8.08,5.27,119,G9V,"BY Dra variable, ΔV = 0.03m, P = 13.97 d; has a planet (b)",129.096,-29.963,Pyxidis,CS Pyxidis
+9220,Pyxis,HD 77338,,HD 77338,,,,77338,44291,09h 01m 00.0s,"-24° 28′ 23.0""",8.63,,133,K0V,has a planet (b),135.250,-23.527,Pyxidis,HD 77338 Pyxidis
+9221,Pyxis,HD 73267,,HD 73267,,,,73267,42202,08h 36m 17.78s,-34° 27′ 35.9″,8.9,5.2,179,G5V,has a planet (b),129.071,-33.540,Pyxidis,HD 73267 Pyxidis
+9222,Pyxis,RZ Pyx,,RZ,,,RZ,75920,43541,08h 52m 04.40s,-27° 29′ 01.5″,9.17,,1220,B7V,β Lyr variable,133.017,-26.516,Pyxidis,RZ Pyxidis
+9223,Pyxis,R Pyx,,R,,,R,,42975,08h 45m 30.70s,-28° 12′ 02.8″,10.4,,1860,C,"Mira variable, Vmax = 7.8m, Vmin = 12.0m, P = 364.7 d",131.375,-27.799,Pyxidis,R Pyxidis
+9224,Pyxis,XX Pyx,,XX,,,XX,,,08h 58m 39.04s,-24° 35′ 10.6″,11.49,,,A4V,δ Sct and rotating ellipsoidal variable,134.663,-23.414,Pyxidis,XX Pyxidis
+9225,Pyxis,Gliese 317,, ,,,,,,08h 40m 59.21s,-23° 27′ 22.6″,11.98,,49.9,M3.5,has a planet (b) and an unconfirmed planet (c),130.246,-22.544,Pyxidis,  Pyxidis
+9226,Pyxis,WASP-170,,W-170,,,,,,09h 01m 39.90s,"-20° 43′ 14.0""",12.79,,,G1,has a transiting planet (b),135.413,-19.279,Pyxidis,W-170 Pyxidis
+9227,Pyxis,T Pyx,,T,,,T,,,09h 04m 41.50s,-32° 22′ 47.5″,15.5,,,,"recurrent nova, Vmax = 6.2m, Vmin = 15.5m, P = 0.07622886 d",136.171,-31.620,Pyxidis,T Pyxidis
+9228,Pyxis,VZ Pyx,,VZ,,,VZ,,,08h 59m 19.84s,-24° 28′ 55.4″,16.8,,,,"SU UMa variable, Vmax = 11.8m, Vmin = 16.8m, P = 0.07332 d",134.829,-23.518,Pyxidis,VZ Pyxidis

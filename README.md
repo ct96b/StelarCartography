@@ -1,5 +1,8 @@
 # Stelar Cartography Project
 
+## Project Context
+**Type**: Programming, Research
+
 ## Overview
 This project aims to create a comprehensive 3D mapping system that integrates approximately 12,000 real star systems with fictional star systems from the FASA Star Trek universe. The goal is to build a standardized set of star systems for a sci-fi RPG setting that maintains scientific accuracy while supporting game mechanics.
 
@@ -9,6 +12,13 @@ This project aims to create a comprehensive 3D mapping system that integrates ap
 - Develop a consistent 3D coordinate system for navigation
 - Visualize the star mapping in an interactive 3D environment
 - Generate reference materials for RPG gameplay
+
+## Documentation
+- [Implementation Guide](docs/implementation_guide.md) - Technical implementation details
+- [CSV Fields Reference](docs/csv_fields.md) - Star catalog field descriptions
+- [Mapping Algorithm](docs/mapping_algorithm.md) - System mapping methodology
+- [Data Storage Plan](docs/data_storage_plan.md) - Database architecture
+- [Potential Catalogs](docs/potential_catalogs.md) - Additional star catalogs for future integration
 
 ## Data Organization
 
